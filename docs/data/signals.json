@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-26T15:58:19+00:00",
+  "updated_utc": "2026-05-26T16:12:02+00:00",
   "games": [
     {
       "id": "401873201",
@@ -23,7 +23,13 @@
         "r10_diff": 8.1,
         "r5_win_rate": 0.6,
         "r5_diff": 0.2,
-        "games_used": 10
+        "r3_win_rate": 0.667,
+        "r20_win_rate": 0.833,
+        "r20_diff": 10.75,
+        "games_last_5d": 2,
+        "games_last_7d": 3,
+        "games_used": 10,
+        "date_utc": "2026-05-27T00:30Z"
       },
       "away": {
         "id": "24",
@@ -39,10 +45,36 @@
         "r10_diff": 10.1,
         "r5_win_rate": 0.6,
         "r5_diff": 6.8,
-        "games_used": 10
+        "r3_win_rate": 0.333,
+        "r20_win_rate": 0.667,
+        "r20_diff": 10.87,
+        "games_last_5d": 2,
+        "games_last_7d": 3,
+        "games_used": 10,
+        "date_utc": "2026-05-27T00:30Z"
       },
-      "signals": [],
-      "top_signal": null,
+      "signals": [
+        {
+          "name": "20g Hot Home + WR Edge -> Home",
+          "win_rate": 76.5,
+          "roi_pct": 46.0,
+          "bets_yr": 137,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Home WR in last 20 games >65% AND 10g WR edge >10%. Established hot team.",
+          "realistic_edge": true
+        }
+      ],
+      "top_signal": {
+        "name": "20g Hot Home + WR Edge -> Home",
+        "win_rate": 76.5,
+        "roi_pct": 46.0,
+        "bets_yr": 137,
+        "confidence": "high",
+        "bet": "home",
+        "note": "Home WR in last 20 games >65% AND 10g WR edge >10%. Established hot team.",
+        "realistic_edge": true
+      },
       "odds_22bet": {
         "found": true,
         "event_id": 723982716,
@@ -63,8 +95,8 @@
         },
         "total": {
           "line": 217.5,
-          "over": 1.97,
-          "under": 1.95,
+          "over": 1.96,
+          "under": 1.96,
           "found": true
         },
         "ht_total": {
@@ -74,7 +106,7 @@
           "found": true
         }
       },
-      "card_color": "grey"
+      "card_color": "green"
     },
     {
       "id": "401873202",
@@ -98,7 +130,13 @@
         "r10_diff": 10.1,
         "r5_win_rate": 0.6,
         "r5_diff": 6.8,
-        "games_used": 10
+        "r3_win_rate": 0.333,
+        "r20_win_rate": 0.667,
+        "r20_diff": 10.87,
+        "games_last_5d": 1,
+        "games_last_7d": 2,
+        "games_used": 10,
+        "date_utc": "2026-05-29T00:30Z"
       },
       "away": {
         "id": "25",
@@ -114,10 +152,36 @@
         "r10_diff": 8.1,
         "r5_win_rate": 0.6,
         "r5_diff": 0.2,
-        "games_used": 10
+        "r3_win_rate": 0.667,
+        "r20_win_rate": 0.833,
+        "r20_diff": 10.75,
+        "games_last_5d": 1,
+        "games_last_7d": 2,
+        "games_used": 10,
+        "date_utc": "2026-05-29T00:30Z"
       },
-      "signals": [],
-      "top_signal": null,
+      "signals": [
+        {
+          "name": "Home Consistency Edge -> Home",
+          "win_rate": 72.7,
+          "roi_pct": 38.8,
+          "bets_yr": 179,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
+          "realistic_edge": true
+        }
+      ],
+      "top_signal": {
+        "name": "Home Consistency Edge -> Home",
+        "win_rate": 72.7,
+        "roi_pct": 38.8,
+        "bets_yr": 179,
+        "confidence": "high",
+        "bet": "home",
+        "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
+        "realistic_edge": true
+      },
       "odds_22bet": {
         "found": true,
         "event_id": 723982716,
@@ -138,8 +202,8 @@
         },
         "total": {
           "line": 217.5,
-          "over": 1.97,
-          "under": 1.95,
+          "over": 1.96,
+          "under": 1.96,
           "found": true
         },
         "ht_total": {
@@ -149,13 +213,13 @@
           "found": true
         }
       },
-      "card_color": "grey"
+      "card_color": "green"
     }
   ],
   "meta": {
     "total_games": 2,
-    "total_signals": 0,
-    "bet22_events": 18,
+    "total_signals": 2,
+    "bet22_events": 16,
     "season": "2025-26 Playoffs"
   }
 }

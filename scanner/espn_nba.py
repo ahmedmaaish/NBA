@@ -21,6 +21,8 @@ _HEADERS = {"User-Agent": _UA, "Accept": "application/json"}
 
 ROLLING_WINDOW = 10   # games for win-rate / diff stats
 SHORT_WINDOW   = 5    # games for short-term momentum
+TINY_WINDOW    = 3    # games for hot/cold-streak streak detection
+LONG_WINDOW    = 20   # games for medium-term form (need higher /schedule?limit=25 fetch)
 
 
 # ---------------------------------------------------------------------------
@@ -206,14 +208,20 @@ def compute_team_features(games: list[dict], as_of_date: str) -> dict:
         games:       list of {'date', 'won', 'pts_for', 'pts_against', 'diff'}
                      sorted oldest to newest
         as_of_date:  ISO date string 'YYYY-MM-DD' (game being analysed)
+
+    Returns multiple rolling windows so strategies can look at hot streaks (3g),
+    short-term momentum (5g), the standard rolling window (10g), and
+    medium-term form (20g).
     """
     # Only use games strictly before as_of_date (no lookahead)
     past = [g for g in games if g["date"] < as_of_date]
 
-    last_n  = past[-ROLLING_WINDOW:]
-    last_5  = past[-SHORT_WINDOW:]
+    last_3   = past[-TINY_WINDOW:]
+    last_5   = past[-SHORT_WINDOW:]
+    last_10  = past[-ROLLING_WINDOW:]
+    last_20  = past[-LONG_WINDOW:]
 
-    def _wr(g): return sum(1 for x in g if x["won"]) / max(1, len(g))
+    def _wr(g):   return sum(1 for x in g if x["won"]) / max(1, len(g))
     def _diff(g): return sum(x["diff"] for x in g) / max(1, len(g))
 
     last_game_date = past[-1]["date"] if past else None
@@ -225,12 +233,36 @@ def compute_team_features(games: list[dict], as_of_date: str) -> dict:
     except Exception:
         days_rest = 7
 
+    # Schedule fatigue: how many games in the last 5/7 days?
+    try:
+        as_of = datetime.strptime(as_of_date, "%Y-%m-%d").date()
+    except Exception:
+        as_of = None
+    games_last_5d = 0
+    games_last_7d = 0
+    if as_of:
+        for g in past:
+            try:
+                gd = datetime.strptime(g["date"], "%Y-%m-%d").date()
+            except Exception:
+                continue
+            delta = (as_of - gd).days
+            if 0 < delta <= 5:
+                games_last_5d += 1
+            if 0 < delta <= 7:
+                games_last_7d += 1
+
     return {
-        "rest":          days_rest,
-        "last_game":     last_game_date,
-        "r10_win_rate":  round(_wr(last_n),   3) if last_n  else None,
-        "r10_diff":      round(_diff(last_n),  2) if last_n  else None,
-        "r5_win_rate":   round(_wr(last_5),   3) if last_5  else None,
-        "r5_diff":       round(_diff(last_5),  2) if last_5  else None,
-        "games_used":    len(last_n),
+        "rest":           days_rest,
+        "last_game":      last_game_date,
+        "r10_win_rate":   round(_wr(last_10),  3) if last_10 else None,
+        "r10_diff":       round(_diff(last_10), 2) if last_10 else None,
+        "r5_win_rate":    round(_wr(last_5),   3) if last_5  else None,
+        "r5_diff":        round(_diff(last_5),  2) if last_5  else None,
+        "r3_win_rate":    round(_wr(last_3),   3) if last_3  else None,
+        "r20_win_rate":   round(_wr(last_20),  3) if last_20 else None,
+        "r20_diff":       round(_diff(last_20), 2) if last_20 else None,
+        "games_last_5d":  games_last_5d,
+        "games_last_7d":  games_last_7d,
+        "games_used":     len(last_10),
     }

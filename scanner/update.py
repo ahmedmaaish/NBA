@@ -53,10 +53,11 @@ def build_signals() -> dict:
         team_ids.add(g["away"]["id"])
     _log(f"Fetching recent game history for {len(team_ids)} teams...")
 
-    # Parallel fetch team schedules
+    # Parallel fetch team schedules. Limit 30 to cover 20-game rolling window
+    # plus a safety margin (some events are scheduled/in-progress and get filtered).
     team_history: dict[str, list[dict]] = {}
     with ThreadPoolExecutor(max_workers=10) as pool:
-        future_map = {pool.submit(fetch_team_recent_games, tid, 15): tid
+        future_map = {pool.submit(fetch_team_recent_games, tid, 30): tid
                       for tid in team_ids}
         for fut in as_completed(future_map):
             tid = future_map[fut]
@@ -91,6 +92,9 @@ def build_signals() -> dict:
         away_out = dict(g["away"])
         home_out.update(h_feats)
         away_out.update(a_feats)
+        # Inject game date so season-position strategies (S16/S19/S20/S21) can fire
+        home_out["date_utc"] = g["date_utc"]
+        away_out["date_utc"] = g["date_utc"]
 
         # Strategy signals
         signals = evaluate_game(home_out, away_out, h_feats, a_feats)

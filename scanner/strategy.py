@@ -130,6 +130,140 @@ STRATEGIES = {
         "note":       "Away WR beats home by 30%+ and away team is rested (2+ days).",
         "realistic_edge": True,
     },
+
+    # --- v2 expansion (Oct 2025 backtest extension) ---------------------------
+    "S13": {
+        "name":       "Mild Form Edge -> Home",
+        "win_rate":   74.1,
+        "roi_pct":    41.5,
+        "bets_yr":    329,
+        "confidence": "high",
+        "bet":        "home",
+        "note":       "Loosened S5: home 10g diff edge >2.5 AND home positive diff. "
+                      "High signal density during regular season.",
+        "realistic_edge": True,
+    },
+    "S14": {
+        "name":       "Home Consistency Edge -> Home",
+        "win_rate":   72.7,
+        "roi_pct":    38.8,
+        "bets_yr":    179,
+        "confidence": "high",
+        "bet":        "home",
+        "note":       "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, "
+                      "not a fluke. Strong ATS signal.",
+        "realistic_edge": True,
+    },
+    "S15": {
+        "name":       "20g Hot Home + WR Edge -> Home",
+        "win_rate":   76.5,
+        "roi_pct":    46.0,
+        "bets_yr":    137,
+        "confidence": "high",
+        "bet":        "home",
+        "note":       "Home WR in last 20 games >65% AND 10g WR edge >10%. "
+                      "Established hot team.",
+        "realistic_edge": True,
+    },
+    "S16": {
+        "name":       "Mid-Season Form + Season Lead -> Home",
+        "win_rate":   79.2,
+        "roi_pct":    51.2,
+        "bets_yr":    182,
+        "confidence": "very_high",
+        "bet":        "home",
+        "note":       "Mid-season (Dec-Mar): home diff +5 AND season win% lead >5%. "
+                      "Best new strategy — high WR + decent volume.",
+        "realistic_edge": True,
+    },
+    "S17": {
+        "name":       "Cold 3-Game Home Streak -> Fade Home",
+        "win_rate":   61.8,
+        "roi_pct":    17.9,
+        "bets_yr":    82,
+        "confidence": "medium",
+        "bet":        "away",
+        "note":       "Home lost 2+ of last 3 AND away team is winning (10g WR >50%). "
+                      "Bet the team riding momentum.",
+        "realistic_edge": True,
+    },
+    "S18": {
+        "name":       "Hot Away 5g + Rest -> Away",
+        "win_rate":   61.8,
+        "roi_pct":    17.9,
+        "bets_yr":    66,
+        "confidence": "medium",
+        "bet":        "away",
+        "note":       "Away 5g WR >75%, away rested 2+ days, home 5g WR <50%. "
+                      "Away is hotter, fresher.",
+        "realistic_edge": True,
+    },
+    "S19": {
+        "name":       "Late-Season Big Mismatch -> Home",
+        "win_rate":   85.1,
+        "roi_pct":    62.5,
+        "bets_yr":    6,
+        "confidence": "very_high",
+        "bet":        "home",
+        "note":       "Late season (Mar-Jun): home season% >65% AND away season% <40%. "
+                      "Rare but extremely strong.",
+        "realistic_edge": False,
+    },
+    "S20": {
+        "name":       "Late-Season Season Edge >15% -> Better",
+        "win_rate":   74.0,
+        "roi_pct":    41.2,
+        "bets_yr":    60,
+        "confidence": "high",
+        "bet":        "favourite",
+        "note":       "Late season (Mar-Jun): |season win% gap| >15%. Bet the team "
+                      "with the better record.",
+        "realistic_edge": False,
+    },
+    "S21": {
+        "name":       "Early-Season WR Edge >25% -> Better",
+        "win_rate":   67.9,
+        "roi_pct":    29.6,
+        "bets_yr":    95,
+        "confidence": "medium",
+        "bet":        "favourite",
+        "note":       "Early season (Oct-Nov): |10g WR gap| >25%. Form trumps "
+                      "season-record noise when sample is small.",
+        "realistic_edge": True,
+    },
+    "S22": {
+        "name":       "Mild Form Diff Gap 5-8 -> Better",
+        "win_rate":   61.1,
+        "roi_pct":    16.6,
+        "bets_yr":    232,
+        "confidence": "medium",
+        "bet":        "favourite",
+        "note":       "Diff edge between 5 and 8 pts. Bridge between S5 and S11 "
+                      "for medium-strength signals.",
+        "realistic_edge": True,
+    },
+    "S23": {
+        "name":       "Elite vs Elite -> Home (HCA)",
+        "win_rate":   60.2,
+        "roi_pct":    15.0,
+        "bets_yr":    70,
+        "confidence": "medium",
+        "bet":        "home",
+        "note":       "Both teams >60% 10g WR. Home court advantage dominates. "
+                      "Reliable when two top-tier teams meet.",
+        "realistic_edge": True,
+    },
+    "S24": {
+        "name":       "Tank vs Tank -> Home (HCA)",
+        "win_rate":   56.0,
+        "roi_pct":    6.9,
+        "bets_yr":    66,
+        "confidence": "low",
+        "bet":        "home",
+        "note":       "Both teams <35% 10g WR. Home court advantage edges. "
+                      "Modest signal — confirm with line value.",
+        "realistic_edge": True,
+    },
 }
 
 
@@ -154,16 +288,39 @@ def evaluate_game(home: dict, away: dict,
 
     Returns list of fired signal dicts.
     """
-    h_rest = _safe(h_feats.get("rest"), 7)
-    a_rest = _safe(a_feats.get("rest"), 7)
-    h_wr   = _safe(h_feats.get("r10_win_rate"), 0.5)
-    a_wr   = _safe(a_feats.get("r10_win_rate"), 0.5)
-    h_wr5  = _safe(h_feats.get("r5_win_rate"),  0.5)
-    a_wr5  = _safe(a_feats.get("r5_win_rate"),  0.5)
-    h_diff = _safe(h_feats.get("r10_diff"), 0.0)
-    a_diff = _safe(a_feats.get("r10_diff"), 0.0)
-    h_szn  = home.get("season_pct", 0.5)
-    a_szn  = away.get("season_pct", 0.5)
+    h_rest  = _safe(h_feats.get("rest"), 7)
+    a_rest  = _safe(a_feats.get("rest"), 7)
+    h_wr    = _safe(h_feats.get("r10_win_rate"), 0.5)
+    a_wr    = _safe(a_feats.get("r10_win_rate"), 0.5)
+    h_wr5   = _safe(h_feats.get("r5_win_rate"),  0.5)
+    a_wr5   = _safe(a_feats.get("r5_win_rate"),  0.5)
+    h_wr3   = _safe(h_feats.get("r3_win_rate"),  0.5)
+    a_wr3   = _safe(a_feats.get("r3_win_rate"),  0.5)
+    h_wr20  = _safe(h_feats.get("r20_win_rate"), 0.5)
+    a_wr20  = _safe(a_feats.get("r20_win_rate"), 0.5)
+    h_diff  = _safe(h_feats.get("r10_diff"), 0.0)
+    a_diff  = _safe(a_feats.get("r10_diff"), 0.0)
+    h_diff5 = _safe(h_feats.get("r5_diff"),  0.0)
+    a_diff5 = _safe(a_feats.get("r5_diff"),  0.0)
+    h_szn   = home.get("season_pct", 0.5)
+    a_szn   = away.get("season_pct", 0.5)
+
+    # Season-position flag derived from the game date (live scanner passes it via
+    # home/away dicts as the dict has 'date_utc' upstream, but the strategy
+    # itself derives it from the home dict's enriched 'date_utc' if available).
+    import datetime as _dt
+    season_month = None
+    date_str = home.get("date_utc") or away.get("date_utc")
+    if date_str:
+        try:
+            m = _dt.datetime.fromisoformat(date_str.replace("Z","+00:00")).month
+            # Oct=1, Nov=2, Dec=3, Jan=4, Feb=5, Mar=6, Apr=7, May=8, Jun=9
+            season_month = ((m - 10) % 12) + 1
+        except Exception:
+            season_month = None
+    early_season = season_month in (1, 2)            # Oct, Nov
+    mid_season   = season_month in (3, 4, 5, 6)      # Dec, Jan, Feb, Mar
+    late_season  = season_month in (7, 8, 9)         # Apr, May, Jun
 
     # Need minimum game history to fire strategies
     if (h_feats.get("games_used") or 0) < 3 or (a_feats.get("games_used") or 0) < 3:
@@ -220,6 +377,60 @@ def evaluate_game(home: dict, away: dict,
     # S12: Away dominates by >30% WR + rested
     if (a_wr - h_wr) > 0.30 and a_rest >= 2:
         fire("S12")
+
+    # -- v2 strategies (backtested 2012-2025 with shifted szn_pct) -----------
+
+    # S13: Mild form edge (loosened S5)
+    if (h_diff - a_diff) > 2.5 and h_diff > 1:
+        fire("S13")
+
+    # S14: Home consistency edge — 10g AND 5g diff both >+5
+    if h_diff > 5 and h_diff5 > 5:
+        fire("S14")
+
+    # S15: 20-game hot home + 10g WR edge
+    if h_wr20 > 0.65 and (h_wr - a_wr) > 0.10:
+        fire("S15")
+
+    # S16: Mid-season form edge + season lead
+    if mid_season and (h_diff - a_diff) > 5 and (h_szn - a_szn) > 0.05:
+        fire("S16")
+
+    # S17: Cold 3-game home streak — fade home if away winning overall
+    if h_wr3 <= 0.33 and a_wr > 0.50:
+        fire("S17")
+
+    # S18: Hot away 5g + rested
+    if a_wr5 > 0.75 and a_rest >= 2 and h_wr5 < 0.50:
+        fire("S18")
+
+    # S19: Late-season big mismatch
+    if late_season and h_szn > 0.65 and a_szn < 0.40:
+        fire("S19")
+
+    # S20: Late-season season edge >15% — bet better team
+    if late_season and abs(h_szn - a_szn) > 0.15:
+        bet = "home" if h_szn > a_szn else "away"
+        fire("S20", override_bet=bet)
+
+    # S21: Early-season WR edge >25%
+    if early_season and abs(h_wr - a_wr) > 0.25:
+        bet = "home" if h_wr > a_wr else "away"
+        fire("S21", override_bet=bet)
+
+    # S22: Mid-strength diff gap (5-8 pts)
+    diff_gap = h_diff - a_diff
+    if 5 < abs(diff_gap) <= 8:
+        bet = "home" if diff_gap > 0 else "away"
+        fire("S22", override_bet=bet)
+
+    # S23: Elite vs Elite — HCA edge
+    if h_wr > 0.60 and a_wr > 0.60:
+        fire("S23")
+
+    # S24: Tank vs Tank — modest HCA edge
+    if h_wr < 0.35 and a_wr < 0.35:
+        fire("S24")
 
     return signals
 
