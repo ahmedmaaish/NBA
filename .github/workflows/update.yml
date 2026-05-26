@@ -1,0 +1,38 @@
+name: Update NBA Signals
+
+on:
+  schedule:
+    - cron: '0 * * * *'    # every hour on the hour
+  workflow_dispatch:         # manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write            # needed to commit + push signals.json
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scanner
+        run: python -m scanner.update
+
+      - name: Commit and push updated signals
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "github-actions[bot]"
+          git add docs/data/signals.json
+          git diff --cached --quiet || git commit -m "chore: update signals $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

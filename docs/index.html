@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="theme-color" content="#0f172a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>NBA Betting Assistant</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Money-management header -->
+  <header id="mm-header">
+    <div class="mm-row">
+      <div class="mm-item">
+        <span class="mm-label">Bankroll</span>
+        <span class="mm-value" id="mm-bankroll">--</span>
+      </div>
+      <div class="mm-item">
+        <span class="mm-label">Today P&amp;L</span>
+        <span class="mm-value" id="mm-today">--</span>
+      </div>
+      <div class="mm-item">
+        <span class="mm-label">Stake/bet</span>
+        <span class="mm-value" id="mm-stake">--</span>
+      </div>
+    </div>
+    <div id="mm-caps">--</div>
+  </header>
+
+  <main id="content">
+
+    <!-- SCAN tab -->
+    <section id="tab-scan" class="tab active">
+      <div class="scan-bar">
+        <button id="scan-btn" class="primary">Refresh</button>
+        <label class="auto-lbl">
+          <input type="checkbox" id="auto-toggle" checked>
+          Auto-refresh
+        </label>
+      </div>
+      <div id="scan-status">Loading data...</div>
+      <div id="game-list"></div>
+      <div id="empty-state" class="empty-state" style="display:none"></div>
+    </section>
+
+    <!-- BETS tab -->
+    <section id="tab-bets" class="tab">
+      <div class="bets-tab-bar">
+        <button class="bets-tab active" data-book="real">Real bets</button>
+        <button class="bets-tab" data-book="paper">Paper bets</button>
+      </div>
+      <div id="bet-list"></div>
+    </section>
+
+    <!-- STRATEGIES tab -->
+    <section id="tab-strat" class="tab">
+      <h2>Strategy Guide</h2>
+      <p class="hint">
+        Signals are based on a 10-year NBA backtest (2012-2025, 15,368 games).
+        Break-even at -110: 52.38% win rate.
+        <br><br>
+        <strong>Green badge</strong> = realistic edge at actual moneyline odds.
+        <strong>Blue badge</strong> = strong ATS/spread signal (team is likely a heavy favourite — use for spread betting or parlay legs).
+      </p>
+
+      <div class="strat-group">
+        <div class="strat-group-title">Moneyline — Realistic Edge</div>
+        <div class="strat-row">
+          <div>
+            <div class="strat-name">S1 — Away B2B, Bet Home</div>
+            <div class="strat-stats">60% WR &nbsp;|&nbsp; +14.5% ROI &nbsp;|&nbsp; ~274/yr</div>
+          </div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+        <div class="strat-row">
+          <div>
+            <div class="strat-name">S9 — Triple-Edge Home</div>
+            <div class="strat-stats">75.8% WR &nbsp;|&nbsp; +44.7% ROI &nbsp;|&nbsp; ~108/yr</div>
+          </div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+        <div class="strat-row">
+          <div>
+            <div class="strat-name">S10 — Elite Away vs Weak Home</div>
+            <div class="strat-stats">63.3% WR &nbsp;|&nbsp; +20.9% ROI &nbsp;|&nbsp; ~56/yr</div>
+          </div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+        <div class="strat-row">
+          <div>
+            <div class="strat-name">S12 — Away +30% WR + Rested</div>
+            <div class="strat-stats">64.1% WR &nbsp;|&nbsp; +22.4% ROI &nbsp;|&nbsp; ~81/yr</div>
+          </div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+      </div>
+
+      <div class="strat-group">
+        <div class="strat-group-title">ATS / Spread Signals (heavy favourites)</div>
+        <div class="strat-row">
+          <div>
+            <div class="strat-name">S7 — Rest Edge + Season Lead</div>
+            <div class="strat-stats">86% WR &nbsp;|&nbsp; +64.3% ROI &nbsp;|&nbsp; ~39/yr</div>
+          </div>
+          <span class="strat-badge badge-ats">ATS</span>
+        </div>
+        <div class="strat-row">
+          <div>
+            <div class="strat-name">S8 — Hot Home vs Cold Away (5-game)</div>
+            <div class="strat-stats">78.5% WR &nbsp;|&nbsp; +49.9% ROI &nbsp;|&nbsp; ~64/yr</div>
+          </div>
+          <span class="strat-badge badge-ats">ATS</span>
+        </div>
+        <div class="strat-row">
+          <div>
+            <div class="strat-name">S5 — Home Form +5pts</div>
+            <div class="strat-stats">76.9% WR &nbsp;|&nbsp; +46.8% ROI &nbsp;|&nbsp; ~221/yr</div>
+          </div>
+          <span class="strat-badge badge-ats">ATS</span>
+        </div>
+        <div class="strat-row">
+          <div>
+            <div class="strat-name">S11 — Form Gap &gt;8pts</div>
+            <div class="strat-stats">71.2% WR &nbsp;|&nbsp; +36.0% ROI &nbsp;|&nbsp; ~437/yr</div>
+          </div>
+          <span class="strat-badge badge-ats">ATS</span>
+        </div>
+        <div class="strat-row">
+          <div>
+            <div class="strat-name">S6 — Dominant Away vs Losing Home</div>
+            <div class="strat-stats">70.7% WR &nbsp;|&nbsp; +35.0% ROI &nbsp;|&nbsp; ~60/yr</div>
+          </div>
+          <span class="strat-badge badge-ats">ATS</span>
+        </div>
+        <div class="strat-row">
+          <div>
+            <div class="strat-name">S4 — Win-Rate Gap &gt;25%</div>
+            <div class="strat-stats">68.7% WR &nbsp;|&nbsp; +31.2% ROI &nbsp;|&nbsp; ~479/yr</div>
+          </div>
+          <span class="strat-badge badge-ats">ATS</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- SETTINGS tab -->
+    <section id="tab-settings" class="tab">
+      <h2>Money Management</h2>
+      <div class="field">
+        <label>Bankroll ($)</label>
+        <input type="number" id="set-bankroll" step="1" min="0">
+      </div>
+      <div class="field">
+        <label>Stake per bet (% of bankroll, e.g. 0.02 = 2%)</label>
+        <input type="number" id="set-stake_pct" step="0.005" min="0.005" max="0.25">
+      </div>
+      <div class="field">
+        <label>Minimum stake ($ floor)</label>
+        <input type="number" id="set-stake_min" step="0.5" min="0.5">
+      </div>
+      <div class="field">
+        <label>Daily profit cap (0.20 = +20% stops betting)</label>
+        <input type="number" id="set-profit_cap" step="0.05" min="0.05">
+      </div>
+      <div class="field">
+        <label>Daily loss cap (0.10 = -10% stops betting)</label>
+        <input type="number" id="set-loss_cap" step="0.05" min="0.05">
+      </div>
+      <div id="stake-preview" class="hint"></div>
+      <button class="primary" id="save-settings">Save settings</button>
+    </section>
+
+  </main>
+
+  <!-- Bottom nav -->
+  <nav id="bottom-nav">
+    <button class="nav-btn active" data-tab="scan">Games</button>
+    <button class="nav-btn" data-tab="bets">Bets</button>
+    <button class="nav-btn" data-tab="strat">Strategies</button>
+    <button class="nav-btn" data-tab="settings">Settings</button>
+  </nav>
+
+  <!-- Game detail / record bet modal -->
+  <div id="modal" class="modal" style="display:none">
+    <div class="modal-card">
+      <button id="modal-close" class="modal-close">&times;</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <div id="toast"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
