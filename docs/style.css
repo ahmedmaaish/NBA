@@ -254,6 +254,54 @@ details.modal-section summary::before { content: "▸ "; color: #64748b; }
 details.modal-section[open] summary::before { content: "▾ "; }
 details.modal-section[open] summary { margin-bottom: 6px; }
 
+/* ── Series-of-games indicator ── */
+.series-badge {
+  display: inline-block;
+  background: #7c2d12;
+  color: #fed7aa;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 12px;
+  letter-spacing: .5px;
+  margin: 4px 0 6px;
+}
+
+.series-warning {
+  background: linear-gradient(180deg, rgba(124, 45, 18, 0.20) 0%, rgba(120, 53, 15, 0.12) 100%);
+  border: 1px solid #92400e;
+  border-radius: 10px;
+  padding: 0 14px 14px;
+  margin-bottom: 14px;
+  overflow: hidden;
+}
+.series-banner {
+  margin: 0 -14px 12px;
+  padding: 8px 14px;
+  background: #b45309;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .8px;
+  text-align: center;
+}
+.series-list { list-style: none; padding: 0; }
+.series-list li {
+  font-size: 12px;
+  color: #e2e8f0;
+  padding: 4px 0 4px 16px;
+  position: relative;
+  border-bottom: 1px solid rgba(146, 64, 14, 0.3);
+}
+.series-list li::before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  color: #fbbf24;
+}
+.series-list li:last-child { border-bottom: none; }
+.series-list em { color: #93c5fd; font-style: normal; font-weight: 600; }
+
 /* ── 22bet glossary table ── */
 table.gloss { width: 100%; border-collapse: collapse; font-size: 12px; }
 table.gloss th, table.gloss td { padding: 6px 6px; text-align: left; vertical-align: top; }

@@ -61,6 +61,36 @@ const MKT_22BET = {
 };
 function marketLabel(internal) { return MKT_22BET[internal] || internal; }
 
+// ── Series detection — find other games in DATA.games involving the same
+// two teams within 14 days (typical playoff series window). Returns a list of
+// {gameId, role, date} excluding the current game.
+function findSeriesGames(g) {
+  if (!DATA || !DATA.games) return [];
+  const myDate  = new Date(g.date_utc);
+  const myTeams = new Set([g.home.id, g.away.id]);
+  const out = [];
+  for (const other of DATA.games) {
+    if (other.id === g.id) continue;
+    const t2 = new Set([other.home.id, other.away.id]);
+    if (t2.size !== 2) continue;
+    // Same two team IDs?
+    const overlap = [...myTeams].filter(x => t2.has(x)).length;
+    if (overlap !== 2) continue;
+    const d2 = new Date(other.date_utc);
+    const diffDays = Math.abs((d2 - myDate) / 86400000);
+    if (diffDays > 14) continue;
+    out.push({
+      id:      other.id,
+      date:    other.date_utc,
+      home:    other.home.name,
+      away:    other.away.name,
+      top:     other.top_signal,
+      isLater: d2 > myDate,
+    });
+  }
+  return out.sort((a, b) => new Date(a.date) - new Date(b.date));
+}
+
 function loadSettings() {
   try { return Object.assign({}, DEFAULTS, JSON.parse(localStorage.getItem(S.settings) || '{}')); }
   catch { return Object.assign({}, DEFAULTS); }
@@ -190,6 +220,15 @@ function renderScan() {
     const h     = g.home || {};
     const a     = g.away || {};
     const isLive = g.state === 'in';
+    const seriesOther = findSeriesGames(g);
+    const isSeries = seriesOther.length > 0;
+    // Index in series (1-based)
+    const seriesIndex = isSeries
+      ? [...seriesOther, {date: g.date_utc, isCurrent: true}]
+          .sort((x, y) => new Date(x.date) - new Date(y.date))
+          .findIndex(x => x.isCurrent) + 1
+      : 0;
+    const seriesTotal = isSeries ? seriesOther.length + 1 : 0;
 
     // Status chip
     const statusLabel = isLive
@@ -246,12 +285,17 @@ function renderScan() {
       ? `<div class="gc-score">${h.score ?? '--'} - ${a.score ?? '--'}</div>`
       : '';
 
+    const seriesBadge = isSeries
+      ? `<span class="series-badge">Game ${seriesIndex} of ${seriesTotal} in series</span>`
+      : '';
+
     const html = `
       <div class="game-card ${color}" data-gid="${escHtml(g.id)}">
         <div class="gc-top">
           <span class="${statusClass}">${escHtml(statusLabel)}</span>
           <span class="gc-time">${escHtml(fmtDate(g.date_utc))}</span>
         </div>
+        ${seriesBadge}
         <div class="gc-matchup">${escHtml(a.name || '?')} @ ${escHtml(h.name || '?')}</div>
         ${scoreLine}
         <div class="gc-stats">
@@ -410,9 +454,55 @@ function openModal(g) {
 
   const betDisabled = g.state === 'post' ? 'disabled' : '';
 
+  // ── Series-of-games warning (e.g. NBA Finals back-to-backs) ───────────────
+  const seriesGames = findSeriesGames(g);
+  let seriesHtml = '';
+  if (seriesGames.length > 0) {
+    // Determine current game number in the series
+    const allDates = [...seriesGames, {date: g.date_utc, isCurrent: true}].sort(
+      (a, b) => new Date(a.date) - new Date(b.date)
+    );
+    const myIndex = allDates.findIndex(x => x.isCurrent) + 1;
+    const totalSeries = allDates.length;
+
+    const sameTeamsHomeFlipped = seriesGames.some(s => {
+      // If in the other game the same team that's home here is now AWAY, sides flipped
+      return s.home !== h.name;
+    });
+
+    const otherList = seriesGames.map(s => {
+      const sDate = new Date(s.date);
+      const dStr = sDate.toLocaleDateString([], {weekday: 'short', month: 'short', day: 'numeric'});
+      const pick = s.top ? (s.top.bet === 'away' ? s.away : s.home) : null;
+      return `<li>${dStr} — <strong>${escHtml(s.away.split(' ').pop())} @ ${escHtml(s.home.split(' ').pop())}</strong>${pick ? ` &middot; signal picks <em>${escHtml(pick)}</em>` : ' &middot; no signal'}</li>`;
+    }).join('');
+
+    seriesHtml = `
+      <div class="series-warning">
+        <div class="series-banner">⚠️ THIS IS GAME ${myIndex} OF A ${totalSeries}-GAME SERIES</div>
+        <p style="font-size:13px;margin-bottom:8px">
+          ${escHtml(h.name)} and ${escHtml(a.name)} play multiple times in the next 14 days.
+          ${sameTeamsHomeFlipped ? `
+          <strong>The home team flips between games</strong>, so the recommendation may flip too.
+          That's normal — home court advantage in the NBA is statistically real (~58–60% home win rate over 30 years).` : ''}
+        </p>
+        <div style="font-size:12px;color:#94a3b8;margin-bottom:6px">Other games in this series:</div>
+        <ul class="series-list">${otherList}</ul>
+        <p style="font-size:12px;color:#cbd5e1;margin-top:8px;line-height:1.5">
+          <strong style="color:#fbbf24">How to handle this:</strong>
+          Each game is an <em>independent bet</em>. You can:<br>
+          • Bet only this one (skip the others)<br>
+          • Bet all of them (each one is a separate signal — they don't conflict)<br>
+          • <strong>Or: skip the series entirely</strong> if you're not comfortable — when two top teams play repeatedly, the books price the lines tightly
+        </p>
+      </div>`;
+  }
+
   $('modal-body').innerHTML = `
     <div class="modal-title">${escHtml(a.name||'?')} @ ${escHtml(h.name||'?')}</div>
     <div class="modal-subtitle">${escHtml(fmtDate(g.date_utc))} &middot; ${escHtml(fmtGameTime(g.date_utc, g.state))}</div>
+
+    ${seriesHtml}
 
     ${recHtml}
 
