@@ -165,36 +165,130 @@ function renderHeader() {
 }
 
 // ── Render: scan tab ──────────────────────────────────────────────────────────
+// All times shown in local 24-hour format (e.g. "17:30")
 function fmtGameTime(date_utc, state) {
   if (!date_utc) return '';
   const d = new Date(date_utc);
   if (isNaN(d)) return '';
   if (state === 'post') return 'Final';
-  return d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+  return d.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', hour12: false });
 }
 
 function fmtDate(date_utc) {
   if (!date_utc) return '';
   const d = new Date(date_utc);
   if (isNaN(d)) return '';
-  const today = new Date();
-  const diff  = Math.round((d - today) / 86400000);
+  // Compare on calendar-day basis using local zone
+  const today = new Date(); today.setHours(0,0,0,0);
+  const dDay  = new Date(d); dDay.setHours(0,0,0,0);
+  const diff  = Math.round((dDay - today) / 86400000);
   if (diff === 0) return 'Today';
   if (diff === 1) return 'Tomorrow';
+  if (diff === -1) return 'Yesterday';
   return d.toLocaleDateString([], { weekday: 'short', month: 'short', day: 'numeric' });
+}
+
+// Returns "in 2h 35m" / "starts in 1d 4h" / "LIVE" / "Final" / "in 12m"
+function fmtCountdown(date_utc, state) {
+  if (state === 'post') return 'Final';
+  if (state === 'in')   return 'LIVE NOW';
+  if (!date_utc) return '';
+  const d = new Date(date_utc);
+  if (isNaN(d)) return '';
+  let ms = d - new Date();
+  if (ms <= 0)        return 'starting soon…';
+  const days = Math.floor(ms / 86400000); ms -= days * 86400000;
+  const hrs  = Math.floor(ms / 3600000);  ms -= hrs * 3600000;
+  const mins = Math.floor(ms / 60000);
+  if (days >= 1)  return `in ${days}d ${hrs}h ${mins}m`;
+  if (hrs  >= 1)  return `in ${hrs}h ${mins}m`;
+  if (mins >= 1)  return `in ${mins}m`;
+  return 'starting soon…';
 }
 
 function sigChipColor(conf) {
   return { very_high: 'green', high: 'green', medium: 'amber', low: 'grey' }[conf] || 'grey';
 }
 
+// ── Upcoming games widget ────────────────────────────────────────────────────
+function renderNextUp() {
+  if (!DATA || !DATA.games) return;
+  const upcoming = DATA.games
+    .filter(g => g.state === 'pre' && g.date_utc)
+    .sort((a, b) => new Date(a.date_utc) - new Date(b.date_utc));
+
+  const wrap = $('next-up');
+  const list = $('next-up-list');
+  if (!wrap || !list) return;
+  if (upcoming.length === 0) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'block';
+
+  list.innerHTML = upcoming.map(g => {
+    const h    = g.home || {};
+    const a    = g.away || {};
+    const top  = g.top_signal;
+    const cd   = fmtCountdown(g.date_utc, g.state);
+    const t24  = fmtGameTime(g.date_utc, g.state);
+    const date = fmtDate(g.date_utc);
+    const pickText = top
+      ? `<span class="nu-pick ${top.realistic_edge ? 'pick-money' : 'pick-spread'}">→ ${top.bet === 'away' ? a.abbr : (top.bet === 'home' ? h.abbr : '?')} ${marketLabel(top.realistic_edge ? 'moneyline' : 'spread')}</span>`
+      : '<span class="nu-pick pick-none">No signal</span>';
+    return `
+      <div class="nu-row" data-gid="${escHtml(g.id)}">
+        <div class="nu-time">
+          <div class="nu-when">${escHtml(date)} <strong>${escHtml(t24)}</strong></div>
+          <div class="nu-cd"   data-date="${escHtml(g.date_utc)}">${escHtml(cd)}</div>
+        </div>
+        <div class="nu-match">
+          <div class="nu-teams">${escHtml(a.abbr || '?')} @ ${escHtml(h.abbr || '?')}</div>
+          ${pickText}
+        </div>
+      </div>`;
+  }).join('');
+
+  // Tap a row to open the same modal as on the card
+  list.querySelectorAll('.nu-row').forEach(row => {
+    row.addEventListener('click', () => {
+      const gid = row.dataset.gid;
+      const game = DATA.games.find(x => String(x.id) === String(gid));
+      if (game) openModal(game);
+    });
+  });
+}
+
+// Live tick — updates countdowns every 30s and the wall-clock every second
+function startLiveTicker() {
+  // Wall clock (1s)
+  const clockEl = $('next-up-clock');
+  setInterval(() => {
+    if (clockEl) {
+      clockEl.textContent = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false });
+    }
+  }, 1000);
+  // Per-row countdown (30s — finer would just churn)
+  setInterval(() => {
+    document.querySelectorAll('.nu-cd').forEach(el => {
+      const d = el.dataset.date;
+      if (d) el.textContent = fmtCountdown(d, 'pre');
+    });
+    // Also re-render the on-card time labels so countdown there refreshes
+    document.querySelectorAll('.gc-time-cd').forEach(el => {
+      const d = el.dataset.date;
+      if (d) el.textContent = fmtCountdown(d, el.dataset.state || 'pre');
+    });
+  }, 30000);
+}
+
 function renderScan() {
+  renderNextUp();
   const status = $('scan-status');
   if (!DATA) { status.textContent = 'Loading...'; return; }
 
   const meta  = DATA.meta || {};
   const games = DATA.games || [];
-  const updAt = DATA.updated_utc ? new Date(DATA.updated_utc).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : '?';
+  const updAt = DATA.updated_utc
+    ? new Date(DATA.updated_utc).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', hour12: false })
+    : '?';
 
   status.textContent =
     `${games.length} games  |  ${meta.total_signals || 0} signals  |  ` +
@@ -289,11 +383,15 @@ function renderScan() {
       ? `<span class="series-badge">Game ${seriesIndex} of ${seriesTotal} in series</span>`
       : '';
 
+    const cdStr = fmtCountdown(g.date_utc, g.state);
     const html = `
       <div class="game-card ${color}" data-gid="${escHtml(g.id)}">
         <div class="gc-top">
           <span class="${statusClass}">${escHtml(statusLabel)}</span>
-          <span class="gc-time">${escHtml(fmtDate(g.date_utc))}</span>
+          <span class="gc-time">
+            ${escHtml(fmtDate(g.date_utc))}
+            <span class="gc-time-cd" data-date="${escHtml(g.date_utc)}" data-state="${escHtml(g.state)}">${escHtml(cdStr)}</span>
+          </span>
         </div>
         ${seriesBadge}
         <div class="gc-matchup">${escHtml(a.name || '?')} @ ${escHtml(h.name || '?')}</div>
@@ -818,5 +916,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Initial load
   renderHeader();
+  startLiveTicker();
   refresh().then(scheduleAutoRefresh);
 });

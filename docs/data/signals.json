@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-26T16:44:05+00:00",
+  "updated_utc": "2026-05-26T16:49:23+00:00",
   "games": [
     {
       "id": "401873201",
@@ -83,14 +83,14 @@
         "swapped": false,
         "league": "NBA",
         "moneyline": {
-          "home": 1.605,
-          "away": 2.515,
+          "home": 1.617,
+          "away": 2.487,
           "found": true
         },
         "spread": {
           "line": -3.5,
-          "home_odd": 1.81,
-          "away_odd": 1.952,
+          "home_odd": 1.82,
+          "away_odd": 1.94,
           "found": true
         },
         "total": {
@@ -190,14 +190,14 @@
         "swapped": true,
         "league": "NBA",
         "moneyline": {
-          "home": 2.515,
-          "away": 1.605,
+          "home": 2.487,
+          "away": 1.617,
           "found": true
         },
         "spread": {
           "line": 3.5,
-          "home_odd": 1.952,
-          "away_odd": 1.81,
+          "home_odd": 1.94,
+          "away_odd": 1.82,
           "found": true
         },
         "total": {
@@ -219,7 +219,7 @@
   "meta": {
     "total_games": 2,
     "total_signals": 2,
-    "bet22_events": 31,
+    "bet22_events": 27,
     "season": "2025-26 Playoffs"
   }
 }

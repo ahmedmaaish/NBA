@@ -254,6 +254,65 @@ details.modal-section summary::before { content: "▸ "; color: #64748b; }
 details.modal-section[open] summary::before { content: "▾ "; }
 details.modal-section[open] summary { margin-bottom: 6px; }
 
+/* ── Upcoming-games widget ── */
+.next-up {
+  background: linear-gradient(180deg, #1e293b 0%, #0f172a 100%);
+  border: 1px solid #334155;
+  border-radius: 12px;
+  margin-bottom: 14px;
+  overflow: hidden;
+}
+.next-up-header {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 10px 14px;
+  background: #0f172a;
+  border-bottom: 1px solid #334155;
+}
+.next-up-title {
+  font-size: 11px; font-weight: 700; letter-spacing: 1px;
+  color: #fbbf24;
+}
+.next-up-clock {
+  font-size: 14px; font-weight: 700; color: #e2e8f0;
+  font-variant-numeric: tabular-nums;
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+}
+.nu-row {
+  display: flex; align-items: center; gap: 12px;
+  padding: 10px 14px;
+  border-bottom: 1px solid #1e293b;
+  cursor: pointer;
+}
+.nu-row:last-child { border-bottom: none; }
+.nu-row:active { background: #0f172a; }
+
+.nu-time { min-width: 120px; }
+.nu-when { font-size: 11px; color: #94a3b8; }
+.nu-when strong { font-size: 16px; color: #e2e8f0; font-variant-numeric: tabular-nums; }
+.nu-cd {
+  font-size: 11px;
+  color: #fbbf24;
+  font-weight: 600;
+  margin-top: 2px;
+  font-variant-numeric: tabular-nums;
+}
+.nu-match { flex: 1; }
+.nu-teams { font-size: 14px; font-weight: 700; margin-bottom: 2px; }
+.nu-pick  { font-size: 11px; padding: 2px 6px; border-radius: 4px; display: inline-block; }
+.pick-money  { background: #14532d; color: #86efac; }
+.pick-spread { background: #1e3a8a; color: #93c5fd; }
+.pick-none   { color: #64748b; }
+
+/* Per-card mini countdown next to date */
+.gc-time-cd {
+  display: block;
+  font-size: 10px;
+  color: #fbbf24;
+  font-weight: 600;
+  margin-top: 1px;
+  font-variant-numeric: tabular-nums;
+}
+
 /* ── Series-of-games indicator ── */
 .series-badge {
   display: inline-block;
