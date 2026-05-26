@@ -258,34 +258,81 @@ class Bet22NBAClient:
 # ---------------------------------------------------------------------------
 
 def best_match(espn_home: str, espn_away: str,
-               events: list[dict], min_score: float = 0.50) -> Optional[dict]:
-    """Find the 22bet event matching an ESPN game by fuzzy team name."""
-    best_ev, best_s = None, -1.0
+               events: list[dict], min_score: float = 0.50) -> tuple[Optional[dict], bool]:
+    """Find the 22bet event matching an ESPN game by fuzzy team name.
+
+    Returns (event, swapped). `swapped` is True when 22bet's O1 maps to the
+    ESPN AWAY team (and O2 to home). The caller MUST swap home/away odds when
+    swapped=True, otherwise the moneyline/spread for "home" will actually be
+    the AWAY team's odds — a silent, dangerous bug.
+    """
+    best_ev, best_s, best_swap = None, -1.0, False
     for ev in events:
         o1, o2 = ev.get("O1", ""), ev.get("O2", "")
-        s = max(
-            (team_similarity(espn_home, o1) + team_similarity(espn_away, o2)) / 2,
-            (team_similarity(espn_home, o2) + team_similarity(espn_away, o1)) / 2,
-        )
+        s_normal  = (team_similarity(espn_home, o1) + team_similarity(espn_away, o2)) / 2
+        s_swapped = (team_similarity(espn_home, o2) + team_similarity(espn_away, o1)) / 2
+        if s_swapped > s_normal:
+            s, swap = s_swapped, True
+        else:
+            s, swap = s_normal,  False
         if s > best_s:
-            best_s, best_ev = s, ev
-    return best_ev if best_s >= min_score else None
+            best_s, best_ev, best_swap = s, ev, swap
+    if best_s < min_score:
+        return None, False
+    return best_ev, best_swap
+
+
+def _swap_moneyline(ml: dict) -> dict:
+    return {"home": ml.get("away"), "away": ml.get("home"), "found": ml.get("found", False)}
+
+
+def _swap_spread(sp: dict) -> dict:
+    """When teams are swapped, the home spread line negates (line is from O1's
+    perspective). T_SPREAD_HOME=7 is the line for O1; after swap, O1 is the
+    away team in ESPN terms, so what was the 'home line' becomes the 'away line'.
+    """
+    if not sp.get("found"):
+        return sp
+    line = sp.get("line")
+    return {
+        "line":     -line if line is not None else None,
+        "home_odd": sp.get("away_odd"),
+        "away_odd": sp.get("home_odd"),
+        "found":    True,
+    }
 
 
 def get_game_odds(espn_home: str, espn_away: str,
                   events: list[dict]) -> dict:
-    """Return full odds dict for one game {moneyline, spread, total, ht_total}."""
-    ev = best_match(espn_home, espn_away, events)
+    """Return full odds dict for one game {moneyline, spread, total, ht_total}.
+
+    Handles the case where 22bet lists the teams in reverse order vs ESPN by
+    auto-swapping home/away in the moneyline and spread. Totals are symmetric
+    (over/under), so no swap needed.
+    """
+    ev, swapped = best_match(espn_home, espn_away, events)
     if not ev:
         return {"found": False, "moneyline": {}, "spread": {}, "total": {}, "ht_total": {}}
+
+    ml  = extract_winner(ev)
+    sp  = extract_spread(ev)
+    tot = extract_total(ev, G_TOTAL)
+    ht  = extract_total(ev, G_HT_TOTAL)
+
+    if swapped:
+        ml = _swap_moneyline(ml)
+        sp = _swap_spread(sp)
+        # Totals (over/under) are symmetric — no swap.
+
     return {
         "found":    True,
         "event_id": ev.get("I"),
         "o1":       ev.get("O1"),
         "o2":       ev.get("O2"),
+        "swapped":  swapped,         # debug: True when 22bet O1==ESPN away
         "league":   ev.get("L"),
-        "moneyline": extract_winner(ev),
-        "spread":    extract_spread(ev),
-        "total":     extract_total(ev, G_TOTAL),
-        "ht_total":  extract_total(ev, G_HT_TOTAL),
+        "moneyline": ml,
+        "spread":    sp,
+        "total":     tot,
+        "ht_total":  ht,
     }

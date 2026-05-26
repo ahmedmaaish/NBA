@@ -1,6 +1,7 @@
 """NBA betting strategy signals — derived from 10-year backtester (2012-2025).
 
-All win rates and ROI figures are out-of-sample backtest results at -110 odds.
+All win rates and ROI figures are out-of-sample backtest results at -110 odds,
+with strict no-lookahead (rolling stats shifted by 1, season W-L shifted by 1).
 Break-even win rate at -110: 52.38%.
 
 IMPORTANT: Strategies S4-S11 show high win rates because they pick heavy
@@ -11,9 +12,10 @@ favourites. At actual sportsbook odds, the moneyline on these picks may be
   - Line-value check: compare backtested WR to implied prob of 22bet moneyline
 
 Strategies with realistic edge at actual moneyline odds:
-  S1  (60% WR, 274/yr) — away B2B exhaustion: home team at -130 to -160 has +EV
+  S1  (60.0% WR, 274/yr) — away B2B exhaustion: home team at -130 to -160 has +EV
   S9  (75.8% WR, 108/yr) — triple edge: signal at -150 to -200, still +EV at 76%
-  S10 (63.3% WR, 56/yr)  — elite away team at +EV underdog price occasionally
+  S10 (63.3% WR,  56/yr) — elite away team at +EV underdog price occasionally
+  S12 (64.1% WR,  81/yr) — away team with big WR edge and rest
 """
 from __future__ import annotations
 
@@ -67,13 +69,13 @@ STRATEGIES = {
     },
     "S7": {
         "name":       "Rest Edge + Season Lead -> Bet Home",
-        "win_rate":   86.0,
-        "roi_pct":    64.3,
-        "bets_yr":    39,
-        "confidence": "very_high",
+        "win_rate":   77.4,
+        "roi_pct":    47.8,
+        "bets_yr":    37,
+        "confidence": "high",
         "bet":        "home",
         "note":       "Home has 2+ day rest advantage AND >10% season win% lead. "
-                      "Likely a heavy favourite (-300+). Use as spread/ATS or parlay leg.",
+                      "Heavy favourite (-200 to -400). Use as spread/ATS or parlay leg.",
         "realistic_edge": False,
     },
     "S8": {
@@ -201,8 +203,8 @@ def evaluate_game(home: dict, away: dict,
     if h_wr5 > 0.70 and a_wr5 < 0.35:
         fire("S8")
 
-    # S9: Triple-edge home
-    if (h_rest >= a_rest) and (h_wr - a_wr) > 0.15 and (h_diff - a_diff) > 3:
+    # S9: Triple-edge home — must STRICTLY beat away on rest (matches backtest exactly)
+    if (h_rest - a_rest) >= 1 and (h_wr - a_wr) > 0.15 and (h_diff - a_diff) > 3:
         fire("S9")
 
     # S10: Elite away rested vs weak home
