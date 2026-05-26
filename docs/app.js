@@ -46,6 +46,21 @@ function escHtml(s) {
   return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
 
+// ── 22bet market terminology — match what the user actually sees on 22bet ──
+// 22bet calls "moneyline" -> "Team Wins" (with overtime)
+//        and "spread"    -> "Handicap"
+//        and "total"     -> "Total" (same)
+// Always show users 22bet's exact labels so they can find the right market.
+const MKT_22BET = {
+  moneyline:        'Team Wins',
+  spread:           'Handicap',
+  over:             'Total — Over',
+  under:            'Total — Under',
+  total:            'Total',
+  ht_total:         'Total 1st Half',
+};
+function marketLabel(internal) { return MKT_22BET[internal] || internal; }
+
 function loadSettings() {
   try { return Object.assign({}, DEFAULTS, JSON.parse(localStorage.getItem(S.settings) || '{}')); }
   catch { return Object.assign({}, DEFAULTS); }
@@ -195,7 +210,7 @@ function renderScan() {
         ).join('')
       : '<span class="sig-chip grey">No signal</span>';
 
-    // Odds
+    // Odds (using 22bet's market names so it matches what the user sees there)
     let oddsHtml = '<span class="no-odds">22bet odds not available</span>';
     if (odds.found) {
       const ml  = odds.moneyline  || {};
@@ -203,24 +218,24 @@ function renderScan() {
       const tot = odds.total      || {};
       oddsHtml = `
         <div class="odds-box">
-          <div class="odds-lbl">Home ML</div>
+          <div class="odds-lbl">Team Wins</div>
           <div class="odds-val">${fmtOdd(ml.home)}</div>
           <div class="odds-sub">${escHtml(h.abbr || '')}</div>
         </div>
         <div class="odds-box">
-          <div class="odds-lbl">Away ML</div>
+          <div class="odds-lbl">Team Wins</div>
           <div class="odds-val">${fmtOdd(ml.away)}</div>
           <div class="odds-sub">${escHtml(a.abbr || '')}</div>
         </div>
         ${sp.found ? `
         <div class="odds-box">
-          <div class="odds-lbl">Spread</div>
+          <div class="odds-lbl">Handicap</div>
           <div class="odds-val">${sp.line > 0 ? '+' : ''}${sp.line}</div>
           <div class="odds-sub">${fmtOdd(sp.home_odd)} / ${fmtOdd(sp.away_odd)}</div>
         </div>` : ''}
         ${tot.found ? `
         <div class="odds-box">
-          <div class="odds-lbl">O/U ${tot.line}</div>
+          <div class="odds-lbl">Total ${tot.line}</div>
           <div class="odds-val">O ${fmtOdd(tot.over)}</div>
           <div class="odds-sub">U ${fmtOdd(tot.under)}</div>
         </div>` : ''}`;
@@ -272,45 +287,55 @@ function openModal(g) {
   if (top) {
     const isAway = top.bet === 'away';
     const isFav  = top.bet === 'favourite';
-    let pickSide, pickTeamName, pickTeamAbbr, pickOdd, pickType, pickReason;
+    let pickSide, pickTeamName, pickOdd, internalType, marketName, marketSubtext;
 
     if (isFav) {
-      // "favourite" = whichever team has the better recent record (per backtest)
       const hBetter = (h.r10_win_rate || 0) >= (a.r10_win_rate || 0);
       pickSide     = hBetter ? 'home' : 'away';
       pickTeamName = hBetter ? h.name : a.name;
-      pickTeamAbbr = hBetter ? h.abbr : a.abbr;
     } else {
       pickSide     = isAway ? 'away' : 'home';
       pickTeamName = isAway ? a.name : h.name;
-      pickTeamAbbr = isAway ? a.abbr : h.abbr;
     }
 
-    // Realistic-edge signals -> moneyline; otherwise spread is safer (heavy favs)
+    // Decide which 22bet market the user should click
     if (top.realistic_edge) {
-      pickType = 'Moneyline';
-      pickOdd  = pickSide === 'home' ? ml.home : ml.away;
+      // Realistic edge → bet on the team to win outright. 22bet calls this "Team Wins".
+      internalType  = 'moneyline';
+      marketName    = 'Team Wins';
+      marketSubtext = '(pick this team to win — including overtime)';
+      pickOdd       = pickSide === 'home' ? ml.home : ml.away;
     } else {
-      pickType = 'Spread (point handicap)';
-      pickOdd  = pickSide === 'home' ? sp.home_odd : sp.away_odd;
+      // Heavy favourite → safer on the point spread. 22bet calls this "Handicap".
+      internalType  = 'spread';
+      marketName    = 'Handicap';
+      const lineStr = (sp.found && sp.line != null)
+        ? (pickSide === 'home'
+            ? `${sp.line > 0 ? '+' : ''}${sp.line}`
+            : `${-sp.line > 0 ? '+' : ''}${(-sp.line)}`)
+        : '';
+      marketSubtext = lineStr ? `(pick this team to cover ${lineStr})` : '(point-spread bet)';
+      pickOdd       = pickSide === 'home' ? sp.home_odd : sp.away_odd;
     }
 
-    // Plain-English reason builder per strategy id
-    pickReason = top.note || '';
-
-    const oddStr   = pickOdd != null ? Number(pickOdd).toFixed(2) : 'check 22bet';
-    const stakeAmt = stake();
+    const oddStr      = pickOdd != null ? Number(pickOdd).toFixed(2) : 'check 22bet';
+    const stakeAmt    = stake();
     const profitIfWin = pickOdd != null ? ((Number(pickOdd) - 1) * stakeAmt).toFixed(2) : '?';
+
+    // 22bet usually shows team name without city for the inner team chips.
+    // We give the full name in instructions to make it unambiguous.
+    const homeShort = (h.name || '').split(' ').pop();
+    const awayShort = (a.name || '').split(' ').pop();
 
     recHtml = `
       <div class="rec-card">
         <div class="rec-banner ${top.realistic_edge ? 'banner-money' : 'banner-spread'}">
-          ${top.realistic_edge ? 'RECOMMENDED BET' : 'SPREAD / ATS PLAY (heavy favourite — see Spread)'}
+          ${top.realistic_edge ? 'RECOMMENDED BET' : 'SPREAD / HANDICAP PLAY (heavy favourite)'}
         </div>
         <div class="rec-big">
           <div class="rec-pick">
             <div class="rec-pick-team">${escHtml(pickTeamName || '?')}</div>
-            <div class="rec-pick-type">${pickType}</div>
+            <div class="rec-pick-type">${marketName} <span style="color:#64748b;font-size:11px">${marketSubtext}</span></div>
           </div>
           <div class="rec-pick-odd">@ ${oddStr}</div>
         </div>
@@ -319,21 +344,33 @@ function openModal(g) {
         </div>
         <div class="rec-why">
           <strong>Why:</strong> ${escHtml(top.name)} &middot; backtested ${top.win_rate}% win rate, +${top.roi_pct}% ROI over ~${top.bets_yr || '?'} bets/year.<br>
-          ${escHtml(pickReason)}
+          ${escHtml(top.note || '')}
         </div>
+
         <div class="rec-steps">
-          <strong>How to place this bet:</strong>
+          <strong>How to place this on 22bet:</strong>
           <ol>
-            <li>Open <a href="https://22bet.com" target="_blank" rel="noopener">22bet</a> on your phone or laptop</li>
-            <li>Search for <em>${escHtml((a.name || '?').split(' ').pop())} vs ${escHtml((h.name || '?').split(' ').pop())}</em> in the basketball/NBA section</li>
-            <li>Click the <em>${pickType}</em> market on <strong>${escHtml(pickTeamName)}</strong></li>
-            <li>Confirm the odd is around <strong>${oddStr}</strong> (within ±0.05 is fine)</li>
-            <li>Enter <strong>${fmtMoney(stakeAmt)}</strong> as your stake</li>
-            <li>Submit the bet, then tap <em>"I placed this bet"</em> below to log it here</li>
+            <li>In the 22bet app, go to <em>Basketball → NBA</em> and tap the match
+                <strong>${escHtml(homeShort)} vs ${escHtml(awayShort)}</strong>
+                (or <strong>${escHtml(awayShort)} vs ${escHtml(homeShort)}</strong> — same game)</li>
+            <li>Make sure you're on the <em>"Including Overtime"</em> tab (the green one at the top of the markets list)</li>
+            <li>Find the market called <strong style="color:#fbbf24">${marketName}</strong> in the list
+                ${internalType === 'moneyline'
+                  ? '(it shows just 2 options — home or away to win)'
+                  : '(it shows many handicap lines — tap the down-arrow to expand)'}</li>
+            ${internalType === 'spread' ? `
+            <li>Inside <em>Handicap</em>, find the line near <strong>${sp.line != null ? (pickSide === 'home' ? (sp.line > 0 ? '+' : '') + sp.line : (-sp.line > 0 ? '+' : '') + (-sp.line)) : '?'}</strong>
+                and tap the <strong>${escHtml(pickTeamName)}</strong> side of that row</li>` : ''}
+            ${internalType === 'moneyline' ? `
+            <li>Tap the <strong>${escHtml(pickTeamName)}</strong> box (you'll see the odd next to it)</li>` : ''}
+            <li>Confirm the odd is around <strong>${oddStr}</strong> on your bet slip (within ±0.05 is fine — if it moved a lot, recheck the signal)</li>
+            <li>Enter <strong>${fmtMoney(stakeAmt)}</strong> as your stake and tap <em>"Place bet"</em></li>
+            <li>Come back here and tap <em>"✓ I placed this bet"</em> to log it</li>
           </ol>
         </div>
+
         <button class="primary rec-action" id="rb-quickbet"
-                data-side="${pickSide}" data-type="${pickType.toLowerCase().includes('money')?'moneyline':'spread'}"
+                data-side="${pickSide}" data-type="${internalType}"
                 data-odd="${pickOdd != null ? Number(pickOdd).toFixed(2) : ''}">
           ✓ I placed this bet ($${stakeAmt})
         </button>
@@ -361,14 +398,14 @@ function openModal(g) {
       ).join('')
     : '';
 
-  // ── Odds table (for cross-reference) ──────────────────────────────────────
+  // ── Odds table (using 22bet's own market names) ──────────────────────────
   const oddsSection = odds.found ? `
     <div class="modal-section">
-      <h4>22bet odds (for reference)</h4>
-      <div class="modal-row"><span class="modal-label">${escHtml(h.abbr||'')} (Home) Moneyline</span><span class="modal-val">${fmtOdd(ml.home)}</span></div>
-      <div class="modal-row"><span class="modal-label">${escHtml(a.abbr||'')} (Away) Moneyline</span><span class="modal-val">${fmtOdd(ml.away)}</span></div>
-      ${sp.found  ? `<div class="modal-row"><span class="modal-label">Spread — ${escHtml(h.abbr||'')} ${sp.line > 0 ? '+' : ''}${sp.line}</span><span class="modal-val">${fmtOdd(sp.home_odd)} / ${fmtOdd(sp.away_odd)}</span></div>` : ''}
-      ${tot.found ? `<div class="modal-row"><span class="modal-label">Over/Under ${tot.line}</span><span class="modal-val">O ${fmtOdd(tot.over)} / U ${fmtOdd(tot.under)}</span></div>` : ''}
+      <h4>22bet odds (uses 22bet's names)</h4>
+      <div class="modal-row"><span class="modal-label">Team Wins — ${escHtml(h.name||'')} (Home)</span><span class="modal-val">${fmtOdd(ml.home)}</span></div>
+      <div class="modal-row"><span class="modal-label">Team Wins — ${escHtml(a.name||'')} (Away)</span><span class="modal-val">${fmtOdd(ml.away)}</span></div>
+      ${sp.found  ? `<div class="modal-row"><span class="modal-label">Handicap — ${escHtml(h.abbr||'')} ${sp.line > 0 ? '+' : ''}${sp.line} / ${escHtml(a.abbr||'')} ${-sp.line > 0 ? '+' : ''}${-sp.line}</span><span class="modal-val">${fmtOdd(sp.home_odd)} / ${fmtOdd(sp.away_odd)}</span></div>` : ''}
+      ${tot.found ? `<div class="modal-row"><span class="modal-label">Total — Over / Under ${tot.line}</span><span class="modal-val">O ${fmtOdd(tot.over)} / U ${fmtOdd(tot.under)}</span></div>` : ''}
     </div>` : `<div class="modal-section"><div class="no-odds">22bet odds not yet available for this game (odds usually appear 24-48h before tipoff).</div></div>`;
 
   const betDisabled = g.state === 'post' ? 'disabled' : '';
@@ -407,14 +444,14 @@ function openModal(g) {
           <option value="home">Home — ${escHtml(h.name||'?')}</option>
           <option value="away">Away — ${escHtml(a.name||'?')}</option>
         </select>
-        <label>Bet type</label>
+        <label>Market (as shown on 22bet)</label>
         <select id="rb-type">
-          <option value="moneyline">Moneyline</option>
-          <option value="spread">Spread</option>
-          <option value="over">Over ${tot.line || '--'}</option>
-          <option value="under">Under ${tot.line || '--'}</option>
+          <option value="moneyline">Team Wins (Moneyline)</option>
+          <option value="spread">Handicap (Spread)</option>
+          <option value="over">Total — Over ${tot.line || '--'}</option>
+          <option value="under">Total — Under ${tot.line || '--'}</option>
         </select>
-        <label>Odds (decimal)</label>
+        <label>Odds (decimal — what 22bet shows)</label>
         <input type="number" id="rb-odds" step="0.01" value="${fmtOdd(ml.home)}" min="1.01">
         <label>Stake ($)</label>
         <input type="number" id="rb-stake" step="0.5" value="${stake()}">
@@ -456,7 +493,7 @@ function openModal(g) {
     closeModal();
     renderHeader();
     renderBets();
-    toast(`✓ Logged: ${teamName} ${type} @ ${oddV.toFixed(2)} (${book})`);
+    toast(`✓ Logged: ${teamName} ${marketLabel(type)} @ ${oddV.toFixed(2)} (${book})`);
   }
 
   if ($('rb-quickbet')) $('rb-quickbet').addEventListener('click', () => recordQuickBet('real'));
@@ -504,7 +541,7 @@ function openModal(g) {
     closeModal();
     renderHeader();
     renderBets();
-    toast(`Recorded: ${teamName} ${type} @ ${oddsV} (${book})`);
+    toast(`Recorded: ${teamName} ${marketLabel(type)} @ ${oddsV} (${book})`);
   });
 
   $('modal').style.display = 'flex';
@@ -547,7 +584,7 @@ function renderBets() {
         <span class="bet-outcome ${cls}">${pnl}</span>
       </div>
       <div class="bet-meta">
-        ${escHtml(b.team || '?')} &middot; ${escHtml(b.type || 'ML')} &middot;
+        ${escHtml(b.team || '?')} &middot; ${escHtml(marketLabel(b.type) || 'Team Wins')} &middot;
         @ ${b.odds} &middot; Stake: ${fmtMoney(b.stake)} &middot; ${b.date || ''}
         ${b.signals ? ' &middot; ' + escHtml(b.signals) : ''}
       </div>

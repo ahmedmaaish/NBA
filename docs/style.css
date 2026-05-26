@@ -254,6 +254,14 @@ details.modal-section summary::before { content: "▸ "; color: #64748b; }
 details.modal-section[open] summary::before { content: "▾ "; }
 details.modal-section[open] summary { margin-bottom: 6px; }
 
+/* ── 22bet glossary table ── */
+table.gloss { width: 100%; border-collapse: collapse; font-size: 12px; }
+table.gloss th, table.gloss td { padding: 6px 6px; text-align: left; vertical-align: top; }
+table.gloss th { color: #94a3b8; font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: .5px; border-bottom: 1px solid #334155; }
+table.gloss tr:not(:last-child) td { border-bottom: 1px solid #334155; }
+table.gloss td:first-child strong { color: #60a5fa; }
+table.gloss td em { color: #fbbf24; font-style: normal; }
+
 /* ── Historical examples cards ── */
 .ex-card {
   background: #1e293b;
