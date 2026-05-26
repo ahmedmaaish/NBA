@@ -1,4 +1,4 @@
-"""22bet NBA odds scraper.
+"""22bet NBA odds scraper — stealth mode.
 
 Market IDs discovered by probing the 1xbet-family API (2026-05-26):
   G=101  T=401 / T=402  -> Moneyline  (home wins / away wins, no draw)
@@ -9,9 +9,20 @@ Market IDs discovered by probing the 1xbet-family API (2026-05-26):
 Sport filter: SE == 'Basketball'
 Live feed:   /LiveFeed/Get1x2_VZip
 Pre-match:   /LineFeed/Get1x2_VZip  (available when upcoming games are listed)
+
+Anti-detection measures (so 22bet doesn't flag/block us):
+  - cloudscraper handles Cloudflare's JS challenge automatically
+  - Rotating realistic User-Agent (Chrome/Firefox/Edge on Win/Mac)
+  - Browser-grade headers (Accept-Language, sec-ch-ua, sec-fetch-*)
+  - Session warm-up: visit the public homepage before hitting the API to
+    populate cookies (mimics a real user navigating to the site)
+  - Randomised request delays (0.5-2.5s jitter)
+  - Conservative caching (30s TTL) so we don't hammer the endpoint
+  - Light request volume: only 2 endpoints per scan, 1 scan/hour
 """
 from __future__ import annotations
 
+import random
 import re
 import time
 import threading
@@ -38,21 +49,56 @@ T_UNDER       = 10
 T_HT_OVER     = 11
 T_HT_UNDER    = 12
 
-_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-       "AppleWebKit/537.36 (KHTML, like Gecko) "
-       "Chrome/131.0.0.0 Safari/537.36")
+# Realistic User-Agent pool. cloudscraper rotates these to make our traffic
+# look like normal multi-user browsing, not a single script hammering them.
+_UA_POOL = [
+    # Chrome / Win 10
+    ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+     "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"),
+    # Chrome / Mac
+    ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+     "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"),
+    # Edge / Win 11
+    ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+     "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"),
+    # Firefox / Win 10
+    ("Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) "
+     "Gecko/20100101 Firefox/131.0"),
+]
 
-_HEADERS = {
-    "User-Agent": _UA,
-    "Accept":     "application/json",
-    "Origin":     "https://22bet.com",
-    "Referer":    "https://22bet.com/en/live",
-}
+def _build_headers(ua: str, page_ref: str = "/en/live") -> dict:
+    """Build a realistic browser header set bound to a chosen User-Agent."""
+    is_firefox = "Firefox" in ua
+    h = {
+        "User-Agent":      ua,
+        "Accept":          "application/json, text/plain, */*",
+        "Accept-Language": "en-US,en;q=0.9",
+        # Only request gzip/deflate — `br` (brotli) requires the brotli pkg
+        # which may not be available in the GitHub Actions runner, and an
+        # un-decodable response body silently fails JSON parsing.
+        "Accept-Encoding": "gzip, deflate",
+        "Origin":          "https://22bet.com",
+        "Referer":         f"https://22bet.com{page_ref}",
+        "Connection":      "keep-alive",
+        "DNT":             "1",
+    }
+    if not is_firefox:
+        h.update({
+            "sec-ch-ua":          '"Chromium";v="131", "Not_A Brand";v="24"',
+            "sec-ch-ua-mobile":   "?0",
+            "sec-ch-ua-platform": '"Windows"',
+            "sec-fetch-site":     "same-origin",
+            "sec-fetch-mode":     "cors",
+            "sec-fetch-dest":     "empty",
+        })
+    return h
 
 LIVE_URL = ("https://22bet.com/service-api/LiveFeed/Get1x2_VZip"
             "?count=500&lng=en&mode=4&country=1&getEmpty=true")
 LINE_URL = ("https://22bet.com/service-api/LineFeed/Get1x2_VZip"
             "?count=500&lng=en&mode=4&country=1&getEmpty=true")
+HOME_URL = "https://22bet.com/en/live"
+NBA_URL  = "https://22bet.com/en/line/basketball"
 
 
 # ---------------------------------------------------------------------------
@@ -206,15 +252,67 @@ def extract_total(event: dict, group: int = G_TOTAL) -> dict:
 # ---------------------------------------------------------------------------
 
 class Bet22NBAClient:
-    """Fetch live and pre-match NBA events from 22bet with TTL caching."""
+    """Fetch live and pre-match NBA events from 22bet with TTL caching.
+
+    Stealth flow per scanner run:
+      1. Pick a random User-Agent + matching browser fingerprint
+      2. Warm up the session by GET'ing the public homepage (sets cookies)
+      3. Fire the LiveFeed and LineFeed API calls with the same session
+      4. Sleep 0.5-2.5s between requests to mimic human browsing pace
+
+    cloudscraper transparently solves Cloudflare's JS challenge when present.
+    """
 
     def __init__(self, ttl: float = 30.0):
+        # Pick a UA randomly each run; cloudscraper builds its fingerprint
+        # (TLS ciphers, JA3, header order) to match this UA.
+        self._ua = random.choice(_UA_POOL)
+        is_firefox = "Firefox" in self._ua
         self._scraper = cloudscraper.create_scraper(
-            browser={"browser": "chrome", "platform": "windows", "mobile": False}
+            browser={
+                "browser":  "firefox" if is_firefox else "chrome",
+                "platform": "windows",
+                "mobile":   False,
+            },
+            delay=10,                  # max wait for Cloudflare challenge
         )
         self._cache: dict[str, tuple[float, list[dict]]] = {}
         self._lock  = threading.Lock()
         self.ttl    = ttl
+        self._warmed = False
+        self._last_request_at = 0.0
+
+    # --- internals ---------------------------------------------------------
+
+    def _jitter_sleep(self):
+        """Sleep 0.5-2.5s between requests; humans don't fire requests instantly."""
+        elapsed = time.time() - self._last_request_at
+        target  = random.uniform(0.5, 2.5)
+        if elapsed < target:
+            time.sleep(target - elapsed)
+
+    def _warmup(self):
+        """Visit the public NBA page to set first-party cookies before API."""
+        if self._warmed:
+            return
+        try:
+            self._scraper.get(
+                HOME_URL,
+                headers=_build_headers(self._ua, "/"),
+                timeout=15,
+            )
+            self._jitter_sleep()
+            self._scraper.get(
+                NBA_URL,
+                headers=_build_headers(self._ua, "/en/live"),
+                timeout=15,
+            )
+            self._last_request_at = time.time()
+            self._warmed = True
+        except Exception:
+            # If warmup fails, still attempt the API calls — most of the time
+            # cloudscraper can still get through without warmup.
+            self._warmed = True
 
     def _fetch(self, url: str, kind: str) -> list[dict]:
         now = time.time()
@@ -222,8 +320,17 @@ class Bet22NBAClient:
             h = self._cache.get(kind)
             if h and (now - h[0]) < self.ttl:
                 return h[1]
+
+        self._warmup()
+        self._jitter_sleep()
+        ref = "/en/line/basketball" if kind == "prematch" else "/en/live"
         try:
-            r = self._scraper.get(url, headers=_HEADERS, timeout=20)
+            r = self._scraper.get(
+                url,
+                headers=_build_headers(self._ua, ref),
+                timeout=20,
+            )
+            self._last_request_at = time.time()
             if r.status_code != 200:
                 return []
             events = [e for e in (r.json().get("Value") or [])
@@ -233,6 +340,8 @@ class Bet22NBAClient:
             return events
         except Exception:
             return []
+
+    # --- public API --------------------------------------------------------
 
     def fetch_live(self) -> list[dict]:
         return self._fetch(LIVE_URL, "live")

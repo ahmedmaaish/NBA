@@ -169,6 +169,131 @@ button.sec {
 }
 .rec-form button { width: 100%; }
 
+/* ── Recommended bet card (new) ── */
+.modal-subtitle { color: #94a3b8; font-size: 12px; margin-top: -8px; margin-bottom: 14px; }
+.rec-card {
+  background: linear-gradient(180deg, #0f172a 0%, #1e293b 100%);
+  border: 2px solid #2563eb;
+  border-radius: 14px;
+  padding: 0 16px 16px 16px;
+  margin-bottom: 16px;
+  overflow: hidden;
+}
+.rec-card.no-rec { border-color: #475569; }
+.rec-banner {
+  margin: 0 -16px 14px -16px;
+  padding: 8px 16px;
+  font-size: 11px; font-weight: 700;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #fff;
+}
+.banner-money  { background: #16a34a; }
+.banner-spread { background: #2563eb; }
+.banner-none   { background: #475569; }
+.rec-big {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 12px;
+}
+.rec-pick-team { font-size: 22px; font-weight: 800; color: #f1f5f9; }
+.rec-pick-type { font-size: 12px; color: #94a3b8; margin-top: 2px; }
+.rec-pick-odd  { font-size: 26px; font-weight: 800; color: #4ade80; }
+.rec-stake {
+  background: #0f172a;
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 13px;
+  text-align: center;
+  margin-bottom: 12px;
+}
+.rec-stake strong { color: #fbbf24; }
+.rec-why {
+  font-size: 12px;
+  color: #cbd5e1;
+  background: rgba(30, 58, 138, .15);
+  border-left: 3px solid #3b82f6;
+  padding: 8px 10px;
+  border-radius: 0 6px 6px 0;
+  margin-bottom: 14px;
+  line-height: 1.5;
+}
+.rec-steps {
+  font-size: 13px;
+  color: #e2e8f0;
+  margin-bottom: 14px;
+}
+.rec-steps strong { display: block; margin-bottom: 6px; color: #94a3b8; font-size: 11px; text-transform: uppercase; letter-spacing: .6px; }
+.rec-steps ol { padding-left: 22px; }
+.rec-steps li { padding: 3px 0; line-height: 1.5; }
+.rec-steps li strong { display: inline; text-transform: none; color: #fbbf24; font-size: 13px; letter-spacing: 0; }
+.rec-steps em      { font-style: normal; color: #93c5fd; }
+.rec-steps a       { color: #60a5fa; }
+.rec-action {
+  width: 100%;
+  background: #16a34a !important;
+  font-size: 15px !important;
+  padding: 14px !important;
+  margin-bottom: 8px;
+}
+.rec-action:active { background: #15803d !important; }
+button.secondary {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #475569;
+  background: transparent;
+  color: #cbd5e1;
+  border-radius: 10px;
+  font-size: 13px;
+  cursor: pointer;
+}
+button.secondary:active { background: #334155; }
+
+details.modal-section summary { cursor: pointer; list-style: none; padding: 4px 0; }
+details.modal-section summary::-webkit-details-marker { display: none; }
+details.modal-section summary::before { content: "▸ "; color: #64748b; }
+details.modal-section[open] summary::before { content: "▾ "; }
+details.modal-section[open] summary { margin-bottom: 6px; }
+
+/* ── Historical examples cards ── */
+.ex-card {
+  background: #1e293b;
+  border-left: 3px solid #16a34a;
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+}
+.ex-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; }
+.ex-date { font-size: 11px; color: #94a3b8; }
+.ex-result { font-size: 11px; font-weight: 700; padding: 2px 7px; border-radius: 4px; }
+.ex-won  { background: #14532d; color: #86efac; }
+.ex-lost { background: #7f1d1d; color: #fca5a5; }
+.ex-matchup { font-size: 14px; font-weight: 600; margin-bottom: 4px; }
+.ex-detail  { font-size: 11px; color: #94a3b8; margin-bottom: 2px; }
+.ex-bet     { font-size: 12px; color: #cbd5e1; }
+
+/* ── Strategy guide info box ── */
+.info-box {
+  background: rgba(37, 99, 235, 0.08);
+  border: 1px solid #1e3a8a;
+  border-radius: 10px;
+  padding: 12px 14px;
+  margin-bottom: 14px;
+}
+.info-box p { font-size: 13px; margin-bottom: 8px; }
+.info-box ul.info-list { list-style: none; padding: 0; }
+.info-box ul.info-list li {
+  font-size: 12px;
+  color: #cbd5e1;
+  padding: 3px 0 3px 20px;
+  position: relative;
+}
+.info-box ul.info-list li::before {
+  content: "•";
+  position: absolute;
+  left: 6px;
+  color: #60a5fa;
+}
+
 /* ── Toast ── */
 #toast {
   position: fixed; bottom: 80px; left: 50%; transform: translateX(-50%);

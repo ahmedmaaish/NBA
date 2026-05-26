@@ -261,11 +261,96 @@ function openModal(g) {
   const h     = g.home || {};
   const a     = g.away || {};
   const sigs  = g.signals || [];
+  const top   = g.top_signal;
   const odds  = g.odds_22bet || {};
   const ml    = odds.moneyline || {};
   const sp    = odds.spread    || {};
   const tot   = odds.total     || {};
 
+  // ── Build the "Recommended bet" card based on the top signal ──────────────
+  let recHtml = '';
+  if (top) {
+    const isAway = top.bet === 'away';
+    const isFav  = top.bet === 'favourite';
+    let pickSide, pickTeamName, pickTeamAbbr, pickOdd, pickType, pickReason;
+
+    if (isFav) {
+      // "favourite" = whichever team has the better recent record (per backtest)
+      const hBetter = (h.r10_win_rate || 0) >= (a.r10_win_rate || 0);
+      pickSide     = hBetter ? 'home' : 'away';
+      pickTeamName = hBetter ? h.name : a.name;
+      pickTeamAbbr = hBetter ? h.abbr : a.abbr;
+    } else {
+      pickSide     = isAway ? 'away' : 'home';
+      pickTeamName = isAway ? a.name : h.name;
+      pickTeamAbbr = isAway ? a.abbr : h.abbr;
+    }
+
+    // Realistic-edge signals -> moneyline; otherwise spread is safer (heavy favs)
+    if (top.realistic_edge) {
+      pickType = 'Moneyline';
+      pickOdd  = pickSide === 'home' ? ml.home : ml.away;
+    } else {
+      pickType = 'Spread (point handicap)';
+      pickOdd  = pickSide === 'home' ? sp.home_odd : sp.away_odd;
+    }
+
+    // Plain-English reason builder per strategy id
+    pickReason = top.note || '';
+
+    const oddStr   = pickOdd != null ? Number(pickOdd).toFixed(2) : 'check 22bet';
+    const stakeAmt = stake();
+    const profitIfWin = pickOdd != null ? ((Number(pickOdd) - 1) * stakeAmt).toFixed(2) : '?';
+
+    recHtml = `
+      <div class="rec-card">
+        <div class="rec-banner ${top.realistic_edge ? 'banner-money' : 'banner-spread'}">
+          ${top.realistic_edge ? 'RECOMMENDED BET' : 'SPREAD / ATS PLAY (heavy favourite — see Spread)'}
+        </div>
+        <div class="rec-big">
+          <div class="rec-pick">
+            <div class="rec-pick-team">${escHtml(pickTeamName || '?')}</div>
+            <div class="rec-pick-type">${pickType}</div>
+          </div>
+          <div class="rec-pick-odd">@ ${oddStr}</div>
+        </div>
+        <div class="rec-stake">
+          Stake <strong>${fmtMoney(stakeAmt)}</strong> &middot; Win returns <strong>${fmtMoney(profitIfWin)}</strong> profit
+        </div>
+        <div class="rec-why">
+          <strong>Why:</strong> ${escHtml(top.name)} &middot; backtested ${top.win_rate}% win rate, +${top.roi_pct}% ROI over ~${top.bets_yr || '?'} bets/year.<br>
+          ${escHtml(pickReason)}
+        </div>
+        <div class="rec-steps">
+          <strong>How to place this bet:</strong>
+          <ol>
+            <li>Open <a href="https://22bet.com" target="_blank" rel="noopener">22bet</a> on your phone or laptop</li>
+            <li>Search for <em>${escHtml((a.name || '?').split(' ').pop())} vs ${escHtml((h.name || '?').split(' ').pop())}</em> in the basketball/NBA section</li>
+            <li>Click the <em>${pickType}</em> market on <strong>${escHtml(pickTeamName)}</strong></li>
+            <li>Confirm the odd is around <strong>${oddStr}</strong> (within ±0.05 is fine)</li>
+            <li>Enter <strong>${fmtMoney(stakeAmt)}</strong> as your stake</li>
+            <li>Submit the bet, then tap <em>"I placed this bet"</em> below to log it here</li>
+          </ol>
+        </div>
+        <button class="primary rec-action" id="rb-quickbet"
+                data-side="${pickSide}" data-type="${pickType.toLowerCase().includes('money')?'moneyline':'spread'}"
+                data-odd="${pickOdd != null ? Number(pickOdd).toFixed(2) : ''}">
+          ✓ I placed this bet ($${stakeAmt})
+        </button>
+        <button class="secondary rec-skip" id="rb-paperbet">
+          Track as paper bet (no real money)
+        </button>
+      </div>`;
+  } else {
+    recHtml = `
+      <div class="rec-card no-rec">
+        <div class="rec-banner banner-none">NO BET RECOMMENDED</div>
+        <p>No backtested strategy fires on this matchup. No clear edge — <strong>skip this game</strong>.</p>
+        <p style="font-size:12px;color:#94a3b8">You can still manually record a bet below if you want to track a hunch as a paper bet.</p>
+      </div>`;
+  }
+
+  // ── All-signals list (collapsed, for the curious) ─────────────────────────
   const sigsHtml = sigs.length
     ? sigs.map(s => `
         <div class="modal-row">
@@ -274,24 +359,28 @@ function openModal(g) {
         </div>
         <div style="font-size:11px;color:#64748b;padding:2px 0 6px">${escHtml(s.note || '')}</div>`
       ).join('')
-    : '<div style="color:#64748b;font-size:13px">No strategy signal for this game.</div>';
+    : '';
 
+  // ── Odds table (for cross-reference) ──────────────────────────────────────
   const oddsSection = odds.found ? `
     <div class="modal-section">
-      <h4>22bet Odds</h4>
-      <div class="modal-row"><span class="modal-label">Home ML (${escHtml(h.abbr||'')})</span><span class="modal-val">${fmtOdd(ml.home)}</span></div>
-      <div class="modal-row"><span class="modal-label">Away ML (${escHtml(a.abbr||'')})</span><span class="modal-val">${fmtOdd(ml.away)}</span></div>
-      ${sp.found  ? `<div class="modal-row"><span class="modal-label">Spread (home ${sp.line > 0 ? '+' : ''}${sp.line})</span><span class="modal-val">${fmtOdd(sp.home_odd)} / ${fmtOdd(sp.away_odd)}</span></div>` : ''}
-      ${tot.found ? `<div class="modal-row"><span class="modal-label">Total O/U ${tot.line}</span><span class="modal-val">O ${fmtOdd(tot.over)} / U ${fmtOdd(tot.under)}</span></div>` : ''}
-    </div>` : `<div class="modal-section"><div class="no-odds">No 22bet odds found for this game.</div></div>`;
+      <h4>22bet odds (for reference)</h4>
+      <div class="modal-row"><span class="modal-label">${escHtml(h.abbr||'')} (Home) Moneyline</span><span class="modal-val">${fmtOdd(ml.home)}</span></div>
+      <div class="modal-row"><span class="modal-label">${escHtml(a.abbr||'')} (Away) Moneyline</span><span class="modal-val">${fmtOdd(ml.away)}</span></div>
+      ${sp.found  ? `<div class="modal-row"><span class="modal-label">Spread — ${escHtml(h.abbr||'')} ${sp.line > 0 ? '+' : ''}${sp.line}</span><span class="modal-val">${fmtOdd(sp.home_odd)} / ${fmtOdd(sp.away_odd)}</span></div>` : ''}
+      ${tot.found ? `<div class="modal-row"><span class="modal-label">Over/Under ${tot.line}</span><span class="modal-val">O ${fmtOdd(tot.over)} / U ${fmtOdd(tot.under)}</span></div>` : ''}
+    </div>` : `<div class="modal-section"><div class="no-odds">22bet odds not yet available for this game (odds usually appear 24-48h before tipoff).</div></div>`;
 
   const betDisabled = g.state === 'post' ? 'disabled' : '';
 
   $('modal-body').innerHTML = `
     <div class="modal-title">${escHtml(a.name||'?')} @ ${escHtml(h.name||'?')}</div>
+    <div class="modal-subtitle">${escHtml(fmtDate(g.date_utc))} &middot; ${escHtml(fmtGameTime(g.date_utc, g.state))}</div>
+
+    ${recHtml}
 
     <div class="modal-section">
-      <h4>Team Stats (last 10 games)</h4>
+      <h4>Team form (last 10 games)</h4>
       <div class="modal-row">
         <span class="modal-label">${escHtml(h.name||'?')} (Home)</span>
         <span class="modal-val">${h.wins}-${h.losses} &middot; ${h.rest ?? '?'}d rest &middot; ${h.r10_win_rate != null ? Math.round(h.r10_win_rate*100)+'% WR' : '--'} &middot; ${h.r10_diff != null ? (h.r10_diff>0?'+':'')+h.r10_diff.toFixed(1)+'pt' : '--'}</span>
@@ -302,41 +391,80 @@ function openModal(g) {
       </div>
     </div>
 
-    <div class="modal-section">
-      <h4>Strategy Signals</h4>
+    ${sigs.length > 1 ? `
+    <details class="modal-section">
+      <summary><h4 style="display:inline">All signals firing on this game (${sigs.length})</h4></summary>
       ${sigsHtml}
-    </div>
+    </details>` : ''}
 
     ${oddsSection}
 
-    <div class="rec-form modal-section">
-      <h4>Record a Bet</h4>
-      <label>Bet on</label>
-      <select id="rb-side">
-        <option value="home">Home — ${escHtml(h.name||'?')}</option>
-        <option value="away">Away — ${escHtml(a.name||'?')}</option>
-      </select>
-      <label>Bet type</label>
-      <select id="rb-type">
-        <option value="moneyline">Moneyline</option>
-        <option value="spread">Spread</option>
-        <option value="over">Over ${tot.line || '--'}</option>
-        <option value="under">Under ${tot.line || '--'}</option>
-      </select>
-      <label>Odds (decimal)</label>
-      <input type="number" id="rb-odds" step="0.01" value="${fmtOdd(ml.home)}" min="1.01">
-      <label>Stake ($)</label>
-      <input type="number" id="rb-stake" step="0.5" value="${stake()}">
-      <label>Book (Real or Paper)</label>
-      <select id="rb-book">
-        <option value="real">Real</option>
-        <option value="paper">Paper</option>
-      </select>
-      <button class="primary" id="rb-submit" ${betDisabled}>Record Bet</button>
-    </div>`;
+    <details class="modal-section">
+      <summary><h4 style="display:inline">Custom bet (manual entry)</h4></summary>
+      <div class="rec-form">
+        <label>Bet on</label>
+        <select id="rb-side">
+          <option value="home">Home — ${escHtml(h.name||'?')}</option>
+          <option value="away">Away — ${escHtml(a.name||'?')}</option>
+        </select>
+        <label>Bet type</label>
+        <select id="rb-type">
+          <option value="moneyline">Moneyline</option>
+          <option value="spread">Spread</option>
+          <option value="over">Over ${tot.line || '--'}</option>
+          <option value="under">Under ${tot.line || '--'}</option>
+        </select>
+        <label>Odds (decimal)</label>
+        <input type="number" id="rb-odds" step="0.01" value="${fmtOdd(ml.home)}" min="1.01">
+        <label>Stake ($)</label>
+        <input type="number" id="rb-stake" step="0.5" value="${stake()}">
+        <label>Book (Real or Paper)</label>
+        <select id="rb-book">
+          <option value="real">Real</option>
+          <option value="paper">Paper</option>
+        </select>
+        <button class="primary" id="rb-submit" ${betDisabled}>Record Bet</button>
+      </div>
+    </details>`;
 
-  // Pre-fill odds when side/type changes
+  // Quick-bet from the "I placed this bet" button (uses top signal's pick)
+  function recordQuickBet(book) {
+    const btn = $('rb-quickbet');
+    if (!btn) return;
+    const side  = btn.dataset.side;
+    const type  = btn.dataset.type;
+    const oddV  = parseFloat(btn.dataset.odd) || 1.90;
+    const stakeV = stake();
+    const teamName = side === 'home' ? h.name : a.name;
+
+    const bet = {
+      id:      Date.now().toString(),
+      date:    todayKey(),
+      match:   `${a.name} @ ${h.name}`,
+      game_id: g.id,
+      side,
+      team:    teamName,
+      type,
+      odds:    oddV,
+      stake:   stakeV,
+      pnl_win: Math.round((oddV - 1) * stakeV * 100) / 100,
+      outcome: 'pending',
+      signals: (g.signals || []).map(s => s.id || s.name).join(', '),
+    };
+    if (book === 'paper') { PAPER.push(bet); saveBets('paper'); }
+    else                  { BETS.push(bet);  saveBets('real');  }
+    closeModal();
+    renderHeader();
+    renderBets();
+    toast(`✓ Logged: ${teamName} ${type} @ ${oddV.toFixed(2)} (${book})`);
+  }
+
+  if ($('rb-quickbet')) $('rb-quickbet').addEventListener('click', () => recordQuickBet('real'));
+  if ($('rb-paperbet')) $('rb-paperbet').addEventListener('click', () => recordQuickBet('paper'));
+
+  // Pre-fill odds when side/type changes (manual mode)
   function updateOddsField() {
+    if (!$('rb-side')) return;
     const side = $('rb-side').value;
     const type = $('rb-type').value;
     let odd = null;
@@ -346,10 +474,10 @@ function openModal(g) {
     else if (type === 'under') odd = tot.under;
     if (odd != null) $('rb-odds').value = Number(odd).toFixed(2);
   }
-  $('rb-side').addEventListener('change', updateOddsField);
-  $('rb-type').addEventListener('change', updateOddsField);
+  if ($('rb-side')) $('rb-side').addEventListener('change', updateOddsField);
+  if ($('rb-type')) $('rb-type').addEventListener('change', updateOddsField);
 
-  $('rb-submit').addEventListener('click', () => {
+  if ($('rb-submit')) $('rb-submit').addEventListener('click', () => {
     const side   = $('rb-side').value;
     const type   = $('rb-type').value;
     const oddsV  = parseFloat($('rb-odds').value) || 1.90;
@@ -369,16 +497,10 @@ function openModal(g) {
       stake:   stakeV,
       pnl_win: Math.round((oddsV - 1) * stakeV * 100) / 100,
       outcome: 'pending',
-      signals: (g.signals || []).map(s => s.id).join(', '),
+      signals: (g.signals || []).map(s => s.name).join(', '),
     };
-
-    if (book === 'paper') {
-      PAPER.push(bet);
-      saveBets('paper');
-    } else {
-      BETS.push(bet);
-      saveBets('real');
-    }
+    if (book === 'paper') { PAPER.push(bet); saveBets('paper'); }
+    else                  { BETS.push(bet);  saveBets('real');  }
     closeModal();
     renderHeader();
     renderBets();
@@ -489,6 +611,38 @@ function showTab(name) {
   document.querySelector(`.nav-btn[data-tab="${name}"]`).classList.add('active');
   if (name === 'bets')     renderBets();
   if (name === 'settings') renderSettings();
+  if (name === 'strat')    renderExamples();
+}
+
+// ── Historical examples (shown on Strategies tab) ───────────────────────────
+let EXAMPLES = null;
+async function renderExamples() {
+  if (!EXAMPLES) {
+    try {
+      const r = await fetch('data/examples.json?t=' + Date.now());
+      if (r.ok) EXAMPLES = await r.json();
+    } catch (e) {}
+  }
+  if (!EXAMPLES || !EXAMPLES.examples?.length) return;
+  const sec = $('examples-section');
+  const list = $('examples-list');
+  sec.style.display = 'block';
+  list.innerHTML = EXAMPLES.examples.slice(0, 8).map(e => `
+    <div class="ex-card">
+      <div class="ex-top">
+        <span class="ex-date">${e.date}</span>
+        <span class="ex-result ${e.result === 'WON' ? 'ex-won' : 'ex-lost'}">${e.result === 'WON' ? '✓ WON' : '✗ LOST'}</span>
+      </div>
+      <div class="ex-matchup">${escHtml(e.matchup)}</div>
+      <div class="ex-detail">
+        Final: <strong>${e.final_score}</strong> &middot;
+        Signal: <strong>${escHtml(e.strategy_id)} ${escHtml(e.strategy_name)}</strong>
+      </div>
+      <div class="ex-bet">
+        Bet: <strong>${e.bet_side === 'home' ? e.h_team : e.a_team}</strong> (${e.bet_side})
+      </div>
+    </div>
+  `).join('');
 }
 
 // ── Init ──────────────────────────────────────────────────────────────────────

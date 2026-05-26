@@ -56,89 +56,153 @@
 
     <!-- STRATEGIES tab -->
     <section id="tab-strat" class="tab">
-      <h2>Strategy Guide</h2>
+      <div id="examples-section" style="display:none">
+        <h2>Recent winning examples</h2>
+        <p class="hint">Real regular-season games (2024-25) where the strategies fired and the bet won. This is what the app looks like during the regular season — many games, clear signals.</p>
+        <div id="examples-list"></div>
+      </div>
+
+      <h2>How this works</h2>
+      <div class="info-box">
+        <p><strong>📅 When games show up:</strong></p>
+        <ul class="info-list">
+          <li><strong>Regular season (Oct–Apr):</strong> 5–15 games per night, 20–40 signals fire daily</li>
+          <li><strong>Playoffs (Apr–Jun):</strong> 1–4 games per night, fewer signals</li>
+          <li><strong>NBA Finals (Jun):</strong> Only 2 teams playing — usually 1 game per matchup day</li>
+          <li><strong>Off-season (Jun–Oct):</strong> No NBA games, dashboard will be empty</li>
+        </ul>
+        <p style="margin-top:8px;font-size:12px;color:#94a3b8">
+          The 22 strategies were tested against <strong>15,368 regular-season games</strong> (2012–2025).
+          Signals fire only when a real mathematical edge is detected — most games show "no signal" which is correct behavior.
+        </p>
+      </div>
+
+      <h2 style="margin-top:18px">Strategy library (22 strategies)</h2>
       <p class="hint">
-        Signals are based on a 10-year NBA backtest (2012-2025, 15,368 games).
-        Break-even at -110: 52.38% win rate.
-        <br><br>
-        <strong>Green badge</strong> = realistic edge at actual moneyline odds.
-        <strong>Blue badge</strong> = strong ATS/spread signal (team is likely a heavy favourite — use for spread betting or parlay legs).
+        Each is a backtested rule. Break-even at -110 odds: 52.38% win rate.
+        <br>
+        <strong>Green badge</strong> = realistic edge on the moneyline (small favourites).
+        <strong>Blue badge</strong> = team is likely a heavy favourite — best used on the spread or as a parlay leg.
       </p>
 
       <div class="strat-group">
-        <div class="strat-group-title">Moneyline — Realistic Edge</div>
+        <div class="strat-group-title">⭐ Top New Strategies (v2)</div>
         <div class="strat-row">
-          <div>
-            <div class="strat-name">S1 — Away B2B, Bet Home</div>
-            <div class="strat-stats">60% WR &nbsp;|&nbsp; +14.5% ROI &nbsp;|&nbsp; ~274/yr</div>
-          </div>
+          <div><div class="strat-name">S16 — Mid-Season Form + Season Lead → Home</div>
+               <div class="strat-stats">79.2% WR &middot; +51.2% ROI &middot; 182/yr</div></div>
           <span class="strat-badge badge-realistic">Realistic</span>
         </div>
         <div class="strat-row">
-          <div>
-            <div class="strat-name">S9 — Triple-Edge Home</div>
-            <div class="strat-stats">75.8% WR &nbsp;|&nbsp; +44.7% ROI &nbsp;|&nbsp; ~108/yr</div>
-          </div>
+          <div><div class="strat-name">S15 — 20g Hot Home + WR Edge → Home</div>
+               <div class="strat-stats">76.5% WR &middot; +46.0% ROI &middot; 137/yr</div></div>
           <span class="strat-badge badge-realistic">Realistic</span>
         </div>
         <div class="strat-row">
-          <div>
-            <div class="strat-name">S10 — Elite Away vs Weak Home</div>
-            <div class="strat-stats">63.3% WR &nbsp;|&nbsp; +20.9% ROI &nbsp;|&nbsp; ~56/yr</div>
-          </div>
+          <div><div class="strat-name">S13 — Mild Form Edge → Home</div>
+               <div class="strat-stats">74.1% WR &middot; +41.5% ROI &middot; 329/yr</div></div>
           <span class="strat-badge badge-realistic">Realistic</span>
         </div>
         <div class="strat-row">
-          <div>
-            <div class="strat-name">S12 — Away +30% WR + Rested</div>
-            <div class="strat-stats">64.1% WR &nbsp;|&nbsp; +22.4% ROI &nbsp;|&nbsp; ~81/yr</div>
-          </div>
+          <div><div class="strat-name">S14 — Home Consistency Edge → Home</div>
+               <div class="strat-stats">72.7% WR &middot; +38.8% ROI &middot; 179/yr</div></div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+        <div class="strat-row">
+          <div><div class="strat-name">S22 — Mild Form Gap 5–8 → Better Team</div>
+               <div class="strat-stats">61.1% WR &middot; +16.6% ROI &middot; 232/yr</div></div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+        <div class="strat-row">
+          <div><div class="strat-name">S23 — Elite vs Elite → Home (HCA)</div>
+               <div class="strat-stats">60.2% WR &middot; +15.0% ROI &middot; 70/yr</div></div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+        <div class="strat-row">
+          <div><div class="strat-name">S17 — Cold Home 3g → Fade Home</div>
+               <div class="strat-stats">61.8% WR &middot; +17.9% ROI &middot; 82/yr</div></div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+        <div class="strat-row">
+          <div><div class="strat-name">S18 — Hot Away 5g + Rest → Away</div>
+               <div class="strat-stats">61.8% WR &middot; +17.9% ROI &middot; 66/yr</div></div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+        <div class="strat-row">
+          <div><div class="strat-name">S21 — Early-Season WR Edge → Better</div>
+               <div class="strat-stats">67.9% WR &middot; +29.6% ROI &middot; 95/yr</div></div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+        <div class="strat-row">
+          <div><div class="strat-name">S20 — Late-Season Season Edge → Better</div>
+               <div class="strat-stats">74.0% WR &middot; +41.2% ROI &middot; 60/yr</div></div>
+          <span class="strat-badge badge-ats">ATS</span>
+        </div>
+        <div class="strat-row">
+          <div><div class="strat-name">S19 — Late-Season Big Mismatch → Home</div>
+               <div class="strat-stats">85.1% WR &middot; +62.5% ROI &middot; 6/yr (rare gem)</div></div>
+          <span class="strat-badge badge-ats">ATS</span>
+        </div>
+        <div class="strat-row">
+          <div><div class="strat-name">S24 — Tank vs Tank → Home</div>
+               <div class="strat-stats">56.0% WR &middot; +6.9% ROI &middot; 66/yr</div></div>
           <span class="strat-badge badge-realistic">Realistic</span>
         </div>
       </div>
 
       <div class="strat-group">
-        <div class="strat-group-title">ATS / Spread Signals (heavy favourites)</div>
+        <div class="strat-group-title">Original Moneyline — Realistic Edge</div>
         <div class="strat-row">
-          <div>
-            <div class="strat-name">S7 — Rest Edge + Season Lead</div>
-            <div class="strat-stats">86% WR &nbsp;|&nbsp; +64.3% ROI &nbsp;|&nbsp; ~39/yr</div>
-          </div>
+          <div><div class="strat-name">S1 — Away B2B → Bet Home</div>
+               <div class="strat-stats">60.0% WR &middot; +14.5% ROI &middot; 274/yr</div></div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+        <div class="strat-row">
+          <div><div class="strat-name">S9 — Triple-Edge Home (Rest+WR+Diff)</div>
+               <div class="strat-stats">75.8% WR &middot; +44.7% ROI &middot; 108/yr</div></div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+        <div class="strat-row">
+          <div><div class="strat-name">S10 — Elite Away Rested vs Weak Home</div>
+               <div class="strat-stats">63.3% WR &middot; +20.9% ROI &middot; 56/yr</div></div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+        <div class="strat-row">
+          <div><div class="strat-name">S12 — Away +30% WR + Rested</div>
+               <div class="strat-stats">64.1% WR &middot; +22.4% ROI &middot; 81/yr</div></div>
+          <span class="strat-badge badge-realistic">Realistic</span>
+        </div>
+      </div>
+
+      <div class="strat-group">
+        <div class="strat-group-title">Spread / ATS Signals (heavy favourites)</div>
+        <div class="strat-row">
+          <div><div class="strat-name">S7 — Rest Edge + Season Lead</div>
+               <div class="strat-stats">77.4% WR &middot; +47.8% ROI &middot; 37/yr</div></div>
           <span class="strat-badge badge-ats">ATS</span>
         </div>
         <div class="strat-row">
-          <div>
-            <div class="strat-name">S8 — Hot Home vs Cold Away (5-game)</div>
-            <div class="strat-stats">78.5% WR &nbsp;|&nbsp; +49.9% ROI &nbsp;|&nbsp; ~64/yr</div>
-          </div>
+          <div><div class="strat-name">S8 — Hot Home vs Cold Away (5g)</div>
+               <div class="strat-stats">78.5% WR &middot; +49.9% ROI &middot; 64/yr</div></div>
           <span class="strat-badge badge-ats">ATS</span>
         </div>
         <div class="strat-row">
-          <div>
-            <div class="strat-name">S5 — Home Form +5pts</div>
-            <div class="strat-stats">76.9% WR &nbsp;|&nbsp; +46.8% ROI &nbsp;|&nbsp; ~221/yr</div>
-          </div>
+          <div><div class="strat-name">S5 — Home Form Edge +5pts</div>
+               <div class="strat-stats">76.9% WR &middot; +46.8% ROI &middot; 221/yr</div></div>
           <span class="strat-badge badge-ats">ATS</span>
         </div>
         <div class="strat-row">
-          <div>
-            <div class="strat-name">S11 — Form Gap &gt;8pts</div>
-            <div class="strat-stats">71.2% WR &nbsp;|&nbsp; +36.0% ROI &nbsp;|&nbsp; ~437/yr</div>
-          </div>
+          <div><div class="strat-name">S11 — Form Gap >8pts</div>
+               <div class="strat-stats">71.2% WR &middot; +36.0% ROI &middot; 437/yr</div></div>
           <span class="strat-badge badge-ats">ATS</span>
         </div>
         <div class="strat-row">
-          <div>
-            <div class="strat-name">S6 — Dominant Away vs Losing Home</div>
-            <div class="strat-stats">70.7% WR &nbsp;|&nbsp; +35.0% ROI &nbsp;|&nbsp; ~60/yr</div>
-          </div>
+          <div><div class="strat-name">S6 — Dominant Away vs Losing Home</div>
+               <div class="strat-stats">70.7% WR &middot; +35.0% ROI &middot; 60/yr</div></div>
           <span class="strat-badge badge-ats">ATS</span>
         </div>
         <div class="strat-row">
-          <div>
-            <div class="strat-name">S4 — Win-Rate Gap &gt;25%</div>
-            <div class="strat-stats">68.7% WR &nbsp;|&nbsp; +31.2% ROI &nbsp;|&nbsp; ~479/yr</div>
-          </div>
+          <div><div class="strat-name">S4 — Win-Rate Gap >25%</div>
+               <div class="strat-stats">68.7% WR &middot; +31.2% ROI &middot; 479/yr</div></div>
           <span class="strat-badge badge-ats">ATS</span>
         </div>
       </div>
