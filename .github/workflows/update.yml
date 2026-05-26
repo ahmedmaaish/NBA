@@ -1,17 +1,29 @@
-name: Update NBA Signals
+name: Update NBA Signals & Deploy
 
 on:
   schedule:
     - cron: '0 * * * *'    # every hour on the hour
-  workflow_dispatch:         # manual trigger from GitHub Actions tab
+  workflow_dispatch:         # manual trigger from Actions tab
+  push:
+    branches: [main]         # also deploy on every push
 
 permissions:
-  contents: write            # needed to commit + push signals.json
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  update:
+  update-and-deploy:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repo
@@ -26,13 +38,25 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run scanner
+      - name: Run scanner (update signals.json)
         run: python -m scanner.update
 
-      - name: Commit and push updated signals
+      - name: Commit updated signals back to repo
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name  "github-actions[bot]"
           git add docs/data/signals.json
           git diff --cached --quiet || git commit -m "chore: update signals $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload docs/ as Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'docs'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
