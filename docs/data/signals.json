@@ -1,6 +1,380 @@
 {
-  "updated_utc": "2026-05-27T04:53:18+00:00",
+  "updated_utc": "2026-05-27T05:03:06+00:00",
   "games": [
+    {
+      "id": "724212415",
+      "name": "Turk Telekom at Anadolu Efes",
+      "date_utc": "2026-05-27T15:00:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "Turkey \u2014 Super League",
+      "home": {
+        "id": "Anadolu Efes",
+        "name": "Anadolu Efes",
+        "abbr": "AE",
+        "score": 0,
+        "wins": 20,
+        "losses": 10,
+        "season_pct": 0.6666666666666666,
+        "rest": 14,
+        "last_game": "2026-05-13",
+        "r10_win_rate": 0.6,
+        "r10_diff": 1.9,
+        "r5_win_rate": 0.2,
+        "r5_diff": -6.6,
+        "r3_win_rate": 0.333,
+        "r20_win_rate": 0.65,
+        "r20_diff": 4.45,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-05-27T15:00:00Z"
+      },
+      "away": {
+        "id": "T\u00fcrk Telekom",
+        "name": "Turk Telekom",
+        "abbr": "TT",
+        "score": 0,
+        "wins": 19,
+        "losses": 10,
+        "season_pct": 0.6551724137931034,
+        "rest": 15,
+        "last_game": "2026-05-12",
+        "r10_win_rate": 1.0,
+        "r10_diff": 18.1,
+        "r5_win_rate": 1.0,
+        "r5_diff": 13.6,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 0.75,
+        "r20_diff": 9.0,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-05-27T15:00:00Z"
+      },
+      "signals": [
+        {
+          "name": "Form Gap >8pts -> Bet In-Form Team",
+          "win_rate": 71.2,
+          "roi_pct": 36.0,
+          "bets_yr": 437,
+          "confidence": "high",
+          "bet": "away",
+          "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
+          "realistic_edge": false
+        },
+        {
+          "name": "Win-Rate Gap >25% -> Bet Favourite",
+          "win_rate": 68.7,
+          "roi_pct": 31.2,
+          "bets_yr": 479,
+          "confidence": "medium",
+          "bet": "away",
+          "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
+          "realistic_edge": false
+        },
+        {
+          "name": "Away +30% WR Edge + Rested",
+          "win_rate": 64.1,
+          "roi_pct": 22.4,
+          "bets_yr": 81,
+          "confidence": "medium",
+          "bet": "away",
+          "note": "Away WR beats home by 30%+ and away team is rested (2+ days).",
+          "realistic_edge": true
+        },
+        {
+          "name": "Hot Away 5g + Rest -> Away",
+          "win_rate": 61.8,
+          "roi_pct": 17.9,
+          "bets_yr": 66,
+          "confidence": "medium",
+          "bet": "away",
+          "note": "Away 5g WR >75%, away rested 2+ days, home 5g WR <50%. Away is hotter, fresher.",
+          "realistic_edge": true
+        }
+      ],
+      "top_signal": {
+        "name": "Form Gap >8pts -> Bet In-Form Team",
+        "win_rate": 71.2,
+        "roi_pct": 36.0,
+        "bets_yr": 437,
+        "confidence": "high",
+        "bet": "away",
+        "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
+        "realistic_edge": false
+      },
+      "odds_22bet": {
+        "found": true,
+        "event_id": 724212415,
+        "o1": "Anadolu Efes",
+        "o2": "Turk Telekom",
+        "swapped": false,
+        "league": "Turkey. Super League",
+        "moneyline": {
+          "home": 1.4,
+          "away": 2.846,
+          "found": true
+        },
+        "spread": {
+          "line": -5.5,
+          "home_odd": 1.702,
+          "away_odd": 1.833,
+          "found": true
+        },
+        "total": {
+          "line": 167.5,
+          "over": 1.87,
+          "under": 1.86,
+          "found": true
+        },
+        "ht_total": {
+          "line": 86.5,
+          "over": 1.707,
+          "under": 1.734,
+          "found": true
+        }
+      },
+      "card_color": "green"
+    },
+    {
+      "id": "724123803",
+      "name": "SC Rasta Vechta at Alba Berlin",
+      "date_utc": "2026-05-27T16:30:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "Germany \u2014 BBL",
+      "home": {
+        "id": "Alba Berlin",
+        "name": "Alba Berlin",
+        "abbr": "AB",
+        "score": 0,
+        "wins": 23,
+        "losses": 9,
+        "season_pct": 0.71875,
+        "rest": 13,
+        "last_game": "2026-05-14",
+        "r10_win_rate": 0.6,
+        "r10_diff": 5.0,
+        "r5_win_rate": 0.6,
+        "r5_diff": 4.8,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 0.65,
+        "r20_diff": 5.8,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-05-27T16:30:00Z"
+      },
+      "away": {
+        "id": "Rasta Vechta",
+        "name": "SC Rasta Vechta",
+        "abbr": "SRV",
+        "score": 0,
+        "wins": 7,
+        "losses": 8,
+        "season_pct": 0.4666666666666667,
+        "rest": 15,
+        "last_game": "2026-05-12",
+        "r10_win_rate": 0.6,
+        "r10_diff": 2.2,
+        "r5_win_rate": 0.4,
+        "r5_diff": 1.2,
+        "r3_win_rate": 0.667,
+        "r20_win_rate": 0.45,
+        "r20_diff": -1.95,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-05-27T16:30:00Z"
+      },
+      "signals": [
+        {
+          "name": "Mild Form Edge -> Home",
+          "win_rate": 74.1,
+          "roi_pct": 41.5,
+          "bets_yr": 329,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
+          "realistic_edge": true
+        },
+        {
+          "name": "Late-Season Season Edge >15% -> Better",
+          "win_rate": 74.0,
+          "roi_pct": 41.2,
+          "bets_yr": 60,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Late season (Mar-Jun): |season win% gap| >15%. Bet the team with the better record.",
+          "realistic_edge": false
+        }
+      ],
+      "top_signal": {
+        "name": "Mild Form Edge -> Home",
+        "win_rate": 74.1,
+        "roi_pct": 41.5,
+        "bets_yr": 329,
+        "confidence": "high",
+        "bet": "home",
+        "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
+        "realistic_edge": true
+      },
+      "odds_22bet": {
+        "found": true,
+        "event_id": 724123803,
+        "o1": "Alba Berlin",
+        "o2": "SC Rasta Vechta",
+        "swapped": false,
+        "league": "Germany. BBL",
+        "moneyline": {
+          "home": 1.433,
+          "away": 2.907,
+          "found": true
+        },
+        "spread": {
+          "line": -4.5,
+          "home_odd": 1.77,
+          "away_odd": 2.01,
+          "found": true
+        },
+        "total": {
+          "line": 171.0,
+          "over": 1.89,
+          "under": 1.89,
+          "found": true
+        },
+        "ht_total": {
+          "line": 88.5,
+          "over": 1.89,
+          "under": 1.85,
+          "found": true
+        }
+      },
+      "card_color": "green"
+    },
+    {
+      "id": "724172257",
+      "name": "JSF Nanterre at Le Mans Sarthe",
+      "date_utc": "2026-05-27T17:00:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "France \u2014 LNB",
+      "home": {
+        "id": "Le Mans Sarthe",
+        "name": "Le Mans Sarthe",
+        "abbr": "LMS",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 341,
+        "last_game": "2025-06-20",
+        "r10_win_rate": 0.6,
+        "r10_diff": 1.7,
+        "r5_win_rate": 0.6,
+        "r5_diff": -1.8,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 0.7,
+        "r20_diff": 5.0,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-05-27T17:00:00Z"
+      },
+      "away": {
+        "id": "Nanterre 92",
+        "name": "JSF Nanterre",
+        "abbr": "JN",
+        "score": 0,
+        "wins": 20,
+        "losses": 8,
+        "season_pct": 0.7142857142857143,
+        "rest": 7,
+        "last_game": "2026-05-20",
+        "r10_win_rate": 0.8,
+        "r10_diff": 9.0,
+        "r5_win_rate": 0.8,
+        "r5_diff": 10.6,
+        "r3_win_rate": 0.667,
+        "r20_win_rate": 0.7,
+        "r20_diff": 6.35,
+        "games_last_5d": 0,
+        "games_last_7d": 1,
+        "games_used": 10,
+        "date_utc": "2026-05-27T17:00:00Z"
+      },
+      "signals": [
+        {
+          "name": "Late-Season Season Edge >15% -> Better",
+          "win_rate": 74.0,
+          "roi_pct": 41.2,
+          "bets_yr": 60,
+          "confidence": "high",
+          "bet": "away",
+          "note": "Late season (Mar-Jun): |season win% gap| >15%. Bet the team with the better record.",
+          "realistic_edge": false
+        },
+        {
+          "name": "Mild Form Diff Gap 5-8 -> Better",
+          "win_rate": 61.1,
+          "roi_pct": 16.6,
+          "bets_yr": 232,
+          "confidence": "medium",
+          "bet": "away",
+          "note": "Diff edge between 5 and 8 pts. Bridge between S5 and S11 for medium-strength signals.",
+          "realistic_edge": true
+        }
+      ],
+      "top_signal": {
+        "name": "Late-Season Season Edge >15% -> Better",
+        "win_rate": 74.0,
+        "roi_pct": 41.2,
+        "bets_yr": 60,
+        "confidence": "high",
+        "bet": "away",
+        "note": "Late season (Mar-Jun): |season win% gap| >15%. Bet the team with the better record.",
+        "realistic_edge": false
+      },
+      "odds_22bet": {
+        "found": true,
+        "event_id": 724172257,
+        "o1": "Le Mans Sarthe",
+        "o2": "JSF Nanterre",
+        "swapped": false,
+        "league": "France. LNB",
+        "moneyline": {
+          "home": 1.57,
+          "away": 2.48,
+          "found": true
+        },
+        "spread": {
+          "line": -3.5,
+          "home_odd": 1.8,
+          "away_odd": 1.97,
+          "found": true
+        },
+        "total": {
+          "line": 171.5,
+          "over": 1.88,
+          "under": 1.88,
+          "found": true
+        },
+        "ht_total": {
+          "line": 87.5,
+          "over": 1.82,
+          "under": 1.9,
+          "found": true
+        }
+      },
+      "card_color": "green"
+    },
     {
       "id": "401873202",
       "name": "Oklahoma City Thunder at San Antonio Spurs",
@@ -57,35 +431,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 724478983,
-        "o1": "Dallas Mavericks (cyber)",
-        "o2": "Oklahoma City Thunder (cyber)",
-        "swapped": false,
-        "league": "NBA 2K26. Cyber League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": 16.5,
-          "home_odd": 3.71,
-          "away_odd": 1.19,
-          "found": true
-        },
-        "total": {
-          "line": 215.5,
-          "over": 1.845,
-          "under": 1.96,
-          "found": true
-        },
-        "ht_total": {
-          "line": 98.5,
-          "over": 1.58,
-          "under": 2.264,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -165,43 +515,19 @@
         "realistic_edge": true
       },
       "odds_22bet": {
-        "found": true,
-        "event_id": 724478983,
-        "o1": "Dallas Mavericks (cyber)",
-        "o2": "Oklahoma City Thunder (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": -16.5,
-          "home_odd": 1.19,
-          "away_odd": 3.71,
-          "found": true
-        },
-        "total": {
-          "line": 215.5,
-          "over": 1.845,
-          "under": 1.96,
-          "found": true
-        },
-        "ht_total": {
-          "line": 98.5,
-          "over": 1.58,
-          "under": 2.264,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "green"
     }
   ],
   "meta": {
-    "total_games": 2,
-    "total_signals": 1,
-    "bet22_events": 12,
+    "total_games": 5,
+    "total_signals": 9,
+    "bet22_events": 20,
     "season": "2025-26 Playoffs"
   }
 }

@@ -17,6 +17,7 @@ from .strategy         import evaluate_game, rank_signals, top_signal
 from .euroleague_live  import (fetch_upcoming  as fetch_euroleague_upcoming,
                                fetch_team_recent_games as fetch_el_team_history,
                                EUROLEAGUE_CODE, EUROCUP_CODE)
+from .bet22_driven     import event_to_game as bet22_event_to_game, fetch_team_recent_games_local
 
 OUT_FILE = Path(__file__).resolve().parent.parent / "docs" / "data" / "signals.json"
 
@@ -49,11 +50,29 @@ def build_signals() -> dict:
         try:
             el_games = fetch_euroleague_upcoming(comp_code, label, days_ahead=7)
             for g in el_games:
-                g["_history_fn"] = comp_code   # used downstream to pick the right history fetcher
+                g["_history_fn"] = comp_code
             games_raw.extend(el_games)
             _log(f"  {len(el_games)} {label} games added")
         except Exception as exc:
             _log(f"  {label} fetch failed: {exc}")
+
+    # ── 1c. Discover games from 22bet for any league we have data for ─────
+    _log("Fetching 22bet basketball events for league-driven discovery...")
+    bet22_client_early = Bet22NBAClient(ttl=30.0)
+    try:
+        bet22_events_early = bet22_client_early.fetch_all()
+        added = 0
+        # Avoid double-counting events we already got from NBA/Euroleague
+        existing_ids = {g["id"] for g in games_raw}
+        for ev in bet22_events_early:
+            game = bet22_event_to_game(ev)
+            if game and game["id"] not in existing_ids:
+                games_raw.append(game)
+                added += 1
+        _log(f"  {added} additional games discovered via 22bet (Wikipedia-backed leagues)")
+    except Exception as exc:
+        _log(f"  22bet-driven discovery failed: {exc}")
+        bet22_events_early = []
 
     if not games_raw:
         _log("No games found — writing empty signals.json")
@@ -63,26 +82,28 @@ def build_signals() -> dict:
             "meta": {"msg": "No NBA games scheduled in next 3 days."},
         }
 
-    # ── 2. Collect unique (team_id, history_fn) so we fetch from the right source ─
-    team_jobs: set[tuple[str, str]] = set()
+    # ── 2. Collect unique (team_id, history_fn, folder) so we fetch from the right source ─
+    team_jobs: set[tuple[str, str, str]] = set()
     for g in games_raw:
         hf = g.get("_history_fn", "espn")
-        team_jobs.add((g["home"]["id"], hf))
-        team_jobs.add((g["away"]["id"], hf))
+        folder = g.get("_folder", "")
+        team_jobs.add((g["home"]["id"], hf, folder))
+        team_jobs.add((g["away"]["id"], hf, folder))
     _log(f"Fetching recent game history for {len(team_jobs)} teams (across leagues)...")
 
-    def fetch_one(tid: str, hf: str) -> list[dict]:
+    def fetch_one(tid: str, hf: str, folder: str = None) -> list[dict]:
         if hf == "espn":
             return fetch_team_recent_games(tid, 30)
+        if hf == "bet22_driven" and folder:
+            return fetch_team_recent_games_local(tid, folder, 30)
         # Euroleague or EuroCup code
         return fetch_el_team_history(tid, hf, 30)
 
-    # Parallel fetch — keyed by (team_id, source) so the same team in different
-    # competitions gets fetched correctly.
-    team_history: dict[tuple[str, str], list[dict]] = {}
+    # Parallel fetch — keyed by (team_id, source, folder)
+    team_history: dict[tuple[str, str, str], list[dict]] = {}
     with ThreadPoolExecutor(max_workers=10) as pool:
-        future_map = {pool.submit(fetch_one, tid, hf): (tid, hf)
-                      for tid, hf in team_jobs}
+        future_map = {pool.submit(fetch_one, tid, hf, folder): (tid, hf, folder)
+                      for tid, hf, folder in team_jobs}
         for fut in as_completed(future_map):
             key = future_map[fut]
             try:
@@ -91,11 +112,11 @@ def build_signals() -> dict:
                 _log(f"  WARNING: history fetch failed for {key}: {exc}")
                 team_history[key] = []
 
-    # ── 3. Fetch 22bet NBA odds ────────────────────────────────────────────
-    _log("Fetching 22bet basketball odds...")
-    client = Bet22NBAClient(ttl=30.0)
-    bet22_events = client.fetch_all()
-    _log(f"  {len(bet22_events)} 22bet basketball events")
+    # ── 3. 22bet odds (reuse client + events from step 1c) ────────────────
+    _log("Reusing 22bet basketball events for odds matching...")
+    client = bet22_client_early
+    bet22_events = bet22_events_early
+    _log(f"  {len(bet22_events)} 22bet basketball events available for odds matching")
 
     # ── 4. Compute features + signals for each game ───────────────────────
     output_games = []
@@ -104,9 +125,10 @@ def build_signals() -> dict:
     for g in games_raw:
         game_date = g["date_utc"][:10]   # YYYY-MM-DD
         hf = g.get("_history_fn", "espn")
+        folder = g.get("_folder", "")
 
-        h_hist = team_history.get((g["home"]["id"], hf), [])
-        a_hist = team_history.get((g["away"]["id"], hf), [])
+        h_hist = team_history.get((g["home"]["id"], hf, folder), [])
+        a_hist = team_history.get((g["away"]["id"], hf, folder), [])
 
         h_feats = compute_team_features(h_hist, game_date)
         a_feats = compute_team_features(a_hist, game_date)
