@@ -1,0 +1,106 @@
+
+==============================================================================
+[Turkey — Super League]  Turk Telekom at Anadolu Efes
+  Date: 2026-05-27T15:00:00Z
+------------------------------------------------------------------------------
+INPUT FEATURE AUDIT (compared to local CSV):
+  HOME 'Anadolu Efes' (matched local: 'Anadolu Efes'):
+    Last 10 in CSV: 10 games, WR=0.600, diff=+1.9, last played 2026-05-13
+    Dashboard shows: WR=0.6, diff=+1.9pt
+    Season W-L on dashboard: 20-10
+    [PASS] Feature values match local CSV
+  AWAY 'Turk Telekom' (matched local: 'Türk Telekom'):
+    Last 10 in CSV: 10 games, WR=1.000, diff=+18.3, last played 2026-05-27
+    Dashboard shows: WR=1.0, diff=+18.1pt
+    Season W-L on dashboard: 19-10
+    [PASS] Feature values match local CSV
+
+STRATEGY WR/ROI AUDIT (dashboard vs per-league backtest):
+  [S11] Form Gap >8pts -> Bet In-Form Team
+    Dashboard:        71.2% WR / +36.0% ROI  (these are NBA-derived)
+    Turkey_BSL actual:  70.82% WR / +35.2% ROI  (490 bets in backtest)
+    [PASS] gap = 0.4%  (within tolerance)
+  [S4] Win-Rate Gap >25% -> Bet Favourite
+    Dashboard:        68.7% WR / +31.2% ROI  (these are NBA-derived)
+    Turkey_BSL actual:  69.2% WR / +32.1% ROI  (526 bets in backtest)
+    [PASS] gap = 0.5%  (within tolerance)
+  [S12] Away +30% WR Edge + Rested
+    Dashboard:        64.1% WR / +22.4% ROI  (these are NBA-derived)
+    Turkey_BSL actual:  68.52% WR / +30.8% ROI  (216 bets in backtest)
+    [PASS] gap = 4.4%  (within tolerance)
+  [S18] Hot Away 5g + Rest -> Away
+    Dashboard:        61.8% WR / +17.9% ROI  (these are NBA-derived)
+    Turkey_BSL actual:  65.45% WR / +25.0% ROI  (110 bets in backtest)
+    [PASS] gap = 3.7%  (within tolerance)
+
+==============================================================================
+[Germany — BBL]  SC Rasta Vechta at Alba Berlin
+  Date: 2026-05-27T16:30:00Z
+------------------------------------------------------------------------------
+INPUT FEATURE AUDIT (compared to local CSV):
+  HOME 'Alba Berlin' (matched local: 'Alba Berlin'):
+    Last 10 in CSV: 10 games, WR=0.600, diff=+4.4, last played 2026-06-13
+    Dashboard shows: WR=0.6, diff=+5.0pt
+    Season W-L on dashboard: 23-9
+    [WARN] Feature values DON'T match — investigate
+  AWAY 'SC Rasta Vechta' (matched local: 'Rasta Vechta'):
+    Last 10 in CSV: 10 games, WR=0.500, diff=+6.2, last played 2026-06-27
+    Dashboard shows: WR=0.6, diff=+2.2pt
+    Season W-L on dashboard: 7-8
+    [WARN] Feature values DON'T match — investigate
+
+STRATEGY WR/ROI AUDIT (dashboard vs per-league backtest):
+  [S13] Mild Form Edge -> Home
+    Dashboard:        74.1% WR / +41.5% ROI  (these are NBA-derived)
+    Germany_BBL actual:  73.97% WR / +41.2% ROI  (438 bets in backtest)
+    [PASS] gap = 0.1%  (within tolerance)
+  [S20] Late-Season Season Edge >15% -> Better
+    Dashboard:        74.0% WR / +41.2% ROI  (these are NBA-derived)
+    Germany_BBL actual:  70.85% WR / +35.3% ROI  (247 bets in backtest)
+    [PASS] gap = 3.2%  (within tolerance)
+
+==============================================================================
+[France — LNB]  JSF Nanterre at Le Mans Sarthe
+  Date: 2026-05-27T17:00:00Z
+------------------------------------------------------------------------------
+INPUT FEATURE AUDIT (compared to local CSV):
+  HOME 'Le Mans Sarthe' (matched local: 'Le Mans Sarthe'):
+    Last 10 in CSV: 10 games, WR=0.600, diff=+1.7, last played 2025-06-20
+    Dashboard shows: WR=0.6, diff=+1.7pt
+    Season W-L on dashboard: 0-0
+    [PASS] Feature values match local CSV
+    [STALE] Last game in our data is 341d old (2025-06-20)
+            This signal uses HISTORICAL form, not current-season form.
+  AWAY 'JSF Nanterre' (matched local: 'Nanterre 92'):
+    Last 10 in CSV: 10 games, WR=0.800, diff=+10.7, last played 2026-06-23
+    Dashboard shows: WR=0.8, diff=+9.0pt
+    Season W-L on dashboard: 20-8
+    [WARN] Feature values DON'T match — investigate
+
+STRATEGY WR/ROI AUDIT (dashboard vs per-league backtest):
+  [S20] Late-Season Season Edge >15% -> Better
+    Dashboard:        74.0% WR / +41.2% ROI  (these are NBA-derived)
+    France_LNB actual:  76.25% WR / +45.6% ROI  (160 bets in backtest)
+    [PASS] gap = 2.2%  (within tolerance)
+  [S22] Mild Form Diff Gap 5-8 -> Better
+    Dashboard:        61.1% WR / +16.6% ROI  (these are NBA-derived)
+    France_LNB actual:  61.26% WR / +16.9% ROI  (111 bets in backtest)
+    [PASS] gap = 0.2%  (within tolerance)
+
+==============================================================================
+[NBA]  Oklahoma City Thunder at San Antonio Spurs
+  Date: 2026-05-29T00:30Z
+------------------------------------------------------------------------------
+  NBA uses ESPN live API — relies on freshness of online data.
+  Skipping local CSV audit; NBA was verified separately.
+
+==============================================================================
+[NBA]  San Antonio Spurs at Oklahoma City Thunder
+  Date: 2026-05-31T00:00Z
+------------------------------------------------------------------------------
+  NBA uses ESPN live API — relies on freshness of online data.
+  Skipping local CSV audit; NBA was verified separately.
+  - [S15] 20g Hot Home + WR Edge -> Home  shown: 76.5% WR  +46.0% ROI
+
+==============================================================================
+AUDIT COMPLETE

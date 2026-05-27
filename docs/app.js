@@ -489,8 +489,15 @@ function openModal(g) {
           Stake <strong>${fmtMoney(stakeAmt)}</strong> &middot; Win returns <strong>${fmtMoney(profitIfWin)}</strong> profit
         </div>
         <div class="rec-why">
-          <strong>Why:</strong> ${escHtml(top.name)} &middot; backtested ${top.win_rate}% win rate, +${top.roi_pct}% ROI over ~${top.bets_yr || '?'} bets/year.<br>
-          ${escHtml(top.note || '')}
+          <strong>Why:</strong> ${escHtml(top.name)}<br>
+          ${top.league_data_status === 'verified' ? `
+            <span class="bt-verified">✓ Backtested in this league:</span> <strong>${top.league_win_rate}% WR</strong> / <strong>+${top.league_roi_pct}% ROI</strong> (${top.league_bets} bets in our dataset)<br>
+            <span style="color:#94a3b8;font-size:11px">NBA benchmark: ${top.win_rate}% WR / +${top.roi_pct}% ROI</span><br>
+          ` : `
+            <span class="bt-warning">⚠ NBA-backtested only:</span> ${top.win_rate}% WR / +${top.roi_pct}% ROI<br>
+            <span style="color:#94a3b8;font-size:11px">Not yet validated on this specific league's data</span><br>
+          `}
+          <span style="color:#cbd5e1;font-size:12px">${escHtml(top.note || '')}</span>
         </div>
 
         <div class="rec-steps">

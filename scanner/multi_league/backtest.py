@@ -123,19 +123,30 @@ def run_strategies(g: pd.DataFrame) -> list[dict]:
             "PnL_u":    round(pnl.sum(), 2),
         })
 
+    FALSE = pd.Series(False, index=g.index)
     bt("S1  Away B2B + Home Rested",          (g["a_rest"] == 1) & (g["h_rest"] >= 2))
+    # S2 (Home B2B, Bet Away) and S3 (Both B2B, Fade Home) — not in live strategy.py
+    bt("S4  Win-Rate Gap >25%",               g["wr_edge_abs_gt_25" if False else "h_r_wr"].notna() & ((g["h_r_wr"] - g["a_r_wr"]).abs() > 0.25), bet_home=(g["h_r_wr"] - g["a_r_wr"] > 0))
     bt("S5  Home Form Edge +5",               (g["h_r_diff"] - g["a_r_diff"] > 5) & (g["h_r_diff"] > 3))
-    bt("S6  Dominant Away vs Losing Home",    (g["a_r_diff"] > 7) & (g["h_r_diff"] < -2), bet_home=pd.Series(False, index=g.index))
+    bt("S6  Dominant Away vs Losing Home",    (g["a_r_diff"] > 7) & (g["h_r_diff"] < -2), bet_home=FALSE)
     bt("S7  Rest + Season Lead",              (g["h_rest"] - g["a_rest"] >= 2) & (g["h_szn_pct"] - g["a_szn_pct"] > 0.10))
     bt("S8  Hot Home vs Cold Away (5g)",      (g["h_r5_wr"] > 0.70) & (g["a_r5_wr"] < 0.35))
     bt("S9  Triple-Edge Home",                (g["h_rest"] - g["a_rest"] >= 1) & (g["h_r_wr"] - g["a_r_wr"] > 0.15) & (g["h_r_diff"] - g["a_r_diff"] > 3))
+    bt("S10 Elite Away vs Weak Home",         (g["a_r_wr"] > 0.62) & (g["h_r_wr"] < 0.45) & (g["a_rest"] >= 2), bet_home=FALSE)
     bt("S11 Form Gap >8",                     (g["h_r_diff"] - g["a_r_diff"]).abs() > 8, bet_home=(g["h_r_diff"] - g["a_r_diff"] > 0))
+    bt("S12 Away +30% WR + Rest",             ((g["a_r_wr"] - g["h_r_wr"]) > 0.30) & (g["a_rest"] >= 2), bet_home=FALSE)
     bt("S13 Mild Form Edge",                  (g["h_r_diff"] - g["a_r_diff"] > 2.5) & (g["h_r_diff"] > 1))
     bt("S14 Home Consistency",                (g["h_r_diff"] > 5) & (g["h_r5_diff"] > 5))
     bt("S15 20g Hot Home",                    (g["h_r20_wr"] > 0.65) & (g["h_r_wr"] - g["a_r_wr"] > 0.10))
     bt("S16 Mid-Season Form + Szn Lead",      g["mid_season"] & (g["h_r_diff"] - g["a_r_diff"] > 5) & (g["h_szn_pct"] - g["a_szn_pct"] > 0.05))
+    bt("S17 Cold 3g Home Streak",             (g["h_r3_wr"] <= 0.33) & (g["a_r_wr"] > 0.50), bet_home=FALSE)
+    bt("S18 Hot Away 5g + Rest",              (g["a_r5_wr"] > 0.75) & (g["a_rest"] >= 2) & (g["h_r5_wr"] < 0.50), bet_home=FALSE)
+    bt("S19 Late-Season Big Mismatch",        g["late_season"] & (g["h_szn_pct"] > 0.65) & (g["a_szn_pct"] < 0.40))
+    bt("S20 Late-Season Season Edge >15%",    g["late_season"] & ((g["h_szn_pct"] - g["a_szn_pct"]).abs() > 0.15), bet_home=(g["h_szn_pct"] > g["a_szn_pct"]))
+    bt("S21 Early-Season WR Edge >25%",       g["early_season"] & ((g["h_r_wr"] - g["a_r_wr"]).abs() > 0.25), bet_home=(g["h_r_wr"] > g["a_r_wr"]))
     bt("S22 Mild Diff Gap 5-8",               (g["h_r_diff"] - g["a_r_diff"]).abs().between(5, 8, inclusive='right'), bet_home=(g["h_r_diff"] - g["a_r_diff"] > 0))
     bt("S23 Elite vs Elite -> Home",          (g["h_r_wr"] > 0.60) & (g["a_r_wr"] > 0.60))
+    bt("S24 Tank vs Tank -> Home",            (g["h_r_wr"] < 0.35) & (g["a_r_wr"] < 0.35))
 
     return results
 

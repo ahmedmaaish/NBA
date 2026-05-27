@@ -10,6 +10,7 @@ import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
+import csv
 
 from .espn_nba         import fetch_schedule_window, parse_event, fetch_team_recent_games, compute_team_features
 from .bet22_nba        import Bet22NBAClient, get_game_odds
@@ -18,6 +19,77 @@ from .euroleague_live  import (fetch_upcoming  as fetch_euroleague_upcoming,
                                fetch_team_recent_games as fetch_el_team_history,
                                EUROLEAGUE_CODE, EUROCUP_CODE)
 from .bet22_driven     import event_to_game as bet22_event_to_game, fetch_team_recent_games_local
+
+# Per-league backtest results — bundled into the repo so live scanner can
+# enrich signals with the WR/ROI specific to the league each signal fires in.
+_PER_LEAGUE_BT = {}
+_BT_PATH = Path(__file__).resolve().parent / "league_data" / "_multi_league_backtest.csv"
+if _BT_PATH.exists():
+    with _BT_PATH.open("r", encoding="utf-8") as _f:
+        for _row in csv.DictReader(_f):
+            _PER_LEAGUE_BT[(_row["League"].strip(), _row["Strategy"].strip())] = {
+                "win_rate": float(_row["WinRate%"]),
+                "roi_pct":  float(_row["ROI%"]),
+                "bets":     int(float(_row["Bets"])),
+            }
+
+# Strategy name (as shown on dashboard) -> multi_league backtest key
+_STRAT_TO_BTKEY = {
+    "Away B2B -> Bet Home":                          "S1  Away B2B + Home Rested",
+    "Win-Rate Gap >25% -> Bet Favourite":            "S4  Win-Rate Gap >25%",
+    "Home Form Edge +5pts -> Bet Home":              "S5  Home Form Edge +5",
+    "Dominant Away vs Losing Home":                  "S6  Dominant Away vs Losing Home",
+    "Rest Edge + Season Lead -> Bet Home":           "S7  Rest + Season Lead",
+    "5-Game Hot Home vs Cold Away":                  "S8  Hot Home vs Cold Away (5g)",
+    "Triple-Edge Home (Rest+WR+Diff)":               "S9  Triple-Edge Home",
+    "Elite Away Rested vs Weak Home":                "S10 Elite Away vs Weak Home",
+    "Form Gap >8pts -> Bet In-Form Team":            "S11 Form Gap >8",
+    "Away +30% WR Edge + Rested":                    "S12 Away +30% WR + Rest",
+    "Mild Form Edge -> Home":                        "S13 Mild Form Edge",
+    "Home Consistency Edge -> Home":                 "S14 Home Consistency",
+    "20g Hot Home + WR Edge -> Home":                "S15 20g Hot Home",
+    "Mid-Season Form + Season Lead -> Home":         "S16 Mid-Season Form + Szn Lead",
+    "Cold 3-Game Home Streak -> Fade Home":          "S17 Cold 3g Home Streak",
+    "Hot Away 5g + Rest -> Away":                    "S18 Hot Away 5g + Rest",
+    "Late-Season Big Mismatch -> Home":              "S19 Late-Season Big Mismatch",
+    "Late-Season Season Edge >15% -> Better":        "S20 Late-Season Season Edge >15%",
+    "Early-Season WR Edge >25% -> Better":           "S21 Early-Season WR Edge >25%",
+    "Mild Form Diff Gap 5-8 -> Better":              "S22 Mild Diff Gap 5-8",
+    "Elite vs Elite -> Home (HCA)":                  "S23 Elite vs Elite -> Home",
+    "Tank vs Tank -> Home (HCA)":                    "S24 Tank vs Tank -> Home",
+}
+
+# Dashboard league label -> backtest league label
+_LEAGUE_TO_BT = {
+    "Turkey — Super League": "Turkey BSL",
+    "Germany — BBL":         "Germany BBL",
+    "France — LNB":          "France LNB",
+    "Spain — Liga ACB":      "Spain ACB",
+    "Italy — Lega A":        "Italy LBA",
+    "Israel — Superleague":  "Israel BSL",
+    "Lithuania — LKL":       "Lithuania LKL",
+    "Euroleague":            "Euroleague",
+    "EuroCup":               "EuroCup",
+}
+
+
+def _attach_league_backtest(signal: dict, league: str) -> dict:
+    """Add 'league_win_rate', 'league_roi_pct', 'league_bets' to a signal so the
+    UI can display the strategy's actual performance in THIS specific league
+    instead of only the NBA-derived number."""
+    bt_league = _LEAGUE_TO_BT.get(league)
+    bt_key    = _STRAT_TO_BTKEY.get(signal.get("name", ""))
+    if not bt_league or not bt_key:
+        return signal
+    hit = _PER_LEAGUE_BT.get((bt_league, bt_key))
+    if not hit:
+        signal["league_data_status"] = "not_backtested_for_league"
+        return signal
+    signal["league_win_rate"] = round(hit["win_rate"], 2)
+    signal["league_roi_pct"]  = round(hit["roi_pct"], 2)
+    signal["league_bets"]     = hit["bets"]
+    signal["league_data_status"] = "verified"
+    return signal
 
 OUT_FILE = Path(__file__).resolve().parent.parent / "docs" / "data" / "signals.json"
 
@@ -144,6 +216,9 @@ def build_signals() -> dict:
 
         # Strategy signals
         signals = evaluate_game(home_out, away_out, h_feats, a_feats)
+        # Enrich each signal with its actual per-league backtest result
+        for s in signals:
+            _attach_league_backtest(s, g.get("league", "NBA"))
         ranked  = rank_signals(signals)
         top     = top_signal(signals)
         total_signals += len(signals)
