@@ -444,15 +444,23 @@ function openModal(g) {
       pickTeamName = isAway ? a.name : h.name;
     }
 
-    // Decide which 22bet market the user should click
-    if (top.realistic_edge) {
-      // Realistic edge → bet on the team to win outright. 22bet calls this "Team Wins".
+    // Decide which 22bet market the user should click.
+    // CRITICAL: an ATS (Against The Spread) safety check overrides the old
+    // "realistic_edge" heuristic. A strategy with great outright WR but poor
+    // ATS WR will silently lose money on handicap — we should always
+    // recommend Team Wins (moneyline) for those.
+    const atsSafe   = top.league_ats_safe;
+    const atsWR     = top.league_ats_wr;
+    const recCode   = top.bet_recommendation || (top.realistic_edge ? 'moneyline' : 'handicap');
+
+    if (recCode === 'moneyline_only' || recCode === 'moneyline' ||
+        (recCode === 'handicap_or_moneyline' && top.realistic_edge)) {
       internalType  = 'moneyline';
       marketName    = 'Team Wins';
       marketSubtext = '(pick this team to win — including overtime)';
       pickOdd       = pickSide === 'home' ? ml.home : ml.away;
     } else {
-      // Heavy favourite → safer on the point spread. 22bet calls this "Handicap".
+      // Recommend Handicap only when ATS data confirms it's safe.
       internalType  = 'spread';
       marketName    = 'Handicap';
       const lineStr = (sp.found && sp.line != null)
@@ -491,12 +499,22 @@ function openModal(g) {
         <div class="rec-why">
           <strong>Why:</strong> ${escHtml(top.name)}<br>
           ${top.league_data_status === 'verified' ? `
-            <span class="bt-verified">✓ Backtested in this league:</span> <strong>${top.league_win_rate}% WR</strong> / <strong>+${top.league_roi_pct}% ROI</strong> (${top.league_bets} bets in our dataset)<br>
+            <span class="bt-verified">✓ Backtested in this league:</span>
+            <strong>${top.league_win_rate}% outright WR</strong> / +${top.league_roi_pct}% ROI (${top.league_bets} bets)<br>
             <span style="color:#94a3b8;font-size:11px">NBA benchmark: ${top.win_rate}% WR / +${top.roi_pct}% ROI</span><br>
           ` : `
             <span class="bt-warning">⚠ NBA-backtested only:</span> ${top.win_rate}% WR / +${top.roi_pct}% ROI<br>
             <span style="color:#94a3b8;font-size:11px">Not yet validated on this specific league's data</span><br>
           `}
+          ${atsWR != null ? `
+            <span class="${atsSafe ? 'bt-verified' : 'bt-danger'}">
+              ${atsSafe ? '✓' : '⚠'} Spread (Handicap) cover rate:
+            </span>
+            <strong>${atsWR}% ATS</strong>
+            ${atsSafe
+              ? '— safe to bet handicap'
+              : '— LOSES money on handicap. Use Team Wins instead.'}<br>
+          ` : ''}
           <span style="color:#cbd5e1;font-size:12px">${escHtml(top.note || '')}</span>
         </div>
 

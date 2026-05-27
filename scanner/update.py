@@ -33,6 +33,20 @@ if _BT_PATH.exists():
                 "bets":     int(float(_row["Bets"])),
             }
 
+# Per-league Against-The-Spread results — critical for handicap recommendations.
+# A strategy can have 75% outright WR but only 50% ATS WR (losing money on handicap).
+_PER_LEAGUE_ATS = {}
+_ATS_PATH = Path(__file__).resolve().parent / "league_data" / "_ats_results.csv"
+if _ATS_PATH.exists():
+    with _ATS_PATH.open("r", encoding="utf-8") as _f:
+        for _row in csv.DictReader(_f):
+            _PER_LEAGUE_ATS[(_row["League"].strip(), _row["Strategy"].strip())] = {
+                "outright_wr": float(_row["OutrightWR"]),
+                "ats_wr":      float(_row["ATS_WR"]),
+                "gap":         float(_row["Gap"]),
+                "bets":        int(float(_row["Bets"])),
+            }
+
 # Strategy name (as shown on dashboard) -> multi_league backtest key
 _STRAT_TO_BTKEY = {
     "Away B2B -> Bet Home":                          "S1  Away B2B + Home Rested",
@@ -73,22 +87,84 @@ _LEAGUE_TO_BT = {
 }
 
 
+# Strategy ID -> name key used in the ATS results CSV (slightly different from
+# the multi_league_backtest CSV — uses a shorter form)
+_STRAT_TO_ATSKEY = {
+    "Away B2B -> Bet Home":                          "S1 Away B2B + Home Rested",
+    "Win-Rate Gap >25% -> Bet Favourite":            "S4 Win-Rate Gap >25%",
+    "Home Form Edge +5pts -> Bet Home":              "S5 Home Form Edge +5",
+    "Dominant Away vs Losing Home":                  "S6 Dominant Away vs Losing Home",
+    "Rest Edge + Season Lead -> Bet Home":           "S7 Rest + Season Lead",
+    "5-Game Hot Home vs Cold Away":                  "S8 Hot Home vs Cold Away (5g)",
+    "Triple-Edge Home (Rest+WR+Diff)":               "S9 Triple-Edge Home",
+    "Elite Away Rested vs Weak Home":                "S10 Elite Away vs Weak Home",
+    "Form Gap >8pts -> Bet In-Form Team":            "S11 Form Gap >8",
+    "Away +30% WR Edge + Rested":                    "S12 Away +30% WR + Rest",
+    "Mild Form Edge -> Home":                        "S13 Mild Form Edge",
+    "Home Consistency Edge -> Home":                 "S14 Home Consistency",
+    "20g Hot Home + WR Edge -> Home":                "S15 20g Hot Home",
+    "Mid-Season Form + Season Lead -> Home":         "S16 Mid-Season Form + Szn Lead",
+    "Cold 3-Game Home Streak -> Fade Home":          "S17 Cold 3g Home Streak",
+    "Hot Away 5g + Rest -> Away":                    "S18 Hot Away 5g + Rest",
+    "Late-Season Big Mismatch -> Home":              "S19 Late-Season Big Mismatch",
+    "Late-Season Season Edge >15% -> Better":        "S20 Late-Season Edge >15%",
+    "Early-Season WR Edge >25% -> Better":           "S21 Early-Season WR Edge >25%",
+    "Mild Form Diff Gap 5-8 -> Better":              "S22 Mild Diff Gap 5-8",
+    "Elite vs Elite -> Home (HCA)":                  "S23 Elite vs Elite -> Home",
+    "Tank vs Tank -> Home (HCA)":                    "S24 Tank vs Tank -> Home",
+}
+
+ATS_BREAKEVEN = 52.4   # win rate needed to break even at -110 odds
+
+
 def _attach_league_backtest(signal: dict, league: str) -> dict:
-    """Add 'league_win_rate', 'league_roi_pct', 'league_bets' to a signal so the
-    UI can display the strategy's actual performance in THIS specific league
-    instead of only the NBA-derived number."""
+    """Add per-league outright WR/ROI AND per-league ATS WR so the UI can
+    show whether a handicap bet (which requires covering the spread) is
+    actually safe for this strategy in this league.
+
+    Sets:
+      - league_win_rate / league_roi_pct / league_bets  (outright)
+      - league_ats_wr / league_ats_safe                (handicap safety)
+      - league_data_status                              (verified | partial)
+      - bet_recommendation                              ("moneyline" | "spread" | "skip")
+    """
     bt_league = _LEAGUE_TO_BT.get(league)
     bt_key    = _STRAT_TO_BTKEY.get(signal.get("name", ""))
-    if not bt_league or not bt_key:
-        return signal
-    hit = _PER_LEAGUE_BT.get((bt_league, bt_key))
-    if not hit:
-        signal["league_data_status"] = "not_backtested_for_league"
-        return signal
-    signal["league_win_rate"] = round(hit["win_rate"], 2)
-    signal["league_roi_pct"]  = round(hit["roi_pct"], 2)
-    signal["league_bets"]     = hit["bets"]
-    signal["league_data_status"] = "verified"
+
+    # Outright WR enrichment
+    if bt_league and bt_key:
+        hit = _PER_LEAGUE_BT.get((bt_league, bt_key))
+        if hit:
+            signal["league_win_rate"] = round(hit["win_rate"], 2)
+            signal["league_roi_pct"]  = round(hit["roi_pct"], 2)
+            signal["league_bets"]     = hit["bets"]
+            signal["league_data_status"] = "verified"
+        else:
+            signal["league_data_status"] = "not_backtested_for_league"
+    else:
+        signal["league_data_status"] = "no_mapping"
+
+    # ATS WR enrichment — answers "is the handicap bet safe?"
+    ats_key = _STRAT_TO_ATSKEY.get(signal.get("name", ""))
+    if bt_league and ats_key:
+        ats_hit = _PER_LEAGUE_ATS.get((bt_league, ats_key))
+        if ats_hit:
+            signal["league_ats_wr"]   = round(ats_hit["ats_wr"], 1)
+            signal["league_ats_safe"] = ats_hit["ats_wr"] >= ATS_BREAKEVEN
+
+    # Bet-type recommendation:
+    #   - If strategy claims realistic_edge AND ATS is poor -> moneyline only
+    #   - If ATS is safe -> handicap fine, lower variance
+    #   - If outright WR good but ATS bad -> moneyline only (warn)
+    ats_safe = signal.get("league_ats_safe", None)
+    realistic = signal.get("realistic_edge", False)
+    if ats_safe is True:
+        signal["bet_recommendation"] = "handicap_or_moneyline"
+    elif ats_safe is False:
+        signal["bet_recommendation"] = "moneyline_only"   # handicap LOSES money
+    else:
+        signal["bet_recommendation"] = "moneyline" if realistic else "handicap"
+
     return signal
 
 OUT_FILE = Path(__file__).resolve().parent.parent / "docs" / "data" / "signals.json"
