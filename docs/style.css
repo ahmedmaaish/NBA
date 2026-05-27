@@ -254,6 +254,30 @@ details.modal-section summary::before { content: "▸ "; color: #64748b; }
 details.modal-section[open] summary::before { content: "▾ "; }
 details.modal-section[open] summary { margin-bottom: 6px; }
 
+/* ── League badge (per game card) ── */
+.league-badge {
+  display: inline-block;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.6px;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: #334155;
+  color: #cbd5e1;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+.league-nba         { background: #7c2d12; color: #fed7aa; }
+.league-euroleague  { background: #581c87; color: #e9d5ff; }
+.league-eurocup     { background: #1e3a8a; color: #bfdbfe; }
+.league-spain-acb   { background: #991b1b; color: #fecaca; }
+.league-turkey-bsl  { background: #166534; color: #bbf7d0; }
+.league-france-lnb  { background: #1e40af; color: #bfdbfe; }
+.league-germany-bbl { background: #b45309; color: #fed7aa; }
+.league-italy-lba   { background: #14532d; color: #86efac; }
+.league-israel-bsl  { background: #0e7490; color: #a5f3fc; }
+.league-lithuania-lkl { background: #be185d; color: #fbcfe8; }
+
 /* ── Upcoming-games widget ── */
 .next-up {
   background: linear-gradient(180deg, #1e293b 0%, #0f172a 100%);

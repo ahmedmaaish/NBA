@@ -383,11 +383,15 @@ function renderScan() {
       ? `<span class="series-badge">Game ${seriesIndex} of ${seriesTotal} in series</span>`
       : '';
 
+    const leagueName = g.league || 'NBA';
+    const leagueBadge = `<span class="league-badge league-${escHtml(leagueName.toLowerCase().replace(/\s+/g, '-'))}">${escHtml(leagueName)}</span>`;
+
     const cdStr = fmtCountdown(g.date_utc, g.state);
     const html = `
       <div class="game-card ${color}" data-gid="${escHtml(g.id)}">
         <div class="gc-top">
           <span class="${statusClass}">${escHtml(statusLabel)}</span>
+          ${leagueBadge}
           <span class="gc-time">
             ${escHtml(fmtDate(g.date_utc))}
             <span class="gc-time-cd" data-date="${escHtml(g.date_utc)}" data-state="${escHtml(g.state)}">${escHtml(cdStr)}</span>
@@ -596,9 +600,13 @@ function openModal(g) {
       </div>`;
   }
 
+  const leagueLabel = g.league || 'NBA';
   $('modal-body').innerHTML = `
     <div class="modal-title">${escHtml(a.name||'?')} @ ${escHtml(h.name||'?')}</div>
-    <div class="modal-subtitle">${escHtml(fmtDate(g.date_utc))} &middot; ${escHtml(fmtGameTime(g.date_utc, g.state))}</div>
+    <div class="modal-subtitle">
+      <span class="league-badge league-${escHtml(leagueLabel.toLowerCase().replace(/\s+/g, '-'))}">${escHtml(leagueLabel)}</span>
+      &middot; ${escHtml(fmtDate(g.date_utc))} &middot; ${escHtml(fmtGameTime(g.date_utc, g.state))}
+    </div>
 
     ${seriesHtml}
 

@@ -50,11 +50,17 @@ def build_features(df: pd.DataFrame) -> pd.DataFrame:
     ts["win"]    = (ts["diff"] > 0).astype(int)
     ts = ts.sort_values(["team","date","game_idx"]).reset_index(drop=True)
 
-    grp = ts.groupby("team")
+    # CRITICAL: rolling windows must be PER (team, season) so that the rolling
+    # stat of a team's first game of season N doesn't pull in season N-1 games.
+    # Verified by scanner/multi_league/verify.py — without this, ~30% of samples
+    # mismatch the manual same-season calculation.
+    season_grp = ts.groupby(["team", "season"])
     def roll(col, w, min_p=None):
         if min_p is None:
             min_p = max(3, w // 3)
-        return grp[col].transform(lambda x: x.shift(1).rolling(w, min_periods=min_p).mean())
+        return season_grp[col].transform(
+            lambda x: x.shift(1).rolling(w, min_periods=min_p).mean()
+        )
 
     ts["r_wr"]      = roll("win", 10)
     ts["r_diff"]    = roll("diff", 10)
@@ -63,19 +69,14 @@ def build_features(df: pd.DataFrame) -> pd.DataFrame:
     ts["r3_wr"]     = roll("win", 3, min_p=2)
     ts["r20_wr"]    = roll("win", 20, min_p=5)
 
-    # Days rest (sequence-based since dates may be approximated)
-    ts["prev_date"] = grp["date"].transform(lambda x: x.shift(1))
+    # Days rest is computed within season (don't carry over from previous season)
+    ts["prev_date"] = season_grp["date"].transform(lambda x: x.shift(1))
     ts["rest"] = ((ts["date"] - ts["prev_date"]).dt.days
                   .fillna(7).clip(0, 14).astype(int))
 
-    # Cumulative season W/L per team (PRE-game)
-    ts["season_wins"]   = grp["win"].transform(lambda x: x.shift(1).cumsum()).fillna(0)
-    ts["season_losses"] = grp["win"].transform(lambda x: (1 - x).shift(1).cumsum()).fillna(0)
-    ts["szn_pct"]       = ts["season_wins"] / (ts["season_wins"] + ts["season_losses"] + 1e-6)
-    # Reset cumulative counters at season boundary
-    season_groups = ts.groupby(["team", "season"])
-    ts["season_wins"]   = season_groups["win"].transform(lambda x: x.shift(1).cumsum()).fillna(0)
-    ts["season_losses"] = season_groups["win"].transform(lambda x: (1 - x).shift(1).cumsum()).fillna(0)
+    # Cumulative season W/L per team (PRE-game, season-scoped)
+    ts["season_wins"]   = season_grp["win"].transform(lambda x: x.shift(1).cumsum()).fillna(0)
+    ts["season_losses"] = season_grp["win"].transform(lambda x: (1 - x).shift(1).cumsum()).fillna(0)
     ts["szn_pct"]       = ts["season_wins"] / (ts["season_wins"] + ts["season_losses"] + 1e-6)
 
     # Re-merge into per-game rows (home + away features side-by-side)
