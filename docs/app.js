@@ -445,22 +445,31 @@ function openModal(g) {
     }
 
     // Decide which 22bet market the user should click.
-    // CRITICAL: an ATS (Against The Spread) safety check overrides the old
-    // "realistic_edge" heuristic. A strategy with great outright WR but poor
-    // ATS WR will silently lose money on handicap — we should always
-    // recommend Team Wins (moneyline) for those.
+    // PRIMARY decision uses EV computed from REAL 22bet odds + per-league WR.
+    // Team Wins (moneyline) is preferred whenever its EV is comparable or better
+    // because it's simpler ("just pick the winner") and easier to evaluate.
     const atsSafe   = top.league_ats_safe;
     const atsWR     = top.league_ats_wr;
-    const recCode   = top.bet_recommendation || (top.realistic_edge ? 'moneyline' : 'handicap');
+    const bestBetType = top.best_bet_type;   // 'team_wins' | 'handicap' | 'skip' | undefined
 
-    if (recCode === 'moneyline_only' || recCode === 'moneyline' ||
-        (recCode === 'handicap_or_moneyline' && top.realistic_edge)) {
+    // If EV comparison was computed, trust it; otherwise fall back to ATS check.
+    let useHandicap = false;
+    if (bestBetType === 'handicap') {
+      useHandicap = true;
+    } else if (bestBetType === 'team_wins' || bestBetType === 'skip') {
+      useHandicap = false;
+    } else {
+      // No EV data available (no 22bet odds, or NBA game) — fall back to ATS check
+      useHandicap = (top.bet_recommendation === 'handicap_or_moneyline' &&
+                     !top.realistic_edge);
+    }
+
+    if (!useHandicap) {
       internalType  = 'moneyline';
       marketName    = 'Team Wins';
       marketSubtext = '(pick this team to win — including overtime)';
       pickOdd       = pickSide === 'home' ? ml.home : ml.away;
     } else {
-      // Recommend Handicap only when ATS data confirms it's safe.
       internalType  = 'spread';
       marketName    = 'Handicap';
       const lineStr = (sp.found && sp.line != null)
@@ -470,6 +479,11 @@ function openModal(g) {
         : '';
       marketSubtext = lineStr ? `(pick this team to cover ${lineStr})` : '(point-spread bet)';
       pickOdd       = pickSide === 'home' ? sp.home_odd : sp.away_odd;
+    }
+
+    // If both bet types are -EV, show a skip warning instead
+    if (bestBetType === 'skip') {
+      marketSubtext = '⚠ Both Team Wins and Handicap are -EV at current 22bet odds';
     }
 
     const oddStr      = pickOdd != null ? Number(pickOdd).toFixed(2) : 'check 22bet';
@@ -508,12 +522,29 @@ function openModal(g) {
           `}
           ${atsWR != null ? `
             <span class="${atsSafe ? 'bt-verified' : 'bt-danger'}">
-              ${atsSafe ? '✓' : '⚠'} Spread (Handicap) cover rate:
+              ${atsSafe ? '✓' : '⚠'} Spread cover rate:
             </span>
-            <strong>${atsWR}% ATS</strong>
-            ${atsSafe
-              ? '— safe to bet handicap'
-              : '— LOSES money on handicap. Use Team Wins instead.'}<br>
+            <strong>${atsWR}% ATS</strong><br>
+          ` : ''}
+          ${(top.ml_ev_per_10 != null || top.hcap_ev_per_10 != null) ? `
+            <div class="ev-compare">
+              <div class="ev-title">📊 Expected profit per $10 stake at current 22bet odds:</div>
+              ${top.ml_ev_per_10 != null ? `
+                <div class="ev-row ${bestBetType === 'team_wins' ? 'ev-winner' : ''}">
+                  Team Wins:
+                  <strong>${top.ml_ev_per_10 >= 0 ? '+' : '-'}$${Math.abs(top.ml_ev_per_10).toFixed(2)}</strong>
+                  ${bestBetType === 'team_wins' ? '<span class="ev-badge">BEST</span>' : ''}
+                </div>
+              ` : ''}
+              ${top.hcap_ev_per_10 != null ? `
+                <div class="ev-row ${bestBetType === 'handicap' ? 'ev-winner' : ''}">
+                  Handicap:
+                  <strong>${top.hcap_ev_per_10 >= 0 ? '+' : '-'}$${Math.abs(top.hcap_ev_per_10).toFixed(2)}</strong>
+                  ${bestBetType === 'handicap' ? '<span class="ev-badge">BEST</span>' : ''}
+                </div>
+              ` : ''}
+              ${top.best_bet_reason ? `<div class="ev-reason">${escHtml(top.best_bet_reason)}</div>` : ''}
+            </div>
           ` : ''}
           <span style="color:#cbd5e1;font-size:12px">${escHtml(top.note || '')}</span>
         </div>

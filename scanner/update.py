@@ -117,6 +117,14 @@ _STRAT_TO_ATSKEY = {
 ATS_BREAKEVEN = 52.4   # win rate needed to break even at -110 odds
 
 
+def _ev_per_dollar(wr_pct: float, decimal_odds: float) -> float:
+    """EV of a $1 bet. Positive = +money long-term."""
+    if wr_pct is None or decimal_odds is None or decimal_odds <= 1:
+        return None
+    p = wr_pct / 100.0
+    return p * (decimal_odds - 1) - (1 - p)
+
+
 def _attach_league_backtest(signal: dict, league: str) -> dict:
     """Add per-league outright WR/ROI AND per-league ATS WR so the UI can
     show whether a handicap bet (which requires covering the spread) is
@@ -165,6 +173,55 @@ def _attach_league_backtest(signal: dict, league: str) -> dict:
     else:
         signal["bet_recommendation"] = "moneyline" if realistic else "handicap"
 
+    return signal
+
+
+def _compare_bet_types(signal: dict, ml_odds: float, hcap_odds: float) -> dict:
+    """Compare Team Wins vs Handicap EV using the ACTUAL 22bet odds.
+    Picks whichever bet type has higher EV, and surfaces both numbers
+    so the dashboard can explain the trade-off transparently.
+
+    Adds to the signal dict:
+        ml_ev_per_10:    expected profit on a $10 Team Wins bet
+        hcap_ev_per_10:  expected profit on a $10 Handicap bet
+        best_bet_type:   'team_wins' | 'handicap' | 'skip'
+        best_bet_reason: short string explanation
+    """
+    outright_wr = signal.get("league_win_rate") or signal.get("win_rate")
+    ats_wr      = signal.get("league_ats_wr")
+
+    ml_ev = _ev_per_dollar(outright_wr, ml_odds) if ml_odds else None
+    hc_ev = _ev_per_dollar(ats_wr,      hcap_odds) if hcap_odds and ats_wr else None
+
+    if ml_ev is not None:
+        signal["ml_ev_per_10"] = round(ml_ev * 10, 2)
+    if hc_ev is not None:
+        signal["hcap_ev_per_10"] = round(hc_ev * 10, 2)
+
+    # Pick the best — Team Wins is preferred (simpler) unless Handicap is
+    # CLEARLY better by at least $0.50 per $10 stake.
+    if ml_ev is not None and hc_ev is not None:
+        if hc_ev > ml_ev + 0.5:
+            signal["best_bet_type"]   = "handicap"
+            signal["best_bet_reason"] = (
+                f"Handicap EV +${hc_ev*10:.2f} beats Team Wins +${ml_ev*10:.2f} "
+                f"by ${(hc_ev-ml_ev)*10:.2f}/$10")
+        elif ml_ev > 0:
+            signal["best_bet_type"]   = "team_wins"
+            signal["best_bet_reason"] = (
+                f"Team Wins EV +${ml_ev*10:.2f}/$10 is higher AND simpler")
+        elif hc_ev > 0:
+            signal["best_bet_type"]   = "handicap"
+            signal["best_bet_reason"] = (
+                f"Team Wins is -EV at these odds; Handicap +${hc_ev*10:.2f}/$10 still works")
+        else:
+            signal["best_bet_type"]   = "skip"
+            signal["best_bet_reason"] = (
+                "Both bet types -EV at current 22bet odds. Skip this game.")
+    elif ml_ev is not None:
+        signal["best_bet_type"]   = "team_wins" if ml_ev > 0 else "skip"
+        signal["best_bet_reason"] = (f"Team Wins EV +${ml_ev*10:.2f}/$10"
+                                      if ml_ev > 0 else "Team Wins -EV; skip")
     return signal
 
 OUT_FILE = Path(__file__).resolve().parent.parent / "docs" / "data" / "signals.json"
@@ -295,12 +352,31 @@ def build_signals() -> dict:
         # Enrich each signal with its actual per-league backtest result
         for s in signals:
             _attach_league_backtest(s, g.get("league", "NBA"))
+
+        # 22bet odds (fetched before EV comparison so we can use real odds)
+        odds = get_game_odds(g["home"]["name"], g["away"]["name"], bet22_events)
+
+        # Compare Team Wins vs Handicap EV using ACTUAL 22bet odds for this game
+        ml_odds = None
+        hcap_odds = None
+        if odds.get("found"):
+            ml = odds.get("moneyline", {})
+            sp = odds.get("spread", {})
+            for s in signals:
+                bet_side = s.get("bet", "home")
+                if bet_side == "favourite":
+                    # Determine which side is the picked team
+                    if (home_out.get("r10_win_rate", 0) or 0) >= (away_out.get("r10_win_rate", 0) or 0):
+                        bet_side = "home"
+                    else:
+                        bet_side = "away"
+                ml_odds   = ml.get("home") if bet_side == "home" else ml.get("away")
+                hcap_odds = sp.get("home_odd") if bet_side == "home" else sp.get("away_odd")
+                _compare_bet_types(s, ml_odds, hcap_odds)
+
         ranked  = rank_signals(signals)
         top     = top_signal(signals)
         total_signals += len(signals)
-
-        # 22bet odds
-        odds = get_game_odds(g["home"]["name"], g["away"]["name"], bet22_events)
 
         # Determine overall card colour for UI
         if ranked:

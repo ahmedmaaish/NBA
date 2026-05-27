@@ -201,6 +201,51 @@ button.sec {
   letter-spacing: 0.3px;
 }
 
+/* EV comparison card */
+.ev-compare {
+  margin: 8px 0;
+  padding: 8px 10px;
+  background: rgba(15, 23, 42, 0.5);
+  border-radius: 6px;
+  border-left: 3px solid #60a5fa;
+}
+.ev-title { font-size: 11px; color: #94a3b8; margin-bottom: 4px; }
+.ev-row {
+  font-size: 12px;
+  padding: 3px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.ev-row.ev-winner {
+  background: rgba(74, 222, 128, 0.08);
+  padding: 4px 6px;
+  border-radius: 4px;
+  margin: 2px -4px;
+}
+.ev-row strong {
+  color: #fbbf24;
+  font-variant-numeric: tabular-nums;
+}
+.ev-row.ev-winner strong { color: #4ade80; }
+.ev-badge {
+  display: inline-block;
+  background: #16a34a;
+  color: white;
+  font-size: 9px;
+  font-weight: 700;
+  padding: 1px 5px;
+  border-radius: 3px;
+  letter-spacing: 0.5px;
+}
+.ev-reason {
+  font-size: 10px;
+  color: #94a3b8;
+  margin-top: 6px;
+  padding-top: 4px;
+  border-top: 1px solid #334155;
+}
+
 /* ── Recommended bet card (new) ── */
 .modal-subtitle { color: #94a3b8; font-size: 12px; margin-top: -8px; margin-bottom: 14px; }
 .rec-card {
