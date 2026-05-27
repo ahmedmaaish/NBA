@@ -1,0 +1,1520 @@
+date,season,league,gameType,home_team,away_team,home_score,away_score
+2021-09-01,2021-22,Spain ACB,Regular Season,Barça,Baxi Manresa,95,96
+2021-09-01,2021-22,Spain ACB,Regular Season,Barça,Bitci Baskonia,78,91
+2021-09-02,2021-22,Spain ACB,Regular Season,Barça,Casademont Zaragoza,76,63
+2021-09-03,2021-22,Spain ACB,Regular Season,Barça,Coosur Real Betis,83,63
+2021-09-04,2021-22,Spain ACB,Regular Season,Barça,Gran Canaria,98,80
+2021-09-05,2021-22,Spain ACB,Regular Season,Barça,Hereda San Pablo Burgos,84,69
+2021-09-06,2021-22,Spain ACB,Regular Season,Barça,Joventut,99,84
+2021-09-07,2021-22,Spain ACB,Regular Season,Barça,Lenovo Tenerife,69,65
+2021-09-08,2021-22,Spain ACB,Regular Season,Barça,Monbus Obradoiro,83,67
+2021-09-09,2021-22,Spain ACB,Regular Season,Barça,MoraBanc Andorra,107,88
+2021-09-10,2021-22,Spain ACB,Regular Season,Barça,Real Madrid,108,97
+2021-09-11,2021-22,Spain ACB,Regular Season,Barça,Río Breogán,78,69
+2021-09-12,2021-22,Spain ACB,Regular Season,Barça,Surne Bilbao Basket,84,62
+2021-09-13,2021-22,Spain ACB,Regular Season,Barça,UCAM Murcia,85,78
+2021-09-14,2021-22,Spain ACB,Regular Season,Barça,Unicaja,63,73
+2021-09-15,2021-22,Spain ACB,Regular Season,Barça,Urbas Fuenlabrada,79,69
+2021-09-16,2021-22,Spain ACB,Regular Season,Barça,Valencia Basket,79,87
+2021-09-17,2021-22,Spain ACB,Regular Season,Baxi Manresa,Barça,80,94
+2021-09-18,2021-22,Spain ACB,Regular Season,Baxi Manresa,Bitci Baskonia,74,67
+2021-09-19,2021-22,Spain ACB,Regular Season,Baxi Manresa,Casademont Zaragoza,94,73
+2021-09-20,2021-22,Spain ACB,Regular Season,Baxi Manresa,Coosur Real Betis,96,102
+2021-09-21,2021-22,Spain ACB,Regular Season,Baxi Manresa,Gran Canaria,91,72
+2021-09-22,2021-22,Spain ACB,Regular Season,Baxi Manresa,Hereda San Pablo Burgos,93,68
+2021-09-23,2021-22,Spain ACB,Regular Season,Baxi Manresa,Joventut,95,91
+2021-09-24,2021-22,Spain ACB,Regular Season,Baxi Manresa,Lenovo Tenerife,95,93
+2021-09-25,2021-22,Spain ACB,Regular Season,Baxi Manresa,Monbus Obradoiro,104,84
+2021-09-26,2021-22,Spain ACB,Regular Season,Baxi Manresa,MoraBanc Andorra,94,60
+2021-09-27,2021-22,Spain ACB,Regular Season,Baxi Manresa,Real Madrid,87,92
+2021-09-28,2021-22,Spain ACB,Regular Season,Baxi Manresa,Río Breogán,86,75
+2021-09-29,2021-22,Spain ACB,Regular Season,Baxi Manresa,Surne Bilbao Basket,87,79
+2021-09-30,2021-22,Spain ACB,Regular Season,Baxi Manresa,UCAM Murcia,103,93
+2021-10-01,2021-22,Spain ACB,Regular Season,Baxi Manresa,Unicaja,85,74
+2021-10-02,2021-22,Spain ACB,Regular Season,Baxi Manresa,Urbas Fuenlabrada,99,89
+2021-10-03,2021-22,Spain ACB,Regular Season,Baxi Manresa,Valencia Basket,69,89
+2021-10-04,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Barça,77,96
+2021-10-05,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Baxi Manresa,107,85
+2021-10-06,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Casademont Zaragoza,91,59
+2021-10-07,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Coosur Real Betis,93,72
+2021-10-08,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Gran Canaria,70,86
+2021-10-09,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Hereda San Pablo Burgos,80,69
+2021-10-10,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Joventut,81,89
+2021-10-11,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Lenovo Tenerife,65,71
+2021-10-12,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Monbus Obradoiro,91,70
+2021-10-13,2021-22,Spain ACB,Regular Season,Bitci Baskonia,MoraBanc Andorra,83,77
+2021-10-14,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Real Madrid,65,83
+2021-10-15,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Río Breogán,89,84
+2021-10-16,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Surne Bilbao Basket,101,86
+2021-10-17,2021-22,Spain ACB,Regular Season,Bitci Baskonia,UCAM Murcia,93,83
+2021-10-18,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Unicaja,92,89
+2021-10-19,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Urbas Fuenlabrada,95,86
+2021-10-20,2021-22,Spain ACB,Regular Season,Bitci Baskonia,Valencia Basket,71,78
+2021-10-21,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Barça,76,71
+2021-10-21,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Baxi Manresa,98,91
+2021-10-22,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Bitci Baskonia,97,79
+2021-10-23,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Coosur Real Betis,82,72
+2021-10-24,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Gran Canaria,76,86
+2021-10-25,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Hereda San Pablo Burgos,54,75
+2021-10-26,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Joventut,63,77
+2021-10-27,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Lenovo Tenerife,62,77
+2021-10-28,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Monbus Obradoiro,80,73
+2021-10-29,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,MoraBanc Andorra,80,83
+2021-10-30,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Real Madrid,65,86
+2021-10-31,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Río Breogán,79,75
+2021-11-01,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Surne Bilbao Basket,80,82
+2021-11-02,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,UCAM Murcia,91,78
+2021-11-03,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Unicaja,93,82
+2021-11-04,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Urbas Fuenlabrada,74,85
+2021-11-05,2021-22,Spain ACB,Regular Season,Casademont Zaragoza,Valencia Basket,70,76
+2021-11-06,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Barça,61,78
+2021-11-07,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Baxi Manresa,64,106
+2021-11-08,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Bitci Baskonia,83,87
+2021-11-09,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Casademont Zaragoza,79,69
+2021-11-10,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Gran Canaria,93,86
+2021-11-11,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Hereda San Pablo Burgos,71,74
+2021-11-12,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Joventut,66,77
+2021-11-13,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Lenovo Tenerife,72,81
+2021-11-14,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Monbus Obradoiro,76,87
+2021-11-15,2021-22,Spain ACB,Regular Season,Coosur Real Betis,MoraBanc Andorra,102,98
+2021-11-16,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Real Madrid,69,71
+2021-11-17,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Río Breogán,84,81
+2021-11-18,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Surne Bilbao Basket,71,88
+2021-11-19,2021-22,Spain ACB,Regular Season,Coosur Real Betis,UCAM Murcia,84,93
+2021-11-20,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Unicaja,73,79
+2021-11-21,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Urbas Fuenlabrada,99,83
+2021-11-22,2021-22,Spain ACB,Regular Season,Coosur Real Betis,Valencia Basket,75,68
+2021-11-23,2021-22,Spain ACB,Regular Season,Gran Canaria,Barça,64,82
+2021-11-24,2021-22,Spain ACB,Regular Season,Gran Canaria,Baxi Manresa,80,82
+2021-11-25,2021-22,Spain ACB,Regular Season,Gran Canaria,Bitci Baskonia,83,77
+2021-11-26,2021-22,Spain ACB,Regular Season,Gran Canaria,Casademont Zaragoza,79,76
+2021-11-27,2021-22,Spain ACB,Regular Season,Gran Canaria,Coosur Real Betis,94,70
+2021-11-28,2021-22,Spain ACB,Regular Season,Gran Canaria,Hereda San Pablo Burgos,82,89
+2021-11-29,2021-22,Spain ACB,Regular Season,Gran Canaria,Joventut,84,71
+2021-11-30,2021-22,Spain ACB,Regular Season,Gran Canaria,Lenovo Tenerife,89,77
+2021-12-01,2021-22,Spain ACB,Regular Season,Gran Canaria,Monbus Obradoiro,71,69
+2021-12-02,2021-22,Spain ACB,Regular Season,Gran Canaria,MoraBanc Andorra,84,78
+2021-12-03,2021-22,Spain ACB,Regular Season,Gran Canaria,Real Madrid,83,91
+2021-12-04,2021-22,Spain ACB,Regular Season,Gran Canaria,Río Breogán,84,86
+2021-12-05,2021-22,Spain ACB,Regular Season,Gran Canaria,Surne Bilbao Basket,88,86
+2021-12-06,2021-22,Spain ACB,Regular Season,Gran Canaria,UCAM Murcia,83,100
+2021-12-07,2021-22,Spain ACB,Regular Season,Gran Canaria,Unicaja,76,59
+2021-12-08,2021-22,Spain ACB,Regular Season,Gran Canaria,Urbas Fuenlabrada,79,60
+2021-12-09,2021-22,Spain ACB,Regular Season,Gran Canaria,Valencia Basket,89,83
+2021-12-10,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Baxi Manresa,82,90
+2021-12-10,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Barça,69,83
+2021-12-11,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Bitci Baskonia,62,78
+2021-12-12,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Casademont Zaragoza,78,56
+2021-12-13,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Coosur Real Betis,76,84
+2021-12-14,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Gran Canaria,77,86
+2021-12-15,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Joventut,92,76
+2021-12-16,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Lenovo Tenerife,73,81
+2021-12-17,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Monbus Obradoiro,77,82
+2021-12-18,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,MoraBanc Andorra,81,70
+2021-12-19,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Real Madrid,70,85
+2021-12-20,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Río Breogán,62,87
+2021-12-21,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Surne Bilbao Basket,104,97
+2021-12-22,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,UCAM Murcia,84,102
+2021-12-23,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Unicaja,89,74
+2021-12-24,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Urbas Fuenlabrada,66,83
+2021-12-25,2021-22,Spain ACB,Regular Season,Hereda San Pablo Burgos,Valencia Basket,65,69
+2021-12-26,2021-22,Spain ACB,Regular Season,Joventut,Barça,83,72
+2021-12-27,2021-22,Spain ACB,Regular Season,Joventut,Baxi Manresa,105,61
+2021-12-28,2021-22,Spain ACB,Regular Season,Joventut,Bitci Baskonia,72,61
+2021-12-29,2021-22,Spain ACB,Regular Season,Joventut,Casademont Zaragoza,84,78
+2021-12-30,2021-22,Spain ACB,Regular Season,Joventut,Coosur Real Betis,84,82
+2021-12-31,2021-22,Spain ACB,Regular Season,Joventut,Gran Canaria,82,75
+2022-01-01,2021-22,Spain ACB,Regular Season,Joventut,Hereda San Pablo Burgos,82,65
+2022-01-02,2021-22,Spain ACB,Regular Season,Joventut,Lenovo Tenerife,58,74
+2022-01-03,2021-22,Spain ACB,Regular Season,Joventut,Monbus Obradoiro,78,84
+2022-01-04,2021-22,Spain ACB,Regular Season,Joventut,MoraBanc Andorra,73,79
+2022-01-05,2021-22,Spain ACB,Regular Season,Joventut,Real Madrid,71,90
+2022-01-06,2021-22,Spain ACB,Regular Season,Joventut,Río Breogán,96,87
+2022-01-07,2021-22,Spain ACB,Regular Season,Joventut,Surne Bilbao Basket,85,79
+2022-01-08,2021-22,Spain ACB,Regular Season,Joventut,UCAM Murcia,83,77
+2022-01-09,2021-22,Spain ACB,Regular Season,Joventut,Unicaja,76,70
+2022-01-10,2021-22,Spain ACB,Regular Season,Joventut,Urbas Fuenlabrada,92,75
+2022-01-11,2021-22,Spain ACB,Regular Season,Joventut,Valencia Basket,76,68
+2022-01-12,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Barça,60,75
+2022-01-13,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Baxi Manresa,94,83
+2022-01-14,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Bitci Baskonia,78,91
+2022-01-15,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Casademont Zaragoza,90,65
+2022-01-16,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Coosur Real Betis,99,97
+2022-01-17,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Gran Canaria,98,89
+2022-01-18,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Hereda San Pablo Burgos,91,78
+2022-01-19,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Joventut,72,79
+2022-01-20,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Monbus Obradoiro,86,83
+2022-01-21,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,MoraBanc Andorra,79,70
+2022-01-22,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Real Madrid,72,59
+2022-01-23,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Río Breogán,96,78
+2022-01-24,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Surne Bilbao Basket,89,79
+2022-01-25,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,UCAM Murcia,87,71
+2022-01-26,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Unicaja,87,82
+2022-01-27,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Urbas Fuenlabrada,87,74
+2022-01-28,2021-22,Spain ACB,Regular Season,Lenovo Tenerife,Valencia Basket,78,80
+2022-01-29,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Baxi Manresa,98,91
+2022-01-29,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Barça,64,79
+2022-01-30,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Bitci Baskonia,81,76
+2022-01-31,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Casademont Zaragoza,87,82
+2022-02-01,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Coosur Real Betis,86,93
+2022-02-02,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Gran Canaria,106,97
+2022-02-03,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Hereda San Pablo Burgos,101,94
+2022-02-04,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Joventut,93,91
+2022-02-05,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Lenovo Tenerife,81,84
+2022-02-06,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,MoraBanc Andorra,81,73
+2022-02-07,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Real Madrid,88,89
+2022-02-08,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Río Breogán,100,83
+2022-02-09,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Surne Bilbao Basket,91,96
+2022-02-10,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,UCAM Murcia,70,104
+2022-02-11,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Unicaja,71,85
+2022-02-12,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Urbas Fuenlabrada,93,81
+2022-02-13,2021-22,Spain ACB,Regular Season,Monbus Obradoiro,Valencia Basket,85,89
+2022-02-14,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Barça,74,86
+2022-02-15,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Baxi Manresa,79,82
+2022-02-16,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Bitci Baskonia,78,79
+2022-02-17,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Casademont Zaragoza,83,92
+2022-02-18,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Coosur Real Betis,76,93
+2022-02-19,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Gran Canaria,87,71
+2022-02-20,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Hereda San Pablo Burgos,73,71
+2022-02-21,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Joventut,91,72
+2022-02-22,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Lenovo Tenerife,75,77
+2022-02-23,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Monbus Obradoiro,86,73
+2022-02-24,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Real Madrid,58,86
+2022-02-25,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Río Breogán,79,86
+2022-02-26,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Surne Bilbao Basket,82,72
+2022-02-27,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,UCAM Murcia,90,89
+2022-02-28,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Unicaja,83,74
+2022-03-01,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Urbas Fuenlabrada,92,84
+2022-03-02,2021-22,Spain ACB,Regular Season,MoraBanc Andorra,Valencia Basket,75,76
+2022-03-03,2021-22,Spain ACB,Regular Season,Real Madrid,Barça,75,85
+2022-03-04,2021-22,Spain ACB,Regular Season,Real Madrid,Baxi Manresa,75,86
+2022-03-05,2021-22,Spain ACB,Regular Season,Real Madrid,Bitci Baskonia,72,80
+2022-03-06,2021-22,Spain ACB,Regular Season,Real Madrid,Casademont Zaragoza,94,69
+2022-03-07,2021-22,Spain ACB,Regular Season,Real Madrid,Coosur Real Betis,71,48
+2022-03-08,2021-22,Spain ACB,Regular Season,Real Madrid,Gran Canaria,70,75
+2022-03-09,2021-22,Spain ACB,Regular Season,Real Madrid,Hereda San Pablo Burgos,70,63
+2022-03-10,2021-22,Spain ACB,Regular Season,Real Madrid,Joventut,99,89
+2022-03-11,2021-22,Spain ACB,Regular Season,Real Madrid,Lenovo Tenerife,86,77
+2022-03-12,2021-22,Spain ACB,Regular Season,Real Madrid,Monbus Obradoiro,78,68
+2022-03-13,2021-22,Spain ACB,Regular Season,Real Madrid,MoraBanc Andorra,83,88
+2022-03-14,2021-22,Spain ACB,Regular Season,Real Madrid,Río Breogán,90,65
+2022-03-15,2021-22,Spain ACB,Regular Season,Real Madrid,Surne Bilbao Basket,95,61
+2022-03-16,2021-22,Spain ACB,Regular Season,Real Madrid,UCAM Murcia,90,69
+2022-03-17,2021-22,Spain ACB,Regular Season,Real Madrid,Unicaja,79,74
+2022-03-18,2021-22,Spain ACB,Regular Season,Real Madrid,Urbas Fuenlabrada,92,77
+2022-03-19,2021-22,Spain ACB,Regular Season,Real Madrid,Valencia Basket,93,94
+2022-03-20,2021-22,Spain ACB,Regular Season,Río Breogán,Barça,72,74
+2022-03-20,2021-22,Spain ACB,Regular Season,Río Breogán,Baxi Manresa,98,94
+2022-03-21,2021-22,Spain ACB,Regular Season,Río Breogán,Bitci Baskonia,89,83
+2022-03-22,2021-22,Spain ACB,Regular Season,Río Breogán,Casademont Zaragoza,82,85
+2022-03-23,2021-22,Spain ACB,Regular Season,Río Breogán,Coosur Real Betis,97,65
+2022-03-24,2021-22,Spain ACB,Regular Season,Río Breogán,Gran Canaria,76,66
+2022-03-25,2021-22,Spain ACB,Regular Season,Río Breogán,Hereda San Pablo Burgos,105,96
+2022-03-26,2021-22,Spain ACB,Regular Season,Río Breogán,Joventut,87,90
+2022-03-27,2021-22,Spain ACB,Regular Season,Río Breogán,Lenovo Tenerife,92,73
+2022-03-28,2021-22,Spain ACB,Regular Season,Río Breogán,Monbus Obradoiro,80,78
+2022-03-29,2021-22,Spain ACB,Regular Season,Río Breogán,MoraBanc Andorra,83,74
+2022-03-30,2021-22,Spain ACB,Regular Season,Río Breogán,Real Madrid,71,79
+2022-03-31,2021-22,Spain ACB,Regular Season,Río Breogán,Surne Bilbao Basket,86,94
+2022-04-01,2021-22,Spain ACB,Regular Season,Río Breogán,UCAM Murcia,94,89
+2022-04-02,2021-22,Spain ACB,Regular Season,Río Breogán,Unicaja,93,84
+2022-04-03,2021-22,Spain ACB,Regular Season,Río Breogán,Urbas Fuenlabrada,97,89
+2022-04-04,2021-22,Spain ACB,Regular Season,Río Breogán,Valencia Basket,99,82
+2022-04-05,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Barça,68,84
+2022-04-06,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Baxi Manresa,89,82
+2022-04-07,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Bitci Baskonia,62,90
+2022-04-08,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Casademont Zaragoza,76,100
+2022-04-09,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Coosur Real Betis,98,99
+2022-04-10,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Gran Canaria,95,80
+2022-04-11,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Hereda San Pablo Burgos,87,81
+2022-04-12,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Joventut,71,77
+2022-04-13,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Lenovo Tenerife,87,79
+2022-04-14,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Monbus Obradoiro,80,76
+2022-04-15,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,MoraBanc Andorra,74,71
+2022-04-16,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Real Madrid,79,67
+2022-04-17,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Río Breogán,83,75
+2022-04-18,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,UCAM Murcia,78,77
+2022-04-19,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Unicaja,83,77
+2022-04-20,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Urbas Fuenlabrada,85,80
+2022-04-21,2021-22,Spain ACB,Regular Season,Surne Bilbao Basket,Valencia Basket,84,78
+2022-04-22,2021-22,Spain ACB,Regular Season,UCAM Murcia,Barça,87,89
+2022-04-23,2021-22,Spain ACB,Regular Season,UCAM Murcia,Baxi Manresa,71,67
+2022-04-24,2021-22,Spain ACB,Regular Season,UCAM Murcia,Bitci Baskonia,80,79
+2022-04-25,2021-22,Spain ACB,Regular Season,UCAM Murcia,Casademont Zaragoza,72,77
+2022-04-26,2021-22,Spain ACB,Regular Season,UCAM Murcia,Coosur Real Betis,88,66
+2022-04-27,2021-22,Spain ACB,Regular Season,UCAM Murcia,Gran Canaria,86,75
+2022-04-28,2021-22,Spain ACB,Regular Season,UCAM Murcia,Hereda San Pablo Burgos,83,89
+2022-04-29,2021-22,Spain ACB,Regular Season,UCAM Murcia,Joventut,71,83
+2022-04-30,2021-22,Spain ACB,Regular Season,UCAM Murcia,Lenovo Tenerife,88,86
+2022-05-01,2021-22,Spain ACB,Regular Season,UCAM Murcia,Monbus Obradoiro,98,80
+2022-05-02,2021-22,Spain ACB,Regular Season,UCAM Murcia,MoraBanc Andorra,96,67
+2022-05-03,2021-22,Spain ACB,Regular Season,UCAM Murcia,Real Madrid,71,80
+2022-05-04,2021-22,Spain ACB,Regular Season,UCAM Murcia,Río Breogán,91,72
+2022-05-05,2021-22,Spain ACB,Regular Season,UCAM Murcia,Surne Bilbao Basket,92,87
+2022-05-06,2021-22,Spain ACB,Regular Season,UCAM Murcia,Unicaja,79,84
+2022-05-07,2021-22,Spain ACB,Regular Season,UCAM Murcia,Urbas Fuenlabrada,99,76
+2022-05-08,2021-22,Spain ACB,Regular Season,UCAM Murcia,Valencia Basket,71,72
+2022-05-09,2021-22,Spain ACB,Regular Season,Unicaja,Barça,73,75
+2022-05-09,2021-22,Spain ACB,Regular Season,Unicaja,Baxi Manresa,95,100
+2022-05-10,2021-22,Spain ACB,Regular Season,Unicaja,Bitci Baskonia,72,73
+2022-05-11,2021-22,Spain ACB,Regular Season,Unicaja,Casademont Zaragoza,112,72
+2022-05-12,2021-22,Spain ACB,Regular Season,Unicaja,Coosur Real Betis,96,80
+2022-05-13,2021-22,Spain ACB,Regular Season,Unicaja,Gran Canaria,79,80
+2022-05-14,2021-22,Spain ACB,Regular Season,Unicaja,Hereda San Pablo Burgos,89,78
+2022-05-15,2021-22,Spain ACB,Regular Season,Unicaja,Joventut,72,76
+2022-05-16,2021-22,Spain ACB,Regular Season,Unicaja,Lenovo Tenerife,64,97
+2022-05-17,2021-22,Spain ACB,Regular Season,Unicaja,Monbus Obradoiro,91,79
+2022-05-18,2021-22,Spain ACB,Regular Season,Unicaja,MoraBanc Andorra,78,74
+2022-05-19,2021-22,Spain ACB,Regular Season,Unicaja,Real Madrid,91,92
+2022-05-20,2021-22,Spain ACB,Regular Season,Unicaja,Río Breogán,72,64
+2022-05-21,2021-22,Spain ACB,Regular Season,Unicaja,Surne Bilbao Basket,91,75
+2022-05-22,2021-22,Spain ACB,Regular Season,Unicaja,UCAM Murcia,87,88
+2022-05-23,2021-22,Spain ACB,Regular Season,Unicaja,Urbas Fuenlabrada,90,86
+2022-05-24,2021-22,Spain ACB,Regular Season,Unicaja,Valencia Basket,82,87
+2022-05-25,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Barça,69,86
+2022-05-26,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Baxi Manresa,90,82
+2022-05-27,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Bitci Baskonia,84,70
+2022-05-28,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Casademont Zaragoza,77,55
+2022-05-29,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Coosur Real Betis,77,82
+2022-05-30,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Gran Canaria,87,92
+2022-05-31,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Hereda San Pablo Burgos,91,96
+2022-06-01,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Joventut,82,104
+2022-06-02,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Lenovo Tenerife,104,96
+2022-06-03,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Monbus Obradoiro,93,92
+2022-06-04,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,MoraBanc Andorra,91,78
+2022-06-05,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Real Madrid,85,88
+2022-06-06,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Río Breogán,88,65
+2022-06-07,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Surne Bilbao Basket,87,82
+2022-06-08,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,UCAM Murcia,105,95
+2022-06-09,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Unicaja,53,73
+2022-06-10,2021-22,Spain ACB,Regular Season,Urbas Fuenlabrada,Valencia Basket,88,87
+2022-06-11,2021-22,Spain ACB,Regular Season,Valencia Basket,Barça,86,76
+2022-06-12,2021-22,Spain ACB,Regular Season,Valencia Basket,Baxi Manresa,90,85
+2022-06-13,2021-22,Spain ACB,Regular Season,Valencia Basket,Bitci Baskonia,67,72
+2022-06-14,2021-22,Spain ACB,Regular Season,Valencia Basket,Casademont Zaragoza,81,79
+2022-06-15,2021-22,Spain ACB,Regular Season,Valencia Basket,Coosur Real Betis,81,84
+2022-06-16,2021-22,Spain ACB,Regular Season,Valencia Basket,Gran Canaria,91,62
+2022-06-17,2021-22,Spain ACB,Regular Season,Valencia Basket,Hereda San Pablo Burgos,84,70
+2022-06-18,2021-22,Spain ACB,Regular Season,Valencia Basket,Joventut,71,70
+2022-06-19,2021-22,Spain ACB,Regular Season,Valencia Basket,Lenovo Tenerife,92,88
+2022-06-20,2021-22,Spain ACB,Regular Season,Valencia Basket,Monbus Obradoiro,91,71
+2022-06-21,2021-22,Spain ACB,Regular Season,Valencia Basket,MoraBanc Andorra,81,76
+2022-06-22,2021-22,Spain ACB,Regular Season,Valencia Basket,Real Madrid,79,93
+2022-06-23,2021-22,Spain ACB,Regular Season,Valencia Basket,Río Breogán,97,98
+2022-06-24,2021-22,Spain ACB,Regular Season,Valencia Basket,Surne Bilbao Basket,100,84
+2022-06-25,2021-22,Spain ACB,Regular Season,Valencia Basket,UCAM Murcia,86,91
+2022-06-26,2021-22,Spain ACB,Regular Season,Valencia Basket,Unicaja,90,75
+2022-06-27,2021-22,Spain ACB,Regular Season,Valencia Basket,Urbas Fuenlabrada,97,79
+2022-09-01,2022-23,Spain ACB,Regular Season,Barça,Baxi Manresa,93,72
+2022-09-01,2022-23,Spain ACB,Regular Season,Barça,Bàsquet Girona,72,69
+2022-09-02,2022-23,Spain ACB,Regular Season,Barça,Carplus Fuenlabrada,101,64
+2022-09-03,2022-23,Spain ACB,Regular Season,Barça,Casademont Zgz,68,63
+2022-09-04,2022-23,Spain ACB,Regular Season,Barça,Cazoo Baskonia,89,74
+2022-09-05,2022-23,Spain ACB,Regular Season,Barça,Covirán Granada,100,82
+2022-09-06,2022-23,Spain ACB,Regular Season,Barça,Gran Canaria,87,79
+2022-09-07,2022-23,Spain ACB,Regular Season,Barça,Joventut,87,71
+2022-09-08,2022-23,Spain ACB,Regular Season,Barça,Lenovo Tenerife,67,65
+2022-09-09,2022-23,Spain ACB,Regular Season,Barça,Monbus Obradoiro,94,77
+2022-09-10,2022-23,Spain ACB,Regular Season,Barça,Real Betis Baloncesto,104,70
+2022-09-11,2022-23,Spain ACB,Regular Season,Barça,Real Madrid,97,82
+2022-09-12,2022-23,Spain ACB,Regular Season,Barça,Río Breogán,82,54
+2022-09-13,2022-23,Spain ACB,Regular Season,Barça,Surne Bilbao,88,78
+2022-09-14,2022-23,Spain ACB,Regular Season,Barça,UCAM Murcia,86,57
+2022-09-15,2022-23,Spain ACB,Regular Season,Barça,Unicaja,75,60
+2022-09-16,2022-23,Spain ACB,Regular Season,Barça,Valencia Basket,81,75
+2022-09-17,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Barça,73,84
+2022-09-18,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Baxi Manresa,79,86
+2022-09-19,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Carplus Fuenlabrada,85,60
+2022-09-20,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Casademont Zgz,78,69
+2022-09-21,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Cazoo Baskonia,70,75
+2022-09-22,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Covirán Granada,88,73
+2022-09-23,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Gran Canaria,69,78
+2022-09-24,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Joventut,79,66
+2022-09-25,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Lenovo Tenerife,72,88
+2022-09-26,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Monbus Obradoiro,93,76
+2022-09-27,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Real Betis Baloncesto,79,90
+2022-09-28,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Real Madrid,88,94
+2022-09-29,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Río Breogán,66,73
+2022-09-30,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Surne Bilbao,84,59
+2022-10-01,2022-23,Spain ACB,Regular Season,Bàsquet Girona,UCAM Murcia,100,89
+2022-10-02,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Unicaja,59,73
+2022-10-03,2022-23,Spain ACB,Regular Season,Bàsquet Girona,Valencia Basket,75,79
+2022-10-04,2022-23,Spain ACB,Regular Season,Baxi Manresa,Barça,78,101
+2022-10-05,2022-23,Spain ACB,Regular Season,Baxi Manresa,Bàsquet Girona,82,79
+2022-10-06,2022-23,Spain ACB,Regular Season,Baxi Manresa,Carplus Fuenlabrada,92,78
+2022-10-07,2022-23,Spain ACB,Regular Season,Baxi Manresa,Casademont Zgz,65,72
+2022-10-08,2022-23,Spain ACB,Regular Season,Baxi Manresa,Cazoo Baskonia,93,80
+2022-10-09,2022-23,Spain ACB,Regular Season,Baxi Manresa,Covirán Granada,86,77
+2022-10-10,2022-23,Spain ACB,Regular Season,Baxi Manresa,Gran Canaria,105,75
+2022-10-11,2022-23,Spain ACB,Regular Season,Baxi Manresa,Joventut,68,90
+2022-10-12,2022-23,Spain ACB,Regular Season,Baxi Manresa,Lenovo Tenerife,70,89
+2022-10-13,2022-23,Spain ACB,Regular Season,Baxi Manresa,Monbus Obradoiro,80,65
+2022-10-14,2022-23,Spain ACB,Regular Season,Baxi Manresa,Real Betis Baloncesto,91,84
+2022-10-15,2022-23,Spain ACB,Regular Season,Baxi Manresa,Real Madrid,69,94
+2022-10-16,2022-23,Spain ACB,Regular Season,Baxi Manresa,Río Breogán,70,106
+2022-10-17,2022-23,Spain ACB,Regular Season,Baxi Manresa,Surne Bilbao,76,86
+2022-10-18,2022-23,Spain ACB,Regular Season,Baxi Manresa,UCAM Murcia,93,83
+2022-10-19,2022-23,Spain ACB,Regular Season,Baxi Manresa,Unicaja,94,98
+2022-10-20,2022-23,Spain ACB,Regular Season,Baxi Manresa,Valencia Basket,87,82
+2022-10-21,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Barça,56,84
+2022-10-21,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Bàsquet Girona,75,83
+2022-10-22,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Baxi Manresa,101,97
+2022-10-23,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Casademont Zgz,71,85
+2022-10-24,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Cazoo Baskonia,93,112
+2022-10-25,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Covirán Granada,81,83
+2022-10-26,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Gran Canaria,81,97
+2022-10-27,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Joventut,81,85
+2022-10-28,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Lenovo Tenerife,67,95
+2022-10-29,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Monbus Obradoiro,79,82
+2022-10-30,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Real Betis Baloncesto,83,77
+2022-10-31,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Real Madrid,78,102
+2022-11-01,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Río Breogán,73,92
+2022-11-02,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Surne Bilbao,77,71
+2022-11-03,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,UCAM Murcia,72,88
+2022-11-04,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Unicaja,85,117
+2022-11-05,2022-23,Spain ACB,Regular Season,Carplus Fuenlabrada,Valencia Basket,75,93
+2022-11-06,2022-23,Spain ACB,Regular Season,Casademont Zgz,Barça,85,83
+2022-11-07,2022-23,Spain ACB,Regular Season,Casademont Zgz,Bàsquet Girona,88,95
+2022-11-08,2022-23,Spain ACB,Regular Season,Casademont Zgz,Baxi Manresa,99,88
+2022-11-09,2022-23,Spain ACB,Regular Season,Casademont Zgz,Carplus Fuenlabrada,79,82
+2022-11-10,2022-23,Spain ACB,Regular Season,Casademont Zgz,Cazoo Baskonia,83,97
+2022-11-11,2022-23,Spain ACB,Regular Season,Casademont Zgz,Covirán Granada,73,57
+2022-11-12,2022-23,Spain ACB,Regular Season,Casademont Zgz,Gran Canaria,76,73
+2022-11-13,2022-23,Spain ACB,Regular Season,Casademont Zgz,Joventut,87,77
+2022-11-14,2022-23,Spain ACB,Regular Season,Casademont Zgz,Lenovo Tenerife,83,87
+2022-11-15,2022-23,Spain ACB,Regular Season,Casademont Zgz,Monbus Obradoiro,78,79
+2022-11-16,2022-23,Spain ACB,Regular Season,Casademont Zgz,Real Betis Baloncesto,89,82
+2022-11-17,2022-23,Spain ACB,Regular Season,Casademont Zgz,Real Madrid,94,89
+2022-11-18,2022-23,Spain ACB,Regular Season,Casademont Zgz,Río Breogán,88,90
+2022-11-19,2022-23,Spain ACB,Regular Season,Casademont Zgz,Surne Bilbao,67,74
+2022-11-20,2022-23,Spain ACB,Regular Season,Casademont Zgz,UCAM Murcia,64,81
+2022-11-21,2022-23,Spain ACB,Regular Season,Casademont Zgz,Unicaja,70,74
+2022-11-22,2022-23,Spain ACB,Regular Season,Casademont Zgz,Valencia Basket,86,75
+2022-11-23,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Barça,84,91
+2022-11-24,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Bàsquet Girona,95,68
+2022-11-25,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Baxi Manresa,107,92
+2022-11-26,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Carplus Fuenlabrada,102,88
+2022-11-27,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Casademont Zgz,91,79
+2022-11-28,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Covirán Granada,105,81
+2022-11-29,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Gran Canaria,101,97
+2022-11-30,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Joventut,84,83
+2022-12-01,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Lenovo Tenerife,79,85
+2022-12-02,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Monbus Obradoiro,110,94
+2022-12-03,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Real Betis Baloncesto,107,103
+2022-12-04,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Real Madrid,88,82
+2022-12-05,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Río Breogán,97,76
+2022-12-06,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Surne Bilbao,100,78
+2022-12-07,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,UCAM Murcia,102,73
+2022-12-08,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Unicaja,103,89
+2022-12-09,2022-23,Spain ACB,Regular Season,Cazoo Baskonia,Valencia Basket,85,79
+2022-12-10,2022-23,Spain ACB,Regular Season,Covirán Granada,Bàsquet Girona,78,92
+2022-12-10,2022-23,Spain ACB,Regular Season,Covirán Granada,Barça,55,70
+2022-12-11,2022-23,Spain ACB,Regular Season,Covirán Granada,Baxi Manresa,84,87
+2022-12-12,2022-23,Spain ACB,Regular Season,Covirán Granada,Carplus Fuenlabrada,83,71
+2022-12-13,2022-23,Spain ACB,Regular Season,Covirán Granada,Casademont Zgz,71,68
+2022-12-14,2022-23,Spain ACB,Regular Season,Covirán Granada,Cazoo Baskonia,84,95
+2022-12-15,2022-23,Spain ACB,Regular Season,Covirán Granada,Gran Canaria,80,66
+2022-12-16,2022-23,Spain ACB,Regular Season,Covirán Granada,Joventut,73,62
+2022-12-17,2022-23,Spain ACB,Regular Season,Covirán Granada,Lenovo Tenerife,73,82
+2022-12-18,2022-23,Spain ACB,Regular Season,Covirán Granada,Monbus Obradoiro,93,89
+2022-12-19,2022-23,Spain ACB,Regular Season,Covirán Granada,Real Betis Baloncesto,66,76
+2022-12-20,2022-23,Spain ACB,Regular Season,Covirán Granada,Real Madrid,62,82
+2022-12-21,2022-23,Spain ACB,Regular Season,Covirán Granada,Río Breogán,80,70
+2022-12-22,2022-23,Spain ACB,Regular Season,Covirán Granada,Surne Bilbao,99,84
+2022-12-23,2022-23,Spain ACB,Regular Season,Covirán Granada,UCAM Murcia,88,67
+2022-12-24,2022-23,Spain ACB,Regular Season,Covirán Granada,Unicaja,69,101
+2022-12-25,2022-23,Spain ACB,Regular Season,Covirán Granada,Valencia Basket,81,110
+2022-12-26,2022-23,Spain ACB,Regular Season,Gran Canaria,Barça,88,85
+2022-12-27,2022-23,Spain ACB,Regular Season,Gran Canaria,Bàsquet Girona,78,73
+2022-12-28,2022-23,Spain ACB,Regular Season,Gran Canaria,Baxi Manresa,99,88
+2022-12-29,2022-23,Spain ACB,Regular Season,Gran Canaria,Carplus Fuenlabrada,110,65
+2022-12-30,2022-23,Spain ACB,Regular Season,Gran Canaria,Casademont Zgz,88,72
+2022-12-31,2022-23,Spain ACB,Regular Season,Gran Canaria,Cazoo Baskonia,68,96
+2023-01-01,2022-23,Spain ACB,Regular Season,Gran Canaria,Covirán Granada,94,76
+2023-01-02,2022-23,Spain ACB,Regular Season,Gran Canaria,Joventut,100,88
+2023-01-03,2022-23,Spain ACB,Regular Season,Gran Canaria,Lenovo Tenerife,70,86
+2023-01-04,2022-23,Spain ACB,Regular Season,Gran Canaria,Monbus Obradoiro,75,68
+2023-01-05,2022-23,Spain ACB,Regular Season,Gran Canaria,Real Betis Baloncesto,87,71
+2023-01-06,2022-23,Spain ACB,Regular Season,Gran Canaria,Real Madrid,67,95
+2023-01-07,2022-23,Spain ACB,Regular Season,Gran Canaria,Río Breogán,77,66
+2023-01-08,2022-23,Spain ACB,Regular Season,Gran Canaria,Surne Bilbao,94,71
+2023-01-09,2022-23,Spain ACB,Regular Season,Gran Canaria,UCAM Murcia,107,89
+2023-01-10,2022-23,Spain ACB,Regular Season,Gran Canaria,Unicaja,88,70
+2023-01-11,2022-23,Spain ACB,Regular Season,Gran Canaria,Valencia Basket,95,89
+2023-01-12,2022-23,Spain ACB,Regular Season,Joventut,Barça,82,79
+2023-01-13,2022-23,Spain ACB,Regular Season,Joventut,Bàsquet Girona,92,64
+2023-01-14,2022-23,Spain ACB,Regular Season,Joventut,Baxi Manresa,73,65
+2023-01-15,2022-23,Spain ACB,Regular Season,Joventut,Carplus Fuenlabrada,103,86
+2023-01-16,2022-23,Spain ACB,Regular Season,Joventut,Casademont Zgz,89,84
+2023-01-17,2022-23,Spain ACB,Regular Season,Joventut,Cazoo Baskonia,77,86
+2023-01-18,2022-23,Spain ACB,Regular Season,Joventut,Covirán Granada,90,72
+2023-01-19,2022-23,Spain ACB,Regular Season,Joventut,Gran Canaria,75,91
+2023-01-20,2022-23,Spain ACB,Regular Season,Joventut,Lenovo Tenerife,78,69
+2023-01-21,2022-23,Spain ACB,Regular Season,Joventut,Monbus Obradoiro,96,85
+2023-01-22,2022-23,Spain ACB,Regular Season,Joventut,Real Betis Baloncesto,93,81
+2023-01-23,2022-23,Spain ACB,Regular Season,Joventut,Real Madrid,78,86
+2023-01-24,2022-23,Spain ACB,Regular Season,Joventut,Río Breogán,85,66
+2023-01-25,2022-23,Spain ACB,Regular Season,Joventut,Surne Bilbao,76,81
+2023-01-26,2022-23,Spain ACB,Regular Season,Joventut,UCAM Murcia,94,68
+2023-01-27,2022-23,Spain ACB,Regular Season,Joventut,Unicaja,74,65
+2023-01-28,2022-23,Spain ACB,Regular Season,Joventut,Valencia Basket,85,70
+2023-01-29,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Barça,76,79
+2023-01-29,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Bàsquet Girona,76,67
+2023-01-30,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Baxi Manresa,100,87
+2023-01-31,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Carplus Fuenlabrada,97,72
+2023-02-01,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Casademont Zgz,92,69
+2023-02-02,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Cazoo Baskonia,83,81
+2023-02-03,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Covirán Granada,98,66
+2023-02-04,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Gran Canaria,81,77
+2023-02-05,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Joventut,85,68
+2023-02-06,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Monbus Obradoiro,86,67
+2023-02-07,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Real Betis Baloncesto,88,64
+2023-02-08,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Real Madrid,67,80
+2023-02-09,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Río Breogán,85,67
+2023-02-10,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Surne Bilbao,73,57
+2023-02-11,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,UCAM Murcia,109,111
+2023-02-12,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Unicaja,91,84
+2023-02-13,2022-23,Spain ACB,Regular Season,Lenovo Tenerife,Valencia Basket,94,78
+2023-02-14,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Barça,76,74
+2023-02-15,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Bàsquet Girona,89,63
+2023-02-16,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Baxi Manresa,104,99
+2023-02-17,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Carplus Fuenlabrada,102,72
+2023-02-18,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Casademont Zgz,76,73
+2023-02-19,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Cazoo Baskonia,91,86
+2023-02-20,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Covirán Granada,88,83
+2023-02-21,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Gran Canaria,58,85
+2023-02-22,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Joventut,74,91
+2023-02-23,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Lenovo Tenerife,58,78
+2023-02-24,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Real Betis Baloncesto,67,82
+2023-02-25,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Real Madrid,78,84
+2023-02-26,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Río Breogán,67,74
+2023-02-27,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Surne Bilbao,77,64
+2023-02-28,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,UCAM Murcia,81,79
+2023-03-01,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Unicaja,86,87
+2023-03-02,2022-23,Spain ACB,Regular Season,Monbus Obradoiro,Valencia Basket,98,103
+2023-03-03,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Barça,77,85
+2023-03-04,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Bàsquet Girona,71,79
+2023-03-05,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Baxi Manresa,87,83
+2023-03-06,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Carplus Fuenlabrada,87,77
+2023-03-07,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Casademont Zgz,67,83
+2023-03-08,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Cazoo Baskonia,71,83
+2023-03-09,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Covirán Granada,85,91
+2023-03-10,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Gran Canaria,88,82
+2023-03-11,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Joventut,67,71
+2023-03-12,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Lenovo Tenerife,80,76
+2023-03-13,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Monbus Obradoiro,71,73
+2023-03-14,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Real Madrid,55,73
+2023-03-15,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Río Breogán,84,89
+2023-03-16,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Surne Bilbao,86,78
+2023-03-17,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,UCAM Murcia,84,71
+2023-03-18,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Unicaja,66,79
+2023-03-19,2022-23,Spain ACB,Regular Season,Real Betis Baloncesto,Valencia Basket,78,83
+2023-03-20,2022-23,Spain ACB,Regular Season,Real Madrid,Barça,78,87
+2023-03-20,2022-23,Spain ACB,Regular Season,Real Madrid,Bàsquet Girona,89,70
+2023-03-21,2022-23,Spain ACB,Regular Season,Real Madrid,Baxi Manresa,103,89
+2023-03-22,2022-23,Spain ACB,Regular Season,Real Madrid,Carplus Fuenlabrada,91,69
+2023-03-23,2022-23,Spain ACB,Regular Season,Real Madrid,Casademont Zgz,93,86
+2023-03-24,2022-23,Spain ACB,Regular Season,Real Madrid,Cazoo Baskonia,88,95
+2023-03-25,2022-23,Spain ACB,Regular Season,Real Madrid,Covirán Granada,108,75
+2023-03-26,2022-23,Spain ACB,Regular Season,Real Madrid,Gran Canaria,105,85
+2023-03-27,2022-23,Spain ACB,Regular Season,Real Madrid,Joventut,96,79
+2023-03-28,2022-23,Spain ACB,Regular Season,Real Madrid,Lenovo Tenerife,88,77
+2023-03-29,2022-23,Spain ACB,Regular Season,Real Madrid,Monbus Obradoiro,93,79
+2023-03-30,2022-23,Spain ACB,Regular Season,Real Madrid,Real Betis Baloncesto,79,77
+2023-03-31,2022-23,Spain ACB,Regular Season,Real Madrid,Río Breogán,91,73
+2023-04-01,2022-23,Spain ACB,Regular Season,Real Madrid,Surne Bilbao,86,65
+2023-04-02,2022-23,Spain ACB,Regular Season,Real Madrid,UCAM Murcia,93,57
+2023-04-03,2022-23,Spain ACB,Regular Season,Real Madrid,Unicaja,102,90
+2023-04-04,2022-23,Spain ACB,Regular Season,Real Madrid,Valencia Basket,79,62
+2023-04-05,2022-23,Spain ACB,Regular Season,Río Breogán,Barça,74,78
+2023-04-06,2022-23,Spain ACB,Regular Season,Río Breogán,Bàsquet Girona,92,70
+2023-04-07,2022-23,Spain ACB,Regular Season,Río Breogán,Baxi Manresa,81,82
+2023-04-08,2022-23,Spain ACB,Regular Season,Río Breogán,Carplus Fuenlabrada,78,70
+2023-04-09,2022-23,Spain ACB,Regular Season,Río Breogán,Casademont Zgz,71,87
+2023-04-10,2022-23,Spain ACB,Regular Season,Río Breogán,Cazoo Baskonia,77,86
+2023-04-11,2022-23,Spain ACB,Regular Season,Río Breogán,Covirán Granada,99,67
+2023-04-12,2022-23,Spain ACB,Regular Season,Río Breogán,Gran Canaria,53,71
+2023-04-13,2022-23,Spain ACB,Regular Season,Río Breogán,Joventut,65,85
+2023-04-14,2022-23,Spain ACB,Regular Season,Río Breogán,Lenovo Tenerife,61,86
+2023-04-15,2022-23,Spain ACB,Regular Season,Río Breogán,Monbus Obradoiro,64,59
+2023-04-16,2022-23,Spain ACB,Regular Season,Río Breogán,Real Betis Baloncesto,114,115
+2023-04-17,2022-23,Spain ACB,Regular Season,Río Breogán,Real Madrid,96,72
+2023-04-18,2022-23,Spain ACB,Regular Season,Río Breogán,Surne Bilbao,86,70
+2023-04-19,2022-23,Spain ACB,Regular Season,Río Breogán,UCAM Murcia,60,65
+2023-04-20,2022-23,Spain ACB,Regular Season,Río Breogán,Unicaja,74,90
+2023-04-21,2022-23,Spain ACB,Regular Season,Río Breogán,Valencia Basket,83,88
+2023-04-22,2022-23,Spain ACB,Regular Season,Surne Bilbao,Barça,82,80
+2023-04-23,2022-23,Spain ACB,Regular Season,Surne Bilbao,Bàsquet Girona,84,77
+2023-04-24,2022-23,Spain ACB,Regular Season,Surne Bilbao,Baxi Manresa,80,76
+2023-04-25,2022-23,Spain ACB,Regular Season,Surne Bilbao,Carplus Fuenlabrada,109,82
+2023-04-26,2022-23,Spain ACB,Regular Season,Surne Bilbao,Casademont Zgz,81,68
+2023-04-27,2022-23,Spain ACB,Regular Season,Surne Bilbao,Cazoo Baskonia,70,81
+2023-04-28,2022-23,Spain ACB,Regular Season,Surne Bilbao,Covirán Granada,90,73
+2023-04-29,2022-23,Spain ACB,Regular Season,Surne Bilbao,Gran Canaria,76,72
+2023-04-30,2022-23,Spain ACB,Regular Season,Surne Bilbao,Joventut,51,70
+2023-05-01,2022-23,Spain ACB,Regular Season,Surne Bilbao,Lenovo Tenerife,60,83
+2023-05-02,2022-23,Spain ACB,Regular Season,Surne Bilbao,Monbus Obradoiro,77,80
+2023-05-03,2022-23,Spain ACB,Regular Season,Surne Bilbao,Real Betis Baloncesto,85,70
+2023-05-04,2022-23,Spain ACB,Regular Season,Surne Bilbao,Real Madrid,80,85
+2023-05-05,2022-23,Spain ACB,Regular Season,Surne Bilbao,Río Breogán,83,66
+2023-05-06,2022-23,Spain ACB,Regular Season,Surne Bilbao,UCAM Murcia,99,81
+2023-05-07,2022-23,Spain ACB,Regular Season,Surne Bilbao,Unicaja,71,103
+2023-05-08,2022-23,Spain ACB,Regular Season,Surne Bilbao,Valencia Basket,71,65
+2023-05-09,2022-23,Spain ACB,Regular Season,UCAM Murcia,Barça,72,86
+2023-05-09,2022-23,Spain ACB,Regular Season,UCAM Murcia,Bàsquet Girona,102,79
+2023-05-10,2022-23,Spain ACB,Regular Season,UCAM Murcia,Baxi Manresa,96,83
+2023-05-11,2022-23,Spain ACB,Regular Season,UCAM Murcia,Carplus Fuenlabrada,83,64
+2023-05-12,2022-23,Spain ACB,Regular Season,UCAM Murcia,Casademont Zgz,79,74
+2023-05-13,2022-23,Spain ACB,Regular Season,UCAM Murcia,Cazoo Baskonia,80,87
+2023-05-14,2022-23,Spain ACB,Regular Season,UCAM Murcia,Covirán Granada,82,89
+2023-05-15,2022-23,Spain ACB,Regular Season,UCAM Murcia,Gran Canaria,99,85
+2023-05-16,2022-23,Spain ACB,Regular Season,UCAM Murcia,Joventut,88,76
+2023-05-17,2022-23,Spain ACB,Regular Season,UCAM Murcia,Lenovo Tenerife,85,64
+2023-05-18,2022-23,Spain ACB,Regular Season,UCAM Murcia,Monbus Obradoiro,80,84
+2023-05-19,2022-23,Spain ACB,Regular Season,UCAM Murcia,Real Betis Baloncesto,76,72
+2023-05-20,2022-23,Spain ACB,Regular Season,UCAM Murcia,Real Madrid,80,88
+2023-05-21,2022-23,Spain ACB,Regular Season,UCAM Murcia,Río Breogán,70,84
+2023-05-22,2022-23,Spain ACB,Regular Season,UCAM Murcia,Surne Bilbao,67,55
+2023-05-23,2022-23,Spain ACB,Regular Season,UCAM Murcia,Unicaja,85,80
+2023-05-24,2022-23,Spain ACB,Regular Season,UCAM Murcia,Valencia Basket,90,82
+2023-05-25,2022-23,Spain ACB,Regular Season,Unicaja,Barça,81,86
+2023-05-26,2022-23,Spain ACB,Regular Season,Unicaja,Bàsquet Girona,94,70
+2023-05-27,2022-23,Spain ACB,Regular Season,Unicaja,Baxi Manresa,97,88
+2023-05-28,2022-23,Spain ACB,Regular Season,Unicaja,Carplus Fuenlabrada,100,75
+2023-05-29,2022-23,Spain ACB,Regular Season,Unicaja,Casademont Zgz,104,78
+2023-05-30,2022-23,Spain ACB,Regular Season,Unicaja,Cazoo Baskonia,81,89
+2023-05-31,2022-23,Spain ACB,Regular Season,Unicaja,Covirán Granada,94,68
+2023-06-01,2022-23,Spain ACB,Regular Season,Unicaja,Gran Canaria,70,63
+2023-06-02,2022-23,Spain ACB,Regular Season,Unicaja,Joventut,78,69
+2023-06-03,2022-23,Spain ACB,Regular Season,Unicaja,Lenovo Tenerife,75,71
+2023-06-04,2022-23,Spain ACB,Regular Season,Unicaja,Monbus Obradoiro,99,89
+2023-06-05,2022-23,Spain ACB,Regular Season,Unicaja,Real Betis Baloncesto,106,60
+2023-06-06,2022-23,Spain ACB,Regular Season,Unicaja,Real Madrid,71,76
+2023-06-07,2022-23,Spain ACB,Regular Season,Unicaja,Río Breogán,100,66
+2023-06-08,2022-23,Spain ACB,Regular Season,Unicaja,Surne Bilbao,92,79
+2023-06-09,2022-23,Spain ACB,Regular Season,Unicaja,UCAM Murcia,82,66
+2023-06-10,2022-23,Spain ACB,Regular Season,Unicaja,Valencia Basket,102,86
+2023-06-11,2022-23,Spain ACB,Regular Season,Valencia Basket,Barça,80,92
+2023-06-12,2022-23,Spain ACB,Regular Season,Valencia Basket,Bàsquet Girona,104,69
+2023-06-13,2022-23,Spain ACB,Regular Season,Valencia Basket,Baxi Manresa,103,92
+2023-06-14,2022-23,Spain ACB,Regular Season,Valencia Basket,Carplus Fuenlabrada,92,86
+2023-06-15,2022-23,Spain ACB,Regular Season,Valencia Basket,Casademont Zgz,88,76
+2023-06-16,2022-23,Spain ACB,Regular Season,Valencia Basket,Cazoo Baskonia,81,85
+2023-06-17,2022-23,Spain ACB,Regular Season,Valencia Basket,Covirán Granada,80,72
+2023-06-18,2022-23,Spain ACB,Regular Season,Valencia Basket,Gran Canaria,82,76
+2023-06-19,2022-23,Spain ACB,Regular Season,Valencia Basket,Joventut,101,97
+2023-06-20,2022-23,Spain ACB,Regular Season,Valencia Basket,Lenovo Tenerife,77,72
+2023-06-21,2022-23,Spain ACB,Regular Season,Valencia Basket,Monbus Obradoiro,87,78
+2023-06-22,2022-23,Spain ACB,Regular Season,Valencia Basket,Real Betis Baloncesto,87,81
+2023-06-23,2022-23,Spain ACB,Regular Season,Valencia Basket,Real Madrid,68,79
+2023-06-24,2022-23,Spain ACB,Regular Season,Valencia Basket,Río Breogán,77,80
+2023-06-25,2022-23,Spain ACB,Regular Season,Valencia Basket,Surne Bilbao,95,88
+2023-06-26,2022-23,Spain ACB,Regular Season,Valencia Basket,UCAM Murcia,74,75
+2023-06-27,2022-23,Spain ACB,Regular Season,Valencia Basket,Unicaja,67,83
+2023-09-01,2023-24,Spain ACB,Regular Season,Barça,Baskonia,82,62
+2023-09-01,2023-24,Spain ACB,Regular Season,Barça,Bàsquet Girona,115,78
+2023-09-02,2023-24,Spain ACB,Regular Season,Barça,Baxi Manresa,82,83
+2023-09-03,2023-24,Spain ACB,Regular Season,Barça,Casademont Zgz,109,68
+2023-09-04,2023-24,Spain ACB,Regular Season,Barça,Coviran Granada,80,69
+2023-09-05,2023-24,Spain ACB,Regular Season,Barça,Dreamland GC,95,89
+2023-09-06,2023-24,Spain ACB,Regular Season,Barça,Joventut,95,79
+2023-09-07,2023-24,Spain ACB,Regular Season,Barça,Lenovo Tenerife,94,83
+2023-09-08,2023-24,Spain ACB,Regular Season,Barça,Monbus Obra,92,90
+2023-09-09,2023-24,Spain ACB,Regular Season,Barça,MoraBanc And,91,87
+2023-09-10,2023-24,Spain ACB,Regular Season,Barça,Real Madrid,85,79
+2023-09-11,2023-24,Spain ACB,Regular Season,Barça,Río Breogán,85,88
+2023-09-12,2023-24,Spain ACB,Regular Season,Barça,Surne Bilbao,91,82
+2023-09-13,2023-24,Spain ACB,Regular Season,Barça,UCAM Murcia,97,86
+2023-09-14,2023-24,Spain ACB,Regular Season,Barça,Unicaja,91,92
+2023-09-15,2023-24,Spain ACB,Regular Season,Barça,Valencia Basket,76,79
+2023-09-16,2023-24,Spain ACB,Regular Season,Barça,Zunder Palencia,102,94
+2023-09-17,2023-24,Spain ACB,Regular Season,Baskonia,Barça,103,96
+2023-09-18,2023-24,Spain ACB,Regular Season,Baskonia,Bàsquet Girona,92,96
+2023-09-19,2023-24,Spain ACB,Regular Season,Baskonia,Baxi Manresa,94,86
+2023-09-20,2023-24,Spain ACB,Regular Season,Baskonia,Casademont Zgz,102,94
+2023-09-21,2023-24,Spain ACB,Regular Season,Baskonia,Coviran Granada,104,88
+2023-09-22,2023-24,Spain ACB,Regular Season,Baskonia,Dreamland GC,76,88
+2023-09-23,2023-24,Spain ACB,Regular Season,Baskonia,Joventut,78,81
+2023-09-24,2023-24,Spain ACB,Regular Season,Baskonia,Lenovo Tenerife,104,100
+2023-09-25,2023-24,Spain ACB,Regular Season,Baskonia,Monbus Obra,89,79
+2023-09-26,2023-24,Spain ACB,Regular Season,Baskonia,MoraBanc And,108,95
+2023-09-27,2023-24,Spain ACB,Regular Season,Baskonia,Real Madrid,85,99
+2023-09-28,2023-24,Spain ACB,Regular Season,Baskonia,Río Breogán,76,74
+2023-09-29,2023-24,Spain ACB,Regular Season,Baskonia,Surne Bilbao,92,72
+2023-09-30,2023-24,Spain ACB,Regular Season,Baskonia,UCAM Murcia,94,79
+2023-10-01,2023-24,Spain ACB,Regular Season,Baskonia,Unicaja,84,93
+2023-10-02,2023-24,Spain ACB,Regular Season,Baskonia,Valencia Basket,83,74
+2023-10-03,2023-24,Spain ACB,Regular Season,Baskonia,Zunder Palencia,94,82
+2023-10-04,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Barça,75,81
+2023-10-05,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Baskonia,85,93
+2023-10-06,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Baxi Manresa,83,84
+2023-10-07,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Casademont Zgz,79,89
+2023-10-08,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Coviran Granada,80,61
+2023-10-09,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Dreamland GC,88,64
+2023-10-10,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Joventut,67,82
+2023-10-11,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Lenovo Tenerife,66,79
+2023-10-12,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Monbus Obra,78,77
+2023-10-13,2023-24,Spain ACB,Regular Season,Bàsquet Girona,MoraBanc And,107,104
+2023-10-14,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Real Madrid,74,93
+2023-10-15,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Río Breogán,87,83
+2023-10-16,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Surne Bilbao,81,68
+2023-10-17,2023-24,Spain ACB,Regular Season,Bàsquet Girona,UCAM Murcia,82,76
+2023-10-18,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Unicaja,78,82
+2023-10-19,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Valencia Basket,92,88
+2023-10-20,2023-24,Spain ACB,Regular Season,Bàsquet Girona,Zunder Palencia,84,86
+2023-10-21,2023-24,Spain ACB,Regular Season,Baxi Manresa,Barça,77,87
+2023-10-22,2023-24,Spain ACB,Regular Season,Baxi Manresa,Baskonia,82,90
+2023-10-23,2023-24,Spain ACB,Regular Season,Baxi Manresa,Bàsquet Girona,101,87
+2023-10-24,2023-24,Spain ACB,Regular Season,Baxi Manresa,Casademont Zgz,81,75
+2023-10-25,2023-24,Spain ACB,Regular Season,Baxi Manresa,Coviran Granada,90,84
+2023-10-26,2023-24,Spain ACB,Regular Season,Baxi Manresa,Dreamland GC,78,71
+2023-10-27,2023-24,Spain ACB,Regular Season,Baxi Manresa,Joventut,102,89
+2023-10-28,2023-24,Spain ACB,Regular Season,Baxi Manresa,Lenovo Tenerife,73,76
+2023-10-29,2023-24,Spain ACB,Regular Season,Baxi Manresa,Monbus Obra,76,56
+2023-10-30,2023-24,Spain ACB,Regular Season,Baxi Manresa,MoraBanc And,90,97
+2023-10-31,2023-24,Spain ACB,Regular Season,Baxi Manresa,Real Madrid,88,94
+2023-10-31,2023-24,Spain ACB,Regular Season,Baxi Manresa,Río Breogán,83,68
+2023-11-01,2023-24,Spain ACB,Regular Season,Baxi Manresa,Surne Bilbao,90,81
+2023-11-02,2023-24,Spain ACB,Regular Season,Baxi Manresa,UCAM Murcia,83,88
+2023-11-03,2023-24,Spain ACB,Regular Season,Baxi Manresa,Unicaja,77,88
+2023-11-04,2023-24,Spain ACB,Regular Season,Baxi Manresa,Valencia Basket,98,96
+2023-11-05,2023-24,Spain ACB,Regular Season,Baxi Manresa,Zunder Palencia,92,91
+2023-11-06,2023-24,Spain ACB,Regular Season,Casademont Zgz,Barça,101,99
+2023-11-07,2023-24,Spain ACB,Regular Season,Casademont Zgz,Baskonia,80,85
+2023-11-08,2023-24,Spain ACB,Regular Season,Casademont Zgz,Bàsquet Girona,81,74
+2023-11-09,2023-24,Spain ACB,Regular Season,Casademont Zgz,Baxi Manresa,90,80
+2023-11-10,2023-24,Spain ACB,Regular Season,Casademont Zgz,Coviran Granada,77,84
+2023-11-11,2023-24,Spain ACB,Regular Season,Casademont Zgz,Dreamland GC,94,101
+2023-11-12,2023-24,Spain ACB,Regular Season,Casademont Zgz,Joventut,113,83
+2023-11-13,2023-24,Spain ACB,Regular Season,Casademont Zgz,Lenovo Tenerife,100,106
+2023-11-14,2023-24,Spain ACB,Regular Season,Casademont Zgz,Monbus Obra,98,79
+2023-11-15,2023-24,Spain ACB,Regular Season,Casademont Zgz,MoraBanc And,72,76
+2023-11-16,2023-24,Spain ACB,Regular Season,Casademont Zgz,Real Madrid,70,79
+2023-11-17,2023-24,Spain ACB,Regular Season,Casademont Zgz,Río Breogán,63,61
+2023-11-18,2023-24,Spain ACB,Regular Season,Casademont Zgz,Surne Bilbao,77,63
+2023-11-19,2023-24,Spain ACB,Regular Season,Casademont Zgz,UCAM Murcia,82,76
+2023-11-20,2023-24,Spain ACB,Regular Season,Casademont Zgz,Unicaja,100,92
+2023-11-21,2023-24,Spain ACB,Regular Season,Casademont Zgz,Valencia Basket,75,85
+2023-11-22,2023-24,Spain ACB,Regular Season,Casademont Zgz,Zunder Palencia,103,96
+2023-11-23,2023-24,Spain ACB,Regular Season,Coviran Granada,Barça,61,94
+2023-11-24,2023-24,Spain ACB,Regular Season,Coviran Granada,Baskonia,81,90
+2023-11-25,2023-24,Spain ACB,Regular Season,Coviran Granada,Bàsquet Girona,91,102
+2023-11-26,2023-24,Spain ACB,Regular Season,Coviran Granada,Baxi Manresa,93,94
+2023-11-27,2023-24,Spain ACB,Regular Season,Coviran Granada,Casademont Zgz,78,70
+2023-11-28,2023-24,Spain ACB,Regular Season,Coviran Granada,Dreamland GC,74,67
+2023-11-29,2023-24,Spain ACB,Regular Season,Coviran Granada,Joventut,86,83
+2023-11-30,2023-24,Spain ACB,Regular Season,Coviran Granada,Lenovo Tenerife,68,80
+2023-12-01,2023-24,Spain ACB,Regular Season,Coviran Granada,Monbus Obra,77,74
+2023-12-02,2023-24,Spain ACB,Regular Season,Coviran Granada,MoraBanc And,91,88
+2023-12-03,2023-24,Spain ACB,Regular Season,Coviran Granada,Real Madrid,76,83
+2023-12-04,2023-24,Spain ACB,Regular Season,Coviran Granada,Río Breogán,84,85
+2023-12-05,2023-24,Spain ACB,Regular Season,Coviran Granada,Surne Bilbao,87,79
+2023-12-06,2023-24,Spain ACB,Regular Season,Coviran Granada,UCAM Murcia,101,104
+2023-12-07,2023-24,Spain ACB,Regular Season,Coviran Granada,Unicaja,62,90
+2023-12-08,2023-24,Spain ACB,Regular Season,Coviran Granada,Valencia Basket,81,88
+2023-12-09,2023-24,Spain ACB,Regular Season,Coviran Granada,Zunder Palencia,109,85
+2023-12-10,2023-24,Spain ACB,Regular Season,Dreamland GC,Barça,73,83
+2023-12-11,2023-24,Spain ACB,Regular Season,Dreamland GC,Baskonia,98,80
+2023-12-12,2023-24,Spain ACB,Regular Season,Dreamland GC,Bàsquet Girona,78,86
+2023-12-13,2023-24,Spain ACB,Regular Season,Dreamland GC,Baxi Manresa,97,92
+2023-12-14,2023-24,Spain ACB,Regular Season,Dreamland GC,Casademont Zgz,111,85
+2023-12-15,2023-24,Spain ACB,Regular Season,Dreamland GC,Coviran Granada,89,75
+2023-12-16,2023-24,Spain ACB,Regular Season,Dreamland GC,Joventut,97,79
+2023-12-17,2023-24,Spain ACB,Regular Season,Dreamland GC,Lenovo Tenerife,82,94
+2023-12-18,2023-24,Spain ACB,Regular Season,Dreamland GC,Monbus Obra,87,80
+2023-12-19,2023-24,Spain ACB,Regular Season,Dreamland GC,MoraBanc And,97,92
+2023-12-20,2023-24,Spain ACB,Regular Season,Dreamland GC,Real Madrid,100,77
+2023-12-21,2023-24,Spain ACB,Regular Season,Dreamland GC,Río Breogán,86,60
+2023-12-22,2023-24,Spain ACB,Regular Season,Dreamland GC,Surne Bilbao,83,75
+2023-12-23,2023-24,Spain ACB,Regular Season,Dreamland GC,UCAM Murcia,91,80
+2023-12-24,2023-24,Spain ACB,Regular Season,Dreamland GC,Unicaja,76,69
+2023-12-25,2023-24,Spain ACB,Regular Season,Dreamland GC,Valencia Basket,79,71
+2023-12-26,2023-24,Spain ACB,Regular Season,Dreamland GC,Zunder Palencia,100,73
+2023-12-27,2023-24,Spain ACB,Regular Season,Joventut,Barça,75,93
+2023-12-28,2023-24,Spain ACB,Regular Season,Joventut,Baskonia,77,72
+2023-12-29,2023-24,Spain ACB,Regular Season,Joventut,Bàsquet Girona,96,90
+2023-12-30,2023-24,Spain ACB,Regular Season,Joventut,Baxi Manresa,81,83
+2023-12-30,2023-24,Spain ACB,Regular Season,Joventut,Casademont Zgz,95,84
+2023-12-31,2023-24,Spain ACB,Regular Season,Joventut,Coviran Granada,86,80
+2024-01-01,2023-24,Spain ACB,Regular Season,Joventut,Dreamland GC,89,75
+2024-01-02,2023-24,Spain ACB,Regular Season,Joventut,Lenovo Tenerife,96,88
+2024-01-03,2023-24,Spain ACB,Regular Season,Joventut,Monbus Obra,78,69
+2024-01-04,2023-24,Spain ACB,Regular Season,Joventut,MoraBanc And,84,94
+2024-01-05,2023-24,Spain ACB,Regular Season,Joventut,Real Madrid,73,101
+2024-01-06,2023-24,Spain ACB,Regular Season,Joventut,Río Breogán,78,70
+2024-01-07,2023-24,Spain ACB,Regular Season,Joventut,Surne Bilbao,81,78
+2024-01-08,2023-24,Spain ACB,Regular Season,Joventut,UCAM Murcia,75,82
+2024-01-09,2023-24,Spain ACB,Regular Season,Joventut,Unicaja,85,81
+2024-01-10,2023-24,Spain ACB,Regular Season,Joventut,Valencia Basket,80,76
+2024-01-11,2023-24,Spain ACB,Regular Season,Joventut,Zunder Palencia,89,77
+2024-01-12,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Barça,80,83
+2024-01-13,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Baskonia,95,78
+2024-01-14,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Bàsquet Girona,74,60
+2024-01-15,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Baxi Manresa,84,80
+2024-01-16,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Casademont Zgz,64,70
+2024-01-17,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Coviran Granada,89,83
+2024-01-18,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Dreamland GC,93,92
+2024-01-19,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Joventut,90,70
+2024-01-20,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Monbus Obra,87,92
+2024-01-21,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,MoraBanc And,71,53
+2024-01-22,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Real Madrid,76,82
+2024-01-23,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Río Breogán,88,81
+2024-01-24,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Surne Bilbao,101,84
+2024-01-25,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,UCAM Murcia,75,73
+2024-01-26,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Unicaja,87,86
+2024-01-27,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Valencia Basket,86,94
+2024-01-28,2023-24,Spain ACB,Regular Season,Lenovo Tenerife,Zunder Palencia,92,71
+2024-01-29,2023-24,Spain ACB,Regular Season,Monbus Obra,Barça,84,89
+2024-01-30,2023-24,Spain ACB,Regular Season,Monbus Obra,Baskonia,108,95
+2024-01-31,2023-24,Spain ACB,Regular Season,Monbus Obra,Bàsquet Girona,85,79
+2024-02-01,2023-24,Spain ACB,Regular Season,Monbus Obra,Baxi Manresa,86,94
+2024-02-02,2023-24,Spain ACB,Regular Season,Monbus Obra,Casademont Zgz,80,72
+2024-02-03,2023-24,Spain ACB,Regular Season,Monbus Obra,Coviran Granada,77,94
+2024-02-04,2023-24,Spain ACB,Regular Season,Monbus Obra,Dreamland GC,72,81
+2024-02-05,2023-24,Spain ACB,Regular Season,Monbus Obra,Joventut,97,71
+2024-02-06,2023-24,Spain ACB,Regular Season,Monbus Obra,Lenovo Tenerife,86,97
+2024-02-07,2023-24,Spain ACB,Regular Season,Monbus Obra,MoraBanc And,101,89
+2024-02-08,2023-24,Spain ACB,Regular Season,Monbus Obra,Real Madrid,74,85
+2024-02-09,2023-24,Spain ACB,Regular Season,Monbus Obra,Río Breogán,83,72
+2024-02-10,2023-24,Spain ACB,Regular Season,Monbus Obra,Surne Bilbao,77,78
+2024-02-11,2023-24,Spain ACB,Regular Season,Monbus Obra,UCAM Murcia,79,87
+2024-02-12,2023-24,Spain ACB,Regular Season,Monbus Obra,Unicaja,78,90
+2024-02-13,2023-24,Spain ACB,Regular Season,Monbus Obra,Valencia Basket,75,97
+2024-02-14,2023-24,Spain ACB,Regular Season,Monbus Obra,Zunder Palencia,84,64
+2024-02-15,2023-24,Spain ACB,Regular Season,MoraBanc And,Barça,108,92
+2024-02-16,2023-24,Spain ACB,Regular Season,MoraBanc And,Baskonia,85,68
+2024-02-17,2023-24,Spain ACB,Regular Season,MoraBanc And,Bàsquet Girona,93,66
+2024-02-18,2023-24,Spain ACB,Regular Season,MoraBanc And,Baxi Manresa,86,90
+2024-02-19,2023-24,Spain ACB,Regular Season,MoraBanc And,Casademont Zgz,85,80
+2024-02-20,2023-24,Spain ACB,Regular Season,MoraBanc And,Coviran Granada,88,62
+2024-02-21,2023-24,Spain ACB,Regular Season,MoraBanc And,Dreamland GC,77,98
+2024-02-22,2023-24,Spain ACB,Regular Season,MoraBanc And,Joventut,79,86
+2024-02-23,2023-24,Spain ACB,Regular Season,MoraBanc And,Lenovo Tenerife,66,79
+2024-02-24,2023-24,Spain ACB,Regular Season,MoraBanc And,Monbus Obra,92,89
+2024-02-25,2023-24,Spain ACB,Regular Season,MoraBanc And,Real Madrid,70,89
+2024-02-26,2023-24,Spain ACB,Regular Season,MoraBanc And,Río Breogán,63,69
+2024-02-27,2023-24,Spain ACB,Regular Season,MoraBanc And,Surne Bilbao,87,78
+2024-02-28,2023-24,Spain ACB,Regular Season,MoraBanc And,UCAM Murcia,98,73
+2024-02-28,2023-24,Spain ACB,Regular Season,MoraBanc And,Unicaja,81,87
+2024-02-29,2023-24,Spain ACB,Regular Season,MoraBanc And,Valencia Basket,99,71
+2024-03-01,2023-24,Spain ACB,Regular Season,MoraBanc And,Zunder Palencia,87,74
+2024-03-02,2023-24,Spain ACB,Regular Season,Real Madrid,Barça,86,79
+2024-03-03,2023-24,Spain ACB,Regular Season,Real Madrid,Baskonia,106,100
+2024-03-04,2023-24,Spain ACB,Regular Season,Real Madrid,Bàsquet Girona,92,79
+2024-03-05,2023-24,Spain ACB,Regular Season,Real Madrid,Baxi Manresa,72,83
+2024-03-06,2023-24,Spain ACB,Regular Season,Real Madrid,Casademont Zgz,101,70
+2024-03-07,2023-24,Spain ACB,Regular Season,Real Madrid,Coviran Granada,94,80
+2024-03-08,2023-24,Spain ACB,Regular Season,Real Madrid,Dreamland GC,97,71
+2024-03-09,2023-24,Spain ACB,Regular Season,Real Madrid,Joventut,95,92
+2024-03-10,2023-24,Spain ACB,Regular Season,Real Madrid,Lenovo Tenerife,80,78
+2024-03-11,2023-24,Spain ACB,Regular Season,Real Madrid,Monbus Obra,79,69
+2024-03-12,2023-24,Spain ACB,Regular Season,Real Madrid,MoraBanc And,85,76
+2024-03-13,2023-24,Spain ACB,Regular Season,Real Madrid,Río Breogán,91,58
+2024-03-14,2023-24,Spain ACB,Regular Season,Real Madrid,Surne Bilbao,95,80
+2024-03-15,2023-24,Spain ACB,Regular Season,Real Madrid,UCAM Murcia,106,92
+2024-03-16,2023-24,Spain ACB,Regular Season,Real Madrid,Unicaja,93,99
+2024-03-17,2023-24,Spain ACB,Regular Season,Real Madrid,Valencia Basket,83,74
+2024-03-18,2023-24,Spain ACB,Regular Season,Real Madrid,Zunder Palencia,91,68
+2024-03-19,2023-24,Spain ACB,Regular Season,Río Breogán,Barça,63,79
+2024-03-20,2023-24,Spain ACB,Regular Season,Río Breogán,Baskonia,79,88
+2024-03-21,2023-24,Spain ACB,Regular Season,Río Breogán,Bàsquet Girona,93,75
+2024-03-22,2023-24,Spain ACB,Regular Season,Río Breogán,Baxi Manresa,85,89
+2024-03-23,2023-24,Spain ACB,Regular Season,Río Breogán,Casademont Zgz,82,77
+2024-03-24,2023-24,Spain ACB,Regular Season,Río Breogán,Coviran Granada,85,79
+2024-03-25,2023-24,Spain ACB,Regular Season,Río Breogán,Dreamland GC,70,77
+2024-03-26,2023-24,Spain ACB,Regular Season,Río Breogán,Joventut,85,77
+2024-03-27,2023-24,Spain ACB,Regular Season,Río Breogán,Lenovo Tenerife,76,54
+2024-03-28,2023-24,Spain ACB,Regular Season,Río Breogán,Monbus Obra,88,90
+2024-03-29,2023-24,Spain ACB,Regular Season,Río Breogán,MoraBanc And,97,92
+2024-03-30,2023-24,Spain ACB,Regular Season,Río Breogán,Real Madrid,73,80
+2024-03-31,2023-24,Spain ACB,Regular Season,Río Breogán,Surne Bilbao,68,80
+2024-04-01,2023-24,Spain ACB,Regular Season,Río Breogán,UCAM Murcia,74,83
+2024-04-02,2023-24,Spain ACB,Regular Season,Río Breogán,Unicaja,65,76
+2024-04-03,2023-24,Spain ACB,Regular Season,Río Breogán,Valencia Basket,59,61
+2024-04-04,2023-24,Spain ACB,Regular Season,Río Breogán,Zunder Palencia,73,65
+2024-04-05,2023-24,Spain ACB,Regular Season,Surne Bilbao,Barça,68,72
+2024-04-06,2023-24,Spain ACB,Regular Season,Surne Bilbao,Baskonia,82,80
+2024-04-07,2023-24,Spain ACB,Regular Season,Surne Bilbao,Bàsquet Girona,80,74
+2024-04-08,2023-24,Spain ACB,Regular Season,Surne Bilbao,Baxi Manresa,74,54
+2024-04-09,2023-24,Spain ACB,Regular Season,Surne Bilbao,Casademont Zgz,86,83
+2024-04-10,2023-24,Spain ACB,Regular Season,Surne Bilbao,Coviran Granada,94,93
+2024-04-11,2023-24,Spain ACB,Regular Season,Surne Bilbao,Dreamland GC,81,71
+2024-04-12,2023-24,Spain ACB,Regular Season,Surne Bilbao,Joventut,92,71
+2024-04-13,2023-24,Spain ACB,Regular Season,Surne Bilbao,Lenovo Tenerife,93,94
+2024-04-14,2023-24,Spain ACB,Regular Season,Surne Bilbao,Monbus Obra,72,75
+2024-04-15,2023-24,Spain ACB,Regular Season,Surne Bilbao,MoraBanc And,95,73
+2024-04-16,2023-24,Spain ACB,Regular Season,Surne Bilbao,Real Madrid,84,87
+2024-04-17,2023-24,Spain ACB,Regular Season,Surne Bilbao,Río Breogán,68,76
+2024-04-18,2023-24,Spain ACB,Regular Season,Surne Bilbao,UCAM Murcia,77,68
+2024-04-19,2023-24,Spain ACB,Regular Season,Surne Bilbao,Unicaja,43,67
+2024-04-20,2023-24,Spain ACB,Regular Season,Surne Bilbao,Valencia Basket,93,78
+2024-04-21,2023-24,Spain ACB,Regular Season,Surne Bilbao,Zunder Palencia,80,97
+2024-04-22,2023-24,Spain ACB,Regular Season,UCAM Murcia,Barça,82,73
+2024-04-23,2023-24,Spain ACB,Regular Season,UCAM Murcia,Baskonia,88,76
+2024-04-24,2023-24,Spain ACB,Regular Season,UCAM Murcia,Bàsquet Girona,81,73
+2024-04-25,2023-24,Spain ACB,Regular Season,UCAM Murcia,Baxi Manresa,87,74
+2024-04-26,2023-24,Spain ACB,Regular Season,UCAM Murcia,Casademont Zgz,82,77
+2024-04-27,2023-24,Spain ACB,Regular Season,UCAM Murcia,Coviran Granada,91,78
+2024-04-28,2023-24,Spain ACB,Regular Season,UCAM Murcia,Dreamland GC,95,69
+2024-04-28,2023-24,Spain ACB,Regular Season,UCAM Murcia,Joventut,105,73
+2024-04-29,2023-24,Spain ACB,Regular Season,UCAM Murcia,Lenovo Tenerife,80,68
+2024-04-30,2023-24,Spain ACB,Regular Season,UCAM Murcia,Monbus Obra,94,81
+2024-05-01,2023-24,Spain ACB,Regular Season,UCAM Murcia,MoraBanc And,99,86
+2024-05-02,2023-24,Spain ACB,Regular Season,UCAM Murcia,Real Madrid,73,61
+2024-05-03,2023-24,Spain ACB,Regular Season,UCAM Murcia,Río Breogán,68,61
+2024-05-04,2023-24,Spain ACB,Regular Season,UCAM Murcia,Surne Bilbao,96,76
+2024-05-05,2023-24,Spain ACB,Regular Season,UCAM Murcia,Unicaja,65,88
+2024-05-06,2023-24,Spain ACB,Regular Season,UCAM Murcia,Valencia Basket,77,85
+2024-05-07,2023-24,Spain ACB,Regular Season,UCAM Murcia,Zunder Palencia,90,77
+2024-05-08,2023-24,Spain ACB,Regular Season,Unicaja,Barça,91,71
+2024-05-09,2023-24,Spain ACB,Regular Season,Unicaja,Baskonia,95,91
+2024-05-10,2023-24,Spain ACB,Regular Season,Unicaja,Bàsquet Girona,111,80
+2024-05-11,2023-24,Spain ACB,Regular Season,Unicaja,Baxi Manresa,91,77
+2024-05-12,2023-24,Spain ACB,Regular Season,Unicaja,Casademont Zgz,83,72
+2024-05-13,2023-24,Spain ACB,Regular Season,Unicaja,Coviran Granada,92,70
+2024-05-14,2023-24,Spain ACB,Regular Season,Unicaja,Dreamland GC,80,77
+2024-05-15,2023-24,Spain ACB,Regular Season,Unicaja,Joventut,113,91
+2024-05-16,2023-24,Spain ACB,Regular Season,Unicaja,Lenovo Tenerife,98,75
+2024-05-17,2023-24,Spain ACB,Regular Season,Unicaja,Monbus Obra,87,74
+2024-05-18,2023-24,Spain ACB,Regular Season,Unicaja,MoraBanc And,92,86
+2024-05-19,2023-24,Spain ACB,Regular Season,Unicaja,Real Madrid,81,87
+2024-05-20,2023-24,Spain ACB,Regular Season,Unicaja,Río Breogán,87,70
+2024-05-21,2023-24,Spain ACB,Regular Season,Unicaja,Surne Bilbao,101,84
+2024-05-22,2023-24,Spain ACB,Regular Season,Unicaja,UCAM Murcia,96,71
+2024-05-23,2023-24,Spain ACB,Regular Season,Unicaja,Valencia Basket,76,82
+2024-05-24,2023-24,Spain ACB,Regular Season,Unicaja,Zunder Palencia,93,69
+2024-05-25,2023-24,Spain ACB,Regular Season,Valencia Basket,Barça,71,68
+2024-05-26,2023-24,Spain ACB,Regular Season,Valencia Basket,Baskonia,111,101
+2024-05-27,2023-24,Spain ACB,Regular Season,Valencia Basket,Bàsquet Girona,85,89
+2024-05-28,2023-24,Spain ACB,Regular Season,Valencia Basket,Baxi Manresa,84,79
+2024-05-29,2023-24,Spain ACB,Regular Season,Valencia Basket,Casademont Zgz,76,69
+2024-05-30,2023-24,Spain ACB,Regular Season,Valencia Basket,Coviran Granada,75,81
+2024-05-31,2023-24,Spain ACB,Regular Season,Valencia Basket,Dreamland GC,79,86
+2024-06-01,2023-24,Spain ACB,Regular Season,Valencia Basket,Joventut,83,76
+2024-06-02,2023-24,Spain ACB,Regular Season,Valencia Basket,Lenovo Tenerife,98,73
+2024-06-03,2023-24,Spain ACB,Regular Season,Valencia Basket,Monbus Obra,85,79
+2024-06-04,2023-24,Spain ACB,Regular Season,Valencia Basket,MoraBanc And,86,82
+2024-06-05,2023-24,Spain ACB,Regular Season,Valencia Basket,Real Madrid,99,93
+2024-06-06,2023-24,Spain ACB,Regular Season,Valencia Basket,Río Breogán,88,80
+2024-06-07,2023-24,Spain ACB,Regular Season,Valencia Basket,Surne Bilbao,79,85
+2024-06-08,2023-24,Spain ACB,Regular Season,Valencia Basket,UCAM Murcia,83,82
+2024-06-09,2023-24,Spain ACB,Regular Season,Valencia Basket,Unicaja,63,83
+2024-06-10,2023-24,Spain ACB,Regular Season,Valencia Basket,Zunder Palencia,111,93
+2024-06-11,2023-24,Spain ACB,Regular Season,Zunder Palencia,Barça,83,84
+2024-06-12,2023-24,Spain ACB,Regular Season,Zunder Palencia,Baskonia,94,101
+2024-06-13,2023-24,Spain ACB,Regular Season,Zunder Palencia,Bàsquet Girona,76,80
+2024-06-14,2023-24,Spain ACB,Regular Season,Zunder Palencia,Baxi Manresa,88,95
+2024-06-15,2023-24,Spain ACB,Regular Season,Zunder Palencia,Casademont Zgz,80,88
+2024-06-16,2023-24,Spain ACB,Regular Season,Zunder Palencia,Coviran Granada,83,91
+2024-06-17,2023-24,Spain ACB,Regular Season,Zunder Palencia,Dreamland GC,82,58
+2024-06-18,2023-24,Spain ACB,Regular Season,Zunder Palencia,Joventut,69,75
+2024-06-19,2023-24,Spain ACB,Regular Season,Zunder Palencia,Lenovo Tenerife,68,89
+2024-06-20,2023-24,Spain ACB,Regular Season,Zunder Palencia,Monbus Obra,75,81
+2024-06-21,2023-24,Spain ACB,Regular Season,Zunder Palencia,MoraBanc And,77,70
+2024-06-22,2023-24,Spain ACB,Regular Season,Zunder Palencia,Real Madrid,78,86
+2024-06-23,2023-24,Spain ACB,Regular Season,Zunder Palencia,Río Breogán,74,59
+2024-06-24,2023-24,Spain ACB,Regular Season,Zunder Palencia,Surne Bilbao,78,72
+2024-06-25,2023-24,Spain ACB,Regular Season,Zunder Palencia,UCAM Murcia,66,76
+2024-06-26,2023-24,Spain ACB,Regular Season,Zunder Palencia,Unicaja,72,86
+2024-06-27,2023-24,Spain ACB,Regular Season,Zunder Palencia,Valencia Basket,77,101
+2024-09-01,2024-25,Spain ACB,Regular Season,Barça,Baskonia,89,93
+2024-09-01,2024-25,Spain ACB,Regular Season,Barça,Bàsquet Girona,97,74
+2024-09-02,2024-25,Spain ACB,Regular Season,Barça,Baxi Manresa,92,103
+2024-09-03,2024-25,Spain ACB,Regular Season,Barça,Casademont Zgz,97,95
+2024-09-04,2024-25,Spain ACB,Regular Season,Barça,Coviran Granada,91,65
+2024-09-05,2024-25,Spain ACB,Regular Season,Barça,Dreamland GC,104,90
+2024-09-06,2024-25,Spain ACB,Regular Season,Barça,Hiopos Lleida,98,72
+2024-09-07,2024-25,Spain ACB,Regular Season,Barça,Joventut,90,91
+2024-09-08,2024-25,Spain ACB,Regular Season,Barça,La Laguna TFE,92,95
+2024-09-09,2024-25,Spain ACB,Regular Season,Barça,Leyma Coruña,106,80
+2024-09-10,2024-25,Spain ACB,Regular Season,Barça,MoraBanc And,105,79
+2024-09-11,2024-25,Spain ACB,Regular Season,Barça,Real Madrid,89,91
+2024-09-12,2024-25,Spain ACB,Regular Season,Barça,Río Breogán,102,79
+2024-09-13,2024-25,Spain ACB,Regular Season,Barça,Surne Bilbao,97,84
+2024-09-14,2024-25,Spain ACB,Regular Season,Barça,UCAM Murcia,86,79
+2024-09-15,2024-25,Spain ACB,Regular Season,Barça,Unicaja,83,81
+2024-09-16,2024-25,Spain ACB,Regular Season,Barça,Valencia Basket,102,99
+2024-09-17,2024-25,Spain ACB,Regular Season,Baskonia,Barça,110,98
+2024-09-18,2024-25,Spain ACB,Regular Season,Baskonia,Bàsquet Girona,92,76
+2024-09-19,2024-25,Spain ACB,Regular Season,Baskonia,Baxi Manresa,90,84
+2024-09-20,2024-25,Spain ACB,Regular Season,Baskonia,Casademont Zgz,90,84
+2024-09-21,2024-25,Spain ACB,Regular Season,Baskonia,Coviran Granada,103,82
+2024-09-22,2024-25,Spain ACB,Regular Season,Baskonia,Dreamland GC,84,80
+2024-09-23,2024-25,Spain ACB,Regular Season,Baskonia,Hiopos Lleida,100,99
+2024-09-24,2024-25,Spain ACB,Regular Season,Baskonia,Joventut,79,82
+2024-09-25,2024-25,Spain ACB,Regular Season,Baskonia,La Laguna TFE,89,93
+2024-09-26,2024-25,Spain ACB,Regular Season,Baskonia,Leyma Coruña,114,66
+2024-09-27,2024-25,Spain ACB,Regular Season,Baskonia,MoraBanc And,91,95
+2024-09-28,2024-25,Spain ACB,Regular Season,Baskonia,Real Madrid,82,89
+2024-09-29,2024-25,Spain ACB,Regular Season,Baskonia,Río Breogán,97,91
+2024-09-30,2024-25,Spain ACB,Regular Season,Baskonia,Surne Bilbao,100,97
+2024-10-01,2024-25,Spain ACB,Regular Season,Baskonia,UCAM Murcia,95,92
+2024-10-02,2024-25,Spain ACB,Regular Season,Baskonia,Unicaja,88,90
+2024-10-03,2024-25,Spain ACB,Regular Season,Baskonia,Valencia Basket,91,116
+2024-10-04,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Barça,91,90
+2024-10-05,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Baskonia,96,67
+2024-10-06,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Baxi Manresa,84,80
+2024-10-07,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Casademont Zgz,89,101
+2024-10-08,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Coviran Granada,52,82
+2024-10-09,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Dreamland GC,86,95
+2024-10-10,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Hiopos Lleida,95,83
+2024-10-11,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Joventut,83,76
+2024-10-12,2024-25,Spain ACB,Regular Season,Bàsquet Girona,La Laguna TFE,84,93
+2024-10-13,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Leyma Coruña,81,98
+2024-10-14,2024-25,Spain ACB,Regular Season,Bàsquet Girona,MoraBanc And,85,98
+2024-10-15,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Real Madrid,71,79
+2024-10-16,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Río Breogán,91,85
+2024-10-17,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Surne Bilbao,100,94
+2024-10-18,2024-25,Spain ACB,Regular Season,Bàsquet Girona,UCAM Murcia,75,82
+2024-10-19,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Unicaja,91,85
+2024-10-20,2024-25,Spain ACB,Regular Season,Bàsquet Girona,Valencia Basket,85,91
+2024-10-21,2024-25,Spain ACB,Regular Season,Baxi Manresa,Barça,85,72
+2024-10-21,2024-25,Spain ACB,Regular Season,Baxi Manresa,Baskonia,80,82
+2024-10-22,2024-25,Spain ACB,Regular Season,Baxi Manresa,Bàsquet Girona,95,84
+2024-10-23,2024-25,Spain ACB,Regular Season,Baxi Manresa,Casademont Zgz,95,83
+2024-10-24,2024-25,Spain ACB,Regular Season,Baxi Manresa,Coviran Granada,93,86
+2024-10-25,2024-25,Spain ACB,Regular Season,Baxi Manresa,Dreamland GC,79,58
+2024-10-26,2024-25,Spain ACB,Regular Season,Baxi Manresa,Hiopos Lleida,89,95
+2024-10-27,2024-25,Spain ACB,Regular Season,Baxi Manresa,Joventut,87,72
+2024-10-28,2024-25,Spain ACB,Regular Season,Baxi Manresa,La Laguna TFE,86,83
+2024-10-29,2024-25,Spain ACB,Regular Season,Baxi Manresa,Leyma Coruña,104,89
+2024-10-30,2024-25,Spain ACB,Regular Season,Baxi Manresa,MoraBanc And,107,111
+2024-10-31,2024-25,Spain ACB,Regular Season,Baxi Manresa,Real Madrid,65,67
+2024-11-01,2024-25,Spain ACB,Regular Season,Baxi Manresa,Río Breogán,93,104
+2024-11-02,2024-25,Spain ACB,Regular Season,Baxi Manresa,Surne Bilbao,89,74
+2024-11-03,2024-25,Spain ACB,Regular Season,Baxi Manresa,UCAM Murcia,80,74
+2024-11-04,2024-25,Spain ACB,Regular Season,Baxi Manresa,Unicaja,109,69
+2024-11-05,2024-25,Spain ACB,Regular Season,Baxi Manresa,Valencia Basket,77,73
+2024-11-06,2024-25,Spain ACB,Regular Season,Casademont Zgz,Barça,108,95
+2024-11-07,2024-25,Spain ACB,Regular Season,Casademont Zgz,Baskonia,86,85
+2024-11-08,2024-25,Spain ACB,Regular Season,Casademont Zgz,Bàsquet Girona,96,68
+2024-11-09,2024-25,Spain ACB,Regular Season,Casademont Zgz,Baxi Manresa,92,93
+2024-11-10,2024-25,Spain ACB,Regular Season,Casademont Zgz,Coviran Granada,88,95
+2024-11-11,2024-25,Spain ACB,Regular Season,Casademont Zgz,Dreamland GC,87,97
+2024-11-12,2024-25,Spain ACB,Regular Season,Casademont Zgz,Hiopos Lleida,101,91
+2024-11-13,2024-25,Spain ACB,Regular Season,Casademont Zgz,Joventut,96,95
+2024-11-14,2024-25,Spain ACB,Regular Season,Casademont Zgz,La Laguna TFE,89,93
+2024-11-15,2024-25,Spain ACB,Regular Season,Casademont Zgz,Leyma Coruña,84,76
+2024-11-16,2024-25,Spain ACB,Regular Season,Casademont Zgz,MoraBanc And,86,75
+2024-11-17,2024-25,Spain ACB,Regular Season,Casademont Zgz,Real Madrid,89,104
+2024-11-18,2024-25,Spain ACB,Regular Season,Casademont Zgz,Río Breogán,111,53
+2024-11-19,2024-25,Spain ACB,Regular Season,Casademont Zgz,Surne Bilbao,82,71
+2024-11-20,2024-25,Spain ACB,Regular Season,Casademont Zgz,UCAM Murcia,79,88
+2024-11-21,2024-25,Spain ACB,Regular Season,Casademont Zgz,Unicaja,84,69
+2024-11-22,2024-25,Spain ACB,Regular Season,Casademont Zgz,Valencia Basket,71,115
+2024-11-23,2024-25,Spain ACB,Regular Season,Coviran Granada,Barça,86,93
+2024-11-24,2024-25,Spain ACB,Regular Season,Coviran Granada,Baskonia,73,75
+2024-11-25,2024-25,Spain ACB,Regular Season,Coviran Granada,Bàsquet Girona,78,74
+2024-11-26,2024-25,Spain ACB,Regular Season,Coviran Granada,Baxi Manresa,86,80
+2024-11-27,2024-25,Spain ACB,Regular Season,Coviran Granada,Casademont Zgz,97,91
+2024-11-28,2024-25,Spain ACB,Regular Season,Coviran Granada,Dreamland GC,82,97
+2024-11-29,2024-25,Spain ACB,Regular Season,Coviran Granada,Hiopos Lleida,82,85
+2024-11-30,2024-25,Spain ACB,Regular Season,Coviran Granada,Joventut,87,77
+2024-12-01,2024-25,Spain ACB,Regular Season,Coviran Granada,La Laguna TFE,75,86
+2024-12-02,2024-25,Spain ACB,Regular Season,Coviran Granada,Leyma Coruña,80,77
+2024-12-03,2024-25,Spain ACB,Regular Season,Coviran Granada,MoraBanc And,77,89
+2024-12-04,2024-25,Spain ACB,Regular Season,Coviran Granada,Real Madrid,79,84
+2024-12-05,2024-25,Spain ACB,Regular Season,Coviran Granada,Río Breogán,91,82
+2024-12-06,2024-25,Spain ACB,Regular Season,Coviran Granada,Surne Bilbao,72,84
+2024-12-07,2024-25,Spain ACB,Regular Season,Coviran Granada,UCAM Murcia,82,88
+2024-12-08,2024-25,Spain ACB,Regular Season,Coviran Granada,Unicaja,68,84
+2024-12-09,2024-25,Spain ACB,Regular Season,Coviran Granada,Valencia Basket,69,97
+2024-12-10,2024-25,Spain ACB,Regular Season,Dreamland GC,Barça,74,77
+2024-12-10,2024-25,Spain ACB,Regular Season,Dreamland GC,Baskonia,92,86
+2024-12-11,2024-25,Spain ACB,Regular Season,Dreamland GC,Bàsquet Girona,89,84
+2024-12-12,2024-25,Spain ACB,Regular Season,Dreamland GC,Baxi Manresa,94,89
+2024-12-13,2024-25,Spain ACB,Regular Season,Dreamland GC,Casademont Zgz,96,94
+2024-12-14,2024-25,Spain ACB,Regular Season,Dreamland GC,Coviran Granada,98,83
+2024-12-15,2024-25,Spain ACB,Regular Season,Dreamland GC,Hiopos Lleida,94,90
+2024-12-16,2024-25,Spain ACB,Regular Season,Dreamland GC,Joventut,79,68
+2024-12-17,2024-25,Spain ACB,Regular Season,Dreamland GC,La Laguna TFE,67,70
+2024-12-18,2024-25,Spain ACB,Regular Season,Dreamland GC,Leyma Coruña,80,72
+2024-12-19,2024-25,Spain ACB,Regular Season,Dreamland GC,MoraBanc And,94,106
+2024-12-20,2024-25,Spain ACB,Regular Season,Dreamland GC,Real Madrid,54,69
+2024-12-21,2024-25,Spain ACB,Regular Season,Dreamland GC,Río Breogán,73,82
+2024-12-22,2024-25,Spain ACB,Regular Season,Dreamland GC,Surne Bilbao,80,67
+2024-12-23,2024-25,Spain ACB,Regular Season,Dreamland GC,UCAM Murcia,69,76
+2024-12-24,2024-25,Spain ACB,Regular Season,Dreamland GC,Unicaja,91,89
+2024-12-25,2024-25,Spain ACB,Regular Season,Dreamland GC,Valencia Basket,97,94
+2024-12-26,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Barça,74,78
+2024-12-27,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Baskonia,74,78
+2024-12-28,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Bàsquet Girona,85,90
+2024-12-29,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Baxi Manresa,83,81
+2024-12-30,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Casademont Zgz,97,91
+2024-12-31,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Coviran Granada,87,74
+2025-01-01,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Dreamland GC,88,78
+2025-01-02,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Joventut,81,86
+2025-01-03,2024-25,Spain ACB,Regular Season,Hiopos Lleida,La Laguna TFE,72,84
+2025-01-04,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Leyma Coruña,101,106
+2025-01-05,2024-25,Spain ACB,Regular Season,Hiopos Lleida,MoraBanc And,80,70
+2025-01-06,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Real Madrid,84,95
+2025-01-07,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Río Breogán,94,81
+2025-01-08,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Surne Bilbao,84,66
+2025-01-09,2024-25,Spain ACB,Regular Season,Hiopos Lleida,UCAM Murcia,79,77
+2025-01-10,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Unicaja,69,98
+2025-01-11,2024-25,Spain ACB,Regular Season,Hiopos Lleida,Valencia Basket,67,76
+2025-01-12,2024-25,Spain ACB,Regular Season,Joventut,Barça,86,93
+2025-01-13,2024-25,Spain ACB,Regular Season,Joventut,Baskonia,90,71
+2025-01-14,2024-25,Spain ACB,Regular Season,Joventut,Bàsquet Girona,83,68
+2025-01-15,2024-25,Spain ACB,Regular Season,Joventut,Baxi Manresa,85,92
+2025-01-16,2024-25,Spain ACB,Regular Season,Joventut,Casademont Zgz,89,79
+2025-01-17,2024-25,Spain ACB,Regular Season,Joventut,Coviran Granada,96,82
+2025-01-18,2024-25,Spain ACB,Regular Season,Joventut,Dreamland GC,89,78
+2025-01-19,2024-25,Spain ACB,Regular Season,Joventut,Hiopos Lleida,92,72
+2025-01-20,2024-25,Spain ACB,Regular Season,Joventut,La Laguna TFE,93,86
+2025-01-21,2024-25,Spain ACB,Regular Season,Joventut,Leyma Coruña,107,104
+2025-01-22,2024-25,Spain ACB,Regular Season,Joventut,MoraBanc And,93,86
+2025-01-23,2024-25,Spain ACB,Regular Season,Joventut,Real Madrid,80,76
+2025-01-24,2024-25,Spain ACB,Regular Season,Joventut,Río Breogán,70,76
+2025-01-25,2024-25,Spain ACB,Regular Season,Joventut,Surne Bilbao,87,79
+2025-01-26,2024-25,Spain ACB,Regular Season,Joventut,UCAM Murcia,91,76
+2025-01-27,2024-25,Spain ACB,Regular Season,Joventut,Unicaja,75,79
+2025-01-28,2024-25,Spain ACB,Regular Season,Joventut,Valencia Basket,89,104
+2025-01-29,2024-25,Spain ACB,Regular Season,La Laguna TFE,Barça,91,95
+2025-01-29,2024-25,Spain ACB,Regular Season,La Laguna TFE,Baskonia,88,80
+2025-01-30,2024-25,Spain ACB,Regular Season,La Laguna TFE,Bàsquet Girona,100,80
+2025-01-31,2024-25,Spain ACB,Regular Season,La Laguna TFE,Baxi Manresa,94,86
+2025-02-01,2024-25,Spain ACB,Regular Season,La Laguna TFE,Casademont Zgz,106,97
+2025-02-02,2024-25,Spain ACB,Regular Season,La Laguna TFE,Coviran Granada,95,87
+2025-02-03,2024-25,Spain ACB,Regular Season,La Laguna TFE,Dreamland GC,84,74
+2025-02-04,2024-25,Spain ACB,Regular Season,La Laguna TFE,Hiopos Lleida,91,88
+2025-02-05,2024-25,Spain ACB,Regular Season,La Laguna TFE,Joventut,82,81
+2025-02-06,2024-25,Spain ACB,Regular Season,La Laguna TFE,Leyma Coruña,92,83
+2025-02-07,2024-25,Spain ACB,Regular Season,La Laguna TFE,MoraBanc And,96,84
+2025-02-08,2024-25,Spain ACB,Regular Season,La Laguna TFE,Real Madrid,68,79
+2025-02-09,2024-25,Spain ACB,Regular Season,La Laguna TFE,Río Breogán,96,83
+2025-02-10,2024-25,Spain ACB,Regular Season,La Laguna TFE,Surne Bilbao,86,75
+2025-02-11,2024-25,Spain ACB,Regular Season,La Laguna TFE,UCAM Murcia,82,74
+2025-02-12,2024-25,Spain ACB,Regular Season,La Laguna TFE,Unicaja,78,91
+2025-02-13,2024-25,Spain ACB,Regular Season,La Laguna TFE,Valencia Basket,99,102
+2025-02-14,2024-25,Spain ACB,Regular Season,Leyma Coruña,Barça,93,92
+2025-02-15,2024-25,Spain ACB,Regular Season,Leyma Coruña,Baskonia,101,105
+2025-02-16,2024-25,Spain ACB,Regular Season,Leyma Coruña,Bàsquet Girona,89,99
+2025-02-17,2024-25,Spain ACB,Regular Season,Leyma Coruña,Baxi Manresa,74,89
+2025-02-18,2024-25,Spain ACB,Regular Season,Leyma Coruña,Casademont Zgz,110,86
+2025-02-19,2024-25,Spain ACB,Regular Season,Leyma Coruña,Coviran Granada,93,89
+2025-02-20,2024-25,Spain ACB,Regular Season,Leyma Coruña,Dreamland GC,90,98
+2025-02-21,2024-25,Spain ACB,Regular Season,Leyma Coruña,Hiopos Lleida,97,84
+2025-02-22,2024-25,Spain ACB,Regular Season,Leyma Coruña,Joventut,85,94
+2025-02-23,2024-25,Spain ACB,Regular Season,Leyma Coruña,La Laguna TFE,62,87
+2025-02-24,2024-25,Spain ACB,Regular Season,Leyma Coruña,MoraBanc And,91,104
+2025-02-25,2024-25,Spain ACB,Regular Season,Leyma Coruña,Real Madrid,86,85
+2025-02-26,2024-25,Spain ACB,Regular Season,Leyma Coruña,Río Breogán,98,106
+2025-02-27,2024-25,Spain ACB,Regular Season,Leyma Coruña,Surne Bilbao,79,100
+2025-02-28,2024-25,Spain ACB,Regular Season,Leyma Coruña,UCAM Murcia,78,86
+2025-03-01,2024-25,Spain ACB,Regular Season,Leyma Coruña,Unicaja,83,90
+2025-03-02,2024-25,Spain ACB,Regular Season,Leyma Coruña,Valencia Basket,91,99
+2025-03-03,2024-25,Spain ACB,Regular Season,MoraBanc And,Barça,91,113
+2025-03-04,2024-25,Spain ACB,Regular Season,MoraBanc And,Baskonia,93,88
+2025-03-05,2024-25,Spain ACB,Regular Season,MoraBanc And,Bàsquet Girona,97,106
+2025-03-06,2024-25,Spain ACB,Regular Season,MoraBanc And,Baxi Manresa,83,81
+2025-03-07,2024-25,Spain ACB,Regular Season,MoraBanc And,Casademont Zgz,79,86
+2025-03-08,2024-25,Spain ACB,Regular Season,MoraBanc And,Coviran Granada,87,71
+2025-03-09,2024-25,Spain ACB,Regular Season,MoraBanc And,Dreamland GC,71,91
+2025-03-10,2024-25,Spain ACB,Regular Season,MoraBanc And,Hiopos Lleida,96,79
+2025-03-11,2024-25,Spain ACB,Regular Season,MoraBanc And,Joventut,86,99
+2025-03-12,2024-25,Spain ACB,Regular Season,MoraBanc And,La Laguna TFE,83,92
+2025-03-13,2024-25,Spain ACB,Regular Season,MoraBanc And,Leyma Coruña,112,87
+2025-03-14,2024-25,Spain ACB,Regular Season,MoraBanc And,Real Madrid,84,100
+2025-03-15,2024-25,Spain ACB,Regular Season,MoraBanc And,Río Breogán,93,101
+2025-03-16,2024-25,Spain ACB,Regular Season,MoraBanc And,Surne Bilbao,84,81
+2025-03-17,2024-25,Spain ACB,Regular Season,MoraBanc And,UCAM Murcia,71,83
+2025-03-18,2024-25,Spain ACB,Regular Season,MoraBanc And,Unicaja,89,106
+2025-03-19,2024-25,Spain ACB,Regular Season,MoraBanc And,Valencia Basket,86,84
+2025-03-20,2024-25,Spain ACB,Regular Season,Real Madrid,Barça,73,71
+2025-03-20,2024-25,Spain ACB,Regular Season,Real Madrid,Baskonia,83,78
+2025-03-21,2024-25,Spain ACB,Regular Season,Real Madrid,Bàsquet Girona,95,67
+2025-03-22,2024-25,Spain ACB,Regular Season,Real Madrid,Baxi Manresa,86,61
+2025-03-23,2024-25,Spain ACB,Regular Season,Real Madrid,Casademont Zgz,101,95
+2025-03-24,2024-25,Spain ACB,Regular Season,Real Madrid,Coviran Granada,79,67
+2025-03-25,2024-25,Spain ACB,Regular Season,Real Madrid,Dreamland GC,83,77
+2025-03-26,2024-25,Spain ACB,Regular Season,Real Madrid,Hiopos Lleida,85,78
+2025-03-27,2024-25,Spain ACB,Regular Season,Real Madrid,Joventut,86,73
+2025-03-28,2024-25,Spain ACB,Regular Season,Real Madrid,La Laguna TFE,96,86
+2025-03-29,2024-25,Spain ACB,Regular Season,Real Madrid,Leyma Coruña,90,74
+2025-03-30,2024-25,Spain ACB,Regular Season,Real Madrid,MoraBanc And,98,97
+2025-03-31,2024-25,Spain ACB,Regular Season,Real Madrid,Río Breogán,106,69
+2025-04-01,2024-25,Spain ACB,Regular Season,Real Madrid,Surne Bilbao,88,70
+2025-04-02,2024-25,Spain ACB,Regular Season,Real Madrid,UCAM Murcia,80,75
+2025-04-03,2024-25,Spain ACB,Regular Season,Real Madrid,Unicaja,90,77
+2025-04-04,2024-25,Spain ACB,Regular Season,Real Madrid,Valencia Basket,96,89
+2025-04-05,2024-25,Spain ACB,Regular Season,Río Breogán,Barça,77,70
+2025-04-06,2024-25,Spain ACB,Regular Season,Río Breogán,Baskonia,88,82
+2025-04-07,2024-25,Spain ACB,Regular Season,Río Breogán,Bàsquet Girona,77,74
+2025-04-08,2024-25,Spain ACB,Regular Season,Río Breogán,Baxi Manresa,79,88
+2025-04-09,2024-25,Spain ACB,Regular Season,Río Breogán,Casademont Zgz,90,85
+2025-04-10,2024-25,Spain ACB,Regular Season,Río Breogán,Coviran Granada,74,92
+2025-04-11,2024-25,Spain ACB,Regular Season,Río Breogán,Dreamland GC,74,82
+2025-04-12,2024-25,Spain ACB,Regular Season,Río Breogán,Hiopos Lleida,77,81
+2025-04-13,2024-25,Spain ACB,Regular Season,Río Breogán,Joventut,65,82
+2025-04-14,2024-25,Spain ACB,Regular Season,Río Breogán,La Laguna TFE,78,79
+2025-04-15,2024-25,Spain ACB,Regular Season,Río Breogán,Leyma Coruña,83,80
+2025-04-16,2024-25,Spain ACB,Regular Season,Río Breogán,MoraBanc And,94,74
+2025-04-17,2024-25,Spain ACB,Regular Season,Río Breogán,Real Madrid,69,79
+2025-04-18,2024-25,Spain ACB,Regular Season,Río Breogán,Surne Bilbao,76,71
+2025-04-19,2024-25,Spain ACB,Regular Season,Río Breogán,UCAM Murcia,70,86
+2025-04-20,2024-25,Spain ACB,Regular Season,Río Breogán,Unicaja,81,79
+2025-04-21,2024-25,Spain ACB,Regular Season,Río Breogán,Valencia Basket,75,87
+2025-04-22,2024-25,Spain ACB,Regular Season,Surne Bilbao,Barça,68,85
+2025-04-23,2024-25,Spain ACB,Regular Season,Surne Bilbao,Baskonia,67,69
+2025-04-24,2024-25,Spain ACB,Regular Season,Surne Bilbao,Bàsquet Girona,96,83
+2025-04-25,2024-25,Spain ACB,Regular Season,Surne Bilbao,Baxi Manresa,88,73
+2025-04-26,2024-25,Spain ACB,Regular Season,Surne Bilbao,Casademont Zgz,104,111
+2025-04-27,2024-25,Spain ACB,Regular Season,Surne Bilbao,Coviran Granada,91,88
+2025-04-28,2024-25,Spain ACB,Regular Season,Surne Bilbao,Dreamland GC,96,78
+2025-04-29,2024-25,Spain ACB,Regular Season,Surne Bilbao,Hiopos Lleida,91,75
+2025-04-30,2024-25,Spain ACB,Regular Season,Surne Bilbao,Joventut,79,95
+2025-05-01,2024-25,Spain ACB,Regular Season,Surne Bilbao,La Laguna TFE,65,75
+2025-05-02,2024-25,Spain ACB,Regular Season,Surne Bilbao,Leyma Coruña,79,67
+2025-05-03,2024-25,Spain ACB,Regular Season,Surne Bilbao,MoraBanc And,82,74
+2025-05-04,2024-25,Spain ACB,Regular Season,Surne Bilbao,Real Madrid,83,79
+2025-05-05,2024-25,Spain ACB,Regular Season,Surne Bilbao,Río Breogán,90,72
+2025-05-06,2024-25,Spain ACB,Regular Season,Surne Bilbao,UCAM Murcia,80,83
+2025-05-07,2024-25,Spain ACB,Regular Season,Surne Bilbao,Unicaja,81,86
+2025-05-08,2024-25,Spain ACB,Regular Season,Surne Bilbao,Valencia Basket,98,103
+2025-05-09,2024-25,Spain ACB,Regular Season,UCAM Murcia,Baskonia,82,91
+2025-05-09,2024-25,Spain ACB,Regular Season,UCAM Murcia,Barça,90,95
+2025-05-10,2024-25,Spain ACB,Regular Season,UCAM Murcia,Bàsquet Girona,64,76
+2025-05-11,2024-25,Spain ACB,Regular Season,UCAM Murcia,Baxi Manresa,81,71
+2025-05-12,2024-25,Spain ACB,Regular Season,UCAM Murcia,Casademont Zgz,88,74
+2025-05-13,2024-25,Spain ACB,Regular Season,UCAM Murcia,Coviran Granada,84,81
+2025-05-14,2024-25,Spain ACB,Regular Season,UCAM Murcia,Dreamland GC,63,83
+2025-05-15,2024-25,Spain ACB,Regular Season,UCAM Murcia,Hiopos Lleida,88,81
+2025-05-16,2024-25,Spain ACB,Regular Season,UCAM Murcia,Joventut,100,83
+2025-05-17,2024-25,Spain ACB,Regular Season,UCAM Murcia,La Laguna TFE,77,78
+2025-05-18,2024-25,Spain ACB,Regular Season,UCAM Murcia,Leyma Coruña,105,93
+2025-05-19,2024-25,Spain ACB,Regular Season,UCAM Murcia,MoraBanc And,79,85
+2025-05-20,2024-25,Spain ACB,Regular Season,UCAM Murcia,Real Madrid,64,85
+2025-05-21,2024-25,Spain ACB,Regular Season,UCAM Murcia,Río Breogán,79,63
+2025-05-22,2024-25,Spain ACB,Regular Season,UCAM Murcia,Surne Bilbao,89,83
+2025-05-23,2024-25,Spain ACB,Regular Season,UCAM Murcia,Unicaja,77,89
+2025-05-24,2024-25,Spain ACB,Regular Season,UCAM Murcia,Valencia Basket,88,96
+2025-05-25,2024-25,Spain ACB,Regular Season,Unicaja,Barça,103,96
+2025-05-26,2024-25,Spain ACB,Regular Season,Unicaja,Baskonia,94,73
+2025-05-27,2024-25,Spain ACB,Regular Season,Unicaja,Bàsquet Girona,90,73
+2025-05-28,2024-25,Spain ACB,Regular Season,Unicaja,Baxi Manresa,105,97
+2025-05-29,2024-25,Spain ACB,Regular Season,Unicaja,Casademont Zgz,85,71
+2025-05-30,2024-25,Spain ACB,Regular Season,Unicaja,Coviran Granada,95,78
+2025-05-31,2024-25,Spain ACB,Regular Season,Unicaja,Dreamland GC,88,94
+2025-06-01,2024-25,Spain ACB,Regular Season,Unicaja,Hiopos Lleida,101,63
+2025-06-02,2024-25,Spain ACB,Regular Season,Unicaja,Joventut,78,83
+2025-06-03,2024-25,Spain ACB,Regular Season,Unicaja,La Laguna TFE,84,81
+2025-06-04,2024-25,Spain ACB,Regular Season,Unicaja,Leyma Coruña,114,105
+2025-06-05,2024-25,Spain ACB,Regular Season,Unicaja,MoraBanc And,98,80
+2025-06-06,2024-25,Spain ACB,Regular Season,Unicaja,Real Madrid,105,107
+2025-06-07,2024-25,Spain ACB,Regular Season,Unicaja,Río Breogán,86,77
+2025-06-08,2024-25,Spain ACB,Regular Season,Unicaja,Surne Bilbao,96,79
+2025-06-09,2024-25,Spain ACB,Regular Season,Unicaja,UCAM Murcia,104,93
+2025-06-10,2024-25,Spain ACB,Regular Season,Unicaja,Valencia Basket,94,86
+2025-06-11,2024-25,Spain ACB,Regular Season,Valencia Basket,Barça,86,100
+2025-06-12,2024-25,Spain ACB,Regular Season,Valencia Basket,Baskonia,125,128
+2025-06-13,2024-25,Spain ACB,Regular Season,Valencia Basket,Bàsquet Girona,98,78
+2025-06-14,2024-25,Spain ACB,Regular Season,Valencia Basket,Baxi Manresa,112,96
+2025-06-15,2024-25,Spain ACB,Regular Season,Valencia Basket,Casademont Zgz,111,82
+2025-06-16,2024-25,Spain ACB,Regular Season,Valencia Basket,Coviran Granada,120,94
+2025-06-17,2024-25,Spain ACB,Regular Season,Valencia Basket,Dreamland GC,86,79
+2025-06-18,2024-25,Spain ACB,Regular Season,Valencia Basket,Hiopos Lleida,107,92
+2025-06-19,2024-25,Spain ACB,Regular Season,Valencia Basket,Joventut,84,60
+2025-06-20,2024-25,Spain ACB,Regular Season,Valencia Basket,La Laguna TFE,96,81
+2025-06-21,2024-25,Spain ACB,Regular Season,Valencia Basket,Leyma Coruña,127,81
+2025-06-22,2024-25,Spain ACB,Regular Season,Valencia Basket,MoraBanc And,89,88
+2025-06-23,2024-25,Spain ACB,Regular Season,Valencia Basket,Real Madrid,85,84
+2025-06-24,2024-25,Spain ACB,Regular Season,Valencia Basket,Río Breogán,108,61
+2025-06-25,2024-25,Spain ACB,Regular Season,Valencia Basket,Surne Bilbao,89,70
+2025-06-26,2024-25,Spain ACB,Regular Season,Valencia Basket,UCAM Murcia,71,86
+2025-06-27,2024-25,Spain ACB,Regular Season,Valencia Basket,Unicaja,84,75
+2025-09-01,2025-26,Spain ACB,Regular Season,Asisa Joventut,Barça,84,72
+2025-09-02,2025-26,Spain ACB,Regular Season,Asisa Joventut,Bàsquet Girona,71,74
+2025-09-03,2025-26,Spain ACB,Regular Season,Asisa Joventut,Baxi Manresa,83,79
+2025-09-04,2025-26,Spain ACB,Regular Season,Asisa Joventut,Casademont Zgz,89,86
+2025-09-05,2025-26,Spain ACB,Regular Season,Asisa Joventut,Coviran Granada,109,73
+2025-09-06,2025-26,Spain ACB,Regular Season,Asisa Joventut,Dreamland GC,92,84
+2025-09-07,2025-26,Spain ACB,Regular Season,Asisa Joventut,Hiopos Lleida,82,68
+2025-09-08,2025-26,Spain ACB,Regular Season,Asisa Joventut,Kosner Baskonia,81,69
+2025-09-09,2025-26,Spain ACB,Regular Season,Asisa Joventut,La Laguna TFE,78,67
+2025-09-10,2025-26,Spain ACB,Regular Season,Asisa Joventut,MoraBanc And,101,79
+2025-09-11,2025-26,Spain ACB,Regular Season,Asisa Joventut,Real Madrid,75,80
+2025-09-12,2025-26,Spain ACB,Regular Season,Asisa Joventut,Recoletas Salud,86,79
+2025-09-13,2025-26,Spain ACB,Regular Season,Asisa Joventut,Río Breogán,83,75
+2025-09-14,2025-26,Spain ACB,Regular Season,Asisa Joventut,Surne Bilbao,101,69
+2025-09-15,2025-26,Spain ACB,Regular Season,Asisa Joventut,UCAM Murcia,67,89
+2025-09-16,2025-26,Spain ACB,Regular Season,Asisa Joventut,Unicaja,95,74
+2025-09-17,2025-26,Spain ACB,Regular Season,Asisa Joventut,Valencia Basket,90,87
+2025-09-18,2025-26,Spain ACB,Regular Season,Barça,Asisa Joventut,90,80
+2025-09-19,2025-26,Spain ACB,Regular Season,Barça,Bàsquet Girona,97,92
+2025-09-20,2025-26,Spain ACB,Regular Season,Barça,Baxi Manresa,97,60
+2025-09-21,2025-26,Spain ACB,Regular Season,Barça,Casademont Zgz,100,80
+2025-09-22,2025-26,Spain ACB,Regular Season,Barça,Coviran Granada,108,71
+2025-09-23,2025-26,Spain ACB,Regular Season,Barça,Dreamland GC,91,69
+2025-09-24,2025-26,Spain ACB,Regular Season,Barça,Hiopos Lleida,86,91
+2025-09-25,2025-26,Spain ACB,Regular Season,Barça,Kosner Baskonia,91,83
+2025-09-26,2025-26,Spain ACB,Regular Season,Barça,La Laguna TFE,82,89
+2025-09-27,2025-26,Spain ACB,Regular Season,Barça,MoraBanc And,102,71
+2025-09-28,2025-26,Spain ACB,Regular Season,Barça,Real Madrid,76,95
+2025-09-29,2025-26,Spain ACB,Regular Season,Barça,Recoletas Salud,91,76
+2025-09-30,2025-26,Spain ACB,Regular Season,Barça,Río Breogán,100,85
+2025-10-01,2025-26,Spain ACB,Regular Season,Barça,Surne Bilbao,90,61
+2025-10-02,2025-26,Spain ACB,Regular Season,Barça,UCAM Murcia,78,81
+2025-10-03,2025-26,Spain ACB,Regular Season,Barça,Unicaja,97,91
+2025-10-04,2025-26,Spain ACB,Regular Season,Bàsquet Girona,Barça,96,78
+2025-10-05,2025-26,Spain ACB,Regular Season,Bàsquet Girona,Baxi Manresa,74,79
+2025-10-06,2025-26,Spain ACB,Regular Season,Bàsquet Girona,Casademont Zgz,90,81
+2025-10-07,2025-26,Spain ACB,Regular Season,Bàsquet Girona,Coviran Granada,82,76
+2025-10-08,2025-26,Spain ACB,Regular Season,Bàsquet Girona,Dreamland GC,85,81
+2025-10-09,2025-26,Spain ACB,Regular Season,Bàsquet Girona,Hiopos Lleida,103,86
+2025-10-10,2025-26,Spain ACB,Regular Season,Bàsquet Girona,Kosner Baskonia,85,96
+2025-10-11,2025-26,Spain ACB,Regular Season,Bàsquet Girona,La Laguna TFE,89,96
+2025-10-12,2025-26,Spain ACB,Regular Season,Bàsquet Girona,MoraBanc And,82,75
+2025-10-13,2025-26,Spain ACB,Regular Season,Bàsquet Girona,Real Madrid,93,95
+2025-10-14,2025-26,Spain ACB,Regular Season,Bàsquet Girona,Recoletas Salud,77,71
+2025-10-15,2025-26,Spain ACB,Regular Season,Bàsquet Girona,Río Breogán,103,80
+2025-10-16,2025-26,Spain ACB,Regular Season,Bàsquet Girona,Surne Bilbao,89,93
+2025-10-17,2025-26,Spain ACB,Regular Season,Bàsquet Girona,UCAM Murcia,71,93
+2025-10-18,2025-26,Spain ACB,Regular Season,Bàsquet Girona,Unicaja,83,90
+2025-10-19,2025-26,Spain ACB,Regular Season,Bàsquet Girona,Valencia Basket,81,84
+2025-10-20,2025-26,Spain ACB,Regular Season,Baxi Manresa,Asisa Joventut,87,77
+2025-10-21,2025-26,Spain ACB,Regular Season,Baxi Manresa,Barça,62,89
+2025-10-22,2025-26,Spain ACB,Regular Season,Baxi Manresa,Bàsquet Girona,95,97
+2025-10-23,2025-26,Spain ACB,Regular Season,Baxi Manresa,Casademont Zgz,101,83
+2025-10-24,2025-26,Spain ACB,Regular Season,Baxi Manresa,Coviran Granada,83,68
+2025-10-25,2025-26,Spain ACB,Regular Season,Baxi Manresa,Dreamland GC,80,87
+2025-10-26,2025-26,Spain ACB,Regular Season,Baxi Manresa,Hiopos Lleida,99,86
+2025-10-27,2025-26,Spain ACB,Regular Season,Baxi Manresa,Kosner Baskonia,83,88
+2025-10-28,2025-26,Spain ACB,Regular Season,Baxi Manresa,La Laguna TFE,86,80
+2025-10-29,2025-26,Spain ACB,Regular Season,Baxi Manresa,MoraBanc And,91,84
+2025-10-31,2025-26,Spain ACB,Regular Season,Baxi Manresa,Recoletas Salud,94,101
+2025-11-01,2025-26,Spain ACB,Regular Season,Baxi Manresa,Río Breogán,104,99
+2025-11-02,2025-26,Spain ACB,Regular Season,Baxi Manresa,Surne Bilbao,79,77
+2025-11-03,2025-26,Spain ACB,Regular Season,Baxi Manresa,UCAM Murcia,86,90
+2025-11-04,2025-26,Spain ACB,Regular Season,Baxi Manresa,Unicaja,92,98
+2025-11-05,2025-26,Spain ACB,Regular Season,Baxi Manresa,Valencia Basket,104,102
+2025-11-06,2025-26,Spain ACB,Regular Season,Casademont Zgz,Asisa Joventut,67,79
+2025-11-07,2025-26,Spain ACB,Regular Season,Casademont Zgz,Barça,86,92
+2025-11-08,2025-26,Spain ACB,Regular Season,Casademont Zgz,Bàsquet Girona,90,94
+2025-11-09,2025-26,Spain ACB,Regular Season,Casademont Zgz,Baxi Manresa,83,95
+2025-11-10,2025-26,Spain ACB,Regular Season,Casademont Zgz,Coviran Granada,74,85
+2025-11-11,2025-26,Spain ACB,Regular Season,Casademont Zgz,Dreamland GC,95,84
+2025-11-12,2025-26,Spain ACB,Regular Season,Casademont Zgz,Hiopos Lleida,107,91
+2025-11-13,2025-26,Spain ACB,Regular Season,Casademont Zgz,Kosner Baskonia,107,88
+2025-11-14,2025-26,Spain ACB,Regular Season,Casademont Zgz,La Laguna TFE,76,84
+2025-11-15,2025-26,Spain ACB,Regular Season,Casademont Zgz,MoraBanc And,107,89
+2025-11-16,2025-26,Spain ACB,Regular Season,Casademont Zgz,Real Madrid,83,95
+2025-11-17,2025-26,Spain ACB,Regular Season,Casademont Zgz,Recoletas Salud,108,98
+2025-11-18,2025-26,Spain ACB,Regular Season,Casademont Zgz,Río Breogán,84,88
+2025-11-19,2025-26,Spain ACB,Regular Season,Casademont Zgz,Surne Bilbao,82,84
+2025-11-20,2025-26,Spain ACB,Regular Season,Casademont Zgz,UCAM Murcia,90,100
+2025-11-21,2025-26,Spain ACB,Regular Season,Casademont Zgz,Unicaja,79,86
+2025-11-22,2025-26,Spain ACB,Regular Season,Casademont Zgz,Valencia Basket,86,98
+2025-11-23,2025-26,Spain ACB,Regular Season,Coviran Granada,Asisa Joventut,75,87
+2025-11-24,2025-26,Spain ACB,Regular Season,Coviran Granada,Barça,98,101
+2025-11-25,2025-26,Spain ACB,Regular Season,Coviran Granada,Bàsquet Girona,84,91
+2025-11-26,2025-26,Spain ACB,Regular Season,Coviran Granada,Baxi Manresa,92,79
+2025-11-27,2025-26,Spain ACB,Regular Season,Coviran Granada,Casademont Zgz,83,92
+2025-11-28,2025-26,Spain ACB,Regular Season,Coviran Granada,Dreamland GC,83,90
+2025-11-29,2025-26,Spain ACB,Regular Season,Coviran Granada,Hiopos Lleida,92,89
+2025-11-30,2025-26,Spain ACB,Regular Season,Coviran Granada,Kosner Baskonia,80,83
+2025-12-01,2025-26,Spain ACB,Regular Season,Coviran Granada,La Laguna TFE,96,109
+2025-12-02,2025-26,Spain ACB,Regular Season,Coviran Granada,MoraBanc And,89,86
+2025-12-03,2025-26,Spain ACB,Regular Season,Coviran Granada,Real Madrid,100,111
+2025-12-04,2025-26,Spain ACB,Regular Season,Coviran Granada,Recoletas Salud,90,107
+2025-12-05,2025-26,Spain ACB,Regular Season,Coviran Granada,Río Breogán,64,83
+2025-12-06,2025-26,Spain ACB,Regular Season,Coviran Granada,Surne Bilbao,84,88
+2025-12-07,2025-26,Spain ACB,Regular Season,Coviran Granada,UCAM Murcia,79,86
+2025-12-08,2025-26,Spain ACB,Regular Season,Coviran Granada,Unicaja,83,71
+2025-12-09,2025-26,Spain ACB,Regular Season,Coviran Granada,Valencia Basket,85,79
+2025-12-10,2025-26,Spain ACB,Regular Season,Dreamland GC,Asisa Joventut,78,92
+2025-12-11,2025-26,Spain ACB,Regular Season,Dreamland GC,Barça,61,72
+2025-12-12,2025-26,Spain ACB,Regular Season,Dreamland GC,Bàsquet Girona,100,90
+2025-12-13,2025-26,Spain ACB,Regular Season,Dreamland GC,Baxi Manresa,80,87
+2025-12-14,2025-26,Spain ACB,Regular Season,Dreamland GC,Casademont Zgz,74,78
+2025-12-15,2025-26,Spain ACB,Regular Season,Dreamland GC,Coviran Granada,90,85
+2025-12-16,2025-26,Spain ACB,Regular Season,Dreamland GC,Hiopos Lleida,50,68
+2025-12-17,2025-26,Spain ACB,Regular Season,Dreamland GC,Kosner Baskonia,75,97
+2025-12-18,2025-26,Spain ACB,Regular Season,Dreamland GC,La Laguna TFE,102,83
+2025-12-19,2025-26,Spain ACB,Regular Season,Dreamland GC,MoraBanc And,102,85
+2025-12-20,2025-26,Spain ACB,Regular Season,Dreamland GC,Real Madrid,80,82
+2025-12-21,2025-26,Spain ACB,Regular Season,Dreamland GC,Recoletas Salud,95,109
+2025-12-22,2025-26,Spain ACB,Regular Season,Dreamland GC,Río Breogán,75,83
+2025-12-23,2025-26,Spain ACB,Regular Season,Dreamland GC,Surne Bilbao,97,98
+2025-12-24,2025-26,Spain ACB,Regular Season,Dreamland GC,UCAM Murcia,77,72
+2025-12-25,2025-26,Spain ACB,Regular Season,Dreamland GC,Unicaja,72,81
+2025-12-26,2025-26,Spain ACB,Regular Season,Dreamland GC,Valencia Basket,80,90
+2025-12-27,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Asisa Joventut,86,88
+2025-12-28,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Barça,90,80
+2025-12-30,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Bàsquet Girona,81,93
+2025-12-31,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Baxi Manresa,90,99
+2026-01-01,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Casademont Zgz,77,87
+2026-01-02,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Coviran Granada,99,90
+2026-01-03,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Dreamland GC,75,72
+2026-01-04,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Kosner Baskonia,86,80
+2026-01-05,2025-26,Spain ACB,Regular Season,Hiopos Lleida,La Laguna TFE,103,101
+2026-01-06,2025-26,Spain ACB,Regular Season,Hiopos Lleida,MoraBanc And,88,116
+2026-01-07,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Real Madrid,81,88
+2026-01-08,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Recoletas Salud,73,72
+2026-01-09,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Río Breogán,87,68
+2026-01-10,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Surne Bilbao,90,81
+2026-01-11,2025-26,Spain ACB,Regular Season,Hiopos Lleida,UCAM Murcia,71,107
+2026-01-12,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Unicaja,88,89
+2026-01-13,2025-26,Spain ACB,Regular Season,Hiopos Lleida,Valencia Basket,78,99
+2026-01-14,2025-26,Spain ACB,Regular Season,Kosner Baskonia,Asisa Joventut,87,77
+2026-01-15,2025-26,Spain ACB,Regular Season,Kosner Baskonia,Barça,92,95
+2026-01-16,2025-26,Spain ACB,Regular Season,Kosner Baskonia,Bàsquet Girona,94,81
+2026-01-17,2025-26,Spain ACB,Regular Season,Kosner Baskonia,Baxi Manresa,130,85
+2026-01-18,2025-26,Spain ACB,Regular Season,Kosner Baskonia,Casademont Zgz,115,88
+2026-01-19,2025-26,Spain ACB,Regular Season,Kosner Baskonia,Coviran Granada,121,85
+2026-01-20,2025-26,Spain ACB,Regular Season,Kosner Baskonia,Dreamland GC,88,86
+2026-01-21,2025-26,Spain ACB,Regular Season,Kosner Baskonia,Hiopos Lleida,93,90
+2026-01-22,2025-26,Spain ACB,Regular Season,Kosner Baskonia,La Laguna TFE,89,79
+2026-01-23,2025-26,Spain ACB,Regular Season,Kosner Baskonia,MoraBanc And,99,92
+2026-01-24,2025-26,Spain ACB,Regular Season,Kosner Baskonia,Real Madrid,105,100
+2026-01-25,2025-26,Spain ACB,Regular Season,Kosner Baskonia,Recoletas Salud,89,77
+2026-01-26,2025-26,Spain ACB,Regular Season,Kosner Baskonia,Río Breogán,112,84
+2026-01-27,2025-26,Spain ACB,Regular Season,Kosner Baskonia,Surne Bilbao,110,91
+2026-01-28,2025-26,Spain ACB,Regular Season,Kosner Baskonia,UCAM Murcia,87,80
+2026-01-29,2025-26,Spain ACB,Regular Season,Kosner Baskonia,Valencia Basket,89,91
+2026-01-30,2025-26,Spain ACB,Regular Season,La Laguna TFE,Asisa Joventut,98,100
+2026-01-31,2025-26,Spain ACB,Regular Season,La Laguna TFE,Barça,97,102
+2026-02-01,2025-26,Spain ACB,Regular Season,La Laguna TFE,Bàsquet Girona,97,94
+2026-02-02,2025-26,Spain ACB,Regular Season,La Laguna TFE,Baxi Manresa,104,93
+2026-02-03,2025-26,Spain ACB,Regular Season,La Laguna TFE,Casademont Zgz,99,76
+2026-02-04,2025-26,Spain ACB,Regular Season,La Laguna TFE,Coviran Granada,80,75
+2026-02-05,2025-26,Spain ACB,Regular Season,La Laguna TFE,Dreamland GC,70,71
+2026-02-06,2025-26,Spain ACB,Regular Season,La Laguna TFE,Hiopos Lleida,87,94
+2026-02-07,2025-26,Spain ACB,Regular Season,La Laguna TFE,Kosner Baskonia,89,85
+2026-02-08,2025-26,Spain ACB,Regular Season,La Laguna TFE,MoraBanc And,89,90
+2026-02-09,2025-26,Spain ACB,Regular Season,La Laguna TFE,Real Madrid,70,71
+2026-02-10,2025-26,Spain ACB,Regular Season,La Laguna TFE,Recoletas Salud,101,97
+2026-02-11,2025-26,Spain ACB,Regular Season,La Laguna TFE,Río Breogán,90,81
+2026-02-12,2025-26,Spain ACB,Regular Season,La Laguna TFE,UCAM Murcia,96,80
+2026-02-13,2025-26,Spain ACB,Regular Season,La Laguna TFE,Unicaja,95,79
+2026-02-14,2025-26,Spain ACB,Regular Season,La Laguna TFE,Valencia Basket,89,71
+2026-02-15,2025-26,Spain ACB,Regular Season,MoraBanc And,Asisa Joventut,76,83
+2026-02-16,2025-26,Spain ACB,Regular Season,MoraBanc And,Bàsquet Girona,115,113
+2026-02-17,2025-26,Spain ACB,Regular Season,MoraBanc And,Baxi Manresa,104,94
+2026-02-18,2025-26,Spain ACB,Regular Season,MoraBanc And,Casademont Zgz,113,111
+2026-02-19,2025-26,Spain ACB,Regular Season,MoraBanc And,Coviran Granada,86,81
+2026-02-20,2025-26,Spain ACB,Regular Season,MoraBanc And,Dreamland GC,94,78
+2026-02-21,2025-26,Spain ACB,Regular Season,MoraBanc And,Hiopos Lleida,79,87
+2026-02-22,2025-26,Spain ACB,Regular Season,MoraBanc And,Kosner Baskonia,79,88
+2026-02-23,2025-26,Spain ACB,Regular Season,MoraBanc And,La Laguna TFE,64,96
+2026-02-24,2025-26,Spain ACB,Regular Season,MoraBanc And,Real Madrid,85,90
+2026-02-25,2025-26,Spain ACB,Regular Season,MoraBanc And,Recoletas Salud,83,85
+2026-02-26,2025-26,Spain ACB,Regular Season,MoraBanc And,Río Breogán,101,104
+2026-02-28,2025-26,Spain ACB,Regular Season,MoraBanc And,Surne Bilbao,98,102
+2026-03-01,2025-26,Spain ACB,Regular Season,MoraBanc And,UCAM Murcia,89,95
+2026-03-02,2025-26,Spain ACB,Regular Season,MoraBanc And,Unicaja,98,74
+2026-03-03,2025-26,Spain ACB,Regular Season,MoraBanc And,Valencia Basket,75,107
+2026-03-04,2025-26,Spain ACB,Regular Season,Real Madrid,Asisa Joventut,81,89
+2026-03-05,2025-26,Spain ACB,Regular Season,Real Madrid,Barça,100,105
+2026-03-06,2025-26,Spain ACB,Regular Season,Real Madrid,Bàsquet Girona,112,76
+2026-03-07,2025-26,Spain ACB,Regular Season,Real Madrid,Baxi Manresa,87,75
+2026-03-08,2025-26,Spain ACB,Regular Season,Real Madrid,Casademont Zgz,99,78
+2026-03-09,2025-26,Spain ACB,Regular Season,Real Madrid,Coviran Granada,94,79
+2026-03-10,2025-26,Spain ACB,Regular Season,Real Madrid,Dreamland GC,81,71
+2026-03-11,2025-26,Spain ACB,Regular Season,Real Madrid,Hiopos Lleida,95,78
+2026-03-12,2025-26,Spain ACB,Regular Season,Real Madrid,La Laguna TFE,90,95
+2026-03-13,2025-26,Spain ACB,Regular Season,Real Madrid,MoraBanc And,97,90
+2026-03-14,2025-26,Spain ACB,Regular Season,Real Madrid,Recoletas Salud,90,80
+2026-03-15,2025-26,Spain ACB,Regular Season,Real Madrid,Río Breogán,97,101
+2026-03-16,2025-26,Spain ACB,Regular Season,Real Madrid,Surne Bilbao,82,70
+2026-03-17,2025-26,Spain ACB,Regular Season,Real Madrid,UCAM Murcia,131,123
+2026-03-18,2025-26,Spain ACB,Regular Season,Real Madrid,Unicaja,91,82
+2026-03-19,2025-26,Spain ACB,Regular Season,Real Madrid,Valencia Basket,94,79
+2026-03-20,2025-26,Spain ACB,Regular Season,Recoletas Salud,Asisa Joventut,95,98
+2026-03-21,2025-26,Spain ACB,Regular Season,Recoletas Salud,Barça,79,80
+2026-03-22,2025-26,Spain ACB,Regular Season,Recoletas Salud,Bàsquet Girona,97,79
+2026-03-23,2025-26,Spain ACB,Regular Season,Recoletas Salud,Baxi Manresa,100,102
+2026-03-24,2025-26,Spain ACB,Regular Season,Recoletas Salud,Casademont Zgz,89,102
+2026-03-25,2025-26,Spain ACB,Regular Season,Recoletas Salud,Dreamland GC,94,81
+2026-03-26,2025-26,Spain ACB,Regular Season,Recoletas Salud,Hiopos Lleida,99,91
+2026-03-27,2025-26,Spain ACB,Regular Season,Recoletas Salud,Kosner Baskonia,107,96
+2026-03-28,2025-26,Spain ACB,Regular Season,Recoletas Salud,La Laguna TFE,96,88
+2026-03-29,2025-26,Spain ACB,Regular Season,Recoletas Salud,MoraBanc And,86,93
+2026-03-30,2025-26,Spain ACB,Regular Season,Recoletas Salud,Real Madrid,78,94
+2026-03-31,2025-26,Spain ACB,Regular Season,Recoletas Salud,Río Breogán,94,99
+2026-04-01,2025-26,Spain ACB,Regular Season,Recoletas Salud,Surne Bilbao,96,88
+2026-04-02,2025-26,Spain ACB,Regular Season,Recoletas Salud,UCAM Murcia,88,110
+2026-04-03,2025-26,Spain ACB,Regular Season,Recoletas Salud,Unicaja,97,90
+2026-04-04,2025-26,Spain ACB,Regular Season,Recoletas Salud,Valencia Basket,74,79
+2026-04-05,2025-26,Spain ACB,Regular Season,Río Breogán,Asisa Joventut,93,86
+2026-04-06,2025-26,Spain ACB,Regular Season,Río Breogán,Barça,78,109
+2026-04-07,2025-26,Spain ACB,Regular Season,Río Breogán,Bàsquet Girona,95,76
+2026-04-08,2025-26,Spain ACB,Regular Season,Río Breogán,Baxi Manresa,91,78
+2026-04-09,2025-26,Spain ACB,Regular Season,Río Breogán,Coviran Granada,95,74
+2026-04-10,2025-26,Spain ACB,Regular Season,Río Breogán,Dreamland GC,81,92
+2026-04-11,2025-26,Spain ACB,Regular Season,Río Breogán,Hiopos Lleida,114,87
+2026-04-12,2025-26,Spain ACB,Regular Season,Río Breogán,Kosner Baskonia,100,103
+2026-04-13,2025-26,Spain ACB,Regular Season,Río Breogán,La Laguna TFE,96,108
+2026-04-14,2025-26,Spain ACB,Regular Season,Río Breogán,MoraBanc And,87,99
+2026-04-15,2025-26,Spain ACB,Regular Season,Río Breogán,Real Madrid,85,103
+2026-04-16,2025-26,Spain ACB,Regular Season,Río Breogán,Recoletas Salud,105,78
+2026-04-17,2025-26,Spain ACB,Regular Season,Río Breogán,Surne Bilbao,100,99
+2026-04-18,2025-26,Spain ACB,Regular Season,Río Breogán,UCAM Murcia,95,106
+2026-04-19,2025-26,Spain ACB,Regular Season,Río Breogán,Unicaja,98,82
+2026-04-20,2025-26,Spain ACB,Regular Season,Río Breogán,Valencia Basket,90,113
+2026-04-21,2025-26,Spain ACB,Regular Season,Surne Bilbao,Asisa Joventut,80,76
+2026-04-22,2025-26,Spain ACB,Regular Season,Surne Bilbao,Barça,66,71
+2026-04-23,2025-26,Spain ACB,Regular Season,Surne Bilbao,Bàsquet Girona,86,80
+2026-04-24,2025-26,Spain ACB,Regular Season,Surne Bilbao,Baxi Manresa,80,84
+2026-04-25,2025-26,Spain ACB,Regular Season,Surne Bilbao,Casademont Zgz,106,75
+2026-04-26,2025-26,Spain ACB,Regular Season,Surne Bilbao,Coviran Granada,88,83
+2026-04-27,2025-26,Spain ACB,Regular Season,Surne Bilbao,Dreamland GC,79,72
+2026-04-29,2025-26,Spain ACB,Regular Season,Surne Bilbao,Hiopos Lleida,93,75
+2026-04-30,2025-26,Spain ACB,Regular Season,Surne Bilbao,Kosner Baskonia,69,76
+2026-05-01,2025-26,Spain ACB,Regular Season,Surne Bilbao,La Laguna TFE,95,78
+2026-05-02,2025-26,Spain ACB,Regular Season,Surne Bilbao,MoraBanc And,81,71
+2026-05-03,2025-26,Spain ACB,Regular Season,Surne Bilbao,Real Madrid,88,82
+2026-05-04,2025-26,Spain ACB,Regular Season,Surne Bilbao,Recoletas Salud,95,85
+2026-05-05,2025-26,Spain ACB,Regular Season,Surne Bilbao,Río Breogán,100,90
+2026-05-06,2025-26,Spain ACB,Regular Season,Surne Bilbao,UCAM Murcia,96,82
+2026-05-07,2025-26,Spain ACB,Regular Season,Surne Bilbao,Unicaja,90,74
+2026-05-08,2025-26,Spain ACB,Regular Season,Surne Bilbao,Valencia Basket,72,116
+2026-05-09,2025-26,Spain ACB,Regular Season,UCAM Murcia,Asisa Joventut,80,77
+2026-05-10,2025-26,Spain ACB,Regular Season,UCAM Murcia,Barça,84,83
+2026-05-11,2025-26,Spain ACB,Regular Season,UCAM Murcia,Bàsquet Girona,86,75
+2026-05-12,2025-26,Spain ACB,Regular Season,UCAM Murcia,Baxi Manresa,84,65
+2026-05-13,2025-26,Spain ACB,Regular Season,UCAM Murcia,Casademont Zgz,90,84
+2026-05-14,2025-26,Spain ACB,Regular Season,UCAM Murcia,Coviran Granada,107,91
+2026-05-15,2025-26,Spain ACB,Regular Season,UCAM Murcia,Dreamland GC,87,76
+2026-05-16,2025-26,Spain ACB,Regular Season,UCAM Murcia,Kosner Baskonia,89,84
+2026-05-17,2025-26,Spain ACB,Regular Season,UCAM Murcia,La Laguna TFE,86,80
+2026-05-18,2025-26,Spain ACB,Regular Season,UCAM Murcia,MoraBanc And,95,64
+2026-05-19,2025-26,Spain ACB,Regular Season,UCAM Murcia,Real Madrid,80,91
+2026-05-20,2025-26,Spain ACB,Regular Season,UCAM Murcia,Recoletas Salud,101,82
+2026-05-21,2025-26,Spain ACB,Regular Season,UCAM Murcia,Río Breogán,83,96
+2026-05-22,2025-26,Spain ACB,Regular Season,UCAM Murcia,Surne Bilbao,100,81
+2026-05-23,2025-26,Spain ACB,Regular Season,UCAM Murcia,Unicaja,87,69
+2026-05-24,2025-26,Spain ACB,Regular Season,UCAM Murcia,Valencia Basket,92,80
+2026-05-25,2025-26,Spain ACB,Regular Season,Unicaja,Asisa Joventut,105,83
+2026-05-26,2025-26,Spain ACB,Regular Season,Unicaja,Barça,77,83
+2026-05-27,2025-26,Spain ACB,Regular Season,Unicaja,Bàsquet Girona,95,71
+2026-05-28,2025-26,Spain ACB,Regular Season,Unicaja,Baxi Manresa,105,82
+2026-05-29,2025-26,Spain ACB,Regular Season,Unicaja,Casademont Zgz,112,89
+2026-05-30,2025-26,Spain ACB,Regular Season,Unicaja,Coviran Granada,88,79
+2026-05-31,2025-26,Spain ACB,Regular Season,Unicaja,Dreamland GC,100,101
+2026-06-01,2025-26,Spain ACB,Regular Season,Unicaja,Hiopos Lleida,91,72
+2026-06-02,2025-26,Spain ACB,Regular Season,Unicaja,Kosner Baskonia,90,93
+2026-06-03,2025-26,Spain ACB,Regular Season,Unicaja,La Laguna TFE,70,95
+2026-06-04,2025-26,Spain ACB,Regular Season,Unicaja,MoraBanc And,91,79
+2026-06-05,2025-26,Spain ACB,Regular Season,Unicaja,Real Madrid,92,96
+2026-06-06,2025-26,Spain ACB,Regular Season,Unicaja,Recoletas Salud,99,91
+2026-06-07,2025-26,Spain ACB,Regular Season,Unicaja,Río Breogán,101,83
+2026-06-08,2025-26,Spain ACB,Regular Season,Unicaja,Surne Bilbao,86,68
+2026-06-09,2025-26,Spain ACB,Regular Season,Unicaja,UCAM Murcia,92,88
+2026-06-10,2025-26,Spain ACB,Regular Season,Unicaja,Valencia Basket,89,96
+2026-06-11,2025-26,Spain ACB,Regular Season,Valencia Basket,Asisa Joventut,102,90
+2026-06-12,2025-26,Spain ACB,Regular Season,Valencia Basket,Barça,93,81
+2026-06-13,2025-26,Spain ACB,Regular Season,Valencia Basket,Bàsquet Girona,98,72
+2026-06-14,2025-26,Spain ACB,Regular Season,Valencia Basket,Baxi Manresa,103,76
+2026-06-15,2025-26,Spain ACB,Regular Season,Valencia Basket,Casademont Zgz,115,73
+2026-06-16,2025-26,Spain ACB,Regular Season,Valencia Basket,Coviran Granada,107,91
+2026-06-17,2025-26,Spain ACB,Regular Season,Valencia Basket,Hiopos Lleida,101,65
+2026-06-18,2025-26,Spain ACB,Regular Season,Valencia Basket,Kosner Baskonia,86,88
+2026-06-19,2025-26,Spain ACB,Regular Season,Valencia Basket,La Laguna TFE,96,79
+2026-06-20,2025-26,Spain ACB,Regular Season,Valencia Basket,MoraBanc And,84,79
+2026-06-21,2025-26,Spain ACB,Regular Season,Valencia Basket,Real Madrid,82,96
+2026-06-22,2025-26,Spain ACB,Regular Season,Valencia Basket,Recoletas Salud,100,82
+2026-06-23,2025-26,Spain ACB,Regular Season,Valencia Basket,Río Breogán,105,88
+2026-06-24,2025-26,Spain ACB,Regular Season,Valencia Basket,Surne Bilbao,88,83
+2026-06-25,2025-26,Spain ACB,Regular Season,Valencia Basket,UCAM Murcia,110,84
+2026-06-26,2025-26,Spain ACB,Regular Season,Valencia Basket,Unicaja,70,76

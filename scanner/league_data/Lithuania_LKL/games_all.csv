@@ -1,0 +1,587 @@
+date,season,league,gameType,home_team,away_team,home_score,away_score
+2021-10-01,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,DZU,85,63
+2021-10-02,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,GAS,93,77
+2021-10-03,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,LTK,74,66
+2021-10-05,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,NEP,64,89
+2021-10-06,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,NEV,88,76
+2021-10-08,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,PIE,77,69
+2021-10-09,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,RYT,79,94
+2021-10-11,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,SIA,58,69
+2021-10-12,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,JUV,86,80
+2021-10-14,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,ZAL,80,86
+2021-10-15,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,GAS,100,84
+2021-10-16,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,PIE,91,82
+2021-10-18,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,RYT,67,91
+2021-10-19,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,SIA,62,79
+2021-10-21,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,JUV,65,71
+2021-10-22,2021-22,Lithuania LKL,Regular Season,Cbet Jonava,ZAL,100,97
+2021-10-24,2021-22,Lithuania LKL,Regular Season,Dzūkija,CBE,86,62
+2021-10-25,2021-22,Lithuania LKL,Regular Season,Dzūkija,GAS,72,69
+2021-10-27,2021-22,Lithuania LKL,Regular Season,Dzūkija,LTK,65,76
+2021-10-28,2021-22,Lithuania LKL,Regular Season,Dzūkija,NEP,67,79
+2021-10-29,2021-22,Lithuania LKL,Regular Season,Dzūkija,NEV,81,66
+2021-10-31,2021-22,Lithuania LKL,Regular Season,Dzūkija,PIE,92,86
+2021-11-01,2021-22,Lithuania LKL,Regular Season,Dzūkija,RYT,61,88
+2021-11-03,2021-22,Lithuania LKL,Regular Season,Dzūkija,SIA,75,66
+2021-11-04,2021-22,Lithuania LKL,Regular Season,Dzūkija,JUV,83,80
+2021-11-06,2021-22,Lithuania LKL,Regular Season,Dzūkija,ZAL,100,105
+2021-11-07,2021-22,Lithuania LKL,Regular Season,Dzūkija,CBE,73,81
+2021-11-09,2021-22,Lithuania LKL,Regular Season,Dzūkija,LTK,86,90
+2021-11-10,2021-22,Lithuania LKL,Regular Season,Dzūkija,NEP,64,65
+2021-11-12,2021-22,Lithuania LKL,Regular Season,Dzūkija,NEV,93,76
+2021-11-13,2021-22,Lithuania LKL,Regular Season,Dzūkija,ZAL,63,74
+2021-11-14,2021-22,Lithuania LKL,Regular Season,Labas GAS,CBE,68,81
+2021-11-16,2021-22,Lithuania LKL,Regular Season,Labas GAS,DZU,70,77
+2021-11-17,2021-22,Lithuania LKL,Regular Season,Labas GAS,LTK,65,92
+2021-11-19,2021-22,Lithuania LKL,Regular Season,Labas GAS,NEP,62,87
+2021-11-20,2021-22,Lithuania LKL,Regular Season,Labas GAS,NEV,93,102
+2021-11-22,2021-22,Lithuania LKL,Regular Season,Labas GAS,PIE,79,87
+2021-11-23,2021-22,Lithuania LKL,Regular Season,Labas GAS,RYT,68,82
+2021-11-25,2021-22,Lithuania LKL,Regular Season,Labas GAS,SIA,88,109
+2021-11-26,2021-22,Lithuania LKL,Regular Season,Labas GAS,JUV,80,74
+2021-11-27,2021-22,Lithuania LKL,Regular Season,Labas GAS,ZAL,78,81
+2021-11-29,2021-22,Lithuania LKL,Regular Season,Labas GAS,DZU,62,72
+2021-11-30,2021-22,Lithuania LKL,Regular Season,Labas GAS,NEP,63,73
+2021-12-02,2021-22,Lithuania LKL,Regular Season,Labas GAS,NEV,86,97
+2021-12-03,2021-22,Lithuania LKL,Regular Season,Labas GAS,JUV,88,81
+2021-12-05,2021-22,Lithuania LKL,Regular Season,Labas GAS,ZAL,71,88
+2021-12-06,2021-22,Lithuania LKL,Regular Season,Lietkabelis,CBE,88,69
+2021-12-08,2021-22,Lithuania LKL,Regular Season,Lietkabelis,DZU,94,63
+2021-12-09,2021-22,Lithuania LKL,Regular Season,Lietkabelis,GAS,87,69
+2021-12-10,2021-22,Lithuania LKL,Regular Season,Lietkabelis,NEP,83,62
+2021-12-12,2021-22,Lithuania LKL,Regular Season,Lietkabelis,NEV,60,67
+2021-12-13,2021-22,Lithuania LKL,Regular Season,Lietkabelis,PIE,88,70
+2021-12-15,2021-22,Lithuania LKL,Regular Season,Lietkabelis,RYT,83,80
+2021-12-16,2021-22,Lithuania LKL,Regular Season,Lietkabelis,SIA,87,76
+2021-12-18,2021-22,Lithuania LKL,Regular Season,Lietkabelis,JUV,92,89
+2021-12-19,2021-22,Lithuania LKL,Regular Season,Lietkabelis,ZAL,69,73
+2021-12-21,2021-22,Lithuania LKL,Regular Season,Lietkabelis,CBE,103,71
+2021-12-22,2021-22,Lithuania LKL,Regular Season,Lietkabelis,GAS,82,73
+2021-12-24,2021-22,Lithuania LKL,Regular Season,Lietkabelis,PIE,82,87
+2021-12-25,2021-22,Lithuania LKL,Regular Season,Lietkabelis,RYT,86,90
+2021-12-26,2021-22,Lithuania LKL,Regular Season,Lietkabelis,SIA,71,66
+2021-12-28,2021-22,Lithuania LKL,Regular Season,Lietkabelis,ZAL,85,67
+2021-12-29,2021-22,Lithuania LKL,Regular Season,Neptūnas,CBE,75,87
+2021-12-31,2021-22,Lithuania LKL,Regular Season,Neptūnas,DZU,70,85
+2022-01-01,2021-22,Lithuania LKL,Regular Season,Neptūnas,GAS,88,82
+2022-01-03,2021-22,Lithuania LKL,Regular Season,Neptūnas,LTK,53,81
+2022-01-04,2021-22,Lithuania LKL,Regular Season,Neptūnas,NEV,94,87
+2022-01-06,2021-22,Lithuania LKL,Regular Season,Neptūnas,PIE,75,71
+2022-01-07,2021-22,Lithuania LKL,Regular Season,Neptūnas,RYT,81,89
+2022-01-08,2021-22,Lithuania LKL,Regular Season,Neptūnas,SIA,86,94
+2022-01-10,2021-22,Lithuania LKL,Regular Season,Neptūnas,JUV,79,88
+2022-01-11,2021-22,Lithuania LKL,Regular Season,Neptūnas,ZAL,60,77
+2022-01-13,2021-22,Lithuania LKL,Regular Season,Neptūnas,CBE,75,78
+2022-01-14,2021-22,Lithuania LKL,Regular Season,Neptūnas,LTK,73,83
+2022-01-16,2021-22,Lithuania LKL,Regular Season,Neptūnas,NEV,95,61
+2022-01-17,2021-22,Lithuania LKL,Regular Season,Neptūnas,PIE,91,95
+2022-01-19,2021-22,Lithuania LKL,Regular Season,Neptūnas,RYT,93,88
+2022-01-20,2021-22,Lithuania LKL,Regular Season,Neptūnas,ZAL,57,77
+2022-01-21,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,CBE,95,100
+2022-01-23,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,DZU,83,78
+2022-01-24,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,GAS,90,80
+2022-01-26,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,LTK,77,78
+2022-01-27,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,NEP,83,88
+2022-01-29,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,PIE,73,79
+2022-01-30,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,RYT,68,100
+2022-02-01,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,SIA,66,79
+2022-02-02,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,JUV,73,75
+2022-02-04,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,ZAL,69,77
+2022-02-05,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,CBE,88,92
+2022-02-06,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,LTK,60,85
+2022-02-08,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,PIE,85,92
+2022-02-09,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,RYT,85,109
+2022-02-11,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,SIA,93,83
+2022-02-12,2021-22,Lithuania LKL,Regular Season,Nevėžis–OPTIBET,ZAL,64,72
+2022-02-14,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,CBE,76,80
+2022-02-15,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,DZU,75,81
+2022-02-17,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,GAS,78,81
+2022-02-18,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,LTK,97,107
+2022-02-19,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,NEP,69,82
+2022-02-21,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,NEV,87,88
+2022-02-22,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,RYT,66,76
+2022-02-24,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,SIA,108,90
+2022-02-25,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,JUV,76,90
+2022-02-27,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,ZAL,69,85
+2022-02-28,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,DZU,101,78
+2022-03-02,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,GAS,106,102
+2022-03-03,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,SIA,67,89
+2022-03-04,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,JUV,92,84
+2022-03-06,2021-22,Lithuania LKL,Regular Season,Pieno žvaigždės,ZAL,83,102
+2022-03-07,2021-22,Lithuania LKL,Regular Season,Rytas,CBE,76,60
+2022-03-09,2021-22,Lithuania LKL,Regular Season,Rytas,DZU,81,65
+2022-03-10,2021-22,Lithuania LKL,Regular Season,Rytas,GAS,106,77
+2022-03-12,2021-22,Lithuania LKL,Regular Season,Rytas,LTK,85,71
+2022-03-13,2021-22,Lithuania LKL,Regular Season,Rytas,NEP,97,76
+2022-03-15,2021-22,Lithuania LKL,Regular Season,Rytas,NEV,108,73
+2022-03-16,2021-22,Lithuania LKL,Regular Season,Rytas,PIE,91,75
+2022-03-18,2021-22,Lithuania LKL,Regular Season,Rytas,SIA,79,76
+2022-03-19,2021-22,Lithuania LKL,Regular Season,Rytas,JUV,89,111
+2022-03-20,2021-22,Lithuania LKL,Regular Season,Rytas,ZAL,67,72
+2022-03-22,2021-22,Lithuania LKL,Regular Season,Rytas,DZU,88,68
+2022-03-23,2021-22,Lithuania LKL,Regular Season,Rytas,GAS,86,70
+2022-03-25,2021-22,Lithuania LKL,Regular Season,Rytas,PIE,99,66
+2022-03-26,2021-22,Lithuania LKL,Regular Season,Rytas,SIA,101,68
+2022-03-28,2021-22,Lithuania LKL,Regular Season,Rytas,JUV,82,74
+2022-03-29,2021-22,Lithuania LKL,Regular Season,Rytas,ZAL,87,74
+2022-03-31,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,CBE,93,87
+2022-04-01,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,DZU,97,85
+2022-04-02,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,GAS,86,80
+2022-04-04,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,LTK,74,97
+2022-04-05,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,NEP,75,77
+2022-04-07,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,NEV,91,77
+2022-04-08,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,PIE,84,62
+2022-04-10,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,RYT,77,89
+2022-04-11,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,JUV,80,66
+2022-04-13,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,ZAL,64,97
+2022-04-14,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,DZU,84,83
+2022-04-15,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,GAS,96,93
+2022-04-17,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,NEP,84,87
+2022-04-18,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,JUV,91,94
+2022-04-20,2021-22,Lithuania LKL,Regular Season,Šiauliai-7bet,ZAL,86,89
+2022-04-21,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,CBE,89,86
+2022-04-23,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,DZU,101,84
+2022-04-24,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,GAS,88,75
+2022-04-26,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,LTK,75,92
+2022-04-27,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,NEP,76,64
+2022-04-29,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,NEV,94,77
+2022-04-30,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,PIE,94,82
+2022-05-01,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,RYT,92,103
+2022-05-03,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,SIA,70,79
+2022-05-04,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,ZAL,71,78
+2022-05-06,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,DZU,95,78
+2022-05-07,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,LTK,93,94
+2022-05-09,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,NEP,82,79
+2022-05-10,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,NEV,96,73
+2022-05-12,2021-22,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,ZAL,76,84
+2022-05-13,2021-22,Lithuania LKL,Regular Season,Žalgiris,CBE,93,70
+2022-05-14,2021-22,Lithuania LKL,Regular Season,Žalgiris,DZU,78,70
+2022-05-16,2021-22,Lithuania LKL,Regular Season,Žalgiris,GAS,103,77
+2022-05-17,2021-22,Lithuania LKL,Regular Season,Žalgiris,LTK,84,70
+2022-05-19,2021-22,Lithuania LKL,Regular Season,Žalgiris,NEP,98,79
+2022-05-20,2021-22,Lithuania LKL,Regular Season,Žalgiris,NEV,102,77
+2022-05-22,2021-22,Lithuania LKL,Regular Season,Žalgiris,PIE,99,70
+2022-05-23,2021-22,Lithuania LKL,Regular Season,Žalgiris,RYT,75,84
+2022-05-25,2021-22,Lithuania LKL,Regular Season,Žalgiris,SIA,90,74
+2022-05-26,2021-22,Lithuania LKL,Regular Season,Žalgiris,JUV,101,77
+2022-10-01,2022-23,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Cbet,86,84
+2022-10-02,2022-23,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Gargždai,82,73
+2022-10-04,2022-23,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Labas Gas,74,86
+2022-10-06,2022-23,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Neptūnas,80,73
+2022-10-08,2022-23,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Nevėžis–Optibet,111,108
+2022-10-10,2022-23,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Pieno žvaigždės,86,74
+2022-10-11,2022-23,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Rytas,79,70
+2022-10-13,2022-23,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Šiauliai,94,103
+2022-10-15,2022-23,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Uniclub Casino – Juventus,91,71
+2022-10-17,2022-23,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Wolves,92,96
+2022-10-19,2022-23,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Žalgiris,66,74
+2022-10-20,2022-23,Lithuania LKL,Regular Season,Cbet,7Bet–Lietkabelis,88,91
+2022-10-22,2022-23,Lithuania LKL,Regular Season,Cbet,Gargždai,92,85
+2022-10-24,2022-23,Lithuania LKL,Regular Season,Cbet,Labas Gas,74,85
+2022-10-26,2022-23,Lithuania LKL,Regular Season,Cbet,Neptūnas,83,66
+2022-10-28,2022-23,Lithuania LKL,Regular Season,Cbet,Nevėžis–Optibet,71,64
+2022-10-29,2022-23,Lithuania LKL,Regular Season,Cbet,Pieno žvaigždės,84,77
+2022-10-31,2022-23,Lithuania LKL,Regular Season,Cbet,Rytas,62,75
+2022-11-02,2022-23,Lithuania LKL,Regular Season,Cbet,Šiauliai,74,82
+2022-11-04,2022-23,Lithuania LKL,Regular Season,Cbet,Uniclub Casino – Juventus,82,84
+2022-11-06,2022-23,Lithuania LKL,Regular Season,Cbet,Wolves,80,62
+2022-11-08,2022-23,Lithuania LKL,Regular Season,Cbet,Žalgiris,75,80
+2022-11-09,2022-23,Lithuania LKL,Regular Season,Gargždai,7Bet–Lietkabelis,71,91
+2022-11-11,2022-23,Lithuania LKL,Regular Season,Gargždai,Cbet,68,69
+2022-11-13,2022-23,Lithuania LKL,Regular Season,Gargždai,Labas Gas,74,71
+2022-11-15,2022-23,Lithuania LKL,Regular Season,Gargždai,Neptūnas,54,73
+2022-11-17,2022-23,Lithuania LKL,Regular Season,Gargždai,Nevėžis–Optibet,71,73
+2022-11-18,2022-23,Lithuania LKL,Regular Season,Gargždai,Pieno žvaigždės,79,69
+2022-11-20,2022-23,Lithuania LKL,Regular Season,Gargždai,Rytas,81,99
+2022-11-22,2022-23,Lithuania LKL,Regular Season,Gargždai,Šiauliai,76,78
+2022-11-24,2022-23,Lithuania LKL,Regular Season,Gargždai,Uniclub Casino – Juventus,68,85
+2022-11-26,2022-23,Lithuania LKL,Regular Season,Gargždai,Wolves,68,73
+2022-11-27,2022-23,Lithuania LKL,Regular Season,Gargždai,Žalgiris,71,89
+2022-11-29,2022-23,Lithuania LKL,Regular Season,Labas Gas,7Bet–Lietkabelis,77,96
+2022-12-01,2022-23,Lithuania LKL,Regular Season,Labas Gas,Cbet,74,80
+2022-12-03,2022-23,Lithuania LKL,Regular Season,Labas Gas,Gargždai,68,95
+2022-12-05,2022-23,Lithuania LKL,Regular Season,Labas Gas,Neptūnas,92,99
+2022-12-06,2022-23,Lithuania LKL,Regular Season,Labas Gas,Nevėžis–Optibet,86,98
+2022-12-08,2022-23,Lithuania LKL,Regular Season,Labas Gas,Pieno žvaigždės,89,92
+2022-12-10,2022-23,Lithuania LKL,Regular Season,Labas Gas,Rytas,66,89
+2022-12-12,2022-23,Lithuania LKL,Regular Season,Labas Gas,Šiauliai,63,81
+2022-12-14,2022-23,Lithuania LKL,Regular Season,Labas Gas,Uniclub Casino – Juventus,68,92
+2022-12-16,2022-23,Lithuania LKL,Regular Season,Labas Gas,Wolves,78,88
+2022-12-17,2022-23,Lithuania LKL,Regular Season,Labas Gas,Žalgiris,66,91
+2022-12-19,2022-23,Lithuania LKL,Regular Season,Neptūnas,7Bet–Lietkabelis,73,86
+2022-12-21,2022-23,Lithuania LKL,Regular Season,Neptūnas,Cbet,77,93
+2022-12-23,2022-23,Lithuania LKL,Regular Season,Neptūnas,Gargždai,94,69
+2022-12-25,2022-23,Lithuania LKL,Regular Season,Neptūnas,Labas Gas,80,75
+2022-12-26,2022-23,Lithuania LKL,Regular Season,Neptūnas,Nevėžis–Optibet,86,79
+2022-12-28,2022-23,Lithuania LKL,Regular Season,Neptūnas,Pieno žvaigždės,91,92
+2022-12-30,2022-23,Lithuania LKL,Regular Season,Neptūnas,Rytas,70,82
+2023-01-01,2022-23,Lithuania LKL,Regular Season,Neptūnas,Šiauliai,93,79
+2023-01-03,2022-23,Lithuania LKL,Regular Season,Neptūnas,Uniclub Casino – Juventus,98,97
+2023-01-04,2022-23,Lithuania LKL,Regular Season,Neptūnas,Wolves,100,80
+2023-01-06,2022-23,Lithuania LKL,Regular Season,Neptūnas,Žalgiris,71,79
+2023-01-08,2022-23,Lithuania LKL,Regular Season,Nevėžis–Optibet,7Bet–Lietkabelis,73,78
+2023-01-10,2022-23,Lithuania LKL,Regular Season,Nevėžis–Optibet,Cbet,91,83
+2023-01-12,2022-23,Lithuania LKL,Regular Season,Nevėžis–Optibet,Gargždai,99,92
+2023-01-14,2022-23,Lithuania LKL,Regular Season,Nevėžis–Optibet,Labas Gas,89,81
+2023-01-15,2022-23,Lithuania LKL,Regular Season,Nevėžis–Optibet,Neptūnas,67,71
+2023-01-17,2022-23,Lithuania LKL,Regular Season,Nevėžis–Optibet,Pieno žvaigždės,83,65
+2023-01-19,2022-23,Lithuania LKL,Regular Season,Nevėžis–Optibet,Rytas,84,86
+2023-01-21,2022-23,Lithuania LKL,Regular Season,Nevėžis–Optibet,Šiauliai,81,92
+2023-01-23,2022-23,Lithuania LKL,Regular Season,Nevėžis–Optibet,Uniclub Casino – Juventus,71,74
+2023-01-24,2022-23,Lithuania LKL,Regular Season,Nevėžis–Optibet,Wolves,76,81
+2023-01-26,2022-23,Lithuania LKL,Regular Season,Nevėžis–Optibet,Žalgiris,69,97
+2023-01-28,2022-23,Lithuania LKL,Regular Season,Pieno žvaigždės,7Bet–Lietkabelis,71,77
+2023-01-30,2022-23,Lithuania LKL,Regular Season,Pieno žvaigždės,Cbet,90,92
+2023-02-01,2022-23,Lithuania LKL,Regular Season,Pieno žvaigždės,Gargždai,97,92
+2023-02-02,2022-23,Lithuania LKL,Regular Season,Pieno žvaigždės,Labas Gas,115,110
+2023-02-04,2022-23,Lithuania LKL,Regular Season,Pieno žvaigždės,Neptūnas,91,85
+2023-02-06,2022-23,Lithuania LKL,Regular Season,Pieno žvaigždės,Nevėžis–Optibet,84,93
+2023-02-08,2022-23,Lithuania LKL,Regular Season,Pieno žvaigždės,Rytas,72,107
+2023-02-10,2022-23,Lithuania LKL,Regular Season,Pieno žvaigždės,Šiauliai,75,76
+2023-02-11,2022-23,Lithuania LKL,Regular Season,Pieno žvaigždės,Uniclub Casino – Juventus,80,87
+2023-02-13,2022-23,Lithuania LKL,Regular Season,Pieno žvaigždės,Wolves,71,90
+2023-02-15,2022-23,Lithuania LKL,Regular Season,Pieno žvaigždės,Žalgiris,59,92
+2023-02-17,2022-23,Lithuania LKL,Regular Season,Rytas,7Bet–Lietkabelis,109,104
+2023-02-19,2022-23,Lithuania LKL,Regular Season,Rytas,Cbet,71,78
+2023-02-21,2022-23,Lithuania LKL,Regular Season,Rytas,Gargždai,102,72
+2023-02-22,2022-23,Lithuania LKL,Regular Season,Rytas,Labas Gas,98,77
+2023-02-24,2022-23,Lithuania LKL,Regular Season,Rytas,Neptūnas,93,67
+2023-02-26,2022-23,Lithuania LKL,Regular Season,Rytas,Nevėžis–Optibet,88,92
+2023-02-28,2022-23,Lithuania LKL,Regular Season,Rytas,Pieno žvaigždės,118,73
+2023-03-02,2022-23,Lithuania LKL,Regular Season,Rytas,Šiauliai,107,101
+2023-03-03,2022-23,Lithuania LKL,Regular Season,Rytas,Uniclub Casino – Juventus,77,88
+2023-03-05,2022-23,Lithuania LKL,Regular Season,Rytas,Wolves,76,88
+2023-03-07,2022-23,Lithuania LKL,Regular Season,Rytas,Žalgiris,89,85
+2023-03-09,2022-23,Lithuania LKL,Regular Season,Šiauliai,7Bet–Lietkabelis,85,88
+2023-03-11,2022-23,Lithuania LKL,Regular Season,Šiauliai,Cbet,85,89
+2023-03-12,2022-23,Lithuania LKL,Regular Season,Šiauliai,Gargždai,92,99
+2023-03-14,2022-23,Lithuania LKL,Regular Season,Šiauliai,Labas Gas,97,89
+2023-03-16,2022-23,Lithuania LKL,Regular Season,Šiauliai,Neptūnas,61,60
+2023-03-18,2022-23,Lithuania LKL,Regular Season,Šiauliai,Nevėžis–Optibet,95,107
+2023-03-20,2022-23,Lithuania LKL,Regular Season,Šiauliai,Pieno žvaigždės,81,65
+2023-03-22,2022-23,Lithuania LKL,Regular Season,Šiauliai,Rytas,80,85
+2023-03-23,2022-23,Lithuania LKL,Regular Season,Šiauliai,Uniclub Casino – Juventus,85,92
+2023-03-25,2022-23,Lithuania LKL,Regular Season,Šiauliai,Wolves,107,102
+2023-03-27,2022-23,Lithuania LKL,Regular Season,Šiauliai,Žalgiris,75,93
+2023-03-29,2022-23,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,7Bet–Lietkabelis,87,84
+2023-03-31,2022-23,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Cbet,88,78
+2023-04-01,2022-23,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Gargždai,92,90
+2023-04-03,2022-23,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Labas Gas,94,76
+2023-04-05,2022-23,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Neptūnas,95,77
+2023-04-07,2022-23,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Nevėžis–Optibet,84,85
+2023-04-09,2022-23,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Pieno žvaigždės,93,77
+2023-04-10,2022-23,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Rytas,88,90
+2023-04-12,2022-23,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Šiauliai,85,84
+2023-04-14,2022-23,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Wolves,81,86
+2023-04-16,2022-23,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Žalgiris,67,78
+2023-04-18,2022-23,Lithuania LKL,Regular Season,Wolves,7Bet–Lietkabelis,80,86
+2023-04-19,2022-23,Lithuania LKL,Regular Season,Wolves,Cbet,94,99
+2023-04-21,2022-23,Lithuania LKL,Regular Season,Wolves,Gargždai,96,82
+2023-04-23,2022-23,Lithuania LKL,Regular Season,Wolves,Labas Gas,79,70
+2023-04-25,2022-23,Lithuania LKL,Regular Season,Wolves,Neptūnas,79,63
+2023-04-27,2022-23,Lithuania LKL,Regular Season,Wolves,Nevėžis–Optibet,94,73
+2023-04-29,2022-23,Lithuania LKL,Regular Season,Wolves,Pieno žvaigždės,76,69
+2023-04-30,2022-23,Lithuania LKL,Regular Season,Wolves,Rytas,89,91
+2023-05-02,2022-23,Lithuania LKL,Regular Season,Wolves,Šiauliai,89,78
+2023-05-04,2022-23,Lithuania LKL,Regular Season,Wolves,Uniclub Casino – Juventus,95,68
+2023-05-06,2022-23,Lithuania LKL,Regular Season,Wolves,Žalgiris,80,75
+2023-05-08,2022-23,Lithuania LKL,Regular Season,Žalgiris,7Bet–Lietkabelis,85,77
+2023-05-09,2022-23,Lithuania LKL,Regular Season,Žalgiris,Cbet,76,80
+2023-05-11,2022-23,Lithuania LKL,Regular Season,Žalgiris,Gargždai,86,74
+2023-05-13,2022-23,Lithuania LKL,Regular Season,Žalgiris,Labas Gas,86,80
+2023-05-15,2022-23,Lithuania LKL,Regular Season,Žalgiris,Neptūnas,77,46
+2023-05-17,2022-23,Lithuania LKL,Regular Season,Žalgiris,Nevėžis–Optibet,93,75
+2023-05-18,2022-23,Lithuania LKL,Regular Season,Žalgiris,Pieno žvaigždės,84,61
+2023-05-20,2022-23,Lithuania LKL,Regular Season,Žalgiris,Rytas,94,100
+2023-05-22,2022-23,Lithuania LKL,Regular Season,Žalgiris,Šiauliai,96,60
+2023-05-24,2022-23,Lithuania LKL,Regular Season,Žalgiris,Uniclub Casino – Juventus,109,76
+2023-05-26,2022-23,Lithuania LKL,Regular Season,Žalgiris,Wolves,90,85
+2023-10-01,2023-24,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Cbet,84,79
+2023-10-02,2023-24,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Gargždai,84,66
+2023-10-04,2023-24,Lithuania LKL,Regular Season,7Bet–Lietkabelis,M Basket–Delamode,82,81
+2023-10-06,2023-24,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Neptūnas,76,78
+2023-10-08,2023-24,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Nevėžis–Optibet,100,79
+2023-10-10,2023-24,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Pieno žvaigždės,95,92
+2023-10-12,2023-24,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Rytas,77,89
+2023-10-14,2023-24,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Šiauliai,92,85
+2023-10-16,2023-24,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Uniclub Casino – Juventus,72,73
+2023-10-18,2023-24,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Wolves Twinsbet,108,105
+2023-10-19,2023-24,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Žalgiris,68,80
+2023-10-21,2023-24,Lithuania LKL,Regular Season,Cbet,7Bet–Lietkabelis,74,92
+2023-10-23,2023-24,Lithuania LKL,Regular Season,Cbet,Gargždai,105,73
+2023-10-25,2023-24,Lithuania LKL,Regular Season,Cbet,M Basket–Delamode,87,96
+2023-10-27,2023-24,Lithuania LKL,Regular Season,Cbet,Neptūnas,88,77
+2023-10-29,2023-24,Lithuania LKL,Regular Season,Cbet,Nevėžis–Optibet,94,77
+2023-10-31,2023-24,Lithuania LKL,Regular Season,Cbet,Pieno žvaigždės,84,89
+2023-11-02,2023-24,Lithuania LKL,Regular Season,Cbet,Rytas,89,101
+2023-11-04,2023-24,Lithuania LKL,Regular Season,Cbet,Šiauliai,85,84
+2023-11-05,2023-24,Lithuania LKL,Regular Season,Cbet,Uniclub Casino – Juventus,84,73
+2023-11-07,2023-24,Lithuania LKL,Regular Season,Cbet,Wolves Twinsbet,71,83
+2023-11-09,2023-24,Lithuania LKL,Regular Season,Cbet,Žalgiris,67,75
+2023-11-11,2023-24,Lithuania LKL,Regular Season,Gargždai,Cbet,86,80
+2023-11-13,2023-24,Lithuania LKL,Regular Season,Gargždai,M Basket–Delamode,82,93
+2023-11-15,2023-24,Lithuania LKL,Regular Season,Gargždai,Neptūnas,73,92
+2023-11-17,2023-24,Lithuania LKL,Regular Season,Gargždai,Nevėžis–Optibet,97,84
+2023-11-19,2023-24,Lithuania LKL,Regular Season,Gargždai,Rytas,82,98
+2023-11-21,2023-24,Lithuania LKL,Regular Season,Gargždai,Šiauliai,89,94
+2023-11-22,2023-24,Lithuania LKL,Regular Season,Gargždai,Uniclub Casino – Juventus,74,97
+2023-11-24,2023-24,Lithuania LKL,Regular Season,Gargždai,Žalgiris,55,107
+2023-11-26,2023-24,Lithuania LKL,Regular Season,M Basket–Delamode,7Bet–Lietkabelis,64,82
+2023-11-28,2023-24,Lithuania LKL,Regular Season,M Basket–Delamode,Cbet,79,82
+2023-11-30,2023-24,Lithuania LKL,Regular Season,M Basket–Delamode,Gargždai,77,66
+2023-12-02,2023-24,Lithuania LKL,Regular Season,M Basket–Delamode,Neptūnas,70,68
+2023-12-04,2023-24,Lithuania LKL,Regular Season,M Basket–Delamode,Nevėžis–Optibet,88,81
+2023-12-06,2023-24,Lithuania LKL,Regular Season,M Basket–Delamode,Pieno žvaigždės,100,74
+2023-12-08,2023-24,Lithuania LKL,Regular Season,M Basket–Delamode,Rytas,60,77
+2023-12-09,2023-24,Lithuania LKL,Regular Season,M Basket–Delamode,Šiauliai,73,78
+2023-12-11,2023-24,Lithuania LKL,Regular Season,M Basket–Delamode,Uniclub Casino – Juventus,88,86
+2023-12-13,2023-24,Lithuania LKL,Regular Season,M Basket–Delamode,Wolves Twinsbet,73,84
+2023-12-15,2023-24,Lithuania LKL,Regular Season,M Basket–Delamode,Žalgiris,69,73
+2023-12-17,2023-24,Lithuania LKL,Regular Season,Neptūnas,7Bet–Lietkabelis,91,81
+2023-12-19,2023-24,Lithuania LKL,Regular Season,Neptūnas,Cbet,69,64
+2023-12-21,2023-24,Lithuania LKL,Regular Season,Neptūnas,Gargždai,100,81
+2023-12-23,2023-24,Lithuania LKL,Regular Season,Neptūnas,M Basket–Delamode,84,87
+2023-12-25,2023-24,Lithuania LKL,Regular Season,Neptūnas,Nevėžis–Optibet,97,74
+2023-12-26,2023-24,Lithuania LKL,Regular Season,Neptūnas,Pieno žvaigždės,112,87
+2023-12-28,2023-24,Lithuania LKL,Regular Season,Neptūnas,Rytas,70,77
+2023-12-30,2023-24,Lithuania LKL,Regular Season,Neptūnas,Šiauliai,85,76
+2024-01-01,2023-24,Lithuania LKL,Regular Season,Neptūnas,Uniclub Casino – Juventus,78,91
+2024-01-03,2023-24,Lithuania LKL,Regular Season,Neptūnas,Wolves Twinsbet,66,98
+2024-01-05,2023-24,Lithuania LKL,Regular Season,Neptūnas,Žalgiris,75,95
+2024-01-07,2023-24,Lithuania LKL,Regular Season,Nevėžis–Optibet,7Bet–Lietkabelis,106,94
+2024-01-09,2023-24,Lithuania LKL,Regular Season,Nevėžis–Optibet,Cbet,92,86
+2024-01-11,2023-24,Lithuania LKL,Regular Season,Nevėžis–Optibet,Gargždai,92,80
+2024-01-12,2023-24,Lithuania LKL,Regular Season,Nevėžis–Optibet,M Basket–Delamode,72,83
+2024-01-14,2023-24,Lithuania LKL,Regular Season,Nevėžis–Optibet,Neptūnas,96,92
+2024-01-16,2023-24,Lithuania LKL,Regular Season,Nevėžis–Optibet,Pieno žvaigždės,90,91
+2024-01-18,2023-24,Lithuania LKL,Regular Season,Nevėžis–Optibet,Rytas,85,97
+2024-01-20,2023-24,Lithuania LKL,Regular Season,Nevėžis–Optibet,Šiauliai,89,84
+2024-01-22,2023-24,Lithuania LKL,Regular Season,Nevėžis–Optibet,Uniclub Casino – Juventus,64,90
+2024-01-24,2023-24,Lithuania LKL,Regular Season,Nevėžis–Optibet,Wolves Twinsbet,78,99
+2024-01-26,2023-24,Lithuania LKL,Regular Season,Nevėžis–Optibet,Žalgiris,70,76
+2024-01-28,2023-24,Lithuania LKL,Regular Season,Pieno žvaigždės,7Bet–Lietkabelis,78,84
+2024-01-29,2023-24,Lithuania LKL,Regular Season,Pieno žvaigždės,Cbet,92,93
+2024-01-31,2023-24,Lithuania LKL,Regular Season,Pieno žvaigždės,Gargždai,103,76
+2024-02-02,2023-24,Lithuania LKL,Regular Season,Pieno žvaigždės,M Basket–Delamode,107,88
+2024-02-04,2023-24,Lithuania LKL,Regular Season,Pieno žvaigždės,Neptūnas,83,86
+2024-02-06,2023-24,Lithuania LKL,Regular Season,Pieno žvaigždės,Nevėžis–Optibet,91,101
+2024-02-08,2023-24,Lithuania LKL,Regular Season,Pieno žvaigždės,Rytas,77,101
+2024-02-10,2023-24,Lithuania LKL,Regular Season,Pieno žvaigždės,Šiauliai,72,115
+2024-02-12,2023-24,Lithuania LKL,Regular Season,Pieno žvaigždės,Uniclub Casino – Juventus,75,85
+2024-02-14,2023-24,Lithuania LKL,Regular Season,Pieno žvaigždės,Wolves Twinsbet,88,91
+2024-02-15,2023-24,Lithuania LKL,Regular Season,Pieno žvaigždės,Žalgiris,71,98
+2024-02-17,2023-24,Lithuania LKL,Regular Season,Rytas,7Bet–Lietkabelis,94,73
+2024-02-19,2023-24,Lithuania LKL,Regular Season,Rytas,Cbet,110,88
+2024-02-21,2023-24,Lithuania LKL,Regular Season,Rytas,Gargždai,110,79
+2024-02-23,2023-24,Lithuania LKL,Regular Season,Rytas,M Basket–Delamode,90,54
+2024-02-25,2023-24,Lithuania LKL,Regular Season,Rytas,Neptūnas,93,75
+2024-02-27,2023-24,Lithuania LKL,Regular Season,Rytas,Nevėžis–Optibet,113,64
+2024-02-29,2023-24,Lithuania LKL,Regular Season,Rytas,Pieno žvaigždės,106,90
+2024-03-02,2023-24,Lithuania LKL,Regular Season,Rytas,Šiauliai,91,78
+2024-03-03,2023-24,Lithuania LKL,Regular Season,Rytas,Uniclub Casino – Juventus,93,88
+2024-03-05,2023-24,Lithuania LKL,Regular Season,Rytas,Wolves Twinsbet,74,84
+2024-03-07,2023-24,Lithuania LKL,Regular Season,Rytas,Žalgiris,67,81
+2024-03-09,2023-24,Lithuania LKL,Regular Season,Šiauliai,7Bet–Lietkabelis,74,88
+2024-03-11,2023-24,Lithuania LKL,Regular Season,Šiauliai,Cbet,89,86
+2024-03-13,2023-24,Lithuania LKL,Regular Season,Šiauliai,Gargždai,79,97
+2024-03-15,2023-24,Lithuania LKL,Regular Season,Šiauliai,M Basket–Delamode,81,90
+2024-03-17,2023-24,Lithuania LKL,Regular Season,Šiauliai,Neptūnas,90,82
+2024-03-19,2023-24,Lithuania LKL,Regular Season,Šiauliai,Nevėžis–Optibet,85,77
+2024-03-20,2023-24,Lithuania LKL,Regular Season,Šiauliai,Pieno žvaigždės,91,95
+2024-03-22,2023-24,Lithuania LKL,Regular Season,Šiauliai,Rytas,75,99
+2024-03-24,2023-24,Lithuania LKL,Regular Season,Šiauliai,Uniclub Casino – Juventus,66,103
+2024-03-26,2023-24,Lithuania LKL,Regular Season,Šiauliai,Wolves Twinsbet,66,68
+2024-03-28,2023-24,Lithuania LKL,Regular Season,Šiauliai,Žalgiris,73,87
+2024-03-30,2023-24,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,7Bet–Lietkabelis,88,91
+2024-04-01,2023-24,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Cbet,96,63
+2024-04-03,2023-24,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,M Basket–Delamode,81,74
+2024-04-05,2023-24,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Neptūnas,112,102
+2024-04-06,2023-24,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Nevėžis–Optibet,106,74
+2024-04-08,2023-24,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Pieno žvaigždės,119,78
+2024-04-10,2023-24,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Rytas,96,103
+2024-04-12,2023-24,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Šiauliai,88,68
+2024-04-14,2023-24,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Wolves Twinsbet,96,68
+2024-04-16,2023-24,Lithuania LKL,Regular Season,Uniclub Casino – Juventus,Žalgiris,69,79
+2024-04-18,2023-24,Lithuania LKL,Regular Season,Wolves Twinsbet,7Bet–Lietkabelis,73,78
+2024-04-20,2023-24,Lithuania LKL,Regular Season,Wolves Twinsbet,Cbet,85,96
+2024-04-22,2023-24,Lithuania LKL,Regular Season,Wolves Twinsbet,Gargždai,104,68
+2024-04-23,2023-24,Lithuania LKL,Regular Season,Wolves Twinsbet,M Basket–Delamode,84,74
+2024-04-25,2023-24,Lithuania LKL,Regular Season,Wolves Twinsbet,Neptūnas,92,73
+2024-04-27,2023-24,Lithuania LKL,Regular Season,Wolves Twinsbet,Nevėžis–Optibet,89,74
+2024-04-29,2023-24,Lithuania LKL,Regular Season,Wolves Twinsbet,Pieno žvaigždės,94,79
+2024-05-01,2023-24,Lithuania LKL,Regular Season,Wolves Twinsbet,Rytas,72,89
+2024-05-03,2023-24,Lithuania LKL,Regular Season,Wolves Twinsbet,Šiauliai,86,77
+2024-05-05,2023-24,Lithuania LKL,Regular Season,Wolves Twinsbet,Uniclub Casino – Juventus,77,71
+2024-05-07,2023-24,Lithuania LKL,Regular Season,Wolves Twinsbet,Žalgiris,75,64
+2024-05-09,2023-24,Lithuania LKL,Regular Season,Žalgiris,7Bet–Lietkabelis,69,63
+2024-05-10,2023-24,Lithuania LKL,Regular Season,Žalgiris,Cbet,86,69
+2024-05-12,2023-24,Lithuania LKL,Regular Season,Žalgiris,M Basket–Delamode,103,75
+2024-05-14,2023-24,Lithuania LKL,Regular Season,Žalgiris,Neptūnas,76,88
+2024-05-16,2023-24,Lithuania LKL,Regular Season,Žalgiris,Nevėžis–Optibet,102,98
+2024-05-18,2023-24,Lithuania LKL,Regular Season,Žalgiris,Pieno žvaigždės,78,68
+2024-05-20,2023-24,Lithuania LKL,Regular Season,Žalgiris,Rytas,97,94
+2024-05-22,2023-24,Lithuania LKL,Regular Season,Žalgiris,Šiauliai,89,74
+2024-05-24,2023-24,Lithuania LKL,Regular Season,Žalgiris,Uniclub Casino – Juventus,101,63
+2024-05-26,2023-24,Lithuania LKL,Regular Season,Žalgiris,Wolves Twinsbet,79,55
+2024-10-01,2024-25,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Cbet,86,88
+2024-10-03,2024-25,Lithuania LKL,Regular Season,7Bet–Lietkabelis,M Basket–Delamode,82,78
+2024-10-06,2024-25,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Neptūnas,81,89
+2024-10-08,2024-25,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Nevėžis–Optibet,93,82
+2024-10-11,2024-25,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Rytas,67,84
+2024-10-14,2024-25,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Šiauliai–Casino Admiral,93,76
+2024-10-16,2024-25,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Uniclub Bet – Juventus,90,98
+2024-10-19,2024-25,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Wolves Twinsbet,83,81
+2024-10-22,2024-25,Lithuania LKL,Regular Season,7Bet–Lietkabelis,Žalgiris,85,89
+2024-10-24,2024-25,Lithuania LKL,Regular Season,Cbet,7Bet–Lietkabelis,84,82
+2024-10-27,2024-25,Lithuania LKL,Regular Season,Cbet,M Basket–Delamode,103,83
+2024-10-30,2024-25,Lithuania LKL,Regular Season,Cbet,Neptūnas,86,82
+2024-11-01,2024-25,Lithuania LKL,Regular Season,Cbet,Nevėžis–Optibet,87,110
+2024-11-04,2024-25,Lithuania LKL,Regular Season,Cbet,Rytas,74,94
+2024-11-07,2024-25,Lithuania LKL,Regular Season,Cbet,Šiauliai–Casino Admiral,104,93
+2024-11-09,2024-25,Lithuania LKL,Regular Season,Cbet,Uniclub Bet – Juventus,93,98
+2024-11-12,2024-25,Lithuania LKL,Regular Season,Cbet,Wolves Twinsbet,91,94
+2024-11-15,2024-25,Lithuania LKL,Regular Season,Cbet,Žalgiris,72,93
+2024-11-17,2024-25,Lithuania LKL,Regular Season,M Basket–Delamode,7Bet–Lietkabelis,93,87
+2024-11-20,2024-25,Lithuania LKL,Regular Season,M Basket–Delamode,Cbet,72,83
+2024-11-23,2024-25,Lithuania LKL,Regular Season,M Basket–Delamode,Neptūnas,107,96
+2024-11-25,2024-25,Lithuania LKL,Regular Season,M Basket–Delamode,Nevėžis–Optibet,77,98
+2024-11-28,2024-25,Lithuania LKL,Regular Season,M Basket–Delamode,Rytas,83,93
+2024-12-01,2024-25,Lithuania LKL,Regular Season,M Basket–Delamode,Šiauliai–Casino Admiral,93,95
+2024-12-03,2024-25,Lithuania LKL,Regular Season,M Basket–Delamode,Uniclub Bet – Juventus,46,91
+2024-12-06,2024-25,Lithuania LKL,Regular Season,M Basket–Delamode,Wolves Twinsbet,86,95
+2024-12-09,2024-25,Lithuania LKL,Regular Season,M Basket–Delamode,Žalgiris,82,88
+2024-12-11,2024-25,Lithuania LKL,Regular Season,Neptūnas,7Bet–Lietkabelis,56,63
+2024-12-14,2024-25,Lithuania LKL,Regular Season,Neptūnas,Cbet,90,87
+2024-12-17,2024-25,Lithuania LKL,Regular Season,Neptūnas,M Basket–Delamode,99,63
+2024-12-19,2024-25,Lithuania LKL,Regular Season,Neptūnas,Nevėžis–Optibet,94,107
+2024-12-22,2024-25,Lithuania LKL,Regular Season,Neptūnas,Rytas,76,94
+2024-12-24,2024-25,Lithuania LKL,Regular Season,Neptūnas,Šiauliai–Casino Admiral,80,90
+2024-12-27,2024-25,Lithuania LKL,Regular Season,Neptūnas,Uniclub Bet – Juventus,63,74
+2024-12-30,2024-25,Lithuania LKL,Regular Season,Neptūnas,Wolves Twinsbet,89,74
+2025-01-01,2024-25,Lithuania LKL,Regular Season,Neptūnas,Žalgiris,70,97
+2025-01-04,2024-25,Lithuania LKL,Regular Season,Nevėžis–Optibet,7Bet–Lietkabelis,78,85
+2025-01-07,2024-25,Lithuania LKL,Regular Season,Nevėžis–Optibet,Cbet,93,105
+2025-01-09,2024-25,Lithuania LKL,Regular Season,Nevėžis–Optibet,M Basket–Delamode,93,87
+2025-01-12,2024-25,Lithuania LKL,Regular Season,Nevėžis–Optibet,Neptūnas,74,83
+2025-01-15,2024-25,Lithuania LKL,Regular Season,Nevėžis–Optibet,Rytas,83,93
+2025-01-17,2024-25,Lithuania LKL,Regular Season,Nevėžis–Optibet,Šiauliai–Casino Admiral,106,90
+2025-01-20,2024-25,Lithuania LKL,Regular Season,Nevėžis–Optibet,Uniclub Bet – Juventus,74,78
+2025-01-23,2024-25,Lithuania LKL,Regular Season,Nevėžis–Optibet,Wolves Twinsbet,85,90
+2025-01-25,2024-25,Lithuania LKL,Regular Season,Nevėžis–Optibet,Žalgiris,76,89
+2025-01-28,2024-25,Lithuania LKL,Regular Season,Rytas,7Bet–Lietkabelis,90,78
+2025-01-31,2024-25,Lithuania LKL,Regular Season,Rytas,Cbet,84,80
+2025-02-02,2024-25,Lithuania LKL,Regular Season,Rytas,M Basket–Delamode,109,98
+2025-02-05,2024-25,Lithuania LKL,Regular Season,Rytas,Neptūnas,84,90
+2025-02-08,2024-25,Lithuania LKL,Regular Season,Rytas,Nevėžis–Optibet,89,69
+2025-02-10,2024-25,Lithuania LKL,Regular Season,Rytas,Šiauliai–Casino Admiral,118,109
+2025-02-13,2024-25,Lithuania LKL,Regular Season,Rytas,Uniclub Bet – Juventus,90,76
+2025-02-16,2024-25,Lithuania LKL,Regular Season,Rytas,Wolves Twinsbet,71,82
+2025-02-18,2024-25,Lithuania LKL,Regular Season,Rytas,Žalgiris,91,88
+2025-02-21,2024-25,Lithuania LKL,Regular Season,Šiauliai–Casino Admiral,7Bet–Lietkabelis,96,92
+2025-02-24,2024-25,Lithuania LKL,Regular Season,Šiauliai–Casino Admiral,Cbet,103,93
+2025-02-26,2024-25,Lithuania LKL,Regular Season,Šiauliai–Casino Admiral,M Basket–Delamode,103,107
+2025-03-01,2024-25,Lithuania LKL,Regular Season,Šiauliai–Casino Admiral,Neptūnas,108,103
+2025-03-04,2024-25,Lithuania LKL,Regular Season,Šiauliai–Casino Admiral,Nevėžis–Optibet,95,91
+2025-03-06,2024-25,Lithuania LKL,Regular Season,Šiauliai–Casino Admiral,Rytas,79,89
+2025-03-09,2024-25,Lithuania LKL,Regular Season,Šiauliai–Casino Admiral,Uniclub Bet – Juventus,98,100
+2025-03-11,2024-25,Lithuania LKL,Regular Season,Šiauliai–Casino Admiral,Wolves Twinsbet,110,89
+2025-03-14,2024-25,Lithuania LKL,Regular Season,Šiauliai–Casino Admiral,Žalgiris,63,91
+2025-03-17,2024-25,Lithuania LKL,Regular Season,Uniclub Bet – Juventus,7Bet–Lietkabelis,70,79
+2025-03-19,2024-25,Lithuania LKL,Regular Season,Uniclub Bet – Juventus,Cbet,79,80
+2025-03-22,2024-25,Lithuania LKL,Regular Season,Uniclub Bet – Juventus,M Basket–Delamode,92,72
+2025-03-25,2024-25,Lithuania LKL,Regular Season,Uniclub Bet – Juventus,Neptūnas,92,99
+2025-03-27,2024-25,Lithuania LKL,Regular Season,Uniclub Bet – Juventus,Nevėžis–Optibet,91,84
+2025-03-30,2024-25,Lithuania LKL,Regular Season,Uniclub Bet – Juventus,Rytas,78,86
+2025-04-02,2024-25,Lithuania LKL,Regular Season,Uniclub Bet – Juventus,Šiauliai–Casino Admiral,101,88
+2025-04-04,2024-25,Lithuania LKL,Regular Season,Uniclub Bet – Juventus,Wolves Twinsbet,100,110
+2025-04-07,2024-25,Lithuania LKL,Regular Season,Uniclub Bet – Juventus,Žalgiris,67,128
+2025-04-10,2024-25,Lithuania LKL,Regular Season,Wolves Twinsbet,7Bet–Lietkabelis,82,97
+2025-04-12,2024-25,Lithuania LKL,Regular Season,Wolves Twinsbet,Cbet,103,90
+2025-04-15,2024-25,Lithuania LKL,Regular Season,Wolves Twinsbet,M Basket–Delamode,95,94
+2025-04-18,2024-25,Lithuania LKL,Regular Season,Wolves Twinsbet,Neptūnas,102,86
+2025-04-20,2024-25,Lithuania LKL,Regular Season,Wolves Twinsbet,Nevėžis–Optibet,103,102
+2025-04-23,2024-25,Lithuania LKL,Regular Season,Wolves Twinsbet,Rytas,84,88
+2025-04-26,2024-25,Lithuania LKL,Regular Season,Wolves Twinsbet,Šiauliai–Casino Admiral,103,93
+2025-04-28,2024-25,Lithuania LKL,Regular Season,Wolves Twinsbet,Uniclub Bet – Juventus,67,72
+2025-05-01,2024-25,Lithuania LKL,Regular Season,Wolves Twinsbet,Žalgiris,100,82
+2025-05-04,2024-25,Lithuania LKL,Regular Season,Žalgiris,7Bet–Lietkabelis,73,66
+2025-05-06,2024-25,Lithuania LKL,Regular Season,Žalgiris,Cbet,101,64
+2025-05-09,2024-25,Lithuania LKL,Regular Season,Žalgiris,M Basket–Delamode,101,46
+2025-05-12,2024-25,Lithuania LKL,Regular Season,Žalgiris,Neptūnas,91,75
+2025-05-14,2024-25,Lithuania LKL,Regular Season,Žalgiris,Nevėžis–Optibet,88,86
+2025-05-17,2024-25,Lithuania LKL,Regular Season,Žalgiris,Rytas,78,67
+2025-05-20,2024-25,Lithuania LKL,Regular Season,Žalgiris,Šiauliai–Casino Admiral,111,81
+2025-05-22,2024-25,Lithuania LKL,Regular Season,Žalgiris,Uniclub Bet – Juventus,84,67
+2025-05-25,2024-25,Lithuania LKL,Regular Season,Žalgiris,Wolves Twinsbet,97,84
+2025-10-01,2025-26,Lithuania LKL,Regular Season,Gargždai,Jonava Hipocredit,103,73
+2025-10-04,2025-26,Lithuania LKL,Regular Season,Gargždai,Juventus,91,74
+2025-10-07,2025-26,Lithuania LKL,Regular Season,Gargždai,Lietkabelis,80,89
+2025-10-10,2025-26,Lithuania LKL,Regular Season,Gargždai,Neptūnas,87,104
+2025-10-14,2025-26,Lithuania LKL,Regular Season,Gargždai,Nevėžis-Paskolų klubas,86,79
+2025-10-17,2025-26,Lithuania LKL,Regular Season,Gargždai,Rytas,82,78
+2025-10-20,2025-26,Lithuania LKL,Regular Season,Gargždai,Šiauliai,85,93
+2025-10-24,2025-26,Lithuania LKL,Regular Season,Gargždai,Žalgiris,73,89
+2025-10-27,2025-26,Lithuania LKL,Regular Season,Jonava Hipocredit,Gargždai,75,82
+2025-10-30,2025-26,Lithuania LKL,Regular Season,Jonava Hipocredit,Juventus,82,98
+2025-11-03,2025-26,Lithuania LKL,Regular Season,Jonava Hipocredit,Lietkabelis,85,96
+2025-11-06,2025-26,Lithuania LKL,Regular Season,Jonava Hipocredit,Neptūnas,117,124
+2025-11-09,2025-26,Lithuania LKL,Regular Season,Jonava Hipocredit,Nevėžis-Paskolų klubas,86,82
+2025-11-13,2025-26,Lithuania LKL,Regular Season,Jonava Hipocredit,Rytas,71,105
+2025-11-16,2025-26,Lithuania LKL,Regular Season,Jonava Hipocredit,Šiauliai,79,85
+2025-11-19,2025-26,Lithuania LKL,Regular Season,Jonava Hipocredit,Žalgiris,78,87
+2025-11-23,2025-26,Lithuania LKL,Regular Season,Juventus,Gargždai,104,78
+2025-11-26,2025-26,Lithuania LKL,Regular Season,Juventus,Jonava Hipocredit,104,95
+2025-11-29,2025-26,Lithuania LKL,Regular Season,Juventus,Lietkabelis,82,73
+2025-12-03,2025-26,Lithuania LKL,Regular Season,Juventus,Neptūnas,90,97
+2025-12-06,2025-26,Lithuania LKL,Regular Season,Juventus,Nevėžis-Paskolų klubas,84,90
+2025-12-09,2025-26,Lithuania LKL,Regular Season,Juventus,Rytas,85,92
+2025-12-13,2025-26,Lithuania LKL,Regular Season,Juventus,Šiauliai,86,73
+2025-12-16,2025-26,Lithuania LKL,Regular Season,Juventus,Žalgiris,75,91
+2025-12-19,2025-26,Lithuania LKL,Regular Season,Lietkabelis,Gargždai,70,79
+2025-12-22,2025-26,Lithuania LKL,Regular Season,Lietkabelis,Jonava Hipocredit,101,74
+2025-12-26,2025-26,Lithuania LKL,Regular Season,Lietkabelis,Juventus,89,83
+2025-12-29,2025-26,Lithuania LKL,Regular Season,Lietkabelis,Neptūnas,84,96
+2026-01-01,2025-26,Lithuania LKL,Regular Season,Lietkabelis,Nevėžis-Paskolų klubas,100,76
+2026-01-05,2025-26,Lithuania LKL,Regular Season,Lietkabelis,Rytas,89,84
+2026-01-08,2025-26,Lithuania LKL,Regular Season,Lietkabelis,Šiauliai,80,86
+2026-01-11,2025-26,Lithuania LKL,Regular Season,Lietkabelis,Žalgiris,77,81
+2026-01-15,2025-26,Lithuania LKL,Regular Season,Neptūnas,Gargždai,102,74
+2026-01-18,2025-26,Lithuania LKL,Regular Season,Neptūnas,Jonava Hipocredit,117,113
+2026-01-21,2025-26,Lithuania LKL,Regular Season,Neptūnas,Juventus,85,72
+2026-01-25,2025-26,Lithuania LKL,Regular Season,Neptūnas,Lietkabelis,97,87
+2026-01-28,2025-26,Lithuania LKL,Regular Season,Neptūnas,Nevėžis-Paskolų klubas,113,82
+2026-01-31,2025-26,Lithuania LKL,Regular Season,Neptūnas,Rytas,95,87
+2026-02-04,2025-26,Lithuania LKL,Regular Season,Neptūnas,Šiauliai,101,103
+2026-02-07,2025-26,Lithuania LKL,Regular Season,Neptūnas,Žalgiris,71,84
+2026-02-10,2025-26,Lithuania LKL,Regular Season,Nevėžis-Paskolų klubas,Gargždai,94,87
+2026-02-14,2025-26,Lithuania LKL,Regular Season,Nevėžis-Paskolų klubas,Jonava Hipocredit,83,85
+2026-02-17,2025-26,Lithuania LKL,Regular Season,Nevėžis-Paskolų klubas,Juventus,79,96
+2026-02-20,2025-26,Lithuania LKL,Regular Season,Nevėžis-Paskolų klubas,Lietkabelis,77,69
+2026-02-24,2025-26,Lithuania LKL,Regular Season,Nevėžis-Paskolų klubas,Neptūnas,85,92
+2026-02-27,2025-26,Lithuania LKL,Regular Season,Nevėžis-Paskolų klubas,Rytas,64,82
+2026-03-02,2025-26,Lithuania LKL,Regular Season,Nevėžis-Paskolų klubas,Šiauliai,107,93
+2026-03-06,2025-26,Lithuania LKL,Regular Season,Nevėžis-Paskolų klubas,Žalgiris,68,94
+2026-03-09,2025-26,Lithuania LKL,Regular Season,Rytas,Gargždai,99,73
+2026-03-12,2025-26,Lithuania LKL,Regular Season,Rytas,Jonava Hipocredit,104,72
+2026-03-15,2025-26,Lithuania LKL,Regular Season,Rytas,Juventus,96,99
+2026-03-19,2025-26,Lithuania LKL,Regular Season,Rytas,Lietkabelis,73,84
+2026-03-22,2025-26,Lithuania LKL,Regular Season,Rytas,Neptūnas,97,93
+2026-03-25,2025-26,Lithuania LKL,Regular Season,Rytas,Nevėžis-Paskolų klubas,104,74
+2026-03-29,2025-26,Lithuania LKL,Regular Season,Rytas,Šiauliai,94,79
+2026-04-01,2025-26,Lithuania LKL,Regular Season,Rytas,Žalgiris,81,90
+2026-04-04,2025-26,Lithuania LKL,Regular Season,Šiauliai,Gargždai,83,94
+2026-04-08,2025-26,Lithuania LKL,Regular Season,Šiauliai,Jonava Hipocredit,93,78
+2026-04-11,2025-26,Lithuania LKL,Regular Season,Šiauliai,Juventus,102,108
+2026-04-14,2025-26,Lithuania LKL,Regular Season,Šiauliai,Lietkabelis,87,80
+2026-04-18,2025-26,Lithuania LKL,Regular Season,Šiauliai,Neptūnas,89,85
+2026-04-21,2025-26,Lithuania LKL,Regular Season,Šiauliai,Nevėžis-Paskolų klubas,98,95
+2026-04-24,2025-26,Lithuania LKL,Regular Season,Šiauliai,Rytas,100,105
+2026-04-28,2025-26,Lithuania LKL,Regular Season,Šiauliai,Žalgiris,71,75
+2026-05-01,2025-26,Lithuania LKL,Regular Season,Žalgiris,Gargždai,108,71
+2026-05-04,2025-26,Lithuania LKL,Regular Season,Žalgiris,Jonava Hipocredit,104,91
+2026-05-08,2025-26,Lithuania LKL,Regular Season,Žalgiris,Juventus,98,68
+2026-05-11,2025-26,Lithuania LKL,Regular Season,Žalgiris,Lietkabelis,85,87
+2026-05-14,2025-26,Lithuania LKL,Regular Season,Žalgiris,Neptūnas,112,77
+2026-05-18,2025-26,Lithuania LKL,Regular Season,Žalgiris,Nevėžis-Paskolų klubas,88,73
+2026-05-21,2025-26,Lithuania LKL,Regular Season,Žalgiris,Rytas,79,75
+2026-05-24,2025-26,Lithuania LKL,Regular Season,Žalgiris,Šiauliai,93,72

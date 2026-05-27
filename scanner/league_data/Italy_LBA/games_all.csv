@@ -1,0 +1,944 @@
+date,season,league,gameType,home_team,away_team,home_score,away_score
+2022-09-01,2022-23,Italy LBA,Regular Season,Germani Brescia,Happy Casa Brindisi,75,69
+2022-09-02,2022-23,Italy LBA,Regular Season,Germani Brescia,EA7 Emporio Armani Milano,83,74
+2022-09-03,2022-23,Italy LBA,Regular Season,Germani Brescia,Generazione Vincente Napoli Basket,95,72
+2022-09-04,2022-23,Italy LBA,Regular Season,Germani Brescia,Carpegna Prosciutto Pesaro,97,98
+2022-09-06,2022-23,Italy LBA,Regular Season,Germani Brescia,UNAHOTELS Reggio Emilia,84,77
+2022-09-07,2022-23,Italy LBA,Regular Season,Germani Brescia,Banco di Sardegna Sassari,80,93
+2022-09-08,2022-23,Italy LBA,Regular Season,Germani Brescia,Givova Scafati,82,81
+2022-09-09,2022-23,Italy LBA,Regular Season,Germani Brescia,Bertram Derthona Tortona,83,68
+2022-09-11,2022-23,Italy LBA,Regular Season,Germani Brescia,Dolomiti Energia Trento,73,78
+2022-09-12,2022-23,Italy LBA,Regular Season,Germani Brescia,Allianz Pallacanestro Trieste,95,59
+2022-09-13,2022-23,Italy LBA,Regular Season,Germani Brescia,NutriBullet Treviso,80,81
+2022-09-14,2022-23,Italy LBA,Regular Season,Germani Brescia,Openjobmetis Varese,88,83
+2022-09-16,2022-23,Italy LBA,Regular Season,Germani Brescia,Tezenis Verona,88,79
+2022-09-17,2022-23,Italy LBA,Regular Season,Germani Brescia,Umana Reyer Venezia,74,79
+2022-09-18,2022-23,Italy LBA,Regular Season,Germani Brescia,Virtus Segafredo Bologna,77,89
+2022-09-19,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,Germani Brescia,82,81
+2022-09-21,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,EA7 Emporio Armani Milano,79,98
+2022-09-22,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,Generazione Vincente Napoli Basket,77,70
+2022-09-23,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,Carpegna Prosciutto Pesaro,74,102
+2022-09-24,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,UNAHOTELS Reggio Emilia,81,74
+2022-09-26,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,Banco di Sardegna Sassari,92,58
+2022-09-27,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,Givova Scafati,71,75
+2022-09-28,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,Bertram Derthona Tortona,86,84
+2022-09-29,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,Dolomiti Energia Trento,73,86
+2022-10-01,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,Allianz Pallacanestro Trieste,92,70
+2022-10-02,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,NutriBullet Treviso,107,84
+2022-10-03,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,Openjobmetis Varese,90,104
+2022-10-04,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,Tezenis Verona,102,68
+2022-10-06,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,Umana Reyer Venezia,75,63
+2022-10-07,2022-23,Italy LBA,Regular Season,Happy Casa Brindisi,Virtus Segafredo Bologna,78,77
+2022-10-08,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Germani Brescia,78,77
+2022-10-09,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Happy Casa Brindisi,83,82
+2022-10-11,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Generazione Vincente Napoli Basket,88,76
+2022-10-12,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Carpegna Prosciutto Pesaro,102,70
+2022-10-13,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,UNAHOTELS Reggio Emilia,81,63
+2022-10-14,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Banco di Sardegna Sassari,79,67
+2022-10-16,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Givova Scafati,89,80
+2022-10-17,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Bertram Derthona Tortona,79,63
+2022-10-18,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Dolomiti Energia Trento,78,65
+2022-10-19,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Allianz Pallacanestro Trieste,98,81
+2022-10-21,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,NutriBullet Treviso,92,78
+2022-10-22,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Openjobmetis Varese,96,84
+2022-10-23,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Tezenis Verona,78,54
+2022-10-24,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Umana Reyer Venezia,73,76
+2022-10-26,2022-23,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Virtus Segafredo Bologna,69,75
+2022-10-27,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Germani Brescia,69,72
+2022-10-28,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Happy Casa Brindisi,80,96
+2022-10-29,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,EA7 Emporio Armani Milano,87,81
+2022-10-31,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Carpegna Prosciutto Pesaro,98,87
+2022-11-01,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,UNAHOTELS Reggio Emilia,73,67
+2022-11-02,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Banco di Sardegna Sassari,93,83
+2022-11-03,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Givova Scafati,71,69
+2022-11-05,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Bertram Derthona Tortona,82,69
+2022-11-06,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Dolomiti Energia Trento,69,58
+2022-11-07,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Allianz Pallacanestro Trieste,92,95
+2022-11-08,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,NutriBullet Treviso,84,82
+2022-11-10,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Openjobmetis Varese,93,101
+2022-11-11,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Tezenis Verona,74,80
+2022-11-12,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Umana Reyer Venezia,91,93
+2022-11-13,2022-23,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Virtus Segafredo Bologna,77,89
+2022-11-15,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Germani Brescia,88,79
+2022-11-16,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Happy Casa Brindisi,70,100
+2022-11-17,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,EA7 Emporio Armani Milano,71,85
+2022-11-18,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Generazione Vincente Napoli Basket,97,99
+2022-11-20,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,UNAHOTELS Reggio Emilia,85,74
+2022-11-21,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Banco di Sardegna Sassari,81,75
+2022-11-22,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Givova Scafati,79,86
+2022-11-23,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Bertram Derthona Tortona,82,78
+2022-11-25,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Dolomiti Energia Trento,70,84
+2022-11-26,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Allianz Pallacanestro Trieste,94,83
+2022-11-27,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,NutriBullet Treviso,101,72
+2022-11-28,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Openjobmetis Varese,101,93
+2022-11-30,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Tezenis Verona,76,73
+2022-12-01,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Umana Reyer Venezia,90,89
+2022-12-02,2022-23,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Virtus Segafredo Bologna,82,87
+2022-12-03,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Germani Brescia,69,74
+2022-12-05,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Happy Casa Brindisi,92,78
+2022-12-06,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,EA7 Emporio Armani Milano,73,68
+2022-12-07,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Generazione Vincente Napoli Basket,80,62
+2022-12-08,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Carpegna Prosciutto Pesaro,95,76
+2022-12-10,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Banco di Sardegna Sassari,74,99
+2022-12-11,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Givova Scafati,78,70
+2022-12-12,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Bertram Derthona Tortona,59,63
+2022-12-13,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Dolomiti Energia Trento,94,70
+2022-12-15,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Allianz Pallacanestro Trieste,79,84
+2022-12-16,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,NutriBullet Treviso,88,77
+2022-12-17,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Openjobmetis Varese,81,87
+2022-12-18,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Tezenis Verona,65,70
+2022-12-20,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Umana Reyer Venezia,101,115
+2022-12-21,2022-23,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Virtus Segafredo Bologna,63,74
+2022-12-22,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,Germani Brescia,92,94
+2022-12-23,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,Happy Casa Brindisi,111,93
+2022-12-25,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,EA7 Emporio Armani Milano,63,92
+2022-12-26,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,Generazione Vincente Napoli Basket,86,69
+2022-12-27,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,Carpegna Prosciutto Pesaro,110,74
+2022-12-28,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,UNAHOTELS Reggio Emilia,89,77
+2022-12-30,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,Givova Scafati,86,76
+2022-12-31,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,Bertram Derthona Tortona,84,72
+2023-01-01,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,Dolomiti Energia Trento,81,76
+2023-01-02,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,Allianz Pallacanestro Trieste,103,80
+2023-01-04,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,NutriBullet Treviso,81,68
+2023-01-05,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,Openjobmetis Varese,102,73
+2023-01-06,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,Tezenis Verona,101,79
+2023-01-07,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,Umana Reyer Venezia,90,81
+2023-01-09,2022-23,Italy LBA,Regular Season,Banco di Sardegna Sassari,Virtus Segafredo Bologna,69,74
+2023-01-10,2022-23,Italy LBA,Regular Season,Givova Scafati,Germani Brescia,92,88
+2023-01-11,2022-23,Italy LBA,Regular Season,Givova Scafati,Happy Casa Brindisi,85,84
+2023-01-12,2022-23,Italy LBA,Regular Season,Givova Scafati,EA7 Emporio Armani Milano,66,75
+2023-01-14,2022-23,Italy LBA,Regular Season,Givova Scafati,Generazione Vincente Napoli Basket,96,61
+2023-01-15,2022-23,Italy LBA,Regular Season,Givova Scafati,Carpegna Prosciutto Pesaro,69,81
+2023-01-16,2022-23,Italy LBA,Regular Season,Givova Scafati,UNAHOTELS Reggio Emilia,61,59
+2023-01-17,2022-23,Italy LBA,Regular Season,Givova Scafati,Banco di Sardegna Sassari,80,90
+2023-01-19,2022-23,Italy LBA,Regular Season,Givova Scafati,Bertram Derthona Tortona,72,91
+2023-01-20,2022-23,Italy LBA,Regular Season,Givova Scafati,Dolomiti Energia Trento,74,79
+2023-01-21,2022-23,Italy LBA,Regular Season,Givova Scafati,Allianz Pallacanestro Trieste,93,85
+2023-01-22,2022-23,Italy LBA,Regular Season,Givova Scafati,NutriBullet Treviso,89,72
+2023-01-24,2022-23,Italy LBA,Regular Season,Givova Scafati,Openjobmetis Varese,93,101
+2023-01-25,2022-23,Italy LBA,Regular Season,Givova Scafati,Tezenis Verona,92,87
+2023-01-26,2022-23,Italy LBA,Regular Season,Givova Scafati,Umana Reyer Venezia,89,85
+2023-01-27,2022-23,Italy LBA,Regular Season,Givova Scafati,Virtus Segafredo Bologna,81,83
+2023-01-29,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,Germani Brescia,77,90
+2023-01-30,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,Happy Casa Brindisi,81,77
+2023-01-31,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,EA7 Emporio Armani Milano,75,77
+2023-02-01,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,Generazione Vincente Napoli Basket,74,73
+2023-02-03,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,Carpegna Prosciutto Pesaro,81,73
+2023-02-04,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,UNAHOTELS Reggio Emilia,74,68
+2023-02-05,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,Banco di Sardegna Sassari,79,82
+2023-02-06,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,Givova Scafati,79,74
+2023-02-08,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,Dolomiti Energia Trento,76,70
+2023-02-09,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,Allianz Pallacanestro Trieste,80,69
+2023-02-10,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,NutriBullet Treviso,90,95
+2023-02-11,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,Openjobmetis Varese,103,91
+2023-02-13,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,Tezenis Verona,73,69
+2023-02-14,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,Umana Reyer Venezia,77,61
+2023-02-15,2022-23,Italy LBA,Regular Season,Bertram Derthona Tortona,Virtus Segafredo Bologna,89,81
+2023-02-16,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,Germani Brescia,83,76
+2023-02-18,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,Happy Casa Brindisi,68,78
+2023-02-19,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,EA7 Emporio Armani Milano,77,75
+2023-02-20,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,Generazione Vincente Napoli Basket,79,87
+2023-02-21,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,Carpegna Prosciutto Pesaro,79,75
+2023-02-23,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,UNAHOTELS Reggio Emilia,68,84
+2023-02-24,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,Banco di Sardegna Sassari,77,95
+2023-02-25,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,Givova Scafati,75,68
+2023-02-26,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,Bertram Derthona Tortona,73,75
+2023-02-28,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,Allianz Pallacanestro Trieste,85,68
+2023-03-01,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,NutriBullet Treviso,66,57
+2023-03-02,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,Openjobmetis Varese,90,80
+2023-03-03,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,Tezenis Verona,69,70
+2023-03-05,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,Umana Reyer Venezia,86,84
+2023-03-06,2022-23,Italy LBA,Regular Season,Dolomiti Energia Trento,Virtus Segafredo Bologna,64,71
+2023-03-07,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,Germani Brescia,90,91
+2023-03-08,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,Happy Casa Brindisi,66,83
+2023-03-10,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,EA7 Emporio Armani Milano,59,65
+2023-03-11,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,Generazione Vincente Napoli Basket,85,68
+2023-03-12,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,Carpegna Prosciutto Pesaro,74,100
+2023-03-13,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,UNAHOTELS Reggio Emilia,75,80
+2023-03-15,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,Banco di Sardegna Sassari,75,69
+2023-03-16,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,Givova Scafati,64,59
+2023-03-17,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,Bertram Derthona Tortona,60,88
+2023-03-18,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,Dolomiti Energia Trento,74,68
+2023-03-20,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,NutriBullet Treviso,97,86
+2023-03-21,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,Openjobmetis Varese,80,83
+2023-03-22,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,Tezenis Verona,85,77
+2023-03-23,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,Umana Reyer Venezia,78,95
+2023-03-25,2022-23,Italy LBA,Regular Season,Allianz Pallacanestro Trieste,Virtus Segafredo Bologna,80,78
+2023-03-26,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,Germani Brescia,99,92
+2023-03-27,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,Happy Casa Brindisi,75,68
+2023-03-28,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,EA7 Emporio Armani Milano,80,93
+2023-03-30,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,Generazione Vincente Napoli Basket,85,82
+2023-03-31,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,Carpegna Prosciutto Pesaro,96,82
+2023-04-01,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,UNAHOTELS Reggio Emilia,58,78
+2023-04-02,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,Banco di Sardegna Sassari,79,71
+2023-04-04,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,Givova Scafati,89,88
+2023-04-05,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,Bertram Derthona Tortona,79,87
+2023-04-06,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,Dolomiti Energia Trento,85,76
+2023-04-07,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,Allianz Pallacanestro Trieste,69,88
+2023-04-09,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,Openjobmetis Varese,95,97
+2023-04-10,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,Tezenis Verona,77,79
+2023-04-11,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,Umana Reyer Venezia,100,93
+2023-04-12,2022-23,Italy LBA,Regular Season,NutriBullet Treviso,Virtus Segafredo Bologna,89,88
+2023-04-14,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,Germani Brescia,80,72
+2023-04-15,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,Happy Casa Brindisi,93,86
+2023-04-16,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,EA7 Emporio Armani Milano,75,87
+2023-04-17,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,Generazione Vincente Napoli Basket,106,79
+2023-04-19,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,Carpegna Prosciutto Pesaro,110,99
+2023-04-20,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,UNAHOTELS Reggio Emilia,81,85
+2023-04-21,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,Banco di Sardegna Sassari,87,81
+2023-04-22,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,Givova Scafati,95,81
+2023-04-24,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,Bertram Derthona Tortona,88,89
+2023-04-25,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,Dolomiti Energia Trento,91,94
+2023-04-26,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,Allianz Pallacanestro Trieste,104,99
+2023-04-27,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,NutriBullet Treviso,87,85
+2023-04-29,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,Tezenis Verona,98,94
+2023-04-30,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,Umana Reyer Venezia,93,90
+2023-05-01,2022-23,Italy LBA,Regular Season,Openjobmetis Varese,Virtus Segafredo Bologna,100,108
+2023-05-02,2022-23,Italy LBA,Regular Season,Tezenis Verona,Germani Brescia,81,77
+2023-05-04,2022-23,Italy LBA,Regular Season,Tezenis Verona,Happy Casa Brindisi,100,97
+2023-05-05,2022-23,Italy LBA,Regular Season,Tezenis Verona,EA7 Emporio Armani Milano,61,83
+2023-05-06,2022-23,Italy LBA,Regular Season,Tezenis Verona,Generazione Vincente Napoli Basket,82,88
+2023-05-07,2022-23,Italy LBA,Regular Season,Tezenis Verona,Carpegna Prosciutto Pesaro,90,94
+2023-05-09,2022-23,Italy LBA,Regular Season,Tezenis Verona,UNAHOTELS Reggio Emilia,78,76
+2023-05-10,2022-23,Italy LBA,Regular Season,Tezenis Verona,Banco di Sardegna Sassari,87,74
+2023-05-11,2022-23,Italy LBA,Regular Season,Tezenis Verona,Givova Scafati,78,86
+2023-05-12,2022-23,Italy LBA,Regular Season,Tezenis Verona,Bertram Derthona Tortona,80,102
+2023-05-14,2022-23,Italy LBA,Regular Season,Tezenis Verona,Dolomiti Energia Trento,86,92
+2023-05-15,2022-23,Italy LBA,Regular Season,Tezenis Verona,Allianz Pallacanestro Trieste,88,81
+2023-05-16,2022-23,Italy LBA,Regular Season,Tezenis Verona,NutriBullet Treviso,81,97
+2023-05-17,2022-23,Italy LBA,Regular Season,Tezenis Verona,Openjobmetis Varese,91,98
+2023-05-19,2022-23,Italy LBA,Regular Season,Tezenis Verona,Umana Reyer Venezia,92,95
+2023-05-20,2022-23,Italy LBA,Regular Season,Tezenis Verona,Virtus Segafredo Bologna,60,85
+2023-05-21,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,Germani Brescia,82,79
+2023-05-22,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,Happy Casa Brindisi,75,76
+2023-05-24,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,EA7 Emporio Armani Milano,77,69
+2023-05-25,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,Generazione Vincente Napoli Basket,82,71
+2023-05-26,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,Carpegna Prosciutto Pesaro,93,77
+2023-05-27,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,UNAHOTELS Reggio Emilia,78,69
+2023-05-29,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,Banco di Sardegna Sassari,86,76
+2023-05-30,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,Givova Scafati,80,69
+2023-05-31,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,Bertram Derthona Tortona,89,80
+2023-06-01,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,Dolomiti Energia Trento,72,73
+2023-06-03,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,Allianz Pallacanestro Trieste,72,81
+2023-06-04,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,NutriBullet Treviso,107,73
+2023-06-05,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,Openjobmetis Varese,92,81
+2023-06-06,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,Tezenis Verona,80,57
+2023-06-08,2022-23,Italy LBA,Regular Season,Umana Reyer Venezia,Virtus Segafredo Bologna,68,83
+2023-06-09,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,Germani Brescia,84,78
+2023-06-10,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,Happy Casa Brindisi,98,68
+2023-06-11,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,EA7 Emporio Armani Milano,74,96
+2023-06-13,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,Generazione Vincente Napoli Basket,81,89
+2023-06-14,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,Carpegna Prosciutto Pesaro,88,76
+2023-06-15,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,UNAHOTELS Reggio Emilia,79,65
+2023-06-16,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,Banco di Sardegna Sassari,86,69
+2023-06-18,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,Givova Scafati,77,84
+2023-06-19,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,Bertram Derthona Tortona,91,90
+2023-06-20,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,Dolomiti Energia Trento,96,80
+2023-06-21,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,Allianz Pallacanestro Trieste,85,80
+2023-06-23,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,NutriBullet Treviso,97,71
+2023-06-24,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,Openjobmetis Varese,98,82
+2023-06-25,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,Tezenis Verona,87,82
+2023-06-26,2022-23,Italy LBA,Regular Season,Virtus Segafredo Bologna,Umana Reyer Venezia,79,78
+2023-09-01,2023-24,Italy LBA,Regular Season,Germani Brescia,Happy Casa Brindisi,94,75
+2023-09-02,2023-24,Italy LBA,Regular Season,Germani Brescia,Vanoli Basket Cremona,84,75
+2023-09-03,2023-24,Italy LBA,Regular Season,Germani Brescia,EA7 Emporio Armani Milano,72,64
+2023-09-04,2023-24,Italy LBA,Regular Season,Germani Brescia,Generazione Vincente Napoli Basket,80,71
+2023-09-06,2023-24,Italy LBA,Regular Season,Germani Brescia,Carpegna Prosciutto Pesaro,81,79
+2023-09-07,2023-24,Italy LBA,Regular Season,Germani Brescia,Estra Pistoia,109,90
+2023-09-08,2023-24,Italy LBA,Regular Season,Germani Brescia,UNAHOTELS Reggio Emilia,86,63
+2023-09-09,2023-24,Italy LBA,Regular Season,Germani Brescia,Banco di Sardegna Sassari,110,65
+2023-09-11,2023-24,Italy LBA,Regular Season,Germani Brescia,Givova Scafati,89,78
+2023-09-12,2023-24,Italy LBA,Regular Season,Germani Brescia,Bertram Derthona Tortona,72,65
+2023-09-13,2023-24,Italy LBA,Regular Season,Germani Brescia,Dolomiti Energia Trento,82,90
+2023-09-14,2023-24,Italy LBA,Regular Season,Germani Brescia,NutriBullet Treviso,88,67
+2023-09-16,2023-24,Italy LBA,Regular Season,Germani Brescia,Openjobmetis Varese,116,73
+2023-09-17,2023-24,Italy LBA,Regular Season,Germani Brescia,Umana Reyer Venezia,90,84
+2023-09-18,2023-24,Italy LBA,Regular Season,Germani Brescia,Virtus Segafredo Bologna,73,87
+2023-09-19,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,Germani Brescia,88,79
+2023-09-21,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,Vanoli Basket Cremona,79,76
+2023-09-22,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,EA7 Emporio Armani Milano,57,87
+2023-09-23,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,Generazione Vincente Napoli Basket,77,80
+2023-09-24,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,Carpegna Prosciutto Pesaro,68,81
+2023-09-26,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,Estra Pistoia,72,78
+2023-09-27,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,UNAHOTELS Reggio Emilia,63,87
+2023-09-28,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,Banco di Sardegna Sassari,70,76
+2023-09-29,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,Givova Scafati,98,103
+2023-10-01,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,Bertram Derthona Tortona,77,86
+2023-10-02,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,Dolomiti Energia Trento,89,82
+2023-10-03,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,NutriBullet Treviso,93,75
+2023-10-04,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,Openjobmetis Varese,86,81
+2023-10-06,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,Umana Reyer Venezia,84,80
+2023-10-07,2023-24,Italy LBA,Regular Season,Happy Casa Brindisi,Virtus Segafredo Bologna,83,75
+2023-10-08,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,Germani Brescia,84,77
+2023-10-09,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,Happy Casa Brindisi,75,58
+2023-10-11,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,EA7 Emporio Armani Milano,72,73
+2023-10-12,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,Generazione Vincente Napoli Basket,90,83
+2023-10-13,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,Carpegna Prosciutto Pesaro,96,69
+2023-10-14,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,Estra Pistoia,67,74
+2023-10-16,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,UNAHOTELS Reggio Emilia,91,95
+2023-10-17,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,Banco di Sardegna Sassari,86,74
+2023-10-18,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,Givova Scafati,68,63
+2023-10-19,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,Bertram Derthona Tortona,83,67
+2023-10-21,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,Dolomiti Energia Trento,99,80
+2023-10-22,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,NutriBullet Treviso,70,76
+2023-10-23,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,Openjobmetis Varese,82,83
+2023-10-24,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,Umana Reyer Venezia,92,90
+2023-10-26,2023-24,Italy LBA,Regular Season,Vanoli Basket Cremona,Virtus Segafredo Bologna,93,83
+2023-10-27,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Germani Brescia,83,77
+2023-10-28,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Happy Casa Brindisi,69,55
+2023-10-29,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Vanoli Basket Cremona,74,51
+2023-10-31,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Generazione Vincente Napoli Basket,86,84
+2023-11-01,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Carpegna Prosciutto Pesaro,82,90
+2023-11-02,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Estra Pistoia,81,86
+2023-11-03,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,UNAHOTELS Reggio Emilia,79,68
+2023-11-05,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Banco di Sardegna Sassari,80,65
+2023-11-06,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Givova Scafati,99,77
+2023-11-07,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Bertram Derthona Tortona,83,82
+2023-11-08,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Dolomiti Energia Trento,91,86
+2023-11-10,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,NutriBullet Treviso,86,80
+2023-11-11,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Openjobmetis Varese,94,63
+2023-11-12,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Umana Reyer Venezia,95,72
+2023-11-13,2023-24,Italy LBA,Regular Season,EA7 Emporio Armani Milano,Virtus Segafredo Bologna,82,80
+2023-11-15,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Germani Brescia,83,104
+2023-11-16,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Happy Casa Brindisi,90,71
+2023-11-17,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Vanoli Basket Cremona,80,70
+2023-11-19,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,EA7 Emporio Armani Milano,77,68
+2023-11-20,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Carpegna Prosciutto Pesaro,93,75
+2023-11-21,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Estra Pistoia,93,95
+2023-11-22,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,UNAHOTELS Reggio Emilia,87,89
+2023-11-24,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Banco di Sardegna Sassari,88,79
+2023-11-25,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Givova Scafati,102,92
+2023-11-26,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Bertram Derthona Tortona,81,76
+2023-11-27,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Dolomiti Energia Trento,93,103
+2023-11-29,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,NutriBullet Treviso,95,81
+2023-11-30,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Openjobmetis Varese,97,96
+2023-12-01,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Umana Reyer Venezia,90,97
+2023-12-02,2023-24,Italy LBA,Regular Season,Generazione Vincente Napoli Basket,Virtus Segafredo Bologna,75,88
+2023-12-04,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Germani Brescia,93,83
+2023-12-05,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Happy Casa Brindisi,78,86
+2023-12-06,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Vanoli Basket Cremona,91,86
+2023-12-07,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,EA7 Emporio Armani Milano,65,85
+2023-12-09,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Generazione Vincente Napoli Basket,77,97
+2023-12-10,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Estra Pistoia,89,82
+2023-12-11,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,UNAHOTELS Reggio Emilia,69,87
+2023-12-12,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Banco di Sardegna Sassari,69,79
+2023-12-14,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Givova Scafati,103,107
+2023-12-15,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Bertram Derthona Tortona,96,92
+2023-12-16,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Dolomiti Energia Trento,74,87
+2023-12-17,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,NutriBullet Treviso,95,76
+2023-12-19,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Openjobmetis Varese,81,88
+2023-12-20,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Umana Reyer Venezia,64,76
+2023-12-21,2023-24,Italy LBA,Regular Season,Carpegna Prosciutto Pesaro,Virtus Segafredo Bologna,87,86
+2023-12-22,2023-24,Italy LBA,Regular Season,Estra Pistoia,Germani Brescia,72,84
+2023-12-24,2023-24,Italy LBA,Regular Season,Estra Pistoia,Happy Casa Brindisi,90,96
+2023-12-25,2023-24,Italy LBA,Regular Season,Estra Pistoia,Vanoli Basket Cremona,64,60
+2023-12-26,2023-24,Italy LBA,Regular Season,Estra Pistoia,EA7 Emporio Armani Milano,72,78
+2023-12-27,2023-24,Italy LBA,Regular Season,Estra Pistoia,Generazione Vincente Napoli Basket,81,76
+2023-12-29,2023-24,Italy LBA,Regular Season,Estra Pistoia,Carpegna Prosciutto Pesaro,73,74
+2023-12-30,2023-24,Italy LBA,Regular Season,Estra Pistoia,UNAHOTELS Reggio Emilia,83,82
+2023-12-31,2023-24,Italy LBA,Regular Season,Estra Pistoia,Banco di Sardegna Sassari,68,63
+2024-01-01,2023-24,Italy LBA,Regular Season,Estra Pistoia,Givova Scafati,78,71
+2024-01-03,2023-24,Italy LBA,Regular Season,Estra Pistoia,Bertram Derthona Tortona,84,71
+2024-01-04,2023-24,Italy LBA,Regular Season,Estra Pistoia,Dolomiti Energia Trento,73,78
+2024-01-05,2023-24,Italy LBA,Regular Season,Estra Pistoia,NutriBullet Treviso,83,84
+2024-01-06,2023-24,Italy LBA,Regular Season,Estra Pistoia,Openjobmetis Varese,78,96
+2024-01-08,2023-24,Italy LBA,Regular Season,Estra Pistoia,Umana Reyer Venezia,85,77
+2024-01-09,2023-24,Italy LBA,Regular Season,Estra Pistoia,Virtus Segafredo Bologna,70,91
+2024-01-10,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Germani Brescia,70,77
+2024-01-11,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Happy Casa Brindisi,74,66
+2024-01-13,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Vanoli Basket Cremona,78,71
+2024-01-14,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,EA7 Emporio Armani Milano,68,72
+2024-01-15,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Generazione Vincente Napoli Basket,88,74
+2024-01-16,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Carpegna Prosciutto Pesaro,101,68
+2024-01-18,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Estra Pistoia,95,82
+2024-01-19,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Banco di Sardegna Sassari,77,59
+2024-01-20,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Givova Scafati,85,77
+2024-01-21,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Bertram Derthona Tortona,77,90
+2024-01-23,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Dolomiti Energia Trento,77,75
+2024-01-24,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,NutriBullet Treviso,90,83
+2024-01-25,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Openjobmetis Varese,113,80
+2024-01-26,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Umana Reyer Venezia,77,60
+2024-01-28,2023-24,Italy LBA,Regular Season,UNAHOTELS Reggio Emilia,Virtus Segafredo Bologna,72,66
+2024-01-29,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,Germani Brescia,106,101
+2024-01-30,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,Happy Casa Brindisi,84,81
+2024-02-01,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,Vanoli Basket Cremona,86,80
+2024-02-02,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,EA7 Emporio Armani Milano,89,83
+2024-02-03,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,Generazione Vincente Napoli Basket,90,111
+2024-02-04,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,Carpegna Prosciutto Pesaro,91,96
+2024-02-06,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,Estra Pistoia,107,69
+2024-02-07,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,UNAHOTELS Reggio Emilia,95,73
+2024-02-08,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,Givova Scafati,79,76
+2024-02-09,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,Bertram Derthona Tortona,74,94
+2024-02-11,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,Dolomiti Energia Trento,80,73
+2024-02-12,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,NutriBullet Treviso,80,76
+2024-02-13,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,Openjobmetis Varese,88,112
+2024-02-14,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,Umana Reyer Venezia,62,73
+2024-02-16,2023-24,Italy LBA,Regular Season,Banco di Sardegna Sassari,Virtus Segafredo Bologna,93,88
+2024-02-17,2023-24,Italy LBA,Regular Season,Givova Scafati,Germani Brescia,83,89
+2024-02-18,2023-24,Italy LBA,Regular Season,Givova Scafati,Happy Casa Brindisi,76,84
+2024-02-19,2023-24,Italy LBA,Regular Season,Givova Scafati,Vanoli Basket Cremona,112,122
+2024-02-21,2023-24,Italy LBA,Regular Season,Givova Scafati,EA7 Emporio Armani Milano,77,68
+2024-02-22,2023-24,Italy LBA,Regular Season,Givova Scafati,Generazione Vincente Napoli Basket,91,85
+2024-02-23,2023-24,Italy LBA,Regular Season,Givova Scafati,Carpegna Prosciutto Pesaro,83,82
+2024-02-24,2023-24,Italy LBA,Regular Season,Givova Scafati,Estra Pistoia,85,77
+2024-02-26,2023-24,Italy LBA,Regular Season,Givova Scafati,UNAHOTELS Reggio Emilia,102,76
+2024-02-27,2023-24,Italy LBA,Regular Season,Givova Scafati,Banco di Sardegna Sassari,74,99
+2024-02-28,2023-24,Italy LBA,Regular Season,Givova Scafati,Bertram Derthona Tortona,94,91
+2024-02-29,2023-24,Italy LBA,Regular Season,Givova Scafati,Dolomiti Energia Trento,75,62
+2024-03-02,2023-24,Italy LBA,Regular Season,Givova Scafati,NutriBullet Treviso,95,93
+2024-03-03,2023-24,Italy LBA,Regular Season,Givova Scafati,Openjobmetis Varese,102,90
+2024-03-04,2023-24,Italy LBA,Regular Season,Givova Scafati,Umana Reyer Venezia,66,95
+2024-03-05,2023-24,Italy LBA,Regular Season,Givova Scafati,Virtus Segafredo Bologna,75,81
+2024-03-07,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,Germani Brescia,59,87
+2024-03-08,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,Happy Casa Brindisi,69,68
+2024-03-09,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,Vanoli Basket Cremona,87,76
+2024-03-10,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,EA7 Emporio Armani Milano,75,79
+2024-03-12,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,Generazione Vincente Napoli Basket,97,72
+2024-03-13,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,Carpegna Prosciutto Pesaro,94,76
+2024-03-14,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,Estra Pistoia,97,100
+2024-03-15,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,UNAHOTELS Reggio Emilia,93,64
+2024-03-17,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,Banco di Sardegna Sassari,79,62
+2024-03-18,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,Givova Scafati,89,52
+2024-03-19,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,Dolomiti Energia Trento,83,80
+2024-03-20,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,NutriBullet Treviso,68,82
+2024-03-22,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,Openjobmetis Varese,90,83
+2024-03-23,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,Umana Reyer Venezia,75,69
+2024-03-24,2023-24,Italy LBA,Regular Season,Bertram Derthona Tortona,Virtus Segafredo Bologna,77,84
+2024-03-25,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,Germani Brescia,69,93
+2024-03-27,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,Happy Casa Brindisi,81,71
+2024-03-28,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,Vanoli Basket Cremona,91,84
+2024-03-29,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,EA7 Emporio Armani Milano,74,79
+2024-03-30,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,Generazione Vincente Napoli Basket,101,94
+2024-04-01,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,Carpegna Prosciutto Pesaro,109,82
+2024-04-02,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,Estra Pistoia,80,105
+2024-04-03,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,UNAHOTELS Reggio Emilia,98,88
+2024-04-04,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,Banco di Sardegna Sassari,87,76
+2024-04-06,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,Givova Scafati,84,79
+2024-04-07,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,Bertram Derthona Tortona,83,81
+2024-04-08,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,NutriBullet Treviso,82,85
+2024-04-09,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,Openjobmetis Varese,90,84
+2024-04-11,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,Umana Reyer Venezia,106,79
+2024-04-12,2023-24,Italy LBA,Regular Season,Dolomiti Energia Trento,Virtus Segafredo Bologna,75,90
+2024-04-13,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,Germani Brescia,71,99
+2024-04-15,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,Happy Casa Brindisi,86,60
+2024-04-16,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,Vanoli Basket Cremona,78,71
+2024-04-17,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,EA7 Emporio Armani Milano,89,91
+2024-04-18,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,Generazione Vincente Napoli Basket,76,79
+2024-04-20,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,Carpegna Prosciutto Pesaro,93,89
+2024-04-21,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,Estra Pistoia,86,89
+2024-04-22,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,UNAHOTELS Reggio Emilia,71,63
+2024-04-23,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,Banco di Sardegna Sassari,77,70
+2024-04-25,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,Givova Scafati,87,97
+2024-04-26,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,Bertram Derthona Tortona,87,74
+2024-04-27,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,Dolomiti Energia Trento,86,78
+2024-04-28,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,Openjobmetis Varese,96,101
+2024-04-30,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,Umana Reyer Venezia,77,82
+2024-05-01,2023-24,Italy LBA,Regular Season,NutriBullet Treviso,Virtus Segafredo Bologna,61,100
+2024-05-02,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,Germani Brescia,92,95
+2024-05-03,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,Happy Casa Brindisi,81,73
+2024-05-05,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,Vanoli Basket Cremona,68,75
+2024-05-06,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,EA7 Emporio Armani Milano,70,74
+2024-05-07,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,Generazione Vincente Napoli Basket,113,79
+2024-05-08,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,Carpegna Prosciutto Pesaro,91,80
+2024-05-10,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,Estra Pistoia,83,82
+2024-05-11,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,UNAHOTELS Reggio Emilia,116,93
+2024-05-12,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,Banco di Sardegna Sassari,90,79
+2024-05-13,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,Givova Scafati,94,93
+2024-05-15,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,Bertram Derthona Tortona,78,80
+2024-05-16,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,Dolomiti Energia Trento,84,85
+2024-05-17,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,NutriBullet Treviso,95,100
+2024-05-18,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,Umana Reyer Venezia,92,103
+2024-05-20,2023-24,Italy LBA,Regular Season,Openjobmetis Varese,Virtus Segafredo Bologna,69,81
+2024-05-21,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,Germani Brescia,86,71
+2024-05-22,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,Happy Casa Brindisi,79,71
+2024-05-23,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,Vanoli Basket Cremona,79,76
+2024-05-25,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,EA7 Emporio Armani Milano,78,72
+2024-05-26,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,Generazione Vincente Napoli Basket,81,89
+2024-05-27,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,Carpegna Prosciutto Pesaro,91,79
+2024-05-28,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,Estra Pistoia,96,69
+2024-05-30,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,UNAHOTELS Reggio Emilia,90,70
+2024-05-31,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,Banco di Sardegna Sassari,71,78
+2024-06-01,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,Givova Scafati,83,59
+2024-06-02,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,Bertram Derthona Tortona,76,60
+2024-06-04,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,Dolomiti Energia Trento,93,68
+2024-06-05,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,NutriBullet Treviso,91,78
+2024-06-06,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,Openjobmetis Varese,102,88
+2024-06-07,2023-24,Italy LBA,Regular Season,Umana Reyer Venezia,Virtus Segafredo Bologna,70,89
+2024-06-09,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,Germani Brescia,88,76
+2024-06-10,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,Happy Casa Brindisi,103,76
+2024-06-11,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,Vanoli Basket Cremona,93,85
+2024-06-12,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,EA7 Emporio Armani Milano,84,75
+2024-06-14,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,Generazione Vincente Napoli Basket,101,89
+2024-06-15,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,Carpegna Prosciutto Pesaro,83,66
+2024-06-16,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,Estra Pistoia,93,100
+2024-06-17,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,UNAHOTELS Reggio Emilia,83,73
+2024-06-19,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,Banco di Sardegna Sassari,80,66
+2024-06-20,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,Givova Scafati,94,67
+2024-06-21,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,Bertram Derthona Tortona,99,70
+2024-06-22,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,Dolomiti Energia Trento,108,61
+2024-06-24,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,NutriBullet Treviso,91,77
+2024-06-25,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,Openjobmetis Varese,115,84
+2024-06-26,2023-24,Italy LBA,Regular Season,Virtus Segafredo Bologna,Umana Reyer Venezia,84,85
+2024-09-01,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Vanoli Basket Cremona,99,87
+2024-09-02,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Olimpia Milano,73,79
+2024-09-03,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Napoli Basket,97,84
+2024-09-04,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Pistoia Basket 2000,90,83
+2024-09-06,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Pallacanestro Reggiana,79,66
+2024-09-07,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Dinamo Sassari,94,87
+2024-09-08,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Scafati Basket,86,72
+2024-09-09,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Derthona Tortona,98,106
+2024-09-11,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Trapani Shark,74,95
+2024-09-12,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Aquila Basket Trento,83,77
+2024-09-13,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Pallacanestro Trieste 2004,93,90
+2024-09-14,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Universo Treviso Basket,114,91
+2024-09-16,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Pallacanestro Varese,118,94
+2024-09-17,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Reyer Venezia,97,89
+2024-09-18,2024-25,Italy LBA,Regular Season,Pallacanestro Brescia,Virtus Bologna,98,97
+2024-09-19,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Pallacanestro Brescia,89,100
+2024-09-21,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Olimpia Milano,83,95
+2024-09-22,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Napoli Basket,94,85
+2024-09-23,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Pistoia Basket 2000,65,66
+2024-09-24,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Pallacanestro Reggiana,74,77
+2024-09-26,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Dinamo Sassari,65,80
+2024-09-27,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Scafati Basket,88,85
+2024-09-28,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Derthona Tortona,94,99
+2024-09-29,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Trapani Shark,85,80
+2024-10-01,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Aquila Basket Trento,86,89
+2024-10-02,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Pallacanestro Trieste 2004,81,101
+2024-10-03,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Universo Treviso Basket,94,77
+2024-10-04,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Pallacanestro Varese,78,60
+2024-10-06,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Reyer Venezia,78,86
+2024-10-07,2024-25,Italy LBA,Regular Season,Vanoli Basket Cremona,Virtus Bologna,69,74
+2024-10-08,2024-25,Italy LBA,Regular Season,Olimpia Milano,Pallacanestro Brescia,88,85
+2024-10-09,2024-25,Italy LBA,Regular Season,Olimpia Milano,Vanoli Basket Cremona,118,83
+2024-10-11,2024-25,Italy LBA,Regular Season,Olimpia Milano,Napoli Basket,89,82
+2024-10-12,2024-25,Italy LBA,Regular Season,Olimpia Milano,Pistoia Basket 2000,95,80
+2024-10-13,2024-25,Italy LBA,Regular Season,Olimpia Milano,Pallacanestro Reggiana,108,106
+2024-10-14,2024-25,Italy LBA,Regular Season,Olimpia Milano,Dinamo Sassari,100,75
+2024-10-16,2024-25,Italy LBA,Regular Season,Olimpia Milano,Scafati Basket,100,72
+2024-10-17,2024-25,Italy LBA,Regular Season,Olimpia Milano,Derthona Tortona,94,98
+2024-10-18,2024-25,Italy LBA,Regular Season,Olimpia Milano,Trapani Shark,105,90
+2024-10-19,2024-25,Italy LBA,Regular Season,Olimpia Milano,Aquila Basket Trento,89,87
+2024-10-21,2024-25,Italy LBA,Regular Season,Olimpia Milano,Pallacanestro Trieste 2004,87,74
+2024-10-22,2024-25,Italy LBA,Regular Season,Olimpia Milano,Universo Treviso Basket,90,80
+2024-10-23,2024-25,Italy LBA,Regular Season,Olimpia Milano,Pallacanestro Varese,119,92
+2024-10-24,2024-25,Italy LBA,Regular Season,Olimpia Milano,Reyer Venezia,79,78
+2024-10-26,2024-25,Italy LBA,Regular Season,Olimpia Milano,Virtus Bologna,73,82
+2024-10-27,2024-25,Italy LBA,Regular Season,Napoli Basket,Pallacanestro Brescia,90,85
+2024-10-28,2024-25,Italy LBA,Regular Season,Napoli Basket,Vanoli Basket Cremona,81,87
+2024-10-29,2024-25,Italy LBA,Regular Season,Napoli Basket,Olimpia Milano,95,87
+2024-10-31,2024-25,Italy LBA,Regular Season,Napoli Basket,Pistoia Basket 2000,70,74
+2024-11-01,2024-25,Italy LBA,Regular Season,Napoli Basket,Pallacanestro Reggiana,76,84
+2024-11-02,2024-25,Italy LBA,Regular Season,Napoli Basket,Dinamo Sassari,87,70
+2024-11-03,2024-25,Italy LBA,Regular Season,Napoli Basket,Scafati Basket,96,94
+2024-11-05,2024-25,Italy LBA,Regular Season,Napoli Basket,Derthona Tortona,92,83
+2024-11-06,2024-25,Italy LBA,Regular Season,Napoli Basket,Trapani Shark,77,95
+2024-11-07,2024-25,Italy LBA,Regular Season,Napoli Basket,Aquila Basket Trento,89,114
+2024-11-08,2024-25,Italy LBA,Regular Season,Napoli Basket,Pallacanestro Trieste 2004,83,92
+2024-11-10,2024-25,Italy LBA,Regular Season,Napoli Basket,Universo Treviso Basket,69,84
+2024-11-11,2024-25,Italy LBA,Regular Season,Napoli Basket,Pallacanestro Varese,87,97
+2024-11-12,2024-25,Italy LBA,Regular Season,Napoli Basket,Reyer Venezia,80,81
+2024-11-13,2024-25,Italy LBA,Regular Season,Napoli Basket,Virtus Bologna,93,88
+2024-11-15,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Pallacanestro Brescia,84,73
+2024-11-16,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Vanoli Basket Cremona,65,89
+2024-11-17,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Olimpia Milano,82,115
+2024-11-18,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Napoli Basket,88,82
+2024-11-20,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Pallacanestro Reggiana,73,70
+2024-11-21,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Dinamo Sassari,63,86
+2024-11-22,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Scafati Basket,89,91
+2024-11-23,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Derthona Tortona,89,93
+2024-11-25,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Trapani Shark,88,94
+2024-11-26,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Aquila Basket Trento,88,92
+2024-11-27,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Pallacanestro Trieste 2004,69,89
+2024-11-28,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Universo Treviso Basket,84,90
+2024-11-30,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Pallacanestro Varese,111,96
+2024-12-01,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Reyer Venezia,64,77
+2024-12-02,2024-25,Italy LBA,Regular Season,Pistoia Basket 2000,Virtus Bologna,62,86
+2024-12-03,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Pallacanestro Brescia,68,80
+2024-12-05,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Vanoli Basket Cremona,78,51
+2024-12-06,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Olimpia Milano,87,78
+2024-12-07,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Napoli Basket,89,86
+2024-12-08,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Pistoia Basket 2000,86,72
+2024-12-10,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Dinamo Sassari,84,58
+2024-12-11,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Scafati Basket,90,57
+2024-12-12,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Derthona Tortona,86,82
+2024-12-13,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Trapani Shark,89,94
+2024-12-15,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Aquila Basket Trento,76,92
+2024-12-16,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Pallacanestro Trieste 2004,81,96
+2024-12-17,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Universo Treviso Basket,88,64
+2024-12-18,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Pallacanestro Varese,97,80
+2024-12-20,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Reyer Venezia,87,92
+2024-12-21,2024-25,Italy LBA,Regular Season,Pallacanestro Reggiana,Virtus Bologna,57,69
+2024-12-22,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Pallacanestro Brescia,77,96
+2024-12-23,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Vanoli Basket Cremona,93,89
+2024-12-25,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Olimpia Milano,72,78
+2024-12-26,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Napoli Basket,94,76
+2024-12-27,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Pistoia Basket 2000,77,75
+2024-12-28,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Pallacanestro Reggiana,72,79
+2024-12-30,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Scafati Basket,86,97
+2024-12-31,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Derthona Tortona,87,82
+2025-01-01,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Trapani Shark,92,80
+2025-01-02,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Aquila Basket Trento,81,84
+2025-01-04,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Pallacanestro Trieste 2004,98,86
+2025-01-05,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Universo Treviso Basket,96,94
+2025-01-06,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Pallacanestro Varese,81,86
+2025-01-07,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Reyer Venezia,96,97
+2025-01-09,2024-25,Italy LBA,Regular Season,Dinamo Sassari,Virtus Bologna,76,68
+2025-01-10,2024-25,Italy LBA,Regular Season,Scafati Basket,Pallacanestro Brescia,93,95
+2025-01-11,2024-25,Italy LBA,Regular Season,Scafati Basket,Vanoli Basket Cremona,85,77
+2025-01-12,2024-25,Italy LBA,Regular Season,Scafati Basket,Olimpia Milano,78,83
+2025-01-14,2024-25,Italy LBA,Regular Season,Scafati Basket,Napoli Basket,81,91
+2025-01-15,2024-25,Italy LBA,Regular Season,Scafati Basket,Pistoia Basket 2000,107,102
+2025-01-16,2024-25,Italy LBA,Regular Season,Scafati Basket,Pallacanestro Reggiana,69,84
+2025-01-17,2024-25,Italy LBA,Regular Season,Scafati Basket,Dinamo Sassari,98,82
+2025-01-19,2024-25,Italy LBA,Regular Season,Scafati Basket,Derthona Tortona,79,102
+2025-01-20,2024-25,Italy LBA,Regular Season,Scafati Basket,Trapani Shark,66,83
+2025-01-21,2024-25,Italy LBA,Regular Season,Scafati Basket,Aquila Basket Trento,110,119
+2025-01-22,2024-25,Italy LBA,Regular Season,Scafati Basket,Pallacanestro Trieste 2004,107,110
+2025-01-24,2024-25,Italy LBA,Regular Season,Scafati Basket,Universo Treviso Basket,87,92
+2025-01-25,2024-25,Italy LBA,Regular Season,Scafati Basket,Pallacanestro Varese,94,85
+2025-01-26,2024-25,Italy LBA,Regular Season,Scafati Basket,Reyer Venezia,92,96
+2025-01-27,2024-25,Italy LBA,Regular Season,Scafati Basket,Virtus Bologna,87,104
+2025-01-29,2024-25,Italy LBA,Regular Season,Derthona Tortona,Pallacanestro Brescia,78,85
+2025-01-30,2024-25,Italy LBA,Regular Season,Derthona Tortona,Vanoli Basket Cremona,80,68
+2025-01-31,2024-25,Italy LBA,Regular Season,Derthona Tortona,Olimpia Milano,68,85
+2025-02-01,2024-25,Italy LBA,Regular Season,Derthona Tortona,Napoli Basket,82,89
+2025-02-03,2024-25,Italy LBA,Regular Season,Derthona Tortona,Pistoia Basket 2000,94,68
+2025-02-04,2024-25,Italy LBA,Regular Season,Derthona Tortona,Pallacanestro Reggiana,67,69
+2025-02-05,2024-25,Italy LBA,Regular Season,Derthona Tortona,Dinamo Sassari,71,68
+2025-02-06,2024-25,Italy LBA,Regular Season,Derthona Tortona,Scafati Basket,99,94
+2025-02-08,2024-25,Italy LBA,Regular Season,Derthona Tortona,Trapani Shark,91,101
+2025-02-09,2024-25,Italy LBA,Regular Season,Derthona Tortona,Aquila Basket Trento,91,77
+2025-02-10,2024-25,Italy LBA,Regular Season,Derthona Tortona,Pallacanestro Trieste 2004,82,85
+2025-02-11,2024-25,Italy LBA,Regular Season,Derthona Tortona,Universo Treviso Basket,90,95
+2025-02-13,2024-25,Italy LBA,Regular Season,Derthona Tortona,Pallacanestro Varese,89,82
+2025-02-14,2024-25,Italy LBA,Regular Season,Derthona Tortona,Reyer Venezia,89,82
+2025-02-15,2024-25,Italy LBA,Regular Season,Derthona Tortona,Virtus Bologna,66,98
+2025-02-16,2024-25,Italy LBA,Regular Season,Trapani Shark,Pallacanestro Brescia,94,88
+2025-02-18,2024-25,Italy LBA,Regular Season,Trapani Shark,Vanoli Basket Cremona,79,73
+2025-02-19,2024-25,Italy LBA,Regular Season,Trapani Shark,Olimpia Milano,89,81
+2025-02-20,2024-25,Italy LBA,Regular Season,Trapani Shark,Napoli Basket,95,85
+2025-02-21,2024-25,Italy LBA,Regular Season,Trapani Shark,Pistoia Basket 2000,104,60
+2025-02-23,2024-25,Italy LBA,Regular Season,Trapani Shark,Pallacanestro Reggiana,109,73
+2025-02-24,2024-25,Italy LBA,Regular Season,Trapani Shark,Dinamo Sassari,88,68
+2025-02-25,2024-25,Italy LBA,Regular Season,Trapani Shark,Scafati Basket,101,87
+2025-02-26,2024-25,Italy LBA,Regular Season,Trapani Shark,Derthona Tortona,78,84
+2025-02-28,2024-25,Italy LBA,Regular Season,Trapani Shark,Aquila Basket Trento,107,99
+2025-03-01,2024-25,Italy LBA,Regular Season,Trapani Shark,Pallacanestro Trieste 2004,131,88
+2025-03-02,2024-25,Italy LBA,Regular Season,Trapani Shark,Universo Treviso Basket,95,82
+2025-03-03,2024-25,Italy LBA,Regular Season,Trapani Shark,Pallacanestro Varese,106,93
+2025-03-05,2024-25,Italy LBA,Regular Season,Trapani Shark,Reyer Venezia,110,100
+2025-03-06,2024-25,Italy LBA,Regular Season,Trapani Shark,Virtus Bologna,88,89
+2025-03-07,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Pallacanestro Brescia,75,78
+2025-03-08,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Vanoli Basket Cremona,76,80
+2025-03-10,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Olimpia Milano,91,57
+2025-03-11,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Napoli Basket,90,83
+2025-03-12,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Pistoia Basket 2000,87,64
+2025-03-13,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Pallacanestro Reggiana,84,63
+2025-03-15,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Dinamo Sassari,95,77
+2025-03-16,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Scafati Basket,88,78
+2025-03-17,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Derthona Tortona,85,89
+2025-03-18,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Trapani Shark,83,80
+2025-03-20,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Pallacanestro Trieste 2004,76,68
+2025-03-21,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Universo Treviso Basket,101,86
+2025-03-22,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Pallacanestro Varese,106,100
+2025-03-23,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Reyer Venezia,82,70
+2025-03-25,2024-25,Italy LBA,Regular Season,Aquila Basket Trento,Virtus Bologna,87,79
+2025-03-26,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Pallacanestro Brescia,65,69
+2025-03-27,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Vanoli Basket Cremona,91,83
+2025-03-28,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Olimpia Milano,84,78
+2025-03-30,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Napoli Basket,109,82
+2025-03-31,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Pistoia Basket 2000,80,75
+2025-04-01,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Pallacanestro Reggiana,85,97
+2025-04-02,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Dinamo Sassari,92,76
+2025-04-04,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Scafati Basket,88,75
+2025-04-05,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Derthona Tortona,86,72
+2025-04-06,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Trapani Shark,93,98
+2025-04-07,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Aquila Basket Trento,88,94
+2025-04-09,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Universo Treviso Basket,85,73
+2025-04-10,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Pallacanestro Varese,107,81
+2025-04-11,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Reyer Venezia,70,76
+2025-04-12,2024-25,Italy LBA,Regular Season,Pallacanestro Trieste 2004,Virtus Bologna,85,78
+2025-04-14,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Pallacanestro Brescia,86,84
+2025-04-15,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Vanoli Basket Cremona,87,84
+2025-04-16,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Olimpia Milano,79,89
+2025-04-17,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Napoli Basket,78,90
+2025-04-19,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Pistoia Basket 2000,91,88
+2025-04-20,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Pallacanestro Reggiana,90,94
+2025-04-21,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Dinamo Sassari,70,76
+2025-04-22,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Scafati Basket,104,75
+2025-04-24,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Derthona Tortona,92,91
+2025-04-25,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Trapani Shark,71,87
+2025-04-26,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Aquila Basket Trento,76,83
+2025-04-27,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Pallacanestro Trieste 2004,95,100
+2025-04-29,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Pallacanestro Varese,88,86
+2025-04-30,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Reyer Venezia,83,72
+2025-05-01,2024-25,Italy LBA,Regular Season,Universo Treviso Basket,Virtus Bologna,74,80
+2025-05-02,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Pallacanestro Brescia,77,118
+2025-05-04,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Vanoli Basket Cremona,85,87
+2025-05-05,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Olimpia Milano,94,92
+2025-05-06,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Napoli Basket,89,86
+2025-05-07,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Pistoia Basket 2000,102,95
+2025-05-09,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Pallacanestro Reggiana,63,78
+2025-05-10,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Dinamo Sassari,89,84
+2025-05-11,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Scafati Basket,95,82
+2025-05-12,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Derthona Tortona,95,105
+2025-05-14,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Trapani Shark,100,109
+2025-05-15,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Aquila Basket Trento,79,92
+2025-05-16,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Pallacanestro Trieste 2004,85,80
+2025-05-17,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Universo Treviso Basket,92,89
+2025-05-19,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Reyer Venezia,77,86
+2025-05-20,2024-25,Italy LBA,Regular Season,Pallacanestro Varese,Virtus Bologna,104,95
+2025-05-21,2024-25,Italy LBA,Regular Season,Reyer Venezia,Pallacanestro Brescia,89,90
+2025-05-22,2024-25,Italy LBA,Regular Season,Reyer Venezia,Vanoli Basket Cremona,87,70
+2025-05-24,2024-25,Italy LBA,Regular Season,Reyer Venezia,Olimpia Milano,85,72
+2025-05-25,2024-25,Italy LBA,Regular Season,Reyer Venezia,Napoli Basket,91,68
+2025-05-26,2024-25,Italy LBA,Regular Season,Reyer Venezia,Pistoia Basket 2000,90,93
+2025-05-27,2024-25,Italy LBA,Regular Season,Reyer Venezia,Pallacanestro Reggiana,59,62
+2025-05-29,2024-25,Italy LBA,Regular Season,Reyer Venezia,Dinamo Sassari,78,84
+2025-05-30,2024-25,Italy LBA,Regular Season,Reyer Venezia,Scafati Basket,75,69
+2025-05-31,2024-25,Italy LBA,Regular Season,Reyer Venezia,Derthona Tortona,94,82
+2025-06-01,2024-25,Italy LBA,Regular Season,Reyer Venezia,Trapani Shark,91,82
+2025-06-03,2024-25,Italy LBA,Regular Season,Reyer Venezia,Aquila Basket Trento,70,74
+2025-06-04,2024-25,Italy LBA,Regular Season,Reyer Venezia,Pallacanestro Trieste 2004,103,91
+2025-06-05,2024-25,Italy LBA,Regular Season,Reyer Venezia,Universo Treviso Basket,75,78
+2025-06-06,2024-25,Italy LBA,Regular Season,Reyer Venezia,Pallacanestro Varese,83,64
+2025-06-08,2024-25,Italy LBA,Regular Season,Reyer Venezia,Virtus Bologna,68,76
+2025-06-09,2024-25,Italy LBA,Regular Season,Virtus Bologna,Pallacanestro Brescia,91,79
+2025-06-10,2024-25,Italy LBA,Regular Season,Virtus Bologna,Vanoli Basket Cremona,81,63
+2025-06-11,2024-25,Italy LBA,Regular Season,Virtus Bologna,Olimpia Milano,86,80
+2025-06-13,2024-25,Italy LBA,Regular Season,Virtus Bologna,Napoli Basket,86,75
+2025-06-14,2024-25,Italy LBA,Regular Season,Virtus Bologna,Pistoia Basket 2000,84,68
+2025-06-15,2024-25,Italy LBA,Regular Season,Virtus Bologna,Pallacanestro Reggiana,69,45
+2025-06-16,2024-25,Italy LBA,Regular Season,Virtus Bologna,Dinamo Sassari,95,85
+2025-06-18,2024-25,Italy LBA,Regular Season,Virtus Bologna,Scafati Basket,97,71
+2025-06-19,2024-25,Italy LBA,Regular Season,Virtus Bologna,Derthona Tortona,85,81
+2025-06-20,2024-25,Italy LBA,Regular Season,Virtus Bologna,Trapani Shark,101,96
+2025-06-21,2024-25,Italy LBA,Regular Season,Virtus Bologna,Aquila Basket Trento,80,75
+2025-06-23,2024-25,Italy LBA,Regular Season,Virtus Bologna,Pallacanestro Trieste 2004,70,78
+2025-06-24,2024-25,Italy LBA,Regular Season,Virtus Bologna,Universo Treviso Basket,104,97
+2025-06-25,2024-25,Italy LBA,Regular Season,Virtus Bologna,Pallacanestro Varese,104,67
+2025-06-26,2024-25,Italy LBA,Regular Season,Virtus Bologna,Reyer Venezia,85,74
+2025-09-01,2025-26,Italy LBA,Regular Season,Bologna,Brescia,86,76
+2025-09-02,2025-26,Italy LBA,Regular Season,Bologna,Cantù,89,79
+2025-09-03,2025-26,Italy LBA,Regular Season,Bologna,Cremona,69,86
+2025-09-05,2025-26,Italy LBA,Regular Season,Bologna,Milano,104,94
+2025-09-06,2025-26,Italy LBA,Regular Season,Bologna,Napoli,105,88
+2025-09-07,2025-26,Italy LBA,Regular Season,Bologna,Reggiana,80,78
+2025-09-09,2025-26,Italy LBA,Regular Season,Bologna,Sassari,90,71
+2025-09-10,2025-26,Italy LBA,Regular Season,Bologna,Trento,85,87
+2025-09-11,2025-26,Italy LBA,Regular Season,Bologna,Tortona,92,77
+2025-09-13,2025-26,Italy LBA,Regular Season,Bologna,Trieste,95,81
+2025-09-14,2025-26,Italy LBA,Regular Season,Bologna,Treviso,88,77
+2025-09-15,2025-26,Italy LBA,Regular Season,Bologna,Udine,90,86
+2025-09-17,2025-26,Italy LBA,Regular Season,Bologna,Varese,104,85
+2025-09-18,2025-26,Italy LBA,Regular Season,Bologna,Venezia,82,86
+2025-09-19,2025-26,Italy LBA,Regular Season,Brescia,Bologna,79,87
+2025-09-21,2025-26,Italy LBA,Regular Season,Brescia,Cantù,104,94
+2025-09-22,2025-26,Italy LBA,Regular Season,Brescia,Cremona,83,72
+2025-09-23,2025-26,Italy LBA,Regular Season,Brescia,Milano,98,92
+2025-09-25,2025-26,Italy LBA,Regular Season,Brescia,Napoli,100,85
+2025-09-26,2025-26,Italy LBA,Regular Season,Brescia,Reggiana,92,101
+2025-09-27,2025-26,Italy LBA,Regular Season,Brescia,Sassari,92,71
+2025-09-29,2025-26,Italy LBA,Regular Season,Brescia,Trento,72,63
+2025-09-30,2025-26,Italy LBA,Regular Season,Brescia,Tortona,92,86
+2025-10-01,2025-26,Italy LBA,Regular Season,Brescia,Trieste,98,75
+2025-10-03,2025-26,Italy LBA,Regular Season,Brescia,Treviso,90,99
+2025-10-04,2025-26,Italy LBA,Regular Season,Brescia,Udine,83,80
+2025-10-05,2025-26,Italy LBA,Regular Season,Brescia,Varese,102,94
+2025-10-07,2025-26,Italy LBA,Regular Season,Brescia,Venezia,104,93
+2025-10-08,2025-26,Italy LBA,Regular Season,Cantù,Bologna,77,89
+2025-10-10,2025-26,Italy LBA,Regular Season,Cantù,Brescia,71,76
+2025-10-11,2025-26,Italy LBA,Regular Season,Cantù,Cremona,91,83
+2025-10-12,2025-26,Italy LBA,Regular Season,Cantù,Milano,89,94
+2025-10-14,2025-26,Italy LBA,Regular Season,Cantù,Napoli,94,77
+2025-10-15,2025-26,Italy LBA,Regular Season,Cantù,Reggiana,83,78
+2025-10-16,2025-26,Italy LBA,Regular Season,Cantù,Sassari,80,78
+2025-10-18,2025-26,Italy LBA,Regular Season,Cantù,Trento,108,91
+2025-10-19,2025-26,Italy LBA,Regular Season,Cantù,Tortona,79,85
+2025-10-20,2025-26,Italy LBA,Regular Season,Cantù,Trapani,63,81
+2025-10-22,2025-26,Italy LBA,Regular Season,Cantù,Trieste,97,76
+2025-10-23,2025-26,Italy LBA,Regular Season,Cantù,Treviso,72,80
+2025-10-24,2025-26,Italy LBA,Regular Season,Cantù,Udine,90,85
+2025-10-26,2025-26,Italy LBA,Regular Season,Cantù,Varese,100,96
+2025-10-27,2025-26,Italy LBA,Regular Season,Cantù,Venezia,81,86
+2025-10-28,2025-26,Italy LBA,Regular Season,Cremona,Bologna,74,84
+2025-10-30,2025-26,Italy LBA,Regular Season,Cremona,Brescia,78,79
+2025-10-31,2025-26,Italy LBA,Regular Season,Cremona,Cantù,89,87
+2025-11-01,2025-26,Italy LBA,Regular Season,Cremona,Milano,67,86
+2025-11-03,2025-26,Italy LBA,Regular Season,Cremona,Napoli,88,81
+2025-11-04,2025-26,Italy LBA,Regular Season,Cremona,Reggiana,71,67
+2025-11-05,2025-26,Italy LBA,Regular Season,Cremona,Sassari,79,75
+2025-11-07,2025-26,Italy LBA,Regular Season,Cremona,Trento,92,83
+2025-11-08,2025-26,Italy LBA,Regular Season,Cremona,Tortona,71,76
+2025-11-09,2025-26,Italy LBA,Regular Season,Cremona,Trieste,113,94
+2025-11-11,2025-26,Italy LBA,Regular Season,Cremona,Treviso,96,79
+2025-11-12,2025-26,Italy LBA,Regular Season,Cremona,Udine,82,73
+2025-11-13,2025-26,Italy LBA,Regular Season,Cremona,Varese,79,87
+2025-11-15,2025-26,Italy LBA,Regular Season,Cremona,Venezia,88,111
+2025-11-16,2025-26,Italy LBA,Regular Season,Milano,Bologna,74,63
+2025-11-18,2025-26,Italy LBA,Regular Season,Milano,Brescia,81,90
+2025-11-19,2025-26,Italy LBA,Regular Season,Milano,Cantù,88,86
+2025-11-20,2025-26,Italy LBA,Regular Season,Milano,Cremona,91,74
+2025-11-22,2025-26,Italy LBA,Regular Season,Milano,Napoli,125,97
+2025-11-23,2025-26,Italy LBA,Regular Season,Milano,Reggiana,80,76
+2025-11-24,2025-26,Italy LBA,Regular Season,Milano,Sassari,99,87
+2025-11-26,2025-26,Italy LBA,Regular Season,Milano,Trento,94,90
+2025-11-27,2025-26,Italy LBA,Regular Season,Milano,Tortona,71,74
+2025-11-28,2025-26,Italy LBA,Regular Season,Milano,Trapani,80,86
+2025-11-30,2025-26,Italy LBA,Regular Season,Milano,Trieste,86,78
+2025-12-01,2025-26,Italy LBA,Regular Season,Milano,Treviso,87,63
+2025-12-02,2025-26,Italy LBA,Regular Season,Milano,Udine,85,84
+2025-12-04,2025-26,Italy LBA,Regular Season,Milano,Varese,74,84
+2025-12-05,2025-26,Italy LBA,Regular Season,Milano,Venezia,101,88
+2025-12-06,2025-26,Italy LBA,Regular Season,Napoli,Bologna,71,90
+2025-12-08,2025-26,Italy LBA,Regular Season,Napoli,Brescia,72,85
+2025-12-09,2025-26,Italy LBA,Regular Season,Napoli,Cantù,98,86
+2025-12-10,2025-26,Italy LBA,Regular Season,Napoli,Cremona,102,76
+2025-12-12,2025-26,Italy LBA,Regular Season,Napoli,Milano,71,77
+2025-12-13,2025-26,Italy LBA,Regular Season,Napoli,Reggiana,95,87
+2025-12-14,2025-26,Italy LBA,Regular Season,Napoli,Sassari,86,75
+2025-12-16,2025-26,Italy LBA,Regular Season,Napoli,Trento,84,74
+2025-12-17,2025-26,Italy LBA,Regular Season,Napoli,Tortona,76,82
+2025-12-18,2025-26,Italy LBA,Regular Season,Napoli,Trapani,90,97
+2025-12-20,2025-26,Italy LBA,Regular Season,Napoli,Trieste,79,84
+2025-12-21,2025-26,Italy LBA,Regular Season,Napoli,Treviso,88,71
+2025-12-23,2025-26,Italy LBA,Regular Season,Napoli,Udine,98,71
+2025-12-24,2025-26,Italy LBA,Regular Season,Napoli,Varese,104,75
+2025-12-25,2025-26,Italy LBA,Regular Season,Napoli,Venezia,64,79
+2025-12-27,2025-26,Italy LBA,Regular Season,Reggiana,Bologna,84,70
+2025-12-28,2025-26,Italy LBA,Regular Season,Reggiana,Brescia,87,93
+2025-12-29,2025-26,Italy LBA,Regular Season,Reggiana,Cantù,78,79
+2025-12-31,2025-26,Italy LBA,Regular Season,Reggiana,Cremona,96,78
+2026-01-01,2025-26,Italy LBA,Regular Season,Reggiana,Milano,61,93
+2026-01-02,2025-26,Italy LBA,Regular Season,Reggiana,Napoli,91,80
+2026-01-04,2025-26,Italy LBA,Regular Season,Reggiana,Sassari,90,68
+2026-01-05,2025-26,Italy LBA,Regular Season,Reggiana,Trento,77,68
+2026-01-06,2025-26,Italy LBA,Regular Season,Reggiana,Tortona,88,69
+2026-01-08,2025-26,Italy LBA,Regular Season,Reggiana,Trieste,97,61
+2026-01-09,2025-26,Italy LBA,Regular Season,Reggiana,Treviso,88,89
+2026-01-10,2025-26,Italy LBA,Regular Season,Reggiana,Udine,76,71
+2026-01-12,2025-26,Italy LBA,Regular Season,Reggiana,Varese,103,79
+2026-01-13,2025-26,Italy LBA,Regular Season,Reggiana,Venezia,79,89
+2026-01-14,2025-26,Italy LBA,Regular Season,Sassari,Bologna,73,80
+2026-01-16,2025-26,Italy LBA,Regular Season,Sassari,Brescia,93,86
+2026-01-17,2025-26,Italy LBA,Regular Season,Sassari,Cantù,100,84
+2026-01-18,2025-26,Italy LBA,Regular Season,Sassari,Cremona,104,86
+2026-01-20,2025-26,Italy LBA,Regular Season,Sassari,Milano,72,76
+2026-01-21,2025-26,Italy LBA,Regular Season,Sassari,Napoli,78,84
+2026-01-22,2025-26,Italy LBA,Regular Season,Sassari,Reggiana,99,102
+2026-01-24,2025-26,Italy LBA,Regular Season,Sassari,Trento,89,88
+2026-01-25,2025-26,Italy LBA,Regular Season,Sassari,Tortona,82,89
+2026-01-26,2025-26,Italy LBA,Regular Season,Sassari,Trapani,102,78
+2026-01-28,2025-26,Italy LBA,Regular Season,Sassari,Trieste,85,80
+2026-01-29,2025-26,Italy LBA,Regular Season,Sassari,Treviso,103,108
+2026-01-31,2025-26,Italy LBA,Regular Season,Sassari,Udine,70,88
+2026-02-01,2025-26,Italy LBA,Regular Season,Sassari,Varese,102,105
+2026-02-02,2025-26,Italy LBA,Regular Season,Sassari,Venezia,79,98
+2026-02-04,2025-26,Italy LBA,Regular Season,Trento,Bologna,83,102
+2026-02-05,2025-26,Italy LBA,Regular Season,Trento,Brescia,77,85
+2026-02-06,2025-26,Italy LBA,Regular Season,Trento,Cantù,109,69
+2026-02-08,2025-26,Italy LBA,Regular Season,Trento,Cremona,85,94
+2026-02-09,2025-26,Italy LBA,Regular Season,Trento,Milano,84,74
+2026-02-10,2025-26,Italy LBA,Regular Season,Trento,Napoli,87,93
+2026-02-12,2025-26,Italy LBA,Regular Season,Trento,Reggiana,82,90
+2026-02-13,2025-26,Italy LBA,Regular Season,Trento,Sassari,96,99
+2026-02-14,2025-26,Italy LBA,Regular Season,Trento,Tortona,89,75
+2026-02-16,2025-26,Italy LBA,Regular Season,Trento,Trieste,89,87
+2026-02-17,2025-26,Italy LBA,Regular Season,Trento,Treviso,81,68
+2026-02-18,2025-26,Italy LBA,Regular Season,Trento,Udine,75,82
+2026-02-20,2025-26,Italy LBA,Regular Season,Trento,Varese,84,78
+2026-02-21,2025-26,Italy LBA,Regular Season,Trento,Venezia,96,90
+2026-02-22,2025-26,Italy LBA,Regular Season,Tortona,Bologna,69,74
+2026-02-24,2025-26,Italy LBA,Regular Season,Tortona,Brescia,88,80
+2026-02-25,2025-26,Italy LBA,Regular Season,Tortona,Cantù,100,73
+2026-02-26,2025-26,Italy LBA,Regular Season,Tortona,Cremona,85,78
+2026-02-28,2025-26,Italy LBA,Regular Season,Tortona,Milano,78,87
+2026-03-01,2025-26,Italy LBA,Regular Season,Tortona,Napoli,87,76
+2026-03-02,2025-26,Italy LBA,Regular Season,Tortona,Reggiana,81,67
+2026-03-04,2025-26,Italy LBA,Regular Season,Tortona,Sassari,118,113
+2026-03-05,2025-26,Italy LBA,Regular Season,Tortona,Trento,103,84
+2026-03-06,2025-26,Italy LBA,Regular Season,Tortona,Trapani,108,100
+2026-03-08,2025-26,Italy LBA,Regular Season,Tortona,Trieste,104,99
+2026-03-09,2025-26,Italy LBA,Regular Season,Tortona,Treviso,107,95
+2026-03-11,2025-26,Italy LBA,Regular Season,Tortona,Udine,79,80
+2026-03-12,2025-26,Italy LBA,Regular Season,Tortona,Varese,90,87
+2026-03-13,2025-26,Italy LBA,Regular Season,Tortona,Venezia,90,98
+2026-03-15,2025-26,Italy LBA,Regular Season,Trapani,Brescia,77,75
+2026-03-16,2025-26,Italy LBA,Regular Season,Trapani,Cremona,96,90
+2026-03-17,2025-26,Italy LBA,Regular Season,Trapani,Reggiana,88,75
+2026-03-19,2025-26,Italy LBA,Regular Season,Trapani,Udine,91,73
+2026-03-20,2025-26,Italy LBA,Regular Season,Trapani,Varese,88,95
+2026-03-21,2025-26,Italy LBA,Regular Season,Trapani,Venezia,109,102
+2026-03-23,2025-26,Italy LBA,Regular Season,Trieste,Bologna,66,74
+2026-03-24,2025-26,Italy LBA,Regular Season,Trieste,Brescia,82,86
+2026-03-25,2025-26,Italy LBA,Regular Season,Trieste,Cantù,84,79
+2026-03-27,2025-26,Italy LBA,Regular Season,Trieste,Cremona,89,94
+2026-03-28,2025-26,Italy LBA,Regular Season,Trieste,Milano,86,82
+2026-03-29,2025-26,Italy LBA,Regular Season,Trieste,Napoli,110,84
+2026-03-31,2025-26,Italy LBA,Regular Season,Trieste,Reggiana,92,82
+2026-04-01,2025-26,Italy LBA,Regular Season,Trieste,Sassari,76,70
+2026-04-02,2025-26,Italy LBA,Regular Season,Trieste,Trento,84,78
+2026-04-04,2025-26,Italy LBA,Regular Season,Trieste,Tortona,91,81
+2026-04-05,2025-26,Italy LBA,Regular Season,Trieste,Trapani,87,91
+2026-04-06,2025-26,Italy LBA,Regular Season,Trieste,Treviso,84,76
+2026-04-08,2025-26,Italy LBA,Regular Season,Trieste,Udine,92,85
+2026-04-09,2025-26,Italy LBA,Regular Season,Trieste,Varese,90,89
+2026-04-10,2025-26,Italy LBA,Regular Season,Trieste,Venezia,78,84
+2026-04-12,2025-26,Italy LBA,Regular Season,Treviso,Bologna,79,101
+2026-04-13,2025-26,Italy LBA,Regular Season,Treviso,Brescia,100,102
+2026-04-15,2025-26,Italy LBA,Regular Season,Treviso,Cantù,86,81
+2026-04-16,2025-26,Italy LBA,Regular Season,Treviso,Cremona,97,94
+2026-04-17,2025-26,Italy LBA,Regular Season,Treviso,Milano,71,76
+2026-04-19,2025-26,Italy LBA,Regular Season,Treviso,Napoli,79,86
+2026-04-20,2025-26,Italy LBA,Regular Season,Treviso,Reggiana,78,77
+2026-04-21,2025-26,Italy LBA,Regular Season,Treviso,Sassari,89,92
+2026-04-23,2025-26,Italy LBA,Regular Season,Treviso,Trento,67,88
+2026-04-24,2025-26,Italy LBA,Regular Season,Treviso,Tortona,91,86
+2026-04-25,2025-26,Italy LBA,Regular Season,Treviso,Trapani,82,89
+2026-04-27,2025-26,Italy LBA,Regular Season,Treviso,Trieste,100,107
+2026-04-28,2025-26,Italy LBA,Regular Season,Treviso,Udine,92,82
+2026-04-29,2025-26,Italy LBA,Regular Season,Treviso,Varese,86,83
+2026-05-01,2025-26,Italy LBA,Regular Season,Treviso,Venezia,90,91
+2026-05-02,2025-26,Italy LBA,Regular Season,Udine,Bologna,80,82
+2026-05-03,2025-26,Italy LBA,Regular Season,Udine,Brescia,72,81
+2026-05-05,2025-26,Italy LBA,Regular Season,Udine,Cantù,95,83
+2026-05-06,2025-26,Italy LBA,Regular Season,Udine,Cremona,82,75
+2026-05-07,2025-26,Italy LBA,Regular Season,Udine,Milano,86,83
+2026-05-09,2025-26,Italy LBA,Regular Season,Udine,Napoli,78,71
+2026-05-10,2025-26,Italy LBA,Regular Season,Udine,Reggiana,85,90
+2026-05-11,2025-26,Italy LBA,Regular Season,Udine,Sassari,92,79
+2026-05-13,2025-26,Italy LBA,Regular Season,Udine,Trento,69,76
+2026-05-14,2025-26,Italy LBA,Regular Season,Udine,Tortona,90,94
+2026-05-15,2025-26,Italy LBA,Regular Season,Udine,Trieste,70,89
+2026-05-17,2025-26,Italy LBA,Regular Season,Udine,Treviso,86,79
+2026-05-18,2025-26,Italy LBA,Regular Season,Udine,Varese,81,92
+2026-05-19,2025-26,Italy LBA,Regular Season,Udine,Venezia,87,94
+2026-05-21,2025-26,Italy LBA,Regular Season,Varese,Bologna,77,83
+2026-05-22,2025-26,Italy LBA,Regular Season,Varese,Brescia,98,96
+2026-05-24,2025-26,Italy LBA,Regular Season,Varese,Cantù,91,82
+2026-05-25,2025-26,Italy LBA,Regular Season,Varese,Cremona,84,75
+2026-05-26,2025-26,Italy LBA,Regular Season,Varese,Milano,61,94
+2026-05-28,2025-26,Italy LBA,Regular Season,Varese,Napoli,84,80
+2026-05-29,2025-26,Italy LBA,Regular Season,Varese,Reggiana,61,76
+2026-05-30,2025-26,Italy LBA,Regular Season,Varese,Sassari,91,90
+2026-06-01,2025-26,Italy LBA,Regular Season,Varese,Trento,74,85
+2026-06-02,2025-26,Italy LBA,Regular Season,Varese,Tortona,97,87
+2026-06-03,2025-26,Italy LBA,Regular Season,Varese,Trieste,84,69
+2026-06-05,2025-26,Italy LBA,Regular Season,Varese,Treviso,91,86
+2026-06-06,2025-26,Italy LBA,Regular Season,Varese,Udine,59,66
+2026-06-07,2025-26,Italy LBA,Regular Season,Varese,Venezia,94,106
+2026-06-09,2025-26,Italy LBA,Regular Season,Venezia,Bologna,75,81
+2026-06-10,2025-26,Italy LBA,Regular Season,Venezia,Brescia,74,89
+2026-06-11,2025-26,Italy LBA,Regular Season,Venezia,Cantù,101,95
+2026-06-13,2025-26,Italy LBA,Regular Season,Venezia,Cremona,82,75
+2026-06-14,2025-26,Italy LBA,Regular Season,Venezia,Milano,85,90
+2026-06-15,2025-26,Italy LBA,Regular Season,Venezia,Napoli,106,96
+2026-06-17,2025-26,Italy LBA,Regular Season,Venezia,Reggiana,79,81
+2026-06-18,2025-26,Italy LBA,Regular Season,Venezia,Sassari,89,76
+2026-06-19,2025-26,Italy LBA,Regular Season,Venezia,Trento,87,106
+2026-06-21,2025-26,Italy LBA,Regular Season,Venezia,Tortona,75,78
+2026-06-22,2025-26,Italy LBA,Regular Season,Venezia,Trieste,102,66
+2026-06-23,2025-26,Italy LBA,Regular Season,Venezia,Treviso,87,66
+2026-06-25,2025-26,Italy LBA,Regular Season,Venezia,Udine,101,94
+2026-06-26,2025-26,Italy LBA,Regular Season,Venezia,Varese,86,75

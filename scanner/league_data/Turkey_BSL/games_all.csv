@@ -1,0 +1,1200 @@
+date,season,league,gameType,home_team,away_team,home_score,away_score
+2021-10-01,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Bahçeşehir Koleji,95,88
+2021-10-01,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Beşiktaş Icrypex,87,72
+2021-10-02,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Büyükçekmece Basketbol,89,90
+2021-10-03,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Darüşşafaka,84,76
+2021-10-04,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Fenerbahçe Beko,91,71
+2021-10-05,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Frutti Extra Bursaspor,88,85
+2021-10-06,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Galatasaray Nef,85,92
+2021-10-07,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Gaziantep Basketbol,83,93
+2021-10-08,2021-22,Turkey BSL,Regular Season,Anadolu Efes,HDI Sigorta Afyon Belediye,90,68
+2021-10-09,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Petkim Spor,97,83
+2021-10-10,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Pınar Karşıyaka,78,77
+2021-10-11,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Semt77 Yalovaspor,93,87
+2021-10-12,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Tofaş,84,77
+2021-10-13,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Türk Telekom,79,66
+2021-10-14,2021-22,Turkey BSL,Regular Season,Anadolu Efes,Yukatel Merkezefendi Basket,94,93
+2021-10-15,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Anadolu Efes,83,102
+2021-10-16,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Beşiktaş Icrypex,86,77
+2021-10-17,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Büyükçekmece Basketbol,87,91
+2021-10-18,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Darüşşafaka,82,73
+2021-10-19,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Fenerbahçe Beko,78,79
+2021-10-20,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Frutti Extra Bursaspor,101,80
+2021-10-21,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Galatasaray Nef,94,88
+2021-10-22,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Gaziantep Basketbol,82,74
+2021-10-23,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,HDI Sigorta Afyon Belediye,105,77
+2021-10-24,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Petkim Spor,94,69
+2021-10-25,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Pınar Karşıyaka,104,99
+2021-10-26,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Semt77 Yalovaspor,102,79
+2021-10-27,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Tofaş,73,84
+2021-10-28,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Türk Telekom,69,86
+2021-10-29,2021-22,Turkey BSL,Regular Season,Bahçeşehir Koleji,Yukatel Merkezefendi Basket,101,95
+2021-10-30,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Anadolu Efes,55,101
+2021-10-31,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Bahçeşehir Koleji,82,69
+2021-11-01,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Büyükçekmece Basketbol,86,67
+2021-11-02,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Darüşşafaka,81,75
+2021-11-03,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Fenerbahçe Beko,74,82
+2021-11-04,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Frutti Extra Bursaspor,86,80
+2021-11-05,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Galatasaray Nef,62,74
+2021-11-06,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Gaziantep Basketbol,68,70
+2021-11-07,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,HDI Sigorta Afyon Belediye,68,48
+2021-11-08,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Petkim Spor,94,73
+2021-11-09,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Pınar Karşıyaka,77,71
+2021-11-10,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Semt77 Yalovaspor,94,85
+2021-11-11,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Tofaş,82,83
+2021-11-12,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Türk Telekom,73,67
+2021-11-13,2021-22,Turkey BSL,Regular Season,Beşiktaş Icrypex,Yukatel Merkezefendi Basket,74,62
+2021-11-14,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Anadolu Efes,71,96
+2021-11-15,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Bahçeşehir Koleji,81,95
+2021-11-16,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Beşiktaş Icrypex,93,87
+2021-11-17,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Darüşşafaka,67,92
+2021-11-18,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Fenerbahçe Beko,88,96
+2021-11-19,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Frutti Extra Bursaspor,70,91
+2021-11-20,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Galatasaray Nef,87,95
+2021-11-21,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Gaziantep Basketbol,89,93
+2021-11-22,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,HDI Sigorta Afyon Belediye,88,76
+2021-11-23,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Petkim Spor,81,66
+2021-11-24,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Pınar Karşıyaka,78,92
+2021-11-25,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Semt77 Yalovaspor,92,90
+2021-11-26,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Tofaş,87,89
+2021-11-27,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Türk Telekom,81,71
+2021-11-28,2021-22,Turkey BSL,Regular Season,Büyükçekmece Basketbol,Yukatel Merkezefendi Basket,85,90
+2021-11-29,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Anadolu Efes,85,81
+2021-11-30,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Bahçeşehir Koleji,68,66
+2021-12-01,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Beşiktaş Icrypex,76,73
+2021-12-02,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Büyükçekmece Basketbol,86,69
+2021-12-03,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Fenerbahçe Beko,65,75
+2021-12-04,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Frutti Extra Bursaspor,79,75
+2021-12-05,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Galatasaray Nef,83,82
+2021-12-06,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Gaziantep Basketbol,71,76
+2021-12-07,2021-22,Turkey BSL,Regular Season,Darüşşafaka,HDI Sigorta Afyon Belediye,79,73
+2021-12-08,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Petkim Spor,101,86
+2021-12-09,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Pınar Karşıyaka,80,84
+2021-12-10,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Semt77 Yalovaspor,74,62
+2021-12-11,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Tofaş,94,78
+2021-12-12,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Türk Telekom,66,75
+2021-12-13,2021-22,Turkey BSL,Regular Season,Darüşşafaka,Yukatel Merkezefendi Basket,76,62
+2021-12-14,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Anadolu Efes,90,68
+2021-12-15,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Bahçeşehir Koleji,84,73
+2021-12-16,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Beşiktaş Icrypex,90,81
+2021-12-17,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Büyükçekmece Basketbol,90,65
+2021-12-18,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Darüşşafaka,61,79
+2021-12-19,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Frutti Extra Bursaspor,99,96
+2021-12-20,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Galatasaray Nef,70,76
+2021-12-21,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Gaziantep Basketbol,102,80
+2021-12-22,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,HDI Sigorta Afyon Belediye,100,51
+2021-12-23,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Petkim Spor,71,63
+2021-12-24,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Pınar Karşıyaka,91,69
+2021-12-25,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Semt77 Yalovaspor,89,63
+2021-12-26,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Tofaş,82,72
+2021-12-27,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Türk Telekom,92,63
+2021-12-28,2021-22,Turkey BSL,Regular Season,Fenerbahçe Beko,Yukatel Merkezefendi Basket,85,77
+2021-12-29,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Anadolu Efes,79,83
+2021-12-30,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Bahçeşehir Koleji,80,78
+2021-12-31,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Beşiktaş Icrypex,73,76
+2022-01-01,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Büyükçekmece Basketbol,85,83
+2022-01-02,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Darüşşafaka,83,81
+2022-01-03,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Fenerbahçe Beko,84,73
+2022-01-04,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Galatasaray Nef,99,78
+2022-01-05,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Gaziantep Basketbol,85,82
+2022-01-06,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,HDI Sigorta Afyon Belediye,94,59
+2022-01-07,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Petkim Spor,81,75
+2022-01-08,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Pınar Karşıyaka,84,77
+2022-01-09,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Semt77 Yalovaspor,86,85
+2022-01-10,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Tofaş,87,75
+2022-01-11,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Türk Telekom,101,65
+2022-01-12,2021-22,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Yukatel Merkezefendi Basket,90,67
+2022-01-13,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Anadolu Efes,91,103
+2022-01-14,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Bahçeşehir Koleji,78,85
+2022-01-15,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Beşiktaş Icrypex,90,73
+2022-01-16,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Büyükçekmece Basketbol,98,78
+2022-01-17,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Darüşşafaka,101,107
+2022-01-18,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Fenerbahçe Beko,76,86
+2022-01-19,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Frutti Extra Bursaspor,99,84
+2022-01-20,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Gaziantep Basketbol,75,74
+2022-01-21,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,HDI Sigorta Afyon Belediye,124,82
+2022-01-22,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Petkim Spor,96,73
+2022-01-23,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Pınar Karşıyaka,84,78
+2022-01-24,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Semt77 Yalovaspor,100,73
+2022-01-25,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Tofaş,90,89
+2022-01-26,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Türk Telekom,88,71
+2022-01-27,2021-22,Turkey BSL,Regular Season,Galatasaray Nef,Yukatel Merkezefendi Basket,63,76
+2022-01-28,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Anadolu Efes,78,69
+2022-01-29,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Bahçeşehir Koleji,69,76
+2022-01-30,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Beşiktaş Icrypex,82,77
+2022-01-31,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Büyükçekmece Basketbol,80,72
+2022-02-01,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Darüşşafaka,69,71
+2022-02-02,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Fenerbahçe Beko,70,86
+2022-02-03,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Frutti Extra Bursaspor,67,75
+2022-02-04,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Galatasaray Nef,74,66
+2022-02-05,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,HDI Sigorta Afyon Belediye,85,86
+2022-02-06,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Petkim Spor,89,85
+2022-02-07,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Pınar Karşıyaka,67,76
+2022-02-08,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Semt77 Yalovaspor,81,54
+2022-02-09,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Tofaş,108,92
+2022-02-10,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Türk Telekom,83,72
+2022-02-11,2021-22,Turkey BSL,Regular Season,Gaziantep Basketbol,Yukatel Merkezefendi Basket,82,49
+2022-02-12,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Anadolu Efes,83,140
+2022-02-13,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Bahçeşehir Koleji,82,102
+2022-02-14,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Beşiktaş Icrypex,66,86
+2022-02-15,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Büyükçekmece Basketbol,76,66
+2022-02-16,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Darüşşafaka,64,115
+2022-02-17,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Fenerbahçe Beko,61,99
+2022-02-18,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Frutti Extra Bursaspor,55,108
+2022-02-19,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Galatasaray Nef,61,95
+2022-02-20,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Gaziantep Basketbol,63,100
+2022-02-21,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Petkim Spor,91,70
+2022-02-22,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Pınar Karşıyaka,67,94
+2022-02-23,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Semt77 Yalovaspor,73,106
+2022-02-24,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Tofaş,57,115
+2022-02-25,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Türk Telekom,61,80
+2022-02-26,2021-22,Turkey BSL,Regular Season,HDI Sigorta Afyon Belediye,Yukatel Merkezefendi Basket,92,83
+2022-02-27,2021-22,Turkey BSL,Regular Season,Petkim Spor,Anadolu Efes,82,92
+2022-02-28,2021-22,Turkey BSL,Regular Season,Petkim Spor,Bahçeşehir Koleji,79,70
+2022-03-01,2021-22,Turkey BSL,Regular Season,Petkim Spor,Beşiktaş Icrypex,87,80
+2022-03-02,2021-22,Turkey BSL,Regular Season,Petkim Spor,Büyükçekmece Basketbol,72,74
+2022-03-03,2021-22,Turkey BSL,Regular Season,Petkim Spor,Darüşşafaka,57,76
+2022-03-04,2021-22,Turkey BSL,Regular Season,Petkim Spor,Fenerbahçe Beko,95,90
+2022-03-05,2021-22,Turkey BSL,Regular Season,Petkim Spor,Frutti Extra Bursaspor,70,68
+2022-03-06,2021-22,Turkey BSL,Regular Season,Petkim Spor,Galatasaray Nef,81,95
+2022-03-07,2021-22,Turkey BSL,Regular Season,Petkim Spor,Gaziantep Basketbol,80,84
+2022-03-08,2021-22,Turkey BSL,Regular Season,Petkim Spor,HDI Sigorta Afyon Belediye,109,87
+2022-03-09,2021-22,Turkey BSL,Regular Season,Petkim Spor,Pınar Karşıyaka,59,92
+2022-03-10,2021-22,Turkey BSL,Regular Season,Petkim Spor,Semt77 Yalovaspor,81,80
+2022-03-11,2021-22,Turkey BSL,Regular Season,Petkim Spor,Tofaş,83,91
+2022-03-12,2021-22,Turkey BSL,Regular Season,Petkim Spor,Türk Telekom,71,59
+2022-03-13,2021-22,Turkey BSL,Regular Season,Petkim Spor,Yukatel Merkezefendi Basket,70,89
+2022-03-14,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Anadolu Efes,78,73
+2022-03-15,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Bahçeşehir Koleji,90,81
+2022-03-16,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Beşiktaş Icrypex,67,79
+2022-03-17,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Büyükçekmece Basketbol,70,78
+2022-03-18,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Darüşşafaka,79,82
+2022-03-19,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Fenerbahçe Beko,74,72
+2022-03-20,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Frutti Extra Bursaspor,76,62
+2022-03-21,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Galatasaray Nef,73,67
+2022-03-22,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Gaziantep Basketbol,84,76
+2022-03-23,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,HDI Sigorta Afyon Belediye,90,76
+2022-03-24,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Petkim Spor,91,79
+2022-03-25,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Semt77 Yalovaspor,79,73
+2022-03-26,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Tofaş,79,78
+2022-03-27,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Türk Telekom,71,76
+2022-03-28,2021-22,Turkey BSL,Regular Season,Pınar Karşıyaka,Yukatel Merkezefendi Basket,83,85
+2022-03-29,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Anadolu Efes,69,88
+2022-03-30,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Bahçeşehir Koleji,77,84
+2022-03-31,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Beşiktaş Icrypex,68,74
+2022-04-01,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Büyükçekmece Basketbol,80,68
+2022-04-02,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Darüşşafaka,59,82
+2022-04-03,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Fenerbahçe Beko,60,86
+2022-04-04,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Frutti Extra Bursaspor,65,81
+2022-04-05,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Galatasaray Nef,69,73
+2022-04-06,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Gaziantep Basketbol,89,93
+2022-04-07,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,HDI Sigorta Afyon Belediye,63,51
+2022-04-08,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Petkim Spor,65,92
+2022-04-09,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Pınar Karşıyaka,80,87
+2022-04-10,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Tofaş,77,79
+2022-04-11,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Türk Telekom,72,68
+2022-04-12,2021-22,Turkey BSL,Regular Season,Semt77 Yalovaspor,Yukatel Merkezefendi Basket,82,76
+2022-04-13,2021-22,Turkey BSL,Regular Season,Tofaş,Anadolu Efes,94,107
+2022-04-14,2021-22,Turkey BSL,Regular Season,Tofaş,Bahçeşehir Koleji,78,96
+2022-04-15,2021-22,Turkey BSL,Regular Season,Tofaş,Beşiktaş Icrypex,81,80
+2022-04-16,2021-22,Turkey BSL,Regular Season,Tofaş,Büyükçekmece Basketbol,98,87
+2022-04-17,2021-22,Turkey BSL,Regular Season,Tofaş,Darüşşafaka,81,65
+2022-04-18,2021-22,Turkey BSL,Regular Season,Tofaş,Fenerbahçe Beko,78,82
+2022-04-19,2021-22,Turkey BSL,Regular Season,Tofaş,Frutti Extra Bursaspor,83,90
+2022-04-20,2021-22,Turkey BSL,Regular Season,Tofaş,Galatasaray Nef,77,88
+2022-04-21,2021-22,Turkey BSL,Regular Season,Tofaş,Gaziantep Basketbol,70,89
+2022-04-22,2021-22,Turkey BSL,Regular Season,Tofaş,HDI Sigorta Afyon Belediye,145,55
+2022-04-23,2021-22,Turkey BSL,Regular Season,Tofaş,Petkim Spor,97,83
+2022-04-24,2021-22,Turkey BSL,Regular Season,Tofaş,Pınar Karşıyaka,69,71
+2022-04-25,2021-22,Turkey BSL,Regular Season,Tofaş,Semt77 Yalovaspor,75,66
+2022-04-26,2021-22,Turkey BSL,Regular Season,Tofaş,Türk Telekom,95,93
+2022-04-27,2021-22,Turkey BSL,Regular Season,Tofaş,Yukatel Merkezefendi Basket,97,77
+2022-04-28,2021-22,Turkey BSL,Regular Season,Türk Telekom,Anadolu Efes,84,99
+2022-04-29,2021-22,Turkey BSL,Regular Season,Türk Telekom,Bahçeşehir Koleji,74,75
+2022-04-30,2021-22,Turkey BSL,Regular Season,Türk Telekom,Beşiktaş Icrypex,54,64
+2022-05-01,2021-22,Turkey BSL,Regular Season,Türk Telekom,Büyükçekmece Basketbol,86,62
+2022-05-02,2021-22,Turkey BSL,Regular Season,Türk Telekom,Darüşşafaka,59,46
+2022-05-03,2021-22,Turkey BSL,Regular Season,Türk Telekom,Fenerbahçe Beko,63,72
+2022-05-04,2021-22,Turkey BSL,Regular Season,Türk Telekom,Frutti Extra Bursaspor,83,82
+2022-05-05,2021-22,Turkey BSL,Regular Season,Türk Telekom,Galatasaray Nef,67,97
+2022-05-06,2021-22,Turkey BSL,Regular Season,Türk Telekom,Gaziantep Basketbol,65,66
+2022-05-07,2021-22,Turkey BSL,Regular Season,Türk Telekom,HDI Sigorta Afyon Belediye,135,85
+2022-05-08,2021-22,Turkey BSL,Regular Season,Türk Telekom,Petkim Spor,75,70
+2022-05-09,2021-22,Turkey BSL,Regular Season,Türk Telekom,Pınar Karşıyaka,72,71
+2022-05-10,2021-22,Turkey BSL,Regular Season,Türk Telekom,Semt77 Yalovaspor,68,80
+2022-05-11,2021-22,Turkey BSL,Regular Season,Türk Telekom,Tofaş,72,74
+2022-05-12,2021-22,Turkey BSL,Regular Season,Türk Telekom,Yukatel Merkezefendi Basket,94,72
+2022-05-13,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Anadolu Efes,65,80
+2022-05-14,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Bahçeşehir Koleji,89,113
+2022-05-15,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Beşiktaş Icrypex,76,71
+2022-05-16,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Büyükçekmece Basketbol,90,109
+2022-05-17,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Darüşşafaka,74,69
+2022-05-18,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Fenerbahçe Beko,76,82
+2022-05-19,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Frutti Extra Bursaspor,74,71
+2022-05-20,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Galatasaray Nef,73,89
+2022-05-21,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Gaziantep Basketbol,64,80
+2022-05-22,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,HDI Sigorta Afyon Belediye,87,79
+2022-05-23,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Petkim Spor,78,93
+2022-05-24,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Pınar Karşıyaka,73,81
+2022-05-25,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Semt77 Yalovaspor,73,87
+2022-05-26,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Tofaş,66,98
+2022-05-27,2021-22,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Türk Telekom,96,100
+2022-10-01,2022-23,Turkey BSL,Regular Season,Anadolu Efes,AYOS Konyaspor,88,83
+2022-10-02,2022-23,Turkey BSL,Regular Season,Anadolu Efes,Bahçeşehir Koleji,97,68
+2022-10-03,2022-23,Turkey BSL,Regular Season,Anadolu Efes,Beşiktaş Emlakjet,104,88
+2022-10-04,2022-23,Turkey BSL,Regular Season,Anadolu Efes,Darüşşafaka Lassa,88,78
+2022-10-05,2022-23,Turkey BSL,Regular Season,Anadolu Efes,Fenerbahçe Beko,96,91
+2022-10-06,2022-23,Turkey BSL,Regular Season,Anadolu Efes,Frutti Extra Bursaspor,82,63
+2022-10-07,2022-23,Turkey BSL,Regular Season,Anadolu Efes,Galatasaray Nef,77,68
+2022-10-08,2022-23,Turkey BSL,Regular Season,Anadolu Efes,Gaziantep Basketbol,77,73
+2022-10-09,2022-23,Turkey BSL,Regular Season,Anadolu Efes,Manisa BB,78,69
+2022-10-10,2022-23,Turkey BSL,Regular Season,Anadolu Efes,ONVO Büyükçekmece,97,98
+2022-10-11,2022-23,Turkey BSL,Regular Season,Anadolu Efes,Petkim Spor,90,64
+2022-10-12,2022-23,Turkey BSL,Regular Season,Anadolu Efes,Pınar Karşıyaka,111,112
+2022-10-13,2022-23,Turkey BSL,Regular Season,Anadolu Efes,Tofaş,84,76
+2022-10-14,2022-23,Turkey BSL,Regular Season,Anadolu Efes,Türk Telekom,102,87
+2022-10-15,2022-23,Turkey BSL,Regular Season,Anadolu Efes,Yukatel Merkezefendi Basket,96,77
+2022-10-16,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Anadolu Efes,83,99
+2022-10-17,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Bahçeşehir Koleji,72,77
+2022-10-18,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Beşiktaş Emlakjet,60,77
+2022-10-19,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Darüşşafaka Lassa,83,73
+2022-10-20,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Fenerbahçe Beko,61,62
+2022-10-21,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Frutti Extra Bursaspor,87,99
+2022-10-22,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Galatasaray Nef,76,73
+2022-10-23,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Gaziantep Basketbol,78,76
+2022-10-24,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Manisa BB,87,91
+2022-10-25,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,ONVO Büyükçekmece,75,85
+2022-10-26,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Petkim Spor,89,84
+2022-10-27,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Pınar Karşıyaka,71,82
+2022-10-28,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Tofaş,80,66
+2022-10-29,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Türk Telekom,75,84
+2022-10-30,2022-23,Turkey BSL,Regular Season,AYOS Konyaspor,Yukatel Merkezefendi Basket,91,92
+2022-10-31,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,Anadolu Efes,62,73
+2022-11-01,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,AYOS Konyaspor,90,77
+2022-11-02,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,Beşiktaş Emlakjet,86,83
+2022-11-03,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,Darüşşafaka Lassa,79,84
+2022-11-04,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,Fenerbahçe Beko,87,93
+2022-11-05,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,Frutti Extra Bursaspor,69,74
+2022-11-06,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,Galatasaray Nef,79,86
+2022-11-07,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,Gaziantep Basketbol,78,73
+2022-11-08,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,Manisa BB,89,85
+2022-11-09,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,ONVO Büyükçekmece,92,77
+2022-11-10,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,Petkim Spor,71,61
+2022-11-11,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,Pınar Karşıyaka,78,73
+2022-11-12,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,Tofaş,89,84
+2022-11-13,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,Türk Telekom,72,77
+2022-11-14,2022-23,Turkey BSL,Regular Season,Bahçeşehir Koleji,Yukatel Merkezefendi Basket,79,78
+2022-11-15,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Anadolu Efes,86,99
+2022-11-16,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,AYOS Konyaspor,82,90
+2022-11-17,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Bahçeşehir Koleji,67,71
+2022-11-18,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Darüşşafaka Lassa,98,84
+2022-11-19,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Fenerbahçe Beko,72,81
+2022-11-20,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Frutti Extra Bursaspor,93,87
+2022-11-21,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Galatasaray Nef,85,78
+2022-11-22,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Gaziantep Basketbol,107,74
+2022-11-23,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Manisa BB,73,76
+2022-11-24,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,ONVO Büyükçekmece,107,69
+2022-11-25,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Petkim Spor,84,85
+2022-11-26,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Pınar Karşıyaka,81,92
+2022-11-27,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Tofaş,105,85
+2022-11-28,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Türk Telekom,75,91
+2022-11-29,2022-23,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Yukatel Merkezefendi Basket,70,59
+2022-11-30,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,Anadolu Efes,80,83
+2022-12-01,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,AYOS Konyaspor,72,70
+2022-12-02,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,Bahçeşehir Koleji,76,69
+2022-12-03,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,Beşiktaş Emlakjet,100,93
+2022-12-04,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,Fenerbahçe Beko,73,79
+2022-12-05,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,Frutti Extra Bursaspor,98,92
+2022-12-06,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,Galatasaray Nef,68,66
+2022-12-07,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,Gaziantep Basketbol,78,74
+2022-12-08,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,Manisa BB,95,84
+2022-12-09,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,ONVO Büyükçekmece,92,81
+2022-12-10,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,Petkim Spor,75,94
+2022-12-11,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,Pınar Karşıyaka,71,87
+2022-12-12,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,Tofaş,88,82
+2022-12-13,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,Türk Telekom,79,97
+2022-12-14,2022-23,Turkey BSL,Regular Season,Darüşşafaka Lassa,Yukatel Merkezefendi Basket,93,80
+2022-12-15,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,Anadolu Efes,93,90
+2022-12-16,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,AYOS Konyaspor,85,71
+2022-12-17,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,Bahçeşehir Koleji,78,72
+2022-12-18,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,Beşiktaş Emlakjet,95,80
+2022-12-19,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,Darüşşafaka Lassa,95,82
+2022-12-20,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,Galatasaray Nef,86,64
+2022-12-21,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,Gaziantep Basketbol,100,50
+2022-12-22,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,Manisa BB,92,78
+2022-12-23,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,ONVO Büyükçekmece,82,69
+2022-12-24,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,Petkim Spor,101,96
+2022-12-25,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,Pınar Karşıyaka,100,88
+2022-12-26,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,Tofaş,82,68
+2022-12-27,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,Türk Telekom,75,82
+2022-12-28,2022-23,Turkey BSL,Regular Season,Fenerbahçe Beko,Yukatel Merkezefendi Basket,79,72
+2022-12-29,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Anadolu Efes,88,86
+2022-12-30,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,AYOS Konyaspor,74,63
+2022-12-31,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Bahçeşehir Koleji,81,87
+2023-01-01,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Beşiktaş Emlakjet,88,74
+2023-01-02,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Darüşşafaka Lassa,97,71
+2023-01-03,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Fenerbahçe Beko,84,100
+2023-01-04,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Galatasaray Nef,88,93
+2023-01-05,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Gaziantep Basketbol,85,82
+2023-01-06,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Manisa BB,96,85
+2023-01-07,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,ONVO Büyükçekmece,91,103
+2023-01-08,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Petkim Spor,92,85
+2023-01-09,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Pınar Karşıyaka,106,99
+2023-01-10,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Tofaş,77,92
+2023-01-11,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Türk Telekom,79,63
+2023-01-12,2022-23,Turkey BSL,Regular Season,Frutti Extra Bursaspor,Yukatel Merkezefendi Basket,95,73
+2023-01-13,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,Anadolu Efes,70,80
+2023-01-14,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,AYOS Konyaspor,100,88
+2023-01-15,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,Bahçeşehir Koleji,94,90
+2023-01-16,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,Beşiktaş Emlakjet,67,74
+2023-01-17,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,Darüşşafaka Lassa,71,65
+2023-01-18,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,Fenerbahçe Beko,91,97
+2023-01-19,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,Frutti Extra Bursaspor,91,80
+2023-01-20,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,Gaziantep Basketbol,77,54
+2023-01-21,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,Manisa BB,84,79
+2023-01-22,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,ONVO Büyükçekmece,82,92
+2023-01-23,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,Petkim Spor,74,82
+2023-01-24,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,Pınar Karşıyaka,70,72
+2023-01-25,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,Tofaş,90,76
+2023-01-26,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,Türk Telekom,106,100
+2023-01-27,2022-23,Turkey BSL,Regular Season,Galatasaray Nef,Yukatel Merkezefendi Basket,83,100
+2023-01-28,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,Anadolu Efes,82,106
+2023-01-29,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,AYOS Konyaspor,85,81
+2023-01-30,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,Bahçeşehir Koleji,69,60
+2023-01-31,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,Beşiktaş Emlakjet,76,82
+2023-02-01,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,Darüşşafaka Lassa,95,99
+2023-02-02,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,Fenerbahçe Beko,68,76
+2023-02-03,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,Frutti Extra Bursaspor,50,69
+2023-02-04,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,Galatasaray Nef,96,78
+2023-02-05,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,Manisa BB,87,73
+2023-02-06,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,ONVO Büyükçekmece,79,61
+2023-02-07,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,Petkim Spor,86,55
+2023-02-08,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,Pınar Karşıyaka,77,84
+2023-02-09,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,Tofaş,77,83
+2023-02-10,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,Türk Telekom,77,76
+2023-02-11,2022-23,Turkey BSL,Regular Season,Gaziantep Basketbol,Yukatel Merkezefendi Basket,80,78
+2023-02-12,2022-23,Turkey BSL,Regular Season,Manisa BB,Anadolu Efes,74,95
+2023-02-13,2022-23,Turkey BSL,Regular Season,Manisa BB,AYOS Konyaspor,79,80
+2023-02-14,2022-23,Turkey BSL,Regular Season,Manisa BB,Bahçeşehir Koleji,81,89
+2023-02-15,2022-23,Turkey BSL,Regular Season,Manisa BB,Beşiktaş Emlakjet,73,66
+2023-02-16,2022-23,Turkey BSL,Regular Season,Manisa BB,Darüşşafaka Lassa,73,92
+2023-02-17,2022-23,Turkey BSL,Regular Season,Manisa BB,Fenerbahçe Beko,58,93
+2023-02-18,2022-23,Turkey BSL,Regular Season,Manisa BB,Frutti Extra Bursaspor,82,87
+2023-02-19,2022-23,Turkey BSL,Regular Season,Manisa BB,Galatasaray Nef,85,72
+2023-02-20,2022-23,Turkey BSL,Regular Season,Manisa BB,Gaziantep Basketbol,69,65
+2023-02-21,2022-23,Turkey BSL,Regular Season,Manisa BB,ONVO Büyükçekmece,87,74
+2023-02-22,2022-23,Turkey BSL,Regular Season,Manisa BB,Petkim Spor,86,78
+2023-02-23,2022-23,Turkey BSL,Regular Season,Manisa BB,Pınar Karşıyaka,80,76
+2023-02-24,2022-23,Turkey BSL,Regular Season,Manisa BB,Tofaş,82,76
+2023-02-25,2022-23,Turkey BSL,Regular Season,Manisa BB,Türk Telekom,50,77
+2023-02-26,2022-23,Turkey BSL,Regular Season,Manisa BB,Yukatel Merkezefendi Basket,90,75
+2023-02-27,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Anadolu Efes,83,76
+2023-02-28,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,AYOS Konyaspor,92,77
+2023-03-01,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Bahçeşehir Koleji,69,67
+2023-03-02,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Beşiktaş Emlakjet,82,69
+2023-03-03,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Darüşşafaka Lassa,70,83
+2023-03-04,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Fenerbahçe Beko,80,85
+2023-03-05,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Frutti Extra Bursaspor,85,87
+2023-03-06,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Galatasaray Nef,63,67
+2023-03-07,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Gaziantep Basketbol,71,68
+2023-03-08,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Manisa BB,69,78
+2023-03-09,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Petkim Spor,89,73
+2023-03-10,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Pınar Karşıyaka,85,72
+2023-03-11,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Tofaş,94,81
+2023-03-12,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Türk Telekom,92,100
+2023-03-13,2022-23,Turkey BSL,Regular Season,ONVO Büyükçekmece,Yukatel Merkezefendi Basket,89,81
+2023-03-14,2022-23,Turkey BSL,Regular Season,Petkim Spor,Anadolu Efes,79,89
+2023-03-15,2022-23,Turkey BSL,Regular Season,Petkim Spor,AYOS Konyaspor,96,85
+2023-03-16,2022-23,Turkey BSL,Regular Season,Petkim Spor,Bahçeşehir Koleji,77,69
+2023-03-17,2022-23,Turkey BSL,Regular Season,Petkim Spor,Beşiktaş Emlakjet,97,83
+2023-03-18,2022-23,Turkey BSL,Regular Season,Petkim Spor,Darüşşafaka Lassa,85,88
+2023-03-19,2022-23,Turkey BSL,Regular Season,Petkim Spor,Fenerbahçe Beko,71,76
+2023-03-20,2022-23,Turkey BSL,Regular Season,Petkim Spor,Frutti Extra Bursaspor,80,72
+2023-03-21,2022-23,Turkey BSL,Regular Season,Petkim Spor,Galatasaray Nef,66,84
+2023-03-22,2022-23,Turkey BSL,Regular Season,Petkim Spor,Gaziantep Basketbol,80,79
+2023-03-23,2022-23,Turkey BSL,Regular Season,Petkim Spor,Manisa BB,84,90
+2023-03-24,2022-23,Turkey BSL,Regular Season,Petkim Spor,ONVO Büyükçekmece,79,75
+2023-03-25,2022-23,Turkey BSL,Regular Season,Petkim Spor,Pınar Karşıyaka,90,85
+2023-03-26,2022-23,Turkey BSL,Regular Season,Petkim Spor,Tofaş,85,95
+2023-03-27,2022-23,Turkey BSL,Regular Season,Petkim Spor,Türk Telekom,70,89
+2023-03-28,2022-23,Turkey BSL,Regular Season,Petkim Spor,Yukatel Merkezefendi Basket,94,87
+2023-03-29,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,Anadolu Efes,98,83
+2023-03-30,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,AYOS Konyaspor,95,89
+2023-03-31,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,Bahçeşehir Koleji,86,82
+2023-04-01,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,Beşiktaş Emlakjet,94,90
+2023-04-02,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,Darüşşafaka Lassa,101,76
+2023-04-03,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,Fenerbahçe Beko,102,98
+2023-04-04,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,Frutti Extra Bursaspor,81,80
+2023-04-05,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,Galatasaray Nef,103,91
+2023-04-06,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,Gaziantep Basketbol,96,91
+2023-04-07,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,Manisa BB,79,76
+2023-04-08,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,ONVO Büyükçekmece,104,102
+2023-04-09,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,Petkim Spor,96,75
+2023-04-10,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,Tofaş,72,83
+2023-04-11,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,Türk Telekom,77,85
+2023-04-12,2022-23,Turkey BSL,Regular Season,Pınar Karşıyaka,Yukatel Merkezefendi Basket,92,76
+2023-04-13,2022-23,Turkey BSL,Regular Season,Tofaş,Anadolu Efes,66,63
+2023-04-14,2022-23,Turkey BSL,Regular Season,Tofaş,AYOS Konyaspor,79,76
+2023-04-15,2022-23,Turkey BSL,Regular Season,Tofaş,Bahçeşehir Koleji,92,79
+2023-04-16,2022-23,Turkey BSL,Regular Season,Tofaş,Beşiktaş Emlakjet,80,72
+2023-04-17,2022-23,Turkey BSL,Regular Season,Tofaş,Darüşşafaka Lassa,94,93
+2023-04-18,2022-23,Turkey BSL,Regular Season,Tofaş,Fenerbahçe Beko,94,89
+2023-04-19,2022-23,Turkey BSL,Regular Season,Tofaş,Frutti Extra Bursaspor,82,83
+2023-04-20,2022-23,Turkey BSL,Regular Season,Tofaş,Galatasaray Nef,81,83
+2023-04-21,2022-23,Turkey BSL,Regular Season,Tofaş,Gaziantep Basketbol,78,88
+2023-04-22,2022-23,Turkey BSL,Regular Season,Tofaş,Manisa BB,90,69
+2023-04-23,2022-23,Turkey BSL,Regular Season,Tofaş,ONVO Büyükçekmece,92,53
+2023-04-24,2022-23,Turkey BSL,Regular Season,Tofaş,Petkim Spor,78,65
+2023-04-25,2022-23,Turkey BSL,Regular Season,Tofaş,Pınar Karşıyaka,81,86
+2023-04-26,2022-23,Turkey BSL,Regular Season,Tofaş,Türk Telekom,91,94
+2023-04-27,2022-23,Turkey BSL,Regular Season,Tofaş,Yukatel Merkezefendi Basket,90,79
+2023-04-28,2022-23,Turkey BSL,Regular Season,Türk Telekom,Anadolu Efes,85,70
+2023-04-29,2022-23,Turkey BSL,Regular Season,Türk Telekom,AYOS Konyaspor,99,93
+2023-04-30,2022-23,Turkey BSL,Regular Season,Türk Telekom,Bahçeşehir Koleji,87,68
+2023-05-01,2022-23,Turkey BSL,Regular Season,Türk Telekom,Beşiktaş Emlakjet,79,67
+2023-05-02,2022-23,Turkey BSL,Regular Season,Türk Telekom,Darüşşafaka Lassa,90,87
+2023-05-03,2022-23,Turkey BSL,Regular Season,Türk Telekom,Fenerbahçe Beko,83,72
+2023-05-04,2022-23,Turkey BSL,Regular Season,Türk Telekom,Frutti Extra Bursaspor,84,63
+2023-05-05,2022-23,Turkey BSL,Regular Season,Türk Telekom,Galatasaray Nef,106,91
+2023-05-06,2022-23,Turkey BSL,Regular Season,Türk Telekom,Gaziantep Basketbol,90,75
+2023-05-07,2022-23,Turkey BSL,Regular Season,Türk Telekom,Manisa BB,98,84
+2023-05-08,2022-23,Turkey BSL,Regular Season,Türk Telekom,ONVO Büyükçekmece,82,66
+2023-05-09,2022-23,Turkey BSL,Regular Season,Türk Telekom,Petkim Spor,115,66
+2023-05-10,2022-23,Turkey BSL,Regular Season,Türk Telekom,Pınar Karşıyaka,92,83
+2023-05-11,2022-23,Turkey BSL,Regular Season,Türk Telekom,Tofaş,89,77
+2023-05-12,2022-23,Turkey BSL,Regular Season,Türk Telekom,Yukatel Merkezefendi Basket,82,71
+2023-05-13,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Anadolu Efes,71,94
+2023-05-14,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,AYOS Konyaspor,91,84
+2023-05-15,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Bahçeşehir Koleji,80,76
+2023-05-16,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Beşiktaş Emlakjet,75,74
+2023-05-17,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Darüşşafaka Lassa,97,94
+2023-05-18,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Fenerbahçe Beko,80,77
+2023-05-19,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Frutti Extra Bursaspor,56,68
+2023-05-20,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Galatasaray Nef,53,78
+2023-05-21,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Gaziantep Basketbol,95,91
+2023-05-22,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Manisa BB,95,79
+2023-05-23,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,ONVO Büyükçekmece,77,76
+2023-05-24,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Petkim Spor,70,79
+2023-05-25,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Pınar Karşıyaka,101,109
+2023-05-26,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Tofaş,88,95
+2023-05-27,2022-23,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Türk Telekom,78,68
+2023-10-01,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Bahçeşehir Koleji,91,82
+2023-10-02,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Beşiktaş Emlakjet,90,75
+2023-10-03,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Bursaspor İnfo Yatırım,90,98
+2023-10-04,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Çağdaş Bodrumspor,87,79
+2023-10-05,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Darüşşafaka Lassa,85,78
+2023-10-06,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Fenerbahçe Beko,81,80
+2023-10-07,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Galatasaray Ekmas,76,95
+2023-10-08,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Manisa BB,99,79
+2023-10-09,2023-24,Turkey BSL,Regular Season,Anadolu Efes,ONVO Büyükçekmece,89,78
+2023-10-10,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Petkim Spor,98,73
+2023-10-11,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Pınar Karşıyaka,101,85
+2023-10-12,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Reeder Samsunspor,91,86
+2023-10-13,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Tofaş,85,75
+2023-10-14,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Türk Telekom,81,82
+2023-10-15,2023-24,Turkey BSL,Regular Season,Anadolu Efes,Yukatel Merkezefendi Basket,83,77
+2023-10-16,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Anadolu Efes,80,87
+2023-10-17,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Beşiktaş Emlakjet,96,93
+2023-10-18,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Bursaspor İnfo Yatırım,67,80
+2023-10-19,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Çağdaş Bodrumspor,89,86
+2023-10-20,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Darüşşafaka Lassa,86,93
+2023-10-21,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Fenerbahçe Beko,105,110
+2023-10-22,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Galatasaray Ekmas,90,89
+2023-10-23,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Manisa BB,78,81
+2023-10-24,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,ONVO Büyükçekmece,98,90
+2023-10-25,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Petkim Spor,91,80
+2023-10-26,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Pınar Karşıyaka,85,93
+2023-10-27,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Reeder Samsunspor,98,69
+2023-10-28,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Tofaş,85,90
+2023-10-29,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Türk Telekom,90,92
+2023-10-30,2023-24,Turkey BSL,Regular Season,Bahçeşehir Koleji,Yukatel Merkezefendi Basket,86,79
+2023-10-31,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Anadolu Efes,85,77
+2023-11-01,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Bahçeşehir Koleji,95,94
+2023-11-02,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Bursaspor İnfo Yatırım,88,59
+2023-11-03,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Çağdaş Bodrumspor,96,90
+2023-11-04,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Darüşşafaka Lassa,88,72
+2023-11-05,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Fenerbahçe Beko,68,64
+2023-11-06,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Galatasaray Ekmas,76,77
+2023-11-07,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Manisa BB,76,73
+2023-11-08,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,ONVO Büyükçekmece,85,72
+2023-11-09,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Petkim Spor,66,62
+2023-11-10,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Pınar Karşıyaka,115,66
+2023-11-11,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Reeder Samsunspor,111,55
+2023-11-12,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Tofaş,69,54
+2023-11-13,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Türk Telekom,77,66
+2023-11-14,2023-24,Turkey BSL,Regular Season,Beşiktaş Emlakjet,Yukatel Merkezefendi Basket,79,58
+2023-11-15,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Anadolu Efes,73,83
+2023-11-16,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Bahçeşehir Koleji,104,91
+2023-11-17,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Beşiktaş Emlakjet,82,76
+2023-11-18,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Çağdaş Bodrumspor,83,69
+2023-11-19,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Darüşşafaka Lassa,68,64
+2023-11-20,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Fenerbahçe Beko,112,116
+2023-11-21,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Galatasaray Ekmas,65,81
+2023-11-22,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Manisa BB,102,94
+2023-11-23,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,ONVO Büyükçekmece,94,81
+2023-11-24,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Petkim Spor,94,84
+2023-11-25,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Pınar Karşıyaka,68,102
+2023-11-26,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Reeder Samsunspor,78,74
+2023-11-27,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Tofaş,89,95
+2023-11-28,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Türk Telekom,69,103
+2023-11-29,2023-24,Turkey BSL,Regular Season,Bursaspor İnfo Yatırım,Yukatel Merkezefendi Basket,85,87
+2023-11-30,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Anadolu Efes,75,87
+2023-12-01,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Bahçeşehir Koleji,74,80
+2023-12-02,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Beşiktaş Emlakjet,82,90
+2023-12-03,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Bursaspor İnfo Yatırım,87,76
+2023-12-04,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Darüşşafaka Lassa,89,73
+2023-12-05,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Fenerbahçe Beko,92,93
+2023-12-06,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Galatasaray Ekmas,77,81
+2023-12-07,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Manisa BB,67,87
+2023-12-08,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,ONVO Büyükçekmece,83,79
+2023-12-09,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Petkim Spor,62,80
+2023-12-10,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Pınar Karşıyaka,97,98
+2023-12-11,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Reeder Samsunspor,71,83
+2023-12-12,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Tofaş,78,80
+2023-12-13,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Türk Telekom,79,88
+2023-12-14,2023-24,Turkey BSL,Regular Season,Çağdaş Bodrumspor,Yukatel Merkezefendi Basket,88,84
+2023-12-15,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Anadolu Efes,74,87
+2023-12-16,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Bahçeşehir Koleji,68,75
+2023-12-17,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Beşiktaş Emlakjet,64,61
+2023-12-18,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Bursaspor İnfo Yatırım,94,85
+2023-12-19,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Çağdaş Bodrumspor,97,103
+2023-12-20,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Fenerbahçe Beko,56,98
+2023-12-21,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Galatasaray Ekmas,75,72
+2023-12-22,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Manisa BB,87,89
+2023-12-23,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,ONVO Büyükçekmece,84,80
+2023-12-24,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Petkim Spor,72,83
+2023-12-25,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Pınar Karşıyaka,83,78
+2023-12-26,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Reeder Samsunspor,108,78
+2023-12-27,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Tofaş,76,82
+2023-12-28,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Türk Telekom,86,84
+2023-12-29,2023-24,Turkey BSL,Regular Season,Darüşşafaka Lassa,Yukatel Merkezefendi Basket,86,88
+2023-12-30,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Anadolu Efes,80,90
+2023-12-31,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Bahçeşehir Koleji,113,98
+2024-01-01,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Beşiktaş Emlakjet,87,66
+2024-01-02,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Bursaspor İnfo Yatırım,97,90
+2024-01-03,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Çağdaş Bodrumspor,95,58
+2024-01-04,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Darüşşafaka Lassa,110,77
+2024-01-05,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Galatasaray Ekmas,90,74
+2024-01-06,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Manisa BB,98,82
+2024-01-07,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,ONVO Büyükçekmece,92,90
+2024-01-08,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Petkim Spor,96,85
+2024-01-09,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Pınar Karşıyaka,93,63
+2024-01-10,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Reeder Samsunspor,83,53
+2024-01-11,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Tofaş,109,77
+2024-01-12,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Türk Telekom,99,71
+2024-01-13,2023-24,Turkey BSL,Regular Season,Fenerbahçe Beko,Yukatel Merkezefendi Basket,90,64
+2024-01-14,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Anadolu Efes,92,95
+2024-01-15,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Bahçeşehir Koleji,86,92
+2024-01-16,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Beşiktaş Emlakjet,89,83
+2024-01-17,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Bursaspor İnfo Yatırım,80,82
+2024-01-18,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Çağdaş Bodrumspor,77,87
+2024-01-19,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Darüşşafaka Lassa,95,78
+2024-01-20,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Fenerbahçe Beko,62,74
+2024-01-21,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Manisa BB,85,81
+2024-01-22,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,ONVO Büyükçekmece,96,101
+2024-01-23,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Petkim Spor,90,88
+2024-01-24,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Pınar Karşıyaka,86,92
+2024-01-25,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Reeder Samsunspor,113,69
+2024-01-26,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Tofaş,95,76
+2024-01-27,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Türk Telekom,75,76
+2024-01-28,2023-24,Turkey BSL,Regular Season,Galatasaray Ekmas,Yukatel Merkezefendi Basket,87,102
+2024-01-29,2023-24,Turkey BSL,Regular Season,Manisa BB,Anadolu Efes,76,81
+2024-01-30,2023-24,Turkey BSL,Regular Season,Manisa BB,Bahçeşehir Koleji,90,88
+2024-01-31,2023-24,Turkey BSL,Regular Season,Manisa BB,Beşiktaş Emlakjet,78,70
+2024-02-01,2023-24,Turkey BSL,Regular Season,Manisa BB,Bursaspor İnfo Yatırım,98,95
+2024-02-02,2023-24,Turkey BSL,Regular Season,Manisa BB,Çağdaş Bodrumspor,65,79
+2024-02-03,2023-24,Turkey BSL,Regular Season,Manisa BB,Darüşşafaka Lassa,69,62
+2024-02-04,2023-24,Turkey BSL,Regular Season,Manisa BB,Fenerbahçe Beko,69,82
+2024-02-05,2023-24,Turkey BSL,Regular Season,Manisa BB,Galatasaray Ekmas,80,83
+2024-02-06,2023-24,Turkey BSL,Regular Season,Manisa BB,ONVO Büyükçekmece,64,78
+2024-02-07,2023-24,Turkey BSL,Regular Season,Manisa BB,Petkim Spor,90,106
+2024-02-08,2023-24,Turkey BSL,Regular Season,Manisa BB,Pınar Karşıyaka,80,98
+2024-02-09,2023-24,Turkey BSL,Regular Season,Manisa BB,Reeder Samsunspor,90,60
+2024-02-10,2023-24,Turkey BSL,Regular Season,Manisa BB,Tofaş,91,89
+2024-02-11,2023-24,Turkey BSL,Regular Season,Manisa BB,Türk Telekom,81,67
+2024-02-12,2023-24,Turkey BSL,Regular Season,Manisa BB,Yukatel Merkezefendi Basket,93,76
+2024-02-13,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Anadolu Efes,70,79
+2024-02-14,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Bahçeşehir Koleji,75,68
+2024-02-15,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Beşiktaş Emlakjet,70,86
+2024-02-16,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Bursaspor İnfo Yatırım,75,70
+2024-02-17,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Çağdaş Bodrumspor,108,71
+2024-02-18,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Darüşşafaka Lassa,80,88
+2024-02-19,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Fenerbahçe Beko,58,89
+2024-02-20,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Galatasaray Ekmas,61,70
+2024-02-21,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Manisa BB,103,76
+2024-02-22,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Petkim Spor,96,94
+2024-02-23,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Pınar Karşıyaka,75,93
+2024-02-24,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Reeder Samsunspor,96,58
+2024-02-25,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Tofaş,84,82
+2024-02-26,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Türk Telekom,84,83
+2024-02-27,2023-24,Turkey BSL,Regular Season,ONVO Büyükçekmece,Yukatel Merkezefendi Basket,76,78
+2024-02-28,2023-24,Turkey BSL,Regular Season,Petkim Spor,Anadolu Efes,92,101
+2024-02-29,2023-24,Turkey BSL,Regular Season,Petkim Spor,Bahçeşehir Koleji,76,61
+2024-03-01,2023-24,Turkey BSL,Regular Season,Petkim Spor,Beşiktaş Emlakjet,58,70
+2024-03-02,2023-24,Turkey BSL,Regular Season,Petkim Spor,Bursaspor İnfo Yatırım,78,94
+2024-03-03,2023-24,Turkey BSL,Regular Season,Petkim Spor,Çağdaş Bodrumspor,120,76
+2024-03-04,2023-24,Turkey BSL,Regular Season,Petkim Spor,Darüşşafaka Lassa,112,78
+2024-03-05,2023-24,Turkey BSL,Regular Season,Petkim Spor,Fenerbahçe Beko,59,81
+2024-03-06,2023-24,Turkey BSL,Regular Season,Petkim Spor,Galatasaray Ekmas,76,74
+2024-03-07,2023-24,Turkey BSL,Regular Season,Petkim Spor,Manisa BB,94,74
+2024-03-08,2023-24,Turkey BSL,Regular Season,Petkim Spor,ONVO Büyükçekmece,99,95
+2024-03-09,2023-24,Turkey BSL,Regular Season,Petkim Spor,Pınar Karşıyaka,81,69
+2024-03-10,2023-24,Turkey BSL,Regular Season,Petkim Spor,Reeder Samsunspor,93,83
+2024-03-11,2023-24,Turkey BSL,Regular Season,Petkim Spor,Tofaş,107,100
+2024-03-12,2023-24,Turkey BSL,Regular Season,Petkim Spor,Türk Telekom,96,94
+2024-03-13,2023-24,Turkey BSL,Regular Season,Petkim Spor,Yukatel Merkezefendi Basket,89,81
+2024-03-14,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Anadolu Efes,99,81
+2024-03-15,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Bahçeşehir Koleji,92,76
+2024-03-16,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Beşiktaş Emlakjet,94,85
+2024-03-17,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Bursaspor İnfo Yatırım,95,75
+2024-03-18,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Çağdaş Bodrumspor,90,82
+2024-03-19,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Darüşşafaka Lassa,86,98
+2024-03-20,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Fenerbahçe Beko,84,79
+2024-03-21,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Galatasaray Ekmas,98,76
+2024-03-22,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Manisa BB,87,91
+2024-03-23,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,ONVO Büyükçekmece,93,87
+2024-03-24,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Petkim Spor,90,74
+2024-03-25,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Reeder Samsunspor,103,71
+2024-03-26,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Tofaş,98,71
+2024-03-27,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Türk Telekom,100,80
+2024-03-28,2023-24,Turkey BSL,Regular Season,Pınar Karşıyaka,Yukatel Merkezefendi Basket,97,73
+2024-03-29,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Anadolu Efes,73,93
+2024-03-30,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Bahçeşehir Koleji,69,105
+2024-03-31,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Beşiktaş Emlakjet,70,76
+2024-04-01,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Bursaspor İnfo Yatırım,80,108
+2024-04-02,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Çağdaş Bodrumspor,61,100
+2024-04-03,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Darüşşafaka Lassa,90,98
+2024-04-04,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Fenerbahçe Beko,75,96
+2024-04-05,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Galatasaray Ekmas,70,72
+2024-04-06,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Manisa BB,71,77
+2024-04-07,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,ONVO Büyükçekmece,67,71
+2024-04-08,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Petkim Spor,67,81
+2024-04-09,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Pınar Karşıyaka,80,82
+2024-04-10,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Tofaş,87,86
+2024-04-11,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Türk Telekom,55,75
+2024-04-12,2023-24,Turkey BSL,Regular Season,Reeder Samsunspor,Yukatel Merkezefendi Basket,95,85
+2024-04-13,2023-24,Turkey BSL,Regular Season,Tofaş,Anadolu Efes,93,95
+2024-04-14,2023-24,Turkey BSL,Regular Season,Tofaş,Bahçeşehir Koleji,88,86
+2024-04-15,2023-24,Turkey BSL,Regular Season,Tofaş,Beşiktaş Emlakjet,81,85
+2024-04-16,2023-24,Turkey BSL,Regular Season,Tofaş,Bursaspor İnfo Yatırım,91,85
+2024-04-17,2023-24,Turkey BSL,Regular Season,Tofaş,Çağdaş Bodrumspor,102,82
+2024-04-18,2023-24,Turkey BSL,Regular Season,Tofaş,Darüşşafaka Lassa,83,90
+2024-04-19,2023-24,Turkey BSL,Regular Season,Tofaş,Fenerbahçe Beko,86,95
+2024-04-20,2023-24,Turkey BSL,Regular Season,Tofaş,Galatasaray Ekmas,102,107
+2024-04-21,2023-24,Turkey BSL,Regular Season,Tofaş,Manisa BB,77,89
+2024-04-22,2023-24,Turkey BSL,Regular Season,Tofaş,ONVO Büyükçekmece,73,94
+2024-04-23,2023-24,Turkey BSL,Regular Season,Tofaş,Petkim Spor,84,71
+2024-04-24,2023-24,Turkey BSL,Regular Season,Tofaş,Pınar Karşıyaka,111,91
+2024-04-25,2023-24,Turkey BSL,Regular Season,Tofaş,Reeder Samsunspor,104,91
+2024-04-26,2023-24,Turkey BSL,Regular Season,Tofaş,Türk Telekom,79,62
+2024-04-27,2023-24,Turkey BSL,Regular Season,Tofaş,Yukatel Merkezefendi Basket,98,77
+2024-04-28,2023-24,Turkey BSL,Regular Season,Türk Telekom,Anadolu Efes,69,71
+2024-04-29,2023-24,Turkey BSL,Regular Season,Türk Telekom,Bahçeşehir Koleji,92,95
+2024-04-30,2023-24,Turkey BSL,Regular Season,Türk Telekom,Beşiktaş Emlakjet,83,89
+2024-05-01,2023-24,Turkey BSL,Regular Season,Türk Telekom,Bursaspor İnfo Yatırım,72,68
+2024-05-02,2023-24,Turkey BSL,Regular Season,Türk Telekom,Çağdaş Bodrumspor,73,60
+2024-05-03,2023-24,Turkey BSL,Regular Season,Türk Telekom,Darüşşafaka Lassa,90,71
+2024-05-04,2023-24,Turkey BSL,Regular Season,Türk Telekom,Fenerbahçe Beko,95,91
+2024-05-05,2023-24,Turkey BSL,Regular Season,Türk Telekom,Galatasaray Ekmas,90,92
+2024-05-06,2023-24,Turkey BSL,Regular Season,Türk Telekom,Manisa BB,79,83
+2024-05-07,2023-24,Turkey BSL,Regular Season,Türk Telekom,ONVO Büyükçekmece,71,74
+2024-05-08,2023-24,Turkey BSL,Regular Season,Türk Telekom,Petkim Spor,81,79
+2024-05-09,2023-24,Turkey BSL,Regular Season,Türk Telekom,Pınar Karşıyaka,70,81
+2024-05-10,2023-24,Turkey BSL,Regular Season,Türk Telekom,Reeder Samsunspor,89,69
+2024-05-11,2023-24,Turkey BSL,Regular Season,Türk Telekom,Tofaş,87,83
+2024-05-12,2023-24,Turkey BSL,Regular Season,Türk Telekom,Yukatel Merkezefendi Basket,112,89
+2024-05-13,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Anadolu Efes,64,79
+2024-05-14,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Bahçeşehir Koleji,86,75
+2024-05-15,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Beşiktaş Emlakjet,73,83
+2024-05-16,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Bursaspor İnfo Yatırım,82,87
+2024-05-17,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Çağdaş Bodrumspor,83,68
+2024-05-18,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Darüşşafaka Lassa,83,81
+2024-05-19,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Fenerbahçe Beko,68,93
+2024-05-20,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Galatasaray Ekmas,77,93
+2024-05-21,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Manisa BB,82,68
+2024-05-22,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,ONVO Büyükçekmece,94,93
+2024-05-23,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Petkim Spor,63,61
+2024-05-24,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Pınar Karşıyaka,107,94
+2024-05-25,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Reeder Samsunspor,83,74
+2024-05-26,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Tofaş,93,97
+2024-05-27,2023-24,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Türk Telekom,95,81
+2024-10-01,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Beşiktaş Fibabanka,90,87
+2024-10-01,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Bahçeşehir Koleji,93,80
+2024-10-02,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Bursaspor Yörsan,83,68
+2024-10-03,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Darüşşafaka Lassa,95,72
+2024-10-04,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Fenerbahçe Beko,81,82
+2024-10-05,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Galatasaray Basketbol,99,87
+2024-10-06,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Karşıyaka Basket,99,96
+2024-10-07,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Manisa Basket Divissa,85,73
+2024-10-08,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Mersin MSK,102,83
+2024-10-09,2024-25,Turkey BSL,Regular Season,Anadolu Efes,ONVO Büyükçekmece,76,65
+2024-10-10,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Petkim Spor,101,103
+2024-10-11,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Tofaş,97,72
+2024-10-12,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Türk Telekom,86,81
+2024-10-13,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Yalovaspor Basketbol,100,59
+2024-10-14,2024-25,Turkey BSL,Regular Season,Anadolu Efes,Yukatel Merkezefendi Basket,97,100
+2024-10-15,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Anadolu Efes,82,85
+2024-10-16,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Beşiktaş Fibabanka,85,90
+2024-10-17,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Bursaspor Yörsan,92,67
+2024-10-18,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Darüşşafaka Lassa,84,73
+2024-10-19,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Fenerbahçe Beko,70,82
+2024-10-20,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Galatasaray Basketbol,80,86
+2024-10-21,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Karşıyaka Basket,82,68
+2024-10-22,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Manisa Basket Divissa,59,60
+2024-10-23,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Mersin MSK,86,71
+2024-10-24,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,ONVO Büyükçekmece,76,70
+2024-10-25,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Petkim Spor,77,75
+2024-10-26,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Tofaş,85,78
+2024-10-27,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Türk Telekom,79,74
+2024-10-28,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Yalovaspor Basketbol,83,82
+2024-10-29,2024-25,Turkey BSL,Regular Season,Bahçeşehir Koleji,Yukatel Merkezefendi Basket,112,76
+2024-10-30,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Anadolu Efes,87,70
+2024-10-31,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Bahçeşehir Koleji,82,78
+2024-11-01,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Bursaspor Yörsan,86,95
+2024-11-02,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Darüşşafaka Lassa,88,77
+2024-11-03,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Fenerbahçe Beko,72,62
+2024-11-04,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Galatasaray Basketbol,92,77
+2024-11-05,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Karşıyaka Basket,89,82
+2024-11-06,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Manisa Basket Divissa,82,80
+2024-11-07,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Mersin MSK,72,66
+2024-11-08,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,ONVO Büyükçekmece,95,84
+2024-11-09,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Petkim Spor,88,80
+2024-11-10,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Tofaş,95,70
+2024-11-11,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Türk Telekom,96,88
+2024-11-12,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Yalovaspor Basketbol,103,82
+2024-11-13,2024-25,Turkey BSL,Regular Season,Beşiktaş Fibabanka,Yukatel Merkezefendi Basket,102,77
+2024-11-14,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Anadolu Efes,78,99
+2024-11-15,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Bahçeşehir Koleji,92,80
+2024-11-16,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Beşiktaş Fibabanka,91,121
+2024-11-17,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Darüşşafaka Lassa,98,82
+2024-11-18,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Fenerbahçe Beko,97,98
+2024-11-19,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Galatasaray Basketbol,82,105
+2024-11-20,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Karşıyaka Basket,70,76
+2024-11-21,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Manisa Basket Divissa,80,96
+2024-11-22,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Mersin MSK,85,97
+2024-11-23,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,ONVO Büyükçekmece,68,89
+2024-11-24,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Petkim Spor,85,111
+2024-11-25,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Tofaş,98,93
+2024-11-26,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Türk Telekom,94,90
+2024-11-27,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Yalovaspor Basketbol,104,93
+2024-11-28,2024-25,Turkey BSL,Regular Season,Bursaspor Yörsan,Yukatel Merkezefendi Basket,98,90
+2024-11-29,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Anadolu Efes,67,83
+2024-11-30,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Bahçeşehir Koleji,84,88
+2024-12-01,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Beşiktaş Fibabanka,76,91
+2024-12-02,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Bursaspor Yörsan,85,81
+2024-12-03,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Fenerbahçe Beko,87,97
+2024-12-04,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Galatasaray Basketbol,94,87
+2024-12-05,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Karşıyaka Basket,84,75
+2024-12-06,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Manisa Basket Divissa,94,86
+2024-12-07,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Mersin MSK,89,81
+2024-12-08,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,ONVO Büyükçekmece,82,85
+2024-12-09,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Petkim Spor,83,64
+2024-12-10,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Tofaş,78,87
+2024-12-11,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Türk Telekom,89,71
+2024-12-12,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Yalovaspor Basketbol,77,84
+2024-12-13,2024-25,Turkey BSL,Regular Season,Darüşşafaka Lassa,Yukatel Merkezefendi Basket,88,68
+2024-12-14,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Anadolu Efes,86,72
+2024-12-15,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Bahçeşehir Koleji,95,80
+2024-12-16,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Beşiktaş Fibabanka,90,79
+2024-12-17,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Bursaspor Yörsan,95,78
+2024-12-18,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Darüşşafaka Lassa,91,75
+2024-12-19,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Galatasaray Basketbol,94,70
+2024-12-20,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Karşıyaka Basket,78,67
+2024-12-21,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Manisa Basket Divissa,77,73
+2024-12-22,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Mersin MSK,101,93
+2024-12-23,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,ONVO Büyükçekmece,97,85
+2024-12-24,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Petkim Spor,66,75
+2024-12-25,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Tofaş,90,88
+2024-12-26,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Türk Telekom,94,85
+2024-12-27,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Yalovaspor Basketbol,100,94
+2024-12-28,2024-25,Turkey BSL,Regular Season,Fenerbahçe Beko,Yukatel Merkezefendi Basket,91,72
+2024-12-29,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Anadolu Efes,53,87
+2024-12-30,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Bahçeşehir Koleji,87,84
+2024-12-31,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Beşiktaş Fibabanka,91,88
+2025-01-01,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Bursaspor Yörsan,95,89
+2025-01-02,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Darüşşafaka Lassa,100,82
+2025-01-03,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Fenerbahçe Beko,81,95
+2025-01-04,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Karşıyaka Basket,101,80
+2025-01-05,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Manisa Basket Divissa,115,105
+2025-01-06,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Mersin MSK,101,82
+2025-01-07,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,ONVO Büyükçekmece,110,112
+2025-01-08,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Petkim Spor,81,86
+2025-01-09,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Tofaş,76,80
+2025-01-10,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Türk Telekom,73,78
+2025-01-11,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Yalovaspor Basketbol,79,69
+2025-01-12,2024-25,Turkey BSL,Regular Season,Galatasaray Basketbol,Yukatel Merkezefendi Basket,84,78
+2025-01-13,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Anadolu Efes,77,95
+2025-01-14,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Bahçeşehir Koleji,65,80
+2025-01-15,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Beşiktaş Fibabanka,79,93
+2025-01-16,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Bursaspor Yörsan,82,78
+2025-01-17,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Darüşşafaka Lassa,101,86
+2025-01-18,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Fenerbahçe Beko,90,101
+2025-01-19,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Galatasaray Basketbol,94,81
+2025-01-20,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Manisa Basket Divissa,103,91
+2025-01-21,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Mersin MSK,107,81
+2025-01-22,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,ONVO Büyükçekmece,83,94
+2025-01-23,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Petkim Spor,93,90
+2025-01-24,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Tofaş,81,93
+2025-01-25,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Türk Telekom,76,73
+2025-01-26,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Yalovaspor Basketbol,104,81
+2025-01-27,2024-25,Turkey BSL,Regular Season,Karşıyaka Basket,Yukatel Merkezefendi Basket,105,88
+2025-01-28,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Anadolu Efes,72,83
+2025-01-29,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Bahçeşehir Koleji,90,109
+2025-01-30,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Beşiktaş Fibabanka,94,88
+2025-01-31,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Bursaspor Yörsan,73,81
+2025-02-01,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Darüşşafaka Lassa,86,96
+2025-02-02,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Fenerbahçe Beko,82,90
+2025-02-03,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Galatasaray Basketbol,94,75
+2025-02-04,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Karşıyaka Basket,100,79
+2025-02-05,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Mersin MSK,105,100
+2025-02-06,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,ONVO Büyükçekmece,87,98
+2025-02-07,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Petkim Spor,67,74
+2025-02-08,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Tofaş,106,109
+2025-02-09,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Türk Telekom,87,89
+2025-02-10,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Yalovaspor Basketbol,107,89
+2025-02-11,2024-25,Turkey BSL,Regular Season,Manisa Basket Divissa,Yukatel Merkezefendi Basket,80,75
+2025-02-12,2024-25,Turkey BSL,Regular Season,Mersin MSK,Anadolu Efes,76,94
+2025-02-13,2024-25,Turkey BSL,Regular Season,Mersin MSK,Bahçeşehir Koleji,74,73
+2025-02-14,2024-25,Turkey BSL,Regular Season,Mersin MSK,Beşiktaş Fibabanka,93,99
+2025-02-15,2024-25,Turkey BSL,Regular Season,Mersin MSK,Bursaspor Yörsan,89,82
+2025-02-16,2024-25,Turkey BSL,Regular Season,Mersin MSK,Darüşşafaka Lassa,105,89
+2025-02-17,2024-25,Turkey BSL,Regular Season,Mersin MSK,Fenerbahçe Beko,69,98
+2025-02-18,2024-25,Turkey BSL,Regular Season,Mersin MSK,Galatasaray Basketbol,89,73
+2025-02-19,2024-25,Turkey BSL,Regular Season,Mersin MSK,Karşıyaka Basket,94,87
+2025-02-20,2024-25,Turkey BSL,Regular Season,Mersin MSK,Manisa Basket Divissa,97,88
+2025-02-21,2024-25,Turkey BSL,Regular Season,Mersin MSK,ONVO Büyükçekmece,63,66
+2025-02-22,2024-25,Turkey BSL,Regular Season,Mersin MSK,Petkim Spor,67,57
+2025-02-23,2024-25,Turkey BSL,Regular Season,Mersin MSK,Tofaş,79,58
+2025-02-24,2024-25,Turkey BSL,Regular Season,Mersin MSK,Türk Telekom,95,73
+2025-02-25,2024-25,Turkey BSL,Regular Season,Mersin MSK,Yalovaspor Basketbol,78,73
+2025-02-26,2024-25,Turkey BSL,Regular Season,Mersin MSK,Yukatel Merkezefendi Basket,111,108
+2025-02-27,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Anadolu Efes,91,89
+2025-02-28,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Bahçeşehir Koleji,102,93
+2025-03-01,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Beşiktaş Fibabanka,88,89
+2025-03-02,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Bursaspor Yörsan,84,87
+2025-03-03,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Darüşşafaka Lassa,89,86
+2025-03-04,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Fenerbahçe Beko,73,78
+2025-03-05,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Galatasaray Basketbol,65,76
+2025-03-06,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Karşıyaka Basket,75,82
+2025-03-07,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Manisa Basket Divissa,84,107
+2025-03-08,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Mersin MSK,96,97
+2025-03-09,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Petkim Spor,67,72
+2025-03-10,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Tofaş,88,83
+2025-03-11,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Türk Telekom,99,88
+2025-03-12,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Yalovaspor Basketbol,89,91
+2025-03-13,2024-25,Turkey BSL,Regular Season,ONVO Büyükçekmece,Yukatel Merkezefendi Basket,81,89
+2025-03-14,2024-25,Turkey BSL,Regular Season,Petkim Spor,Anadolu Efes,79,85
+2025-03-15,2024-25,Turkey BSL,Regular Season,Petkim Spor,Bahçeşehir Koleji,88,92
+2025-03-16,2024-25,Turkey BSL,Regular Season,Petkim Spor,Beşiktaş Fibabanka,73,96
+2025-03-17,2024-25,Turkey BSL,Regular Season,Petkim Spor,Bursaspor Yörsan,86,95
+2025-03-18,2024-25,Turkey BSL,Regular Season,Petkim Spor,Darüşşafaka Lassa,108,85
+2025-03-19,2024-25,Turkey BSL,Regular Season,Petkim Spor,Fenerbahçe Beko,75,88
+2025-03-20,2024-25,Turkey BSL,Regular Season,Petkim Spor,Galatasaray Basketbol,77,94
+2025-03-21,2024-25,Turkey BSL,Regular Season,Petkim Spor,Karşıyaka Basket,83,82
+2025-03-22,2024-25,Turkey BSL,Regular Season,Petkim Spor,Manisa Basket Divissa,80,89
+2025-03-23,2024-25,Turkey BSL,Regular Season,Petkim Spor,Mersin MSK,77,85
+2025-03-24,2024-25,Turkey BSL,Regular Season,Petkim Spor,ONVO Büyükçekmece,83,82
+2025-03-25,2024-25,Turkey BSL,Regular Season,Petkim Spor,Tofaş,88,95
+2025-03-26,2024-25,Turkey BSL,Regular Season,Petkim Spor,Türk Telekom,68,75
+2025-03-27,2024-25,Turkey BSL,Regular Season,Petkim Spor,Yalovaspor Basketbol,93,65
+2025-03-28,2024-25,Turkey BSL,Regular Season,Petkim Spor,Yukatel Merkezefendi Basket,82,78
+2025-03-29,2024-25,Turkey BSL,Regular Season,Tofaş,Anadolu Efes,77,70
+2025-03-30,2024-25,Turkey BSL,Regular Season,Tofaş,Bahçeşehir Koleji,75,86
+2025-03-31,2024-25,Turkey BSL,Regular Season,Tofaş,Beşiktaş Fibabanka,99,95
+2025-04-01,2024-25,Turkey BSL,Regular Season,Tofaş,Bursaspor Yörsan,94,71
+2025-04-02,2024-25,Turkey BSL,Regular Season,Tofaş,Darüşşafaka Lassa,111,93
+2025-04-03,2024-25,Turkey BSL,Regular Season,Tofaş,Fenerbahçe Beko,88,89
+2025-04-04,2024-25,Turkey BSL,Regular Season,Tofaş,Galatasaray Basketbol,88,83
+2025-04-05,2024-25,Turkey BSL,Regular Season,Tofaş,Karşıyaka Basket,90,76
+2025-04-06,2024-25,Turkey BSL,Regular Season,Tofaş,Manisa Basket Divissa,98,106
+2025-04-07,2024-25,Turkey BSL,Regular Season,Tofaş,Mersin MSK,87,65
+2025-04-08,2024-25,Turkey BSL,Regular Season,Tofaş,ONVO Büyükçekmece,93,86
+2025-04-09,2024-25,Turkey BSL,Regular Season,Tofaş,Petkim Spor,107,99
+2025-04-10,2024-25,Turkey BSL,Regular Season,Tofaş,Türk Telekom,93,82
+2025-04-11,2024-25,Turkey BSL,Regular Season,Tofaş,Yalovaspor Basketbol,105,90
+2025-04-12,2024-25,Turkey BSL,Regular Season,Tofaş,Yukatel Merkezefendi Basket,91,80
+2025-04-13,2024-25,Turkey BSL,Regular Season,Türk Telekom,Anadolu Efes,90,100
+2025-04-14,2024-25,Turkey BSL,Regular Season,Türk Telekom,Bahçeşehir Koleji,59,79
+2025-04-15,2024-25,Turkey BSL,Regular Season,Türk Telekom,Beşiktaş Fibabanka,93,75
+2025-04-16,2024-25,Turkey BSL,Regular Season,Türk Telekom,Bursaspor Yörsan,76,93
+2025-04-17,2024-25,Turkey BSL,Regular Season,Türk Telekom,Darüşşafaka Lassa,105,68
+2025-04-18,2024-25,Turkey BSL,Regular Season,Türk Telekom,Fenerbahçe Beko,73,85
+2025-04-19,2024-25,Turkey BSL,Regular Season,Türk Telekom,Galatasaray Basketbol,72,70
+2025-04-20,2024-25,Turkey BSL,Regular Season,Türk Telekom,Karşıyaka Basket,95,73
+2025-04-21,2024-25,Turkey BSL,Regular Season,Türk Telekom,Manisa Basket Divissa,80,85
+2025-04-22,2024-25,Turkey BSL,Regular Season,Türk Telekom,Mersin MSK,94,80
+2025-04-23,2024-25,Turkey BSL,Regular Season,Türk Telekom,ONVO Büyükçekmece,101,105
+2025-04-24,2024-25,Turkey BSL,Regular Season,Türk Telekom,Petkim Spor,85,75
+2025-04-25,2024-25,Turkey BSL,Regular Season,Türk Telekom,Tofaş,86,72
+2025-04-26,2024-25,Turkey BSL,Regular Season,Türk Telekom,Yalovaspor Basketbol,82,64
+2025-04-27,2024-25,Turkey BSL,Regular Season,Türk Telekom,Yukatel Merkezefendi Basket,64,78
+2025-04-28,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Anadolu Efes,83,110
+2025-04-29,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Bahçeşehir Koleji,88,89
+2025-04-30,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Beşiktaş Fibabanka,71,91
+2025-05-01,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Bursaspor Yörsan,75,95
+2025-05-02,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Darüşşafaka Lassa,75,70
+2025-05-03,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Fenerbahçe Beko,90,97
+2025-05-04,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Galatasaray Basketbol,81,88
+2025-05-05,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Karşıyaka Basket,78,75
+2025-05-06,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Manisa Basket Divissa,79,74
+2025-05-07,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Mersin MSK,93,60
+2025-05-08,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,ONVO Büyükçekmece,65,85
+2025-05-09,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Petkim Spor,78,87
+2025-05-10,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Tofaş,65,77
+2025-05-11,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Türk Telekom,93,96
+2025-05-12,2024-25,Turkey BSL,Regular Season,Yalovaspor Basketbol,Yukatel Merkezefendi Basket,90,76
+2025-05-13,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Anadolu Efes,63,96
+2025-05-14,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Bahçeşehir Koleji,72,78
+2025-05-15,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Beşiktaş Fibabanka,72,86
+2025-05-16,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Bursaspor Yörsan,74,88
+2025-05-17,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Darüşşafaka Lassa,85,82
+2025-05-18,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Fenerbahçe Beko,79,63
+2025-05-19,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Galatasaray Basketbol,98,96
+2025-05-20,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Karşıyaka Basket,95,71
+2025-05-21,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Manisa Basket Divissa,92,78
+2025-05-22,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Mersin MSK,65,75
+2025-05-23,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,ONVO Büyükçekmece,80,75
+2025-05-24,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Petkim Spor,95,85
+2025-05-25,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Tofaş,92,94
+2025-05-26,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Türk Telekom,75,86
+2025-05-27,2024-25,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Yalovaspor Basketbol,99,93
+2025-10-01,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Bahçeşehir Koleji,75,78
+2025-10-01,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Beşiktaş Gain,89,80
+2025-10-02,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Bursaspor Basketbol,95,80
+2025-10-03,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Fenerbahçe Beko,73,89
+2025-10-04,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Galatasaray MCT Technic,92,84
+2025-10-05,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Glint Manisa Basket,104,72
+2025-10-06,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Karşıyaka Basket,98,81
+2025-10-07,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Mersin MSK,93,80
+2025-10-08,2025-26,Turkey BSL,Regular Season,Anadolu Efes,ONVO Büyükçekmece,113,79
+2025-10-09,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Petkim Spor,92,96
+2025-10-10,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Safiport Erokspor,90,76
+2025-10-11,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Tofaş,92,82
+2025-10-12,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Trabzonspor,99,87
+2025-10-13,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Türk Telekom,101,91
+2025-10-14,2025-26,Turkey BSL,Regular Season,Anadolu Efes,Yukatel Merkezefendi Basket,90,72
+2025-10-15,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Anadolu Efes,85,76
+2025-10-16,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Beşiktaş Gain,88,95
+2025-10-17,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Bursaspor Basketbol,100,61
+2025-10-18,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Fenerbahçe Beko,86,96
+2025-10-19,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Galatasaray MCT Technic,93,86
+2025-10-20,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Glint Manisa Basket,112,105
+2025-10-21,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Karşıyaka Basket,74,88
+2025-10-22,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Mersin MSK,72,69
+2025-10-23,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,ONVO Büyükçekmece,81,58
+2025-10-24,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Petkim Spor,100,60
+2025-10-25,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Safiport Erokspor,65,83
+2025-10-26,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Tofaş,78,76
+2025-10-27,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Trabzonspor,91,77
+2025-10-28,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Türk Telekom,82,73
+2025-10-29,2025-26,Turkey BSL,Regular Season,Bahçeşehir Koleji,Yukatel Merkezefendi Basket,85,67
+2025-10-30,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Anadolu Efes,78,69
+2025-10-31,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Bahçeşehir Koleji,87,80
+2025-11-01,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Bursaspor Basketbol,88,70
+2025-11-02,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Fenerbahçe Beko,87,101
+2025-11-03,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Galatasaray MCT Technic,82,89
+2025-11-04,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Glint Manisa Basket,79,65
+2025-11-05,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Karşıyaka Basket,92,86
+2025-11-06,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Mersin MSK,84,59
+2025-11-07,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,ONVO Büyükçekmece,100,76
+2025-11-08,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Petkim Spor,81,69
+2025-11-09,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Safiport Erokspor,88,68
+2025-11-10,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Tofaş,73,72
+2025-11-11,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Trabzonspor,86,80
+2025-11-12,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Türk Telekom,77,72
+2025-11-13,2025-26,Turkey BSL,Regular Season,Beşiktaş Gain,Yukatel Merkezefendi Basket,99,74
+2025-11-14,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Anadolu Efes,73,93
+2025-11-15,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Bahçeşehir Koleji,75,77
+2025-11-16,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Beşiktaş Gain,61,88
+2025-11-17,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Fenerbahçe Beko,89,83
+2025-11-18,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Galatasaray MCT Technic,91,87
+2025-11-19,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Glint Manisa Basket,84,69
+2025-11-20,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Karşıyaka Basket,86,84
+2025-11-21,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Mersin MSK,99,88
+2025-11-22,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,ONVO Büyükçekmece,91,72
+2025-11-23,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Petkim Spor,76,74
+2025-11-24,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Safiport Erokspor,77,105
+2025-11-25,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Tofaş,113,115
+2025-11-26,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Trabzonspor,75,83
+2025-11-27,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Türk Telekom,92,94
+2025-11-28,2025-26,Turkey BSL,Regular Season,Bursaspor Basketbol,Yukatel Merkezefendi Basket,103,107
+2025-11-29,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Anadolu Efes,97,94
+2025-11-30,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Bahçeşehir Koleji,89,58
+2025-12-01,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Beşiktaş Gain,72,85
+2025-12-02,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Bursaspor Basketbol,92,84
+2025-12-03,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Galatasaray MCT Technic,79,77
+2025-12-04,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Glint Manisa Basket,93,79
+2025-12-05,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Karşıyaka Basket,87,73
+2025-12-06,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Mersin MSK,91,78
+2025-12-07,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,ONVO Büyükçekmece,91,87
+2025-12-08,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Petkim Spor,105,83
+2025-12-09,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Safiport Erokspor,88,94
+2025-12-10,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Tofaş,90,82
+2025-12-11,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Trabzonspor,93,90
+2025-12-12,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Türk Telekom,92,84
+2025-12-13,2025-26,Turkey BSL,Regular Season,Fenerbahçe Beko,Yukatel Merkezefendi Basket,82,69
+2025-12-14,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Anadolu Efes,80,87
+2025-12-15,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Bahçeşehir Koleji,82,72
+2025-12-16,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Beşiktaş Gain,89,73
+2025-12-17,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Bursaspor Basketbol,92,70
+2025-12-18,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Fenerbahçe Beko,76,85
+2025-12-19,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Glint Manisa Basket,87,91
+2025-12-20,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Karşıyaka Basket,103,83
+2025-12-21,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Mersin MSK,85,79
+2025-12-22,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,ONVO Büyükçekmece,98,94
+2025-12-23,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Petkim Spor,90,61
+2025-12-24,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Safiport Erokspor,88,76
+2025-12-25,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Tofaş,93,91
+2025-12-26,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Trabzonspor,89,101
+2025-12-27,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Türk Telekom,90,93
+2025-12-28,2025-26,Turkey BSL,Regular Season,Galatasaray MCT Technic,Yukatel Merkezefendi Basket,98,89
+2025-12-29,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Anadolu Efes,76,85
+2025-12-30,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Bahçeşehir Koleji,70,77
+2025-12-31,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Beşiktaş Gain,70,102
+2026-01-01,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Bursaspor Basketbol,94,76
+2026-01-02,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Fenerbahçe Beko,78,82
+2026-01-03,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Galatasaray MCT Technic,86,75
+2026-01-04,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Karşıyaka Basket,92,78
+2026-01-05,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Mersin MSK,68,87
+2026-01-06,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,ONVO Büyükçekmece,79,71
+2026-01-07,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Petkim Spor,101,104
+2026-01-08,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Safiport Erokspor,75,95
+2026-01-09,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Tofaş,100,96
+2026-01-10,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Trabzonspor,82,93
+2026-01-11,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Türk Telekom,83,75
+2026-01-12,2025-26,Turkey BSL,Regular Season,Glint Manisa Basket,Yukatel Merkezefendi Basket,88,79
+2026-01-13,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Anadolu Efes,87,101
+2026-01-14,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Bahçeşehir Koleji,71,74
+2026-01-15,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Beşiktaş Gain,73,86
+2026-01-16,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Bursaspor Basketbol,84,82
+2026-01-17,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Fenerbahçe Beko,55,91
+2026-01-18,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Galatasaray MCT Technic,72,82
+2026-01-19,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Glint Manisa Basket,69,80
+2026-01-20,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Mersin MSK,92,87
+2026-01-21,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,ONVO Büyükçekmece,96,87
+2026-01-22,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Petkim Spor,103,91
+2026-01-23,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Safiport Erokspor,68,67
+2026-01-24,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Tofaş,107,101
+2026-01-25,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Trabzonspor,69,85
+2026-01-26,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Türk Telekom,75,85
+2026-01-27,2025-26,Turkey BSL,Regular Season,Karşıyaka Basket,Yukatel Merkezefendi Basket,76,69
+2026-01-28,2025-26,Turkey BSL,Regular Season,Mersin MSK,Anadolu Efes,86,88
+2026-01-29,2025-26,Turkey BSL,Regular Season,Mersin MSK,Bahçeşehir Koleji,87,80
+2026-01-30,2025-26,Turkey BSL,Regular Season,Mersin MSK,Beşiktaş Gain,86,99
+2026-01-31,2025-26,Turkey BSL,Regular Season,Mersin MSK,Bursaspor Basketbol,84,86
+2026-02-01,2025-26,Turkey BSL,Regular Season,Mersin MSK,Fenerbahçe Beko,78,87
+2026-02-02,2025-26,Turkey BSL,Regular Season,Mersin MSK,Galatasaray MCT Technic,114,76
+2026-02-03,2025-26,Turkey BSL,Regular Season,Mersin MSK,Glint Manisa Basket,81,77
+2026-02-04,2025-26,Turkey BSL,Regular Season,Mersin MSK,Karşıyaka Basket,92,87
+2026-02-05,2025-26,Turkey BSL,Regular Season,Mersin MSK,ONVO Büyükçekmece,87,94
+2026-02-06,2025-26,Turkey BSL,Regular Season,Mersin MSK,Petkim Spor,104,103
+2026-02-07,2025-26,Turkey BSL,Regular Season,Mersin MSK,Safiport Erokspor,83,88
+2026-02-08,2025-26,Turkey BSL,Regular Season,Mersin MSK,Tofaş,84,80
+2026-02-09,2025-26,Turkey BSL,Regular Season,Mersin MSK,Trabzonspor,79,82
+2026-02-10,2025-26,Turkey BSL,Regular Season,Mersin MSK,Türk Telekom,82,96
+2026-02-11,2025-26,Turkey BSL,Regular Season,Mersin MSK,Yukatel Merkezefendi Basket,110,92
+2026-02-12,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Anadolu Efes,85,87
+2026-02-13,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Bahçeşehir Koleji,81,96
+2026-02-14,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Beşiktaş Gain,62,79
+2026-02-15,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Bursaspor Basketbol,91,88
+2026-02-16,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Fenerbahçe Beko,85,91
+2026-02-17,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Galatasaray MCT Technic,81,84
+2026-02-18,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Glint Manisa Basket,69,89
+2026-02-19,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Karşıyaka Basket,83,87
+2026-02-20,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Mersin MSK,88,77
+2026-02-21,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Petkim Spor,85,89
+2026-02-22,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Safiport Erokspor,67,79
+2026-02-23,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Tofaş,81,91
+2026-02-24,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Trabzonspor,78,88
+2026-02-25,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Türk Telekom,87,90
+2026-02-26,2025-26,Turkey BSL,Regular Season,ONVO Büyükçekmece,Yukatel Merkezefendi Basket,87,98
+2026-02-27,2025-26,Turkey BSL,Regular Season,Petkim Spor,Anadolu Efes,60,85
+2026-02-28,2025-26,Turkey BSL,Regular Season,Petkim Spor,Bahçeşehir Koleji,76,95
+2026-03-01,2025-26,Turkey BSL,Regular Season,Petkim Spor,Beşiktaş Gain,72,75
+2026-03-02,2025-26,Turkey BSL,Regular Season,Petkim Spor,Bursaspor Basketbol,91,82
+2026-03-03,2025-26,Turkey BSL,Regular Season,Petkim Spor,Fenerbahçe Beko,70,78
+2026-03-04,2025-26,Turkey BSL,Regular Season,Petkim Spor,Galatasaray MCT Technic,75,80
+2026-03-05,2025-26,Turkey BSL,Regular Season,Petkim Spor,Glint Manisa Basket,100,87
+2026-03-06,2025-26,Turkey BSL,Regular Season,Petkim Spor,Karşıyaka Basket,85,73
+2026-03-07,2025-26,Turkey BSL,Regular Season,Petkim Spor,Mersin MSK,90,86
+2026-03-08,2025-26,Turkey BSL,Regular Season,Petkim Spor,ONVO Büyükçekmece,95,104
+2026-03-09,2025-26,Turkey BSL,Regular Season,Petkim Spor,Safiport Erokspor,70,79
+2026-03-10,2025-26,Turkey BSL,Regular Season,Petkim Spor,Tofaş,76,82
+2026-03-11,2025-26,Turkey BSL,Regular Season,Petkim Spor,Trabzonspor,91,105
+2026-03-12,2025-26,Turkey BSL,Regular Season,Petkim Spor,Türk Telekom,86,77
+2026-03-13,2025-26,Turkey BSL,Regular Season,Petkim Spor,Yukatel Merkezefendi Basket,73,81
+2026-03-14,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Anadolu Efes,90,79
+2026-03-15,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Bahçeşehir Koleji,60,72
+2026-03-16,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Beşiktaş Gain,80,84
+2026-03-17,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Bursaspor Basketbol,82,83
+2026-03-18,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Fenerbahçe Beko,80,94
+2026-03-19,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Galatasaray MCT Technic,85,86
+2026-03-20,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Glint Manisa Basket,87,79
+2026-03-21,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Karşıyaka Basket,97,94
+2026-03-22,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Mersin MSK,88,78
+2026-03-23,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,ONVO Büyükçekmece,86,65
+2026-03-24,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Petkim Spor,74,57
+2026-03-25,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Tofaş,92,70
+2026-03-26,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Trabzonspor,67,72
+2026-03-27,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Türk Telekom,61,67
+2026-03-28,2025-26,Turkey BSL,Regular Season,Safiport Erokspor,Yukatel Merkezefendi Basket,82,76
+2026-03-29,2025-26,Turkey BSL,Regular Season,Tofaş,Anadolu Efes,86,79
+2026-03-30,2025-26,Turkey BSL,Regular Season,Tofaş,Bahçeşehir Koleji,92,82
+2026-03-31,2025-26,Turkey BSL,Regular Season,Tofaş,Beşiktaş Gain,84,98
+2026-04-01,2025-26,Turkey BSL,Regular Season,Tofaş,Bursaspor Basketbol,84,70
+2026-04-02,2025-26,Turkey BSL,Regular Season,Tofaş,Fenerbahçe Beko,80,78
+2026-04-03,2025-26,Turkey BSL,Regular Season,Tofaş,Galatasaray MCT Technic,78,91
+2026-04-04,2025-26,Turkey BSL,Regular Season,Tofaş,Glint Manisa Basket,80,62
+2026-04-05,2025-26,Turkey BSL,Regular Season,Tofaş,Karşıyaka Basket,87,78
+2026-04-06,2025-26,Turkey BSL,Regular Season,Tofaş,Mersin MSK,83,88
+2026-04-07,2025-26,Turkey BSL,Regular Season,Tofaş,ONVO Büyükçekmece,91,70
+2026-04-08,2025-26,Turkey BSL,Regular Season,Tofaş,Petkim Spor,73,71
+2026-04-09,2025-26,Turkey BSL,Regular Season,Tofaş,Safiport Erokspor,81,91
+2026-04-10,2025-26,Turkey BSL,Regular Season,Tofaş,Trabzonspor,71,91
+2026-04-11,2025-26,Turkey BSL,Regular Season,Tofaş,Türk Telekom,85,73
+2026-04-12,2025-26,Turkey BSL,Regular Season,Tofaş,Yukatel Merkezefendi Basket,88,93
+2026-04-13,2025-26,Turkey BSL,Regular Season,Trabzonspor,Anadolu Efes,74,81
+2026-04-14,2025-26,Turkey BSL,Regular Season,Trabzonspor,Bahçeşehir Koleji,71,81
+2026-04-15,2025-26,Turkey BSL,Regular Season,Trabzonspor,Beşiktaş Gain,84,98
+2026-04-16,2025-26,Turkey BSL,Regular Season,Trabzonspor,Bursaspor Basketbol,79,85
+2026-04-17,2025-26,Turkey BSL,Regular Season,Trabzonspor,Fenerbahçe Beko,99,73
+2026-04-18,2025-26,Turkey BSL,Regular Season,Trabzonspor,Galatasaray MCT Technic,79,69
+2026-04-19,2025-26,Turkey BSL,Regular Season,Trabzonspor,Glint Manisa Basket,96,92
+2026-04-20,2025-26,Turkey BSL,Regular Season,Trabzonspor,Karşıyaka Basket,89,79
+2026-04-21,2025-26,Turkey BSL,Regular Season,Trabzonspor,Mersin MSK,90,80
+2026-04-22,2025-26,Turkey BSL,Regular Season,Trabzonspor,ONVO Büyükçekmece,94,76
+2026-04-23,2025-26,Turkey BSL,Regular Season,Trabzonspor,Petkim Spor,84,90
+2026-04-24,2025-26,Turkey BSL,Regular Season,Trabzonspor,Safiport Erokspor,90,73
+2026-04-25,2025-26,Turkey BSL,Regular Season,Trabzonspor,Tofaş,92,87
+2026-04-26,2025-26,Turkey BSL,Regular Season,Trabzonspor,Türk Telekom,92,84
+2026-04-27,2025-26,Turkey BSL,Regular Season,Trabzonspor,Yukatel Merkezefendi Basket,91,76
+2026-04-28,2025-26,Turkey BSL,Regular Season,Türk Telekom,Anadolu Efes,75,70
+2026-04-29,2025-26,Turkey BSL,Regular Season,Türk Telekom,Bahçeşehir Koleji,98,102
+2026-04-30,2025-26,Turkey BSL,Regular Season,Türk Telekom,Beşiktaş Gain,87,84
+2026-05-01,2025-26,Turkey BSL,Regular Season,Türk Telekom,Bursaspor Basketbol,101,74
+2026-05-02,2025-26,Turkey BSL,Regular Season,Türk Telekom,Fenerbahçe Beko,76,88
+2026-05-03,2025-26,Turkey BSL,Regular Season,Türk Telekom,Galatasaray MCT Technic,83,81
+2026-05-04,2025-26,Turkey BSL,Regular Season,Türk Telekom,Glint Manisa Basket,86,74
+2026-05-05,2025-26,Turkey BSL,Regular Season,Türk Telekom,Karşıyaka Basket,111,59
+2026-05-06,2025-26,Turkey BSL,Regular Season,Türk Telekom,Mersin MSK,111,71
+2026-05-07,2025-26,Turkey BSL,Regular Season,Türk Telekom,ONVO Büyükçekmece,89,82
+2026-05-08,2025-26,Turkey BSL,Regular Season,Türk Telekom,Petkim Spor,85,61
+2026-05-09,2025-26,Turkey BSL,Regular Season,Türk Telekom,Safiport Erokspor,93,84
+2026-05-10,2025-26,Turkey BSL,Regular Season,Türk Telekom,Tofaş,95,78
+2026-05-11,2025-26,Turkey BSL,Regular Season,Türk Telekom,Trabzonspor,81,72
+2026-05-12,2025-26,Turkey BSL,Regular Season,Türk Telekom,Yukatel Merkezefendi Basket,91,82
+2026-05-13,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Anadolu Efes,87,70
+2026-05-14,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Bahçeşehir Koleji,65,79
+2026-05-15,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Beşiktaş Gain,77,95
+2026-05-16,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Bursaspor Basketbol,75,65
+2026-05-17,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Fenerbahçe Beko,64,87
+2026-05-18,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Galatasaray MCT Technic,80,90
+2026-05-19,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Glint Manisa Basket,77,93
+2026-05-20,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Karşıyaka Basket,83,81
+2026-05-21,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Mersin MSK,101,93
+2026-05-22,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,ONVO Büyükçekmece,104,97
+2026-05-23,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Petkim Spor,92,80
+2026-05-24,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Safiport Erokspor,69,70
+2026-05-25,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Tofaş,78,72
+2026-05-26,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Trabzonspor,84,75
+2026-05-27,2025-26,Turkey BSL,Regular Season,Yukatel Merkezefendi Basket,Türk Telekom,89,93

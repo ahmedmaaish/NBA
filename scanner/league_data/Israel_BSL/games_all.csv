@@ -1,0 +1,781 @@
+date,season,league,gameType,home_team,away_team,home_score,away_score
+2021-10-01,2021-22,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Jerusalem,104,80
+2021-10-02,2021-22,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Holon,80,79
+2021-10-04,2021-22,Israel BSL,Regular Season,Maccabi Tel Aviv,Bnei Herzliya,99,69
+2021-10-06,2021-22,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Haifa,84,59
+2021-10-08,2021-22,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Galil Elyon,113,82
+2021-10-10,2021-22,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Tel Aviv,82,83
+2021-10-11,2021-22,Israel BSL,Regular Season,Maccabi Tel Aviv,Ironi Ness Ziona,93,89
+2021-10-13,2021-22,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Gilboa Galil,84,61
+2021-10-15,2021-22,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Eilat,101,95
+2021-10-17,2021-22,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Be'er Sheva,71,64
+2021-10-19,2021-22,Israel BSL,Regular Season,Maccabi Tel Aviv,Maccabi Rishon LeZion,109,83
+2021-10-20,2021-22,Israel BSL,Regular Season,Hapoel Jerusalem,Maccabi Tel Aviv,78,83
+2021-10-22,2021-22,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Holon,104,84
+2021-10-24,2021-22,Israel BSL,Regular Season,Hapoel Jerusalem,Bnei Herzliya,89,88
+2021-10-26,2021-22,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Haifa,89,77
+2021-10-28,2021-22,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Galil Elyon,81,65
+2021-10-29,2021-22,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Tel Aviv,94,76
+2021-10-31,2021-22,Israel BSL,Regular Season,Hapoel Jerusalem,Ironi Ness Ziona,82,77
+2021-11-02,2021-22,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Gilboa Galil,80,68
+2021-11-04,2021-22,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Eilat,80,64
+2021-11-06,2021-22,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Be'er Sheva,90,72
+2021-11-08,2021-22,Israel BSL,Regular Season,Hapoel Jerusalem,Maccabi Rishon LeZion,73,69
+2021-11-09,2021-22,Israel BSL,Regular Season,Hapoel Holon,Maccabi Tel Aviv,88,82
+2021-11-11,2021-22,Israel BSL,Regular Season,Hapoel Holon,Hapoel Jerusalem,85,87
+2021-11-13,2021-22,Israel BSL,Regular Season,Hapoel Holon,Bnei Herzliya,89,77
+2021-11-15,2021-22,Israel BSL,Regular Season,Hapoel Holon,Hapoel Haifa,87,70
+2021-11-17,2021-22,Israel BSL,Regular Season,Hapoel Holon,Hapoel Galil Elyon,80,68
+2021-11-18,2021-22,Israel BSL,Regular Season,Hapoel Holon,Hapoel Tel Aviv,99,77
+2021-11-20,2021-22,Israel BSL,Regular Season,Hapoel Holon,Ironi Ness Ziona,76,55
+2021-11-22,2021-22,Israel BSL,Regular Season,Hapoel Holon,Hapoel Gilboa Galil,84,82
+2021-11-24,2021-22,Israel BSL,Regular Season,Hapoel Holon,Hapoel Eilat,72,90
+2021-11-26,2021-22,Israel BSL,Regular Season,Hapoel Holon,Hapoel Be'er Sheva,72,69
+2021-11-27,2021-22,Israel BSL,Regular Season,Hapoel Holon,Maccabi Rishon LeZion,101,67
+2021-11-29,2021-22,Israel BSL,Regular Season,Bnei Herzliya,Maccabi Tel Aviv,71,59
+2021-12-01,2021-22,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Jerusalem,85,79
+2021-12-03,2021-22,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Holon,82,91
+2021-12-05,2021-22,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Haifa,90,81
+2021-12-06,2021-22,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Galil Elyon,79,72
+2021-12-08,2021-22,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Tel Aviv,74,63
+2021-12-10,2021-22,Israel BSL,Regular Season,Bnei Herzliya,Ironi Ness Ziona,84,60
+2021-12-12,2021-22,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Gilboa Galil,80,71
+2021-12-14,2021-22,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Eilat,88,79
+2021-12-16,2021-22,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Be'er Sheva,85,91
+2021-12-17,2021-22,Israel BSL,Regular Season,Bnei Herzliya,Maccabi Rishon LeZion,92,88
+2021-12-19,2021-22,Israel BSL,Regular Season,Hapoel Haifa,Maccabi Tel Aviv,75,92
+2021-12-21,2021-22,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Jerusalem,73,71
+2021-12-23,2021-22,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Holon,83,76
+2021-12-25,2021-22,Israel BSL,Regular Season,Hapoel Haifa,Bnei Herzliya,81,80
+2021-12-26,2021-22,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Galil Elyon,71,76
+2021-12-28,2021-22,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Tel Aviv,93,77
+2021-12-30,2021-22,Israel BSL,Regular Season,Hapoel Haifa,Ironi Ness Ziona,88,57
+2022-01-01,2021-22,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Gilboa Galil,72,68
+2022-01-03,2021-22,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Eilat,89,71
+2022-01-04,2021-22,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Be'er Sheva,71,67
+2022-01-06,2021-22,Israel BSL,Regular Season,Hapoel Haifa,Maccabi Rishon LeZion,98,94
+2022-01-08,2021-22,Israel BSL,Regular Season,Hapoel Galil Elyon,Maccabi Tel Aviv,84,88
+2022-01-10,2021-22,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Jerusalem,69,83
+2022-01-12,2021-22,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Holon,99,78
+2022-01-14,2021-22,Israel BSL,Regular Season,Hapoel Galil Elyon,Bnei Herzliya,90,74
+2022-01-15,2021-22,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Haifa,70,72
+2022-01-17,2021-22,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Tel Aviv,96,73
+2022-01-19,2021-22,Israel BSL,Regular Season,Hapoel Galil Elyon,Ironi Ness Ziona,85,79
+2022-01-21,2021-22,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Gilboa Galil,74,85
+2022-01-23,2021-22,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Eilat,74,72
+2022-01-24,2021-22,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Be'er Sheva,74,66
+2022-01-26,2021-22,Israel BSL,Regular Season,Hapoel Galil Elyon,Maccabi Rishon LeZion,81,80
+2022-01-28,2021-22,Israel BSL,Regular Season,Hapoel Tel Aviv,Maccabi Tel Aviv,78,77
+2022-01-30,2021-22,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Jerusalem,75,87
+2022-02-01,2021-22,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Holon,67,62
+2022-02-02,2021-22,Israel BSL,Regular Season,Hapoel Tel Aviv,Bnei Herzliya,76,79
+2022-02-04,2021-22,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Haifa,92,71
+2022-02-06,2021-22,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Galil Elyon,97,99
+2022-02-08,2021-22,Israel BSL,Regular Season,Hapoel Tel Aviv,Ironi Ness Ziona,99,83
+2022-02-10,2021-22,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Gilboa Galil,89,68
+2022-02-11,2021-22,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Eilat,97,64
+2022-02-13,2021-22,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Be'er Sheva,65,77
+2022-02-15,2021-22,Israel BSL,Regular Season,Hapoel Tel Aviv,Maccabi Rishon LeZion,104,79
+2022-02-17,2021-22,Israel BSL,Regular Season,Ironi Ness Ziona,Maccabi Tel Aviv,87,73
+2022-02-19,2021-22,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Jerusalem,56,78
+2022-02-21,2021-22,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Holon,73,85
+2022-02-22,2021-22,Israel BSL,Regular Season,Ironi Ness Ziona,Bnei Herzliya,89,88
+2022-02-24,2021-22,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Haifa,86,77
+2022-02-26,2021-22,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Galil Elyon,100,82
+2022-02-28,2021-22,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Tel Aviv,90,76
+2022-03-02,2021-22,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Gilboa Galil,81,71
+2022-03-03,2021-22,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Eilat,68,85
+2022-03-05,2021-22,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Be'er Sheva,96,91
+2022-03-07,2021-22,Israel BSL,Regular Season,Ironi Ness Ziona,Maccabi Rishon LeZion,68,79
+2022-03-09,2021-22,Israel BSL,Regular Season,Hapoel Gilboa Galil,Maccabi Tel Aviv,87,83
+2022-03-11,2021-22,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Jerusalem,78,72
+2022-03-12,2021-22,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Holon,74,81
+2022-03-14,2021-22,Israel BSL,Regular Season,Hapoel Gilboa Galil,Bnei Herzliya,82,94
+2022-03-16,2021-22,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Haifa,71,80
+2022-03-18,2021-22,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Galil Elyon,71,62
+2022-03-20,2021-22,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Tel Aviv,73,87
+2022-03-22,2021-22,Israel BSL,Regular Season,Hapoel Gilboa Galil,Ironi Ness Ziona,78,89
+2022-03-23,2021-22,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Eilat,94,86
+2022-03-25,2021-22,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Be'er Sheva,72,60
+2022-03-27,2021-22,Israel BSL,Regular Season,Hapoel Gilboa Galil,Maccabi Rishon LeZion,96,88
+2022-03-29,2021-22,Israel BSL,Regular Season,Hapoel Eilat,Maccabi Tel Aviv,66,77
+2022-03-31,2021-22,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Jerusalem,82,77
+2022-04-01,2021-22,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Holon,85,60
+2022-04-03,2021-22,Israel BSL,Regular Season,Hapoel Eilat,Bnei Herzliya,79,96
+2022-04-05,2021-22,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Haifa,79,67
+2022-04-07,2021-22,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Galil Elyon,94,87
+2022-04-09,2021-22,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Tel Aviv,62,88
+2022-04-10,2021-22,Israel BSL,Regular Season,Hapoel Eilat,Ironi Ness Ziona,104,80
+2022-04-12,2021-22,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Gilboa Galil,94,97
+2022-04-14,2021-22,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Be'er Sheva,93,99
+2022-04-16,2021-22,Israel BSL,Regular Season,Hapoel Eilat,Maccabi Rishon LeZion,77,79
+2022-04-18,2021-22,Israel BSL,Regular Season,Hapoel Be'er Sheva,Maccabi Tel Aviv,74,71
+2022-04-19,2021-22,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Jerusalem,58,74
+2022-04-21,2021-22,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Holon,74,75
+2022-04-23,2021-22,Israel BSL,Regular Season,Hapoel Be'er Sheva,Bnei Herzliya,65,75
+2022-04-25,2021-22,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Haifa,53,80
+2022-04-27,2021-22,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Galil Elyon,61,73
+2022-04-29,2021-22,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Tel Aviv,88,82
+2022-04-30,2021-22,Israel BSL,Regular Season,Hapoel Be'er Sheva,Ironi Ness Ziona,72,88
+2022-05-02,2021-22,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Gilboa Galil,83,69
+2022-05-04,2021-22,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Eilat,76,84
+2022-05-06,2021-22,Israel BSL,Regular Season,Hapoel Be'er Sheva,Maccabi Rishon LeZion,67,79
+2022-05-08,2021-22,Israel BSL,Regular Season,Maccabi Rishon LeZion,Maccabi Tel Aviv,56,86
+2022-05-09,2021-22,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel Jerusalem,78,73
+2022-05-11,2021-22,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel Holon,62,78
+2022-05-13,2021-22,Israel BSL,Regular Season,Maccabi Rishon LeZion,Bnei Herzliya,64,94
+2022-05-15,2021-22,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel Haifa,101,93
+2022-05-17,2021-22,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel Galil Elyon,62,80
+2022-05-18,2021-22,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel Tel Aviv,62,77
+2022-05-20,2021-22,Israel BSL,Regular Season,Maccabi Rishon LeZion,Ironi Ness Ziona,86,89
+2022-05-22,2021-22,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel Gilboa Galil,94,100
+2022-05-24,2021-22,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel Eilat,77,84
+2022-05-26,2021-22,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel Be'er Sheva,78,85
+2022-10-01,2022-23,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Tel Aviv,95,90
+2022-10-02,2022-23,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Jerusalem,75,80
+2022-10-04,2022-23,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Holon,98,78
+2022-10-06,2022-23,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Galil Elyon,104,73
+2022-10-08,2022-23,Israel BSL,Regular Season,Maccabi Tel Aviv,Ironi Ness Ziona,95,87
+2022-10-10,2022-23,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Be'er Sheva,81,68
+2022-10-11,2022-23,Israel BSL,Regular Season,Maccabi Tel Aviv,Bnei Herzliya,93,98
+2022-10-13,2022-23,Israel BSL,Regular Season,Maccabi Tel Aviv,Ironi Kiryat Ata,94,68
+2022-10-15,2022-23,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Eilat,109,57
+2022-10-17,2022-23,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Haifa,108,104
+2022-10-19,2022-23,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Gilboa Galil,86,64
+2022-10-20,2022-23,Israel BSL,Regular Season,Hapoel Tel Aviv,Maccabi Tel Aviv,96,95
+2022-10-22,2022-23,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Jerusalem,68,80
+2022-10-24,2022-23,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Holon,87,93
+2022-10-26,2022-23,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Galil Elyon,108,80
+2022-10-28,2022-23,Israel BSL,Regular Season,Hapoel Tel Aviv,Ironi Ness Ziona,102,85
+2022-10-29,2022-23,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Be'er Sheva,95,83
+2022-10-31,2022-23,Israel BSL,Regular Season,Hapoel Tel Aviv,Bnei Herzliya,105,87
+2022-11-02,2022-23,Israel BSL,Regular Season,Hapoel Tel Aviv,Ironi Kiryat Ata,90,84
+2022-11-04,2022-23,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Eilat,98,59
+2022-11-06,2022-23,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Haifa,87,77
+2022-11-08,2022-23,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Gilboa Galil,86,81
+2022-11-09,2022-23,Israel BSL,Regular Season,Hapoel Jerusalem,Maccabi Tel Aviv,74,88
+2022-11-11,2022-23,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Tel Aviv,77,80
+2022-11-13,2022-23,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Holon,91,73
+2022-11-15,2022-23,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Galil Elyon,89,70
+2022-11-17,2022-23,Israel BSL,Regular Season,Hapoel Jerusalem,Ironi Ness Ziona,78,62
+2022-11-18,2022-23,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Be'er Sheva,84,74
+2022-11-20,2022-23,Israel BSL,Regular Season,Hapoel Jerusalem,Bnei Herzliya,84,82
+2022-11-22,2022-23,Israel BSL,Regular Season,Hapoel Jerusalem,Ironi Kiryat Ata,77,70
+2022-11-24,2022-23,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Eilat,82,68
+2022-11-26,2022-23,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Haifa,85,82
+2022-11-27,2022-23,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Gilboa Galil,69,60
+2022-11-29,2022-23,Israel BSL,Regular Season,Hapoel Holon,Maccabi Tel Aviv,74,84
+2022-12-01,2022-23,Israel BSL,Regular Season,Hapoel Holon,Hapoel Tel Aviv,74,79
+2022-12-03,2022-23,Israel BSL,Regular Season,Hapoel Holon,Hapoel Jerusalem,80,76
+2022-12-05,2022-23,Israel BSL,Regular Season,Hapoel Holon,Hapoel Galil Elyon,83,73
+2022-12-06,2022-23,Israel BSL,Regular Season,Hapoel Holon,Ironi Ness Ziona,107,92
+2022-12-08,2022-23,Israel BSL,Regular Season,Hapoel Holon,Hapoel Be'er Sheva,92,77
+2022-12-10,2022-23,Israel BSL,Regular Season,Hapoel Holon,Bnei Herzliya,74,79
+2022-12-12,2022-23,Israel BSL,Regular Season,Hapoel Holon,Ironi Kiryat Ata,88,73
+2022-12-14,2022-23,Israel BSL,Regular Season,Hapoel Holon,Hapoel Eilat,102,94
+2022-12-16,2022-23,Israel BSL,Regular Season,Hapoel Holon,Hapoel Haifa,99,77
+2022-12-17,2022-23,Israel BSL,Regular Season,Hapoel Holon,Hapoel Gilboa Galil,96,89
+2022-12-19,2022-23,Israel BSL,Regular Season,Hapoel Galil Elyon,Maccabi Tel Aviv,67,96
+2022-12-21,2022-23,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Tel Aviv,84,89
+2022-12-23,2022-23,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Jerusalem,89,83
+2022-12-25,2022-23,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Holon,86,66
+2022-12-26,2022-23,Israel BSL,Regular Season,Hapoel Galil Elyon,Ironi Ness Ziona,79,82
+2022-12-28,2022-23,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Be'er Sheva,90,84
+2022-12-30,2022-23,Israel BSL,Regular Season,Hapoel Galil Elyon,Bnei Herzliya,95,89
+2023-01-01,2022-23,Israel BSL,Regular Season,Hapoel Galil Elyon,Ironi Kiryat Ata,92,86
+2023-01-03,2022-23,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Eilat,72,79
+2023-01-04,2022-23,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Haifa,79,86
+2023-01-06,2022-23,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Gilboa Galil,89,78
+2023-01-08,2022-23,Israel BSL,Regular Season,Ironi Ness Ziona,Maccabi Tel Aviv,84,91
+2023-01-10,2022-23,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Tel Aviv,97,102
+2023-01-12,2022-23,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Jerusalem,96,87
+2023-01-14,2022-23,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Holon,81,101
+2023-01-15,2022-23,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Galil Elyon,104,108
+2023-01-17,2022-23,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Be'er Sheva,87,75
+2023-01-19,2022-23,Israel BSL,Regular Season,Ironi Ness Ziona,Bnei Herzliya,91,84
+2023-01-21,2022-23,Israel BSL,Regular Season,Ironi Ness Ziona,Ironi Kiryat Ata,93,70
+2023-01-23,2022-23,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Eilat,87,73
+2023-01-24,2022-23,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Haifa,93,80
+2023-01-26,2022-23,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Gilboa Galil,104,90
+2023-01-28,2022-23,Israel BSL,Regular Season,Hapoel Be'er Sheva,Maccabi Tel Aviv,58,91
+2023-01-30,2022-23,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Tel Aviv,79,80
+2023-02-01,2022-23,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Jerusalem,70,61
+2023-02-02,2022-23,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Holon,94,101
+2023-02-04,2022-23,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Galil Elyon,86,90
+2023-02-06,2022-23,Israel BSL,Regular Season,Hapoel Be'er Sheva,Ironi Ness Ziona,97,92
+2023-02-08,2022-23,Israel BSL,Regular Season,Hapoel Be'er Sheva,Bnei Herzliya,89,73
+2023-02-10,2022-23,Israel BSL,Regular Season,Hapoel Be'er Sheva,Ironi Kiryat Ata,100,99
+2023-02-11,2022-23,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Eilat,105,101
+2023-02-13,2022-23,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Haifa,92,96
+2023-02-15,2022-23,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Gilboa Galil,103,89
+2023-02-17,2022-23,Israel BSL,Regular Season,Bnei Herzliya,Maccabi Tel Aviv,76,99
+2023-02-19,2022-23,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Tel Aviv,110,82
+2023-02-21,2022-23,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Jerusalem,83,66
+2023-02-22,2022-23,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Holon,77,64
+2023-02-24,2022-23,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Galil Elyon,68,87
+2023-02-26,2022-23,Israel BSL,Regular Season,Bnei Herzliya,Ironi Ness Ziona,96,92
+2023-02-28,2022-23,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Be'er Sheva,75,77
+2023-03-02,2022-23,Israel BSL,Regular Season,Bnei Herzliya,Ironi Kiryat Ata,77,66
+2023-03-03,2022-23,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Eilat,81,86
+2023-03-05,2022-23,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Haifa,85,87
+2023-03-07,2022-23,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Gilboa Galil,82,70
+2023-03-09,2022-23,Israel BSL,Regular Season,Ironi Kiryat Ata,Maccabi Tel Aviv,88,100
+2023-03-11,2022-23,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Tel Aviv,84,96
+2023-03-12,2022-23,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Jerusalem,65,107
+2023-03-14,2022-23,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Holon,85,97
+2023-03-16,2022-23,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Galil Elyon,94,98
+2023-03-18,2022-23,Israel BSL,Regular Season,Ironi Kiryat Ata,Ironi Ness Ziona,78,75
+2023-03-20,2022-23,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Be'er Sheva,95,96
+2023-03-22,2022-23,Israel BSL,Regular Season,Ironi Kiryat Ata,Bnei Herzliya,79,70
+2023-03-23,2022-23,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Eilat,90,78
+2023-03-25,2022-23,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Haifa,83,58
+2023-03-27,2022-23,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Gilboa Galil,81,76
+2023-03-29,2022-23,Israel BSL,Regular Season,Hapoel Eilat,Maccabi Tel Aviv,74,96
+2023-03-31,2022-23,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Tel Aviv,80,88
+2023-04-01,2022-23,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Jerusalem,60,83
+2023-04-03,2022-23,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Holon,102,91
+2023-04-05,2022-23,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Galil Elyon,88,76
+2023-04-07,2022-23,Israel BSL,Regular Season,Hapoel Eilat,Ironi Ness Ziona,79,80
+2023-04-09,2022-23,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Be'er Sheva,70,79
+2023-04-10,2022-23,Israel BSL,Regular Season,Hapoel Eilat,Bnei Herzliya,81,91
+2023-04-12,2022-23,Israel BSL,Regular Season,Hapoel Eilat,Ironi Kiryat Ata,74,98
+2023-04-14,2022-23,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Haifa,79,94
+2023-04-16,2022-23,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Gilboa Galil,85,74
+2023-04-18,2022-23,Israel BSL,Regular Season,Hapoel Haifa,Maccabi Tel Aviv,59,80
+2023-04-19,2022-23,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Tel Aviv,73,87
+2023-04-21,2022-23,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Jerusalem,57,74
+2023-04-23,2022-23,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Holon,81,83
+2023-04-25,2022-23,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Galil Elyon,70,78
+2023-04-27,2022-23,Israel BSL,Regular Season,Hapoel Haifa,Ironi Ness Ziona,86,88
+2023-04-29,2022-23,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Be'er Sheva,77,93
+2023-04-30,2022-23,Israel BSL,Regular Season,Hapoel Haifa,Bnei Herzliya,69,101
+2023-05-02,2022-23,Israel BSL,Regular Season,Hapoel Haifa,Ironi Kiryat Ata,91,82
+2023-05-04,2022-23,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Eilat,79,90
+2023-05-06,2022-23,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Gilboa Galil,82,80
+2023-05-08,2022-23,Israel BSL,Regular Season,Hapoel Gilboa Galil,Maccabi Tel Aviv,60,77
+2023-05-09,2022-23,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Tel Aviv,71,81
+2023-05-11,2022-23,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Jerusalem,71,77
+2023-05-13,2022-23,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Holon,67,91
+2023-05-15,2022-23,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Galil Elyon,117,115
+2023-05-17,2022-23,Israel BSL,Regular Season,Hapoel Gilboa Galil,Ironi Ness Ziona,90,94
+2023-05-18,2022-23,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Be'er Sheva,93,80
+2023-05-20,2022-23,Israel BSL,Regular Season,Hapoel Gilboa Galil,Bnei Herzliya,79,74
+2023-05-22,2022-23,Israel BSL,Regular Season,Hapoel Gilboa Galil,Ironi Kiryat Ata,75,87
+2023-05-24,2022-23,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Eilat,82,94
+2023-05-26,2022-23,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Haifa,85,67
+2023-10-01,2023-24,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Tel Aviv,95,78
+2023-10-02,2023-24,Israel BSL,Regular Season,Maccabi Tel Aviv,Maccabi Ironi Ramat Gan,92,75
+2023-10-04,2023-24,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Jerusalem,90,78
+2023-10-05,2023-24,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Holon,91,82
+2023-10-07,2023-24,Israel BSL,Regular Season,Maccabi Tel Aviv,Ironi Kiryat Ata,78,86
+2023-10-08,2023-24,Israel BSL,Regular Season,Maccabi Tel Aviv,Bnei Herzliya,98,85
+2023-10-10,2023-24,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Haifa,96,104
+2023-10-11,2023-24,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Afula,95,78
+2023-10-13,2023-24,Israel BSL,Regular Season,Maccabi Tel Aviv,Ironi Ness Ziona,86,82
+2023-10-14,2023-24,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Eilat,90,77
+2023-10-16,2023-24,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Galil Elyon,89,81
+2023-10-17,2023-24,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Be'er Sheva,90,77
+2023-10-19,2023-24,Israel BSL,Regular Season,Hapoel Tel Aviv,Maccabi Tel Aviv,89,86
+2023-10-21,2023-24,Israel BSL,Regular Season,Hapoel Tel Aviv,Maccabi Ironi Ramat Gan,81,94
+2023-10-22,2023-24,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Jerusalem,109,100
+2023-10-24,2023-24,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Holon,90,78
+2023-10-25,2023-24,Israel BSL,Regular Season,Hapoel Tel Aviv,Ironi Kiryat Ata,87,91
+2023-10-27,2023-24,Israel BSL,Regular Season,Hapoel Tel Aviv,Bnei Herzliya,99,80
+2023-10-28,2023-24,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Haifa,87,88
+2023-10-30,2023-24,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Afula,93,81
+2023-10-31,2023-24,Israel BSL,Regular Season,Hapoel Tel Aviv,Ironi Ness Ziona,97,94
+2023-11-02,2023-24,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Eilat,112,76
+2023-11-03,2023-24,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Galil Elyon,90,66
+2023-11-05,2023-24,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Be'er Sheva,90,68
+2023-11-06,2023-24,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Maccabi Tel Aviv,71,88
+2023-11-08,2023-24,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Tel Aviv,80,93
+2023-11-10,2023-24,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Jerusalem,79,73
+2023-11-11,2023-24,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Holon,76,65
+2023-11-13,2023-24,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Ironi Kiryat Ata,94,89
+2023-11-14,2023-24,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Bnei Herzliya,87,82
+2023-11-16,2023-24,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Haifa,80,77
+2023-11-17,2023-24,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Afula,71,63
+2023-11-19,2023-24,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Ironi Ness Ziona,104,82
+2023-11-20,2023-24,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Eilat,75,69
+2023-11-22,2023-24,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Galil Elyon,89,77
+2023-11-23,2023-24,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Be'er Sheva,86,78
+2023-11-25,2023-24,Israel BSL,Regular Season,Hapoel Jerusalem,Maccabi Tel Aviv,85,90
+2023-11-26,2023-24,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Tel Aviv,64,91
+2023-11-28,2023-24,Israel BSL,Regular Season,Hapoel Jerusalem,Maccabi Ironi Ramat Gan,82,93
+2023-11-30,2023-24,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Holon,72,73
+2023-12-01,2023-24,Israel BSL,Regular Season,Hapoel Jerusalem,Ironi Kiryat Ata,97,83
+2023-12-03,2023-24,Israel BSL,Regular Season,Hapoel Jerusalem,Bnei Herzliya,81,65
+2023-12-04,2023-24,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Haifa,88,68
+2023-12-06,2023-24,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Afula,81,78
+2023-12-07,2023-24,Israel BSL,Regular Season,Hapoel Jerusalem,Ironi Ness Ziona,76,70
+2023-12-09,2023-24,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Eilat,103,85
+2023-12-10,2023-24,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Galil Elyon,81,73
+2023-12-12,2023-24,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Be'er Sheva,77,71
+2023-12-13,2023-24,Israel BSL,Regular Season,Hapoel Holon,Maccabi Tel Aviv,84,86
+2023-12-15,2023-24,Israel BSL,Regular Season,Hapoel Holon,Hapoel Tel Aviv,98,90
+2023-12-16,2023-24,Israel BSL,Regular Season,Hapoel Holon,Maccabi Ironi Ramat Gan,74,75
+2023-12-18,2023-24,Israel BSL,Regular Season,Hapoel Holon,Hapoel Jerusalem,89,96
+2023-12-20,2023-24,Israel BSL,Regular Season,Hapoel Holon,Ironi Kiryat Ata,88,82
+2023-12-21,2023-24,Israel BSL,Regular Season,Hapoel Holon,Bnei Herzliya,87,92
+2023-12-23,2023-24,Israel BSL,Regular Season,Hapoel Holon,Hapoel Haifa,86,75
+2023-12-24,2023-24,Israel BSL,Regular Season,Hapoel Holon,Hapoel Afula,85,80
+2023-12-26,2023-24,Israel BSL,Regular Season,Hapoel Holon,Ironi Ness Ziona,81,73
+2023-12-27,2023-24,Israel BSL,Regular Season,Hapoel Holon,Hapoel Eilat,87,71
+2023-12-29,2023-24,Israel BSL,Regular Season,Hapoel Holon,Hapoel Galil Elyon,84,72
+2023-12-30,2023-24,Israel BSL,Regular Season,Hapoel Holon,Hapoel Be'er Sheva,103,80
+2024-01-01,2023-24,Israel BSL,Regular Season,Ironi Kiryat Ata,Maccabi Tel Aviv,72,91
+2024-01-02,2023-24,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Tel Aviv,89,97
+2024-01-04,2023-24,Israel BSL,Regular Season,Ironi Kiryat Ata,Maccabi Ironi Ramat Gan,71,94
+2024-01-05,2023-24,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Jerusalem,76,74
+2024-01-07,2023-24,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Holon,86,82
+2024-01-09,2023-24,Israel BSL,Regular Season,Ironi Kiryat Ata,Bnei Herzliya,74,87
+2024-01-10,2023-24,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Haifa,100,72
+2024-01-12,2023-24,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Afula,90,73
+2024-01-13,2023-24,Israel BSL,Regular Season,Ironi Kiryat Ata,Ironi Ness Ziona,101,96
+2024-01-15,2023-24,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Eilat,83,70
+2024-01-16,2023-24,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Galil Elyon,81,95
+2024-01-18,2023-24,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Be'er Sheva,92,72
+2024-01-19,2023-24,Israel BSL,Regular Season,Bnei Herzliya,Maccabi Tel Aviv,74,94
+2024-01-21,2023-24,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Tel Aviv,80,82
+2024-01-22,2023-24,Israel BSL,Regular Season,Bnei Herzliya,Maccabi Ironi Ramat Gan,70,80
+2024-01-24,2023-24,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Jerusalem,80,85
+2024-01-25,2023-24,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Holon,75,72
+2024-01-27,2023-24,Israel BSL,Regular Season,Bnei Herzliya,Ironi Kiryat Ata,76,62
+2024-01-29,2023-24,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Haifa,96,98
+2024-01-30,2023-24,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Afula,81,75
+2024-02-01,2023-24,Israel BSL,Regular Season,Bnei Herzliya,Ironi Ness Ziona,68,99
+2024-02-02,2023-24,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Eilat,93,96
+2024-02-04,2023-24,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Galil Elyon,80,66
+2024-02-05,2023-24,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Be'er Sheva,87,78
+2024-02-07,2023-24,Israel BSL,Regular Season,Hapoel Haifa,Maccabi Tel Aviv,73,108
+2024-02-08,2023-24,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Tel Aviv,84,103
+2024-02-10,2023-24,Israel BSL,Regular Season,Hapoel Haifa,Maccabi Ironi Ramat Gan,74,81
+2024-02-11,2023-24,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Jerusalem,85,78
+2024-02-13,2023-24,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Holon,71,84
+2024-02-14,2023-24,Israel BSL,Regular Season,Hapoel Haifa,Ironi Kiryat Ata,92,93
+2024-02-16,2023-24,Israel BSL,Regular Season,Hapoel Haifa,Bnei Herzliya,90,101
+2024-02-18,2023-24,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Afula,88,82
+2024-02-19,2023-24,Israel BSL,Regular Season,Hapoel Haifa,Ironi Ness Ziona,82,111
+2024-02-21,2023-24,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Eilat,81,71
+2024-02-22,2023-24,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Galil Elyon,71,88
+2024-02-24,2023-24,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Be'er Sheva,93,87
+2024-02-25,2023-24,Israel BSL,Regular Season,Hapoel Afula,Maccabi Tel Aviv,83,97
+2024-02-27,2023-24,Israel BSL,Regular Season,Hapoel Afula,Hapoel Tel Aviv,84,78
+2024-02-28,2023-24,Israel BSL,Regular Season,Hapoel Afula,Maccabi Ironi Ramat Gan,80,97
+2024-03-01,2023-24,Israel BSL,Regular Season,Hapoel Afula,Hapoel Jerusalem,105,65
+2024-03-02,2023-24,Israel BSL,Regular Season,Hapoel Afula,Hapoel Holon,72,60
+2024-03-04,2023-24,Israel BSL,Regular Season,Hapoel Afula,Ironi Kiryat Ata,73,76
+2024-03-05,2023-24,Israel BSL,Regular Season,Hapoel Afula,Bnei Herzliya,65,64
+2024-03-07,2023-24,Israel BSL,Regular Season,Hapoel Afula,Hapoel Haifa,91,73
+2024-03-09,2023-24,Israel BSL,Regular Season,Hapoel Afula,Ironi Ness Ziona,82,64
+2024-03-10,2023-24,Israel BSL,Regular Season,Hapoel Afula,Hapoel Eilat,80,94
+2024-03-12,2023-24,Israel BSL,Regular Season,Hapoel Afula,Hapoel Galil Elyon,109,107
+2024-03-13,2023-24,Israel BSL,Regular Season,Hapoel Afula,Hapoel Be'er Sheva,91,76
+2024-03-15,2023-24,Israel BSL,Regular Season,Ironi Ness Ziona,Maccabi Tel Aviv,73,97
+2024-03-16,2023-24,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Tel Aviv,63,102
+2024-03-18,2023-24,Israel BSL,Regular Season,Ironi Ness Ziona,Maccabi Ironi Ramat Gan,86,74
+2024-03-19,2023-24,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Jerusalem,74,77
+2024-03-21,2023-24,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Holon,74,76
+2024-03-22,2023-24,Israel BSL,Regular Season,Ironi Ness Ziona,Ironi Kiryat Ata,78,64
+2024-03-24,2023-24,Israel BSL,Regular Season,Ironi Ness Ziona,Bnei Herzliya,84,92
+2024-03-25,2023-24,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Haifa,79,83
+2024-03-27,2023-24,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Afula,77,73
+2024-03-29,2023-24,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Eilat,80,71
+2024-03-30,2023-24,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Galil Elyon,87,91
+2024-04-01,2023-24,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Be'er Sheva,98,95
+2024-04-02,2023-24,Israel BSL,Regular Season,Hapoel Eilat,Maccabi Tel Aviv,70,85
+2024-04-04,2023-24,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Tel Aviv,78,106
+2024-04-05,2023-24,Israel BSL,Regular Season,Hapoel Eilat,Maccabi Ironi Ramat Gan,83,80
+2024-04-07,2023-24,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Jerusalem,57,95
+2024-04-08,2023-24,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Holon,75,62
+2024-04-10,2023-24,Israel BSL,Regular Season,Hapoel Eilat,Ironi Kiryat Ata,83,75
+2024-04-11,2023-24,Israel BSL,Regular Season,Hapoel Eilat,Bnei Herzliya,81,91
+2024-04-13,2023-24,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Haifa,76,78
+2024-04-14,2023-24,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Afula,67,65
+2024-04-16,2023-24,Israel BSL,Regular Season,Hapoel Eilat,Ironi Ness Ziona,63,67
+2024-04-18,2023-24,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Galil Elyon,73,80
+2024-04-19,2023-24,Israel BSL,Regular Season,Hapoel Eilat,Hapoel Be'er Sheva,87,96
+2024-04-21,2023-24,Israel BSL,Regular Season,Hapoel Galil Elyon,Maccabi Tel Aviv,67,103
+2024-04-22,2023-24,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Tel Aviv,76,112
+2024-04-24,2023-24,Israel BSL,Regular Season,Hapoel Galil Elyon,Maccabi Ironi Ramat Gan,101,108
+2024-04-25,2023-24,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Jerusalem,71,80
+2024-04-27,2023-24,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Holon,71,92
+2024-04-28,2023-24,Israel BSL,Regular Season,Hapoel Galil Elyon,Ironi Kiryat Ata,83,93
+2024-04-30,2023-24,Israel BSL,Regular Season,Hapoel Galil Elyon,Bnei Herzliya,104,99
+2024-05-01,2023-24,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Haifa,76,83
+2024-05-03,2023-24,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Afula,79,94
+2024-05-04,2023-24,Israel BSL,Regular Season,Hapoel Galil Elyon,Ironi Ness Ziona,92,95
+2024-05-06,2023-24,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Eilat,69,72
+2024-05-08,2023-24,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Be'er Sheva,80,87
+2024-05-09,2023-24,Israel BSL,Regular Season,Hapoel Be'er Sheva,Maccabi Tel Aviv,75,87
+2024-05-11,2023-24,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Tel Aviv,78,95
+2024-05-12,2023-24,Israel BSL,Regular Season,Hapoel Be'er Sheva,Maccabi Ironi Ramat Gan,98,96
+2024-05-14,2023-24,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Jerusalem,74,79
+2024-05-15,2023-24,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Holon,79,94
+2024-05-17,2023-24,Israel BSL,Regular Season,Hapoel Be'er Sheva,Ironi Kiryat Ata,98,78
+2024-05-18,2023-24,Israel BSL,Regular Season,Hapoel Be'er Sheva,Bnei Herzliya,67,73
+2024-05-20,2023-24,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Haifa,97,99
+2024-05-21,2023-24,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Afula,81,90
+2024-05-23,2023-24,Israel BSL,Regular Season,Hapoel Be'er Sheva,Ironi Ness Ziona,90,76
+2024-05-24,2023-24,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Eilat,96,85
+2024-05-26,2023-24,Israel BSL,Regular Season,Hapoel Be'er Sheva,Hapoel Galil Elyon,86,96
+2024-10-01,2024-25,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Tel Aviv,97,79
+2024-10-02,2024-25,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Jerusalem,83,95
+2024-10-03,2024-25,Israel BSL,Regular Season,Maccabi Tel Aviv,Bnei Herzliya,105,82
+2024-10-04,2024-25,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Holon,86,83
+2024-10-06,2024-25,Israel BSL,Regular Season,Maccabi Tel Aviv,Maccabi Ironi Ramat Gan,94,87
+2024-10-07,2024-25,Israel BSL,Regular Season,Maccabi Tel Aviv,Ironi Ness Ziona,85,81
+2024-10-08,2024-25,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Gilboa Galil,89,83
+2024-10-10,2024-25,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Be'er Sheva/Dimona,77,62
+2024-10-11,2024-25,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Galil Elyon,73,60
+2024-10-12,2024-25,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Afula,92,89
+2024-10-14,2024-25,Israel BSL,Regular Season,Maccabi Tel Aviv,Elitzur Netanya,99,83
+2024-10-15,2024-25,Israel BSL,Regular Season,Maccabi Tel Aviv,Ironi Kiryat Ata,93,80
+2024-10-16,2024-25,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Haifa,102,87
+2024-10-18,2024-25,Israel BSL,Regular Season,Hapoel Tel Aviv,Maccabi Tel Aviv,76,70
+2024-10-19,2024-25,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Jerusalem,77,92
+2024-10-20,2024-25,Israel BSL,Regular Season,Hapoel Tel Aviv,Bnei Herzliya,97,79
+2024-10-22,2024-25,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Holon,84,68
+2024-10-23,2024-25,Israel BSL,Regular Season,Hapoel Tel Aviv,Maccabi Ironi Ramat Gan,88,82
+2024-10-24,2024-25,Israel BSL,Regular Season,Hapoel Tel Aviv,Ironi Ness Ziona,100,77
+2024-10-25,2024-25,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Gilboa Galil,94,74
+2024-10-27,2024-25,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Be'er Sheva/Dimona,82,83
+2024-10-28,2024-25,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Galil Elyon,99,77
+2024-10-29,2024-25,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Afula,85,62
+2024-10-31,2024-25,Israel BSL,Regular Season,Hapoel Tel Aviv,Elitzur Netanya,96,85
+2024-11-01,2024-25,Israel BSL,Regular Season,Hapoel Tel Aviv,Ironi Kiryat Ata,96,95
+2024-11-02,2024-25,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Haifa,114,99
+2024-11-04,2024-25,Israel BSL,Regular Season,Hapoel Jerusalem,Maccabi Tel Aviv,101,84
+2024-11-05,2024-25,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Tel Aviv,72,85
+2024-11-06,2024-25,Israel BSL,Regular Season,Hapoel Jerusalem,Bnei Herzliya,94,79
+2024-11-08,2024-25,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Holon,91,66
+2024-11-09,2024-25,Israel BSL,Regular Season,Hapoel Jerusalem,Maccabi Ironi Ramat Gan,86,87
+2024-11-10,2024-25,Israel BSL,Regular Season,Hapoel Jerusalem,Ironi Ness Ziona,94,89
+2024-11-12,2024-25,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Gilboa Galil,85,75
+2024-11-13,2024-25,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Be'er Sheva/Dimona,83,81
+2024-11-14,2024-25,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Galil Elyon,84,80
+2024-11-15,2024-25,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Afula,80,78
+2024-11-17,2024-25,Israel BSL,Regular Season,Hapoel Jerusalem,Elitzur Netanya,93,76
+2024-11-18,2024-25,Israel BSL,Regular Season,Hapoel Jerusalem,Ironi Kiryat Ata,89,66
+2024-11-19,2024-25,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Haifa,106,83
+2024-11-21,2024-25,Israel BSL,Regular Season,Bnei Herzliya,Maccabi Tel Aviv,106,101
+2024-11-22,2024-25,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Tel Aviv,91,95
+2024-11-23,2024-25,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Jerusalem,68,66
+2024-11-25,2024-25,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Holon,89,80
+2024-11-26,2024-25,Israel BSL,Regular Season,Bnei Herzliya,Maccabi Ironi Ramat Gan,88,86
+2024-11-27,2024-25,Israel BSL,Regular Season,Bnei Herzliya,Ironi Ness Ziona,84,86
+2024-11-29,2024-25,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Gilboa Galil,88,83
+2024-11-30,2024-25,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Be'er Sheva/Dimona,87,81
+2024-12-01,2024-25,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Galil Elyon,85,79
+2024-12-03,2024-25,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Afula,99,92
+2024-12-04,2024-25,Israel BSL,Regular Season,Bnei Herzliya,Elitzur Netanya,88,91
+2024-12-05,2024-25,Israel BSL,Regular Season,Bnei Herzliya,Ironi Kiryat Ata,90,77
+2024-12-06,2024-25,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Haifa,100,92
+2024-12-08,2024-25,Israel BSL,Regular Season,Hapoel Holon,Maccabi Tel Aviv,72,79
+2024-12-09,2024-25,Israel BSL,Regular Season,Hapoel Holon,Hapoel Tel Aviv,68,72
+2024-12-10,2024-25,Israel BSL,Regular Season,Hapoel Holon,Hapoel Jerusalem,79,85
+2024-12-12,2024-25,Israel BSL,Regular Season,Hapoel Holon,Bnei Herzliya,84,71
+2024-12-13,2024-25,Israel BSL,Regular Season,Hapoel Holon,Maccabi Ironi Ramat Gan,77,67
+2024-12-14,2024-25,Israel BSL,Regular Season,Hapoel Holon,Ironi Ness Ziona,91,85
+2024-12-16,2024-25,Israel BSL,Regular Season,Hapoel Holon,Hapoel Gilboa Galil,80,89
+2024-12-17,2024-25,Israel BSL,Regular Season,Hapoel Holon,Hapoel Be'er Sheva/Dimona,88,82
+2024-12-18,2024-25,Israel BSL,Regular Season,Hapoel Holon,Hapoel Galil Elyon,80,77
+2024-12-20,2024-25,Israel BSL,Regular Season,Hapoel Holon,Hapoel Afula,82,74
+2024-12-21,2024-25,Israel BSL,Regular Season,Hapoel Holon,Elitzur Netanya,97,64
+2024-12-22,2024-25,Israel BSL,Regular Season,Hapoel Holon,Ironi Kiryat Ata,87,72
+2024-12-24,2024-25,Israel BSL,Regular Season,Hapoel Holon,Hapoel Haifa,89,71
+2024-12-25,2024-25,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Maccabi Tel Aviv,87,98
+2024-12-26,2024-25,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Tel Aviv,82,91
+2024-12-27,2024-25,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Jerusalem,75,82
+2024-12-29,2024-25,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Bnei Herzliya,89,75
+2024-12-30,2024-25,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Holon,90,88
+2024-12-31,2024-25,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Ironi Ness Ziona,108,84
+2025-01-02,2024-25,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Gilboa Galil,79,83
+2025-01-03,2024-25,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Be'er Sheva/Dimona,85,78
+2025-01-04,2024-25,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Galil Elyon,81,83
+2025-01-06,2024-25,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Afula,85,82
+2025-01-07,2024-25,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Elitzur Netanya,98,86
+2025-01-08,2024-25,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Ironi Kiryat Ata,93,75
+2025-01-10,2024-25,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Haifa,89,79
+2025-01-11,2024-25,Israel BSL,Regular Season,Ironi Ness Ziona,Maccabi Tel Aviv,98,103
+2025-01-12,2024-25,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Tel Aviv,54,90
+2025-01-14,2024-25,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Jerusalem,74,81
+2025-01-15,2024-25,Israel BSL,Regular Season,Ironi Ness Ziona,Bnei Herzliya,93,83
+2025-01-16,2024-25,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Holon,72,60
+2025-01-17,2024-25,Israel BSL,Regular Season,Ironi Ness Ziona,Maccabi Ironi Ramat Gan,61,76
+2025-01-19,2024-25,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Gilboa Galil,101,83
+2025-01-20,2024-25,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Be'er Sheva/Dimona,107,97
+2025-01-21,2024-25,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Galil Elyon,74,76
+2025-01-23,2024-25,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Afula,87,74
+2025-01-24,2024-25,Israel BSL,Regular Season,Ironi Ness Ziona,Elitzur Netanya,91,72
+2025-01-25,2024-25,Israel BSL,Regular Season,Ironi Ness Ziona,Ironi Kiryat Ata,97,82
+2025-01-27,2024-25,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Haifa,86,68
+2025-01-28,2024-25,Israel BSL,Regular Season,Hapoel Gilboa Galil,Maccabi Tel Aviv,73,80
+2025-01-29,2024-25,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Tel Aviv,56,73
+2025-01-31,2024-25,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Jerusalem,81,89
+2025-02-01,2024-25,Israel BSL,Regular Season,Hapoel Gilboa Galil,Bnei Herzliya,86,93
+2025-02-02,2024-25,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Holon,79,83
+2025-02-04,2024-25,Israel BSL,Regular Season,Hapoel Gilboa Galil,Maccabi Ironi Ramat Gan,78,74
+2025-02-05,2024-25,Israel BSL,Regular Season,Hapoel Gilboa Galil,Ironi Ness Ziona,88,83
+2025-02-06,2024-25,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Be'er Sheva/Dimona,78,83
+2025-02-08,2024-25,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Galil Elyon,77,93
+2025-02-09,2024-25,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Afula,84,76
+2025-02-10,2024-25,Israel BSL,Regular Season,Hapoel Gilboa Galil,Elitzur Netanya,100,67
+2025-02-11,2024-25,Israel BSL,Regular Season,Hapoel Gilboa Galil,Ironi Kiryat Ata,85,60
+2025-02-13,2024-25,Israel BSL,Regular Season,Hapoel Gilboa Galil,Hapoel Haifa,100,81
+2025-02-14,2024-25,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Maccabi Tel Aviv,75,93
+2025-02-15,2024-25,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Hapoel Tel Aviv,88,98
+2025-02-17,2024-25,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Hapoel Jerusalem,68,104
+2025-02-18,2024-25,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Bnei Herzliya,97,98
+2025-02-19,2024-25,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Hapoel Holon,81,101
+2025-02-21,2024-25,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Maccabi Ironi Ramat Gan,104,84
+2025-02-22,2024-25,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Ironi Ness Ziona,90,85
+2025-02-23,2024-25,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Hapoel Gilboa Galil,72,88
+2025-02-25,2024-25,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Hapoel Galil Elyon,89,84
+2025-02-26,2024-25,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Hapoel Afula,78,73
+2025-02-27,2024-25,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Elitzur Netanya,88,69
+2025-03-01,2024-25,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Ironi Kiryat Ata,86,77
+2025-03-02,2024-25,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Hapoel Haifa,81,87
+2025-03-03,2024-25,Israel BSL,Regular Season,Hapoel Galil Elyon,Maccabi Tel Aviv,67,79
+2025-03-04,2024-25,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Tel Aviv,64,79
+2025-03-06,2024-25,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Jerusalem,87,82
+2025-03-07,2024-25,Israel BSL,Regular Season,Hapoel Galil Elyon,Bnei Herzliya,87,93
+2025-03-08,2024-25,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Holon,67,70
+2025-03-10,2024-25,Israel BSL,Regular Season,Hapoel Galil Elyon,Maccabi Ironi Ramat Gan,80,96
+2025-03-11,2024-25,Israel BSL,Regular Season,Hapoel Galil Elyon,Ironi Ness Ziona,77,65
+2025-03-12,2024-25,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Gilboa Galil,76,69
+2025-03-14,2024-25,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Be'er Sheva/Dimona,60,74
+2025-03-15,2024-25,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Afula,88,77
+2025-03-16,2024-25,Israel BSL,Regular Season,Hapoel Galil Elyon,Elitzur Netanya,69,65
+2025-03-18,2024-25,Israel BSL,Regular Season,Hapoel Galil Elyon,Ironi Kiryat Ata,97,82
+2025-03-19,2024-25,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Haifa,87,69
+2025-03-20,2024-25,Israel BSL,Regular Season,Hapoel Afula,Maccabi Tel Aviv,75,87
+2025-03-22,2024-25,Israel BSL,Regular Season,Hapoel Afula,Hapoel Tel Aviv,74,99
+2025-03-23,2024-25,Israel BSL,Regular Season,Hapoel Afula,Hapoel Jerusalem,84,82
+2025-03-24,2024-25,Israel BSL,Regular Season,Hapoel Afula,Bnei Herzliya,111,97
+2025-03-25,2024-25,Israel BSL,Regular Season,Hapoel Afula,Hapoel Holon,86,76
+2025-03-27,2024-25,Israel BSL,Regular Season,Hapoel Afula,Maccabi Ironi Ramat Gan,68,84
+2025-03-28,2024-25,Israel BSL,Regular Season,Hapoel Afula,Ironi Ness Ziona,96,86
+2025-03-29,2024-25,Israel BSL,Regular Season,Hapoel Afula,Hapoel Gilboa Galil,96,62
+2025-03-31,2024-25,Israel BSL,Regular Season,Hapoel Afula,Hapoel Be'er Sheva/Dimona,92,93
+2025-04-01,2024-25,Israel BSL,Regular Season,Hapoel Afula,Hapoel Galil Elyon,87,65
+2025-04-02,2024-25,Israel BSL,Regular Season,Hapoel Afula,Elitzur Netanya,86,78
+2025-04-04,2024-25,Israel BSL,Regular Season,Hapoel Afula,Ironi Kiryat Ata,76,88
+2025-04-05,2024-25,Israel BSL,Regular Season,Hapoel Afula,Hapoel Haifa,86,74
+2025-04-06,2024-25,Israel BSL,Regular Season,Elitzur Netanya,Maccabi Tel Aviv,72,76
+2025-04-08,2024-25,Israel BSL,Regular Season,Elitzur Netanya,Hapoel Tel Aviv,70,96
+2025-04-09,2024-25,Israel BSL,Regular Season,Elitzur Netanya,Hapoel Jerusalem,74,98
+2025-04-10,2024-25,Israel BSL,Regular Season,Elitzur Netanya,Bnei Herzliya,80,85
+2025-04-12,2024-25,Israel BSL,Regular Season,Elitzur Netanya,Hapoel Holon,87,83
+2025-04-13,2024-25,Israel BSL,Regular Season,Elitzur Netanya,Maccabi Ironi Ramat Gan,95,89
+2025-04-14,2024-25,Israel BSL,Regular Season,Elitzur Netanya,Ironi Ness Ziona,75,80
+2025-04-15,2024-25,Israel BSL,Regular Season,Elitzur Netanya,Hapoel Gilboa Galil,66,83
+2025-04-17,2024-25,Israel BSL,Regular Season,Elitzur Netanya,Hapoel Be'er Sheva/Dimona,80,96
+2025-04-18,2024-25,Israel BSL,Regular Season,Elitzur Netanya,Hapoel Galil Elyon,88,56
+2025-04-19,2024-25,Israel BSL,Regular Season,Elitzur Netanya,Hapoel Afula,92,84
+2025-04-21,2024-25,Israel BSL,Regular Season,Elitzur Netanya,Ironi Kiryat Ata,89,74
+2025-04-22,2024-25,Israel BSL,Regular Season,Elitzur Netanya,Hapoel Haifa,78,75
+2025-04-23,2024-25,Israel BSL,Regular Season,Ironi Kiryat Ata,Maccabi Tel Aviv,90,102
+2025-04-25,2024-25,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Tel Aviv,77,94
+2025-04-26,2024-25,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Jerusalem,88,85
+2025-04-27,2024-25,Israel BSL,Regular Season,Ironi Kiryat Ata,Bnei Herzliya,93,78
+2025-04-29,2024-25,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Holon,92,98
+2025-04-30,2024-25,Israel BSL,Regular Season,Ironi Kiryat Ata,Maccabi Ironi Ramat Gan,93,83
+2025-05-01,2024-25,Israel BSL,Regular Season,Ironi Kiryat Ata,Ironi Ness Ziona,88,103
+2025-05-03,2024-25,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Gilboa Galil,70,83
+2025-05-04,2024-25,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Be'er Sheva/Dimona,84,79
+2025-05-05,2024-25,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Galil Elyon,85,64
+2025-05-06,2024-25,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Afula,67,84
+2025-05-08,2024-25,Israel BSL,Regular Season,Ironi Kiryat Ata,Elitzur Netanya,64,84
+2025-05-09,2024-25,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Haifa,89,84
+2025-05-10,2024-25,Israel BSL,Regular Season,Hapoel Haifa,Maccabi Tel Aviv,67,106
+2025-05-12,2024-25,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Tel Aviv,79,108
+2025-05-13,2024-25,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Jerusalem,61,82
+2025-05-14,2024-25,Israel BSL,Regular Season,Hapoel Haifa,Bnei Herzliya,101,109
+2025-05-16,2024-25,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Holon,80,81
+2025-05-17,2024-25,Israel BSL,Regular Season,Hapoel Haifa,Maccabi Ironi Ramat Gan,79,106
+2025-05-18,2024-25,Israel BSL,Regular Season,Hapoel Haifa,Ironi Ness Ziona,89,99
+2025-05-20,2024-25,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Gilboa Galil,83,94
+2025-05-21,2024-25,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Be'er Sheva/Dimona,77,107
+2025-05-22,2024-25,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Galil Elyon,112,116
+2025-05-24,2024-25,Israel BSL,Regular Season,Hapoel Haifa,Hapoel Afula,97,77
+2025-05-25,2024-25,Israel BSL,Regular Season,Hapoel Haifa,Elitzur Netanya,94,85
+2025-05-26,2024-25,Israel BSL,Regular Season,Hapoel Haifa,Ironi Kiryat Ata,86,100
+2025-10-01,2025-26,Israel BSL,Regular Season,Bnei Herzliya,Elitzur Netanya,108,107
+2025-10-02,2025-26,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Be'er Sheva/Dimona,88,92
+2025-10-03,2025-26,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Galil Elyon,105,89
+2025-10-05,2025-26,Israel BSL,Regular Season,Bnei Herzliya,Hapoel HaEmek,96,94
+2025-10-06,2025-26,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Holon,91,82
+2025-10-07,2025-26,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Jerusalem,95,80
+2025-10-09,2025-26,Israel BSL,Regular Season,Bnei Herzliya,Hapoel Tel Aviv,86,94
+2025-10-10,2025-26,Israel BSL,Regular Season,Bnei Herzliya,Ironi Kiryat Ata,88,96
+2025-10-11,2025-26,Israel BSL,Regular Season,Bnei Herzliya,Ironi Ness Ziona,90,73
+2025-10-13,2025-26,Israel BSL,Regular Season,Bnei Herzliya,Maccabi Ironi Ra'anana,89,79
+2025-10-14,2025-26,Israel BSL,Regular Season,Bnei Herzliya,Maccabi Ironi Ramat Gan,104,81
+2025-10-15,2025-26,Israel BSL,Regular Season,Bnei Herzliya,Maccabi Rishon LeZion,89,83
+2025-10-17,2025-26,Israel BSL,Regular Season,Bnei Herzliya,Maccabi Tel Aviv,99,114
+2025-10-18,2025-26,Israel BSL,Regular Season,Elitzur Netanya,Bnei Herzliya,88,102
+2025-10-19,2025-26,Israel BSL,Regular Season,Elitzur Netanya,Hapoel Be'er Sheva/Dimona,77,83
+2025-10-21,2025-26,Israel BSL,Regular Season,Elitzur Netanya,Hapoel Galil Elyon,78,85
+2025-10-22,2025-26,Israel BSL,Regular Season,Elitzur Netanya,Hapoel HaEmek,64,78
+2025-10-23,2025-26,Israel BSL,Regular Season,Elitzur Netanya,Hapoel Holon,95,108
+2025-10-25,2025-26,Israel BSL,Regular Season,Elitzur Netanya,Hapoel Jerusalem,81,97
+2025-10-26,2025-26,Israel BSL,Regular Season,Elitzur Netanya,Hapoel Tel Aviv,70,93
+2025-10-27,2025-26,Israel BSL,Regular Season,Elitzur Netanya,Ironi Kiryat Ata,94,80
+2025-10-29,2025-26,Israel BSL,Regular Season,Elitzur Netanya,Ironi Ness Ziona,95,91
+2025-10-30,2025-26,Israel BSL,Regular Season,Elitzur Netanya,Maccabi Ironi Ra'anana,102,77
+2025-10-31,2025-26,Israel BSL,Regular Season,Elitzur Netanya,Maccabi Ironi Ramat Gan,95,93
+2025-11-02,2025-26,Israel BSL,Regular Season,Elitzur Netanya,Maccabi Rishon LeZion,72,68
+2025-11-03,2025-26,Israel BSL,Regular Season,Elitzur Netanya,Maccabi Tel Aviv,88,94
+2025-11-04,2025-26,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Bnei Herzliya,86,94
+2025-11-06,2025-26,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Hapoel Galil Elyon,78,92
+2025-11-07,2025-26,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Hapoel HaEmek,86,93
+2025-11-08,2025-26,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Hapoel Holon,86,96
+2025-11-10,2025-26,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Hapoel Jerusalem,90,75
+2025-11-11,2025-26,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Hapoel Tel Aviv,77,102
+2025-11-12,2025-26,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Ironi Kiryat Ata,80,94
+2025-11-14,2025-26,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Ironi Ness Ziona,68,105
+2025-11-15,2025-26,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Maccabi Ironi Ra'anana,88,84
+2025-11-16,2025-26,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Maccabi Ironi Ramat Gan,101,95
+2025-11-18,2025-26,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Maccabi Rishon LeZion,67,75
+2025-11-19,2025-26,Israel BSL,Regular Season,Hapoel Be'er Sheva/Dimona,Maccabi Tel Aviv,92,104
+2025-11-21,2025-26,Israel BSL,Regular Season,Hapoel Galil Elyon,Bnei Herzliya,75,88
+2025-11-22,2025-26,Israel BSL,Regular Season,Hapoel Galil Elyon,Elitzur Netanya,79,74
+2025-11-23,2025-26,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Be'er Sheva/Dimona,70,77
+2025-11-25,2025-26,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel HaEmek,75,65
+2025-11-26,2025-26,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Holon,76,103
+2025-11-27,2025-26,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Jerusalem,76,81
+2025-11-29,2025-26,Israel BSL,Regular Season,Hapoel Galil Elyon,Hapoel Tel Aviv,90,89
+2025-11-30,2025-26,Israel BSL,Regular Season,Hapoel Galil Elyon,Ironi Kiryat Ata,113,108
+2025-12-01,2025-26,Israel BSL,Regular Season,Hapoel Galil Elyon,Ironi Ness Ziona,55,81
+2025-12-03,2025-26,Israel BSL,Regular Season,Hapoel Galil Elyon,Maccabi Ironi Ra'anana,67,77
+2025-12-04,2025-26,Israel BSL,Regular Season,Hapoel Galil Elyon,Maccabi Ironi Ramat Gan,71,82
+2025-12-05,2025-26,Israel BSL,Regular Season,Hapoel Galil Elyon,Maccabi Rishon LeZion,64,88
+2025-12-07,2025-26,Israel BSL,Regular Season,Hapoel Galil Elyon,Maccabi Tel Aviv,65,86
+2025-12-08,2025-26,Israel BSL,Regular Season,Hapoel HaEmek,Bnei Herzliya,95,94
+2025-12-09,2025-26,Israel BSL,Regular Season,Hapoel HaEmek,Elitzur Netanya,79,59
+2025-12-11,2025-26,Israel BSL,Regular Season,Hapoel HaEmek,Hapoel Be'er Sheva/Dimona,90,81
+2025-12-12,2025-26,Israel BSL,Regular Season,Hapoel HaEmek,Hapoel Galil Elyon,96,66
+2025-12-13,2025-26,Israel BSL,Regular Season,Hapoel HaEmek,Hapoel Holon,78,87
+2025-12-15,2025-26,Israel BSL,Regular Season,Hapoel HaEmek,Hapoel Tel Aviv,75,79
+2025-12-16,2025-26,Israel BSL,Regular Season,Hapoel HaEmek,Ironi Kiryat Ata,77,64
+2025-12-17,2025-26,Israel BSL,Regular Season,Hapoel HaEmek,Ironi Ness Ziona,88,83
+2025-12-19,2025-26,Israel BSL,Regular Season,Hapoel HaEmek,Maccabi Ironi Ra'anana,90,79
+2025-12-20,2025-26,Israel BSL,Regular Season,Hapoel HaEmek,Maccabi Ironi Ramat Gan,94,83
+2025-12-21,2025-26,Israel BSL,Regular Season,Hapoel HaEmek,Maccabi Rishon LeZion,89,75
+2025-12-23,2025-26,Israel BSL,Regular Season,Hapoel HaEmek,Maccabi Tel Aviv,88,98
+2025-12-24,2025-26,Israel BSL,Regular Season,Hapoel Holon,Bnei Herzliya,76,87
+2025-12-25,2025-26,Israel BSL,Regular Season,Hapoel Holon,Elitzur Netanya,86,77
+2025-12-27,2025-26,Israel BSL,Regular Season,Hapoel Holon,Hapoel Be'er Sheva/Dimona,87,85
+2025-12-28,2025-26,Israel BSL,Regular Season,Hapoel Holon,Hapoel Galil Elyon,92,82
+2025-12-29,2025-26,Israel BSL,Regular Season,Hapoel Holon,Hapoel HaEmek,92,86
+2025-12-31,2025-26,Israel BSL,Regular Season,Hapoel Holon,Hapoel Jerusalem,78,77
+2026-01-01,2025-26,Israel BSL,Regular Season,Hapoel Holon,Hapoel Tel Aviv,60,114
+2026-01-02,2025-26,Israel BSL,Regular Season,Hapoel Holon,Ironi Kiryat Ata,90,98
+2026-01-04,2025-26,Israel BSL,Regular Season,Hapoel Holon,Ironi Ness Ziona,98,104
+2026-01-05,2025-26,Israel BSL,Regular Season,Hapoel Holon,Maccabi Ironi Ra'anana,95,93
+2026-01-07,2025-26,Israel BSL,Regular Season,Hapoel Holon,Maccabi Ironi Ramat Gan,67,66
+2026-01-08,2025-26,Israel BSL,Regular Season,Hapoel Holon,Maccabi Rishon LeZion,62,68
+2026-01-09,2025-26,Israel BSL,Regular Season,Hapoel Holon,Maccabi Tel Aviv,83,88
+2026-01-11,2025-26,Israel BSL,Regular Season,Hapoel Jerusalem,Bnei Herzliya,102,81
+2026-01-12,2025-26,Israel BSL,Regular Season,Hapoel Jerusalem,Elitzur Netanya,100,69
+2026-01-13,2025-26,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Be'er Sheva/Dimona,103,87
+2026-01-15,2025-26,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Galil Elyon,77,62
+2026-01-16,2025-26,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel HaEmek,65,69
+2026-01-17,2025-26,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Holon,95,103
+2026-01-19,2025-26,Israel BSL,Regular Season,Hapoel Jerusalem,Hapoel Tel Aviv,105,91
+2026-01-20,2025-26,Israel BSL,Regular Season,Hapoel Jerusalem,Ironi Kiryat Ata,96,68
+2026-01-21,2025-26,Israel BSL,Regular Season,Hapoel Jerusalem,Ironi Ness Ziona,79,65
+2026-01-23,2025-26,Israel BSL,Regular Season,Hapoel Jerusalem,Maccabi Ironi Ra'anana,102,99
+2026-01-24,2025-26,Israel BSL,Regular Season,Hapoel Jerusalem,Maccabi Ironi Ramat Gan,88,69
+2026-01-25,2025-26,Israel BSL,Regular Season,Hapoel Jerusalem,Maccabi Rishon LeZion,87,74
+2026-01-27,2025-26,Israel BSL,Regular Season,Hapoel Jerusalem,Maccabi Tel Aviv,105,112
+2026-01-28,2025-26,Israel BSL,Regular Season,Hapoel Tel Aviv,Bnei Herzliya,59,70
+2026-01-29,2025-26,Israel BSL,Regular Season,Hapoel Tel Aviv,Elitzur Netanya,75,66
+2026-01-31,2025-26,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Be'er Sheva/Dimona,112,108
+2026-02-01,2025-26,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Galil Elyon,98,66
+2026-02-02,2025-26,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel HaEmek,76,68
+2026-02-04,2025-26,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Holon,89,83
+2026-02-05,2025-26,Israel BSL,Regular Season,Hapoel Tel Aviv,Hapoel Jerusalem,77,92
+2026-02-06,2025-26,Israel BSL,Regular Season,Hapoel Tel Aviv,Ironi Kiryat Ata,97,82
+2026-02-08,2025-26,Israel BSL,Regular Season,Hapoel Tel Aviv,Ironi Ness Ziona,89,63
+2026-02-09,2025-26,Israel BSL,Regular Season,Hapoel Tel Aviv,Maccabi Ironi Ra'anana,98,75
+2026-02-10,2025-26,Israel BSL,Regular Season,Hapoel Tel Aviv,Maccabi Ironi Ramat Gan,91,62
+2026-02-12,2025-26,Israel BSL,Regular Season,Hapoel Tel Aviv,Maccabi Rishon LeZion,91,76
+2026-02-13,2025-26,Israel BSL,Regular Season,Hapoel Tel Aviv,Maccabi Tel Aviv,85,80
+2026-02-14,2025-26,Israel BSL,Regular Season,Ironi Kiryat Ata,Bnei Herzliya,113,101
+2026-02-16,2025-26,Israel BSL,Regular Season,Ironi Kiryat Ata,Elitzur Netanya,124,103
+2026-02-17,2025-26,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Be'er Sheva/Dimona,84,86
+2026-02-18,2025-26,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Galil Elyon,96,79
+2026-02-20,2025-26,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel HaEmek,67,72
+2026-02-21,2025-26,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Holon,63,94
+2026-02-23,2025-26,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Jerusalem,84,88
+2026-02-24,2025-26,Israel BSL,Regular Season,Ironi Kiryat Ata,Hapoel Tel Aviv,81,95
+2026-02-25,2025-26,Israel BSL,Regular Season,Ironi Kiryat Ata,Maccabi Ironi Ra'anana,78,86
+2026-02-27,2025-26,Israel BSL,Regular Season,Ironi Kiryat Ata,Maccabi Ironi Ramat Gan,83,90
+2026-02-28,2025-26,Israel BSL,Regular Season,Ironi Kiryat Ata,Maccabi Rishon LeZion,94,85
+2026-03-01,2025-26,Israel BSL,Regular Season,Ironi Kiryat Ata,Maccabi Tel Aviv,82,116
+2026-03-03,2025-26,Israel BSL,Regular Season,Ironi Ness Ziona,Bnei Herzliya,88,95
+2026-03-04,2025-26,Israel BSL,Regular Season,Ironi Ness Ziona,Elitzur Netanya,86,78
+2026-03-05,2025-26,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Be'er Sheva/Dimona,88,95
+2026-03-07,2025-26,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Galil Elyon,83,74
+2026-03-08,2025-26,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel HaEmek,80,70
+2026-03-09,2025-26,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Holon,70,82
+2026-03-11,2025-26,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Jerusalem,97,93
+2026-03-12,2025-26,Israel BSL,Regular Season,Ironi Ness Ziona,Hapoel Tel Aviv,75,81
+2026-03-13,2025-26,Israel BSL,Regular Season,Ironi Ness Ziona,Ironi Kiryat Ata,100,91
+2026-03-15,2025-26,Israel BSL,Regular Season,Ironi Ness Ziona,Maccabi Ironi Ra'anana,85,77
+2026-03-16,2025-26,Israel BSL,Regular Season,Ironi Ness Ziona,Maccabi Ironi Ramat Gan,70,82
+2026-03-17,2025-26,Israel BSL,Regular Season,Ironi Ness Ziona,Maccabi Rishon LeZion,63,72
+2026-03-19,2025-26,Israel BSL,Regular Season,Ironi Ness Ziona,Maccabi Tel Aviv,72,88
+2026-03-20,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ra'anana,Bnei Herzliya,96,107
+2026-03-21,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ra'anana,Elitzur Netanya,79,69
+2026-03-23,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ra'anana,Hapoel Be'er Sheva/Dimona,80,102
+2026-03-24,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ra'anana,Hapoel Galil Elyon,86,91
+2026-03-25,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ra'anana,Hapoel HaEmek,71,89
+2026-03-27,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ra'anana,Hapoel Holon,79,90
+2026-03-28,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ra'anana,Hapoel Jerusalem,93,95
+2026-03-29,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ra'anana,Hapoel Tel Aviv,72,89
+2026-03-31,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ra'anana,Ironi Kiryat Ata,80,84
+2026-04-01,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ra'anana,Ironi Ness Ziona,92,70
+2026-04-02,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ra'anana,Maccabi Ironi Ramat Gan,70,85
+2026-04-04,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ra'anana,Maccabi Rishon LeZion,93,69
+2026-04-05,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ra'anana,Maccabi Tel Aviv,89,106
+2026-04-06,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Bnei Herzliya,88,104
+2026-04-08,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Elitzur Netanya,76,77
+2026-04-09,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Be'er Sheva/Dimona,92,97
+2026-04-11,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Galil Elyon,83,71
+2026-04-12,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel HaEmek,63,89
+2026-04-13,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Holon,110,104
+2026-04-15,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Jerusalem,87,97
+2026-04-16,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Hapoel Tel Aviv,81,91
+2026-04-17,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Ironi Kiryat Ata,100,98
+2026-04-19,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Ironi Ness Ziona,100,83
+2026-04-20,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Maccabi Ironi Ra'anana,87,89
+2026-04-21,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Maccabi Rishon LeZion,84,67
+2026-04-23,2025-26,Israel BSL,Regular Season,Maccabi Ironi Ramat Gan,Maccabi Tel Aviv,91,98
+2026-04-24,2025-26,Israel BSL,Regular Season,Maccabi Rishon LeZion,Bnei Herzliya,90,95
+2026-04-25,2025-26,Israel BSL,Regular Season,Maccabi Rishon LeZion,Elitzur Netanya,80,71
+2026-04-27,2025-26,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel Be'er Sheva/Dimona,87,84
+2026-04-28,2025-26,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel Galil Elyon,79,75
+2026-04-29,2025-26,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel HaEmek,103,98
+2026-05-01,2025-26,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel Holon,78,70
+2026-05-02,2025-26,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel Jerusalem,93,100
+2026-05-03,2025-26,Israel BSL,Regular Season,Maccabi Rishon LeZion,Hapoel Tel Aviv,77,88
+2026-05-05,2025-26,Israel BSL,Regular Season,Maccabi Rishon LeZion,Ironi Kiryat Ata,97,69
+2026-05-06,2025-26,Israel BSL,Regular Season,Maccabi Rishon LeZion,Ironi Ness Ziona,92,73
+2026-05-07,2025-26,Israel BSL,Regular Season,Maccabi Rishon LeZion,Maccabi Ironi Ra'anana,93,78
+2026-05-09,2025-26,Israel BSL,Regular Season,Maccabi Rishon LeZion,Maccabi Ironi Ramat Gan,87,99
+2026-05-10,2025-26,Israel BSL,Regular Season,Maccabi Rishon LeZion,Maccabi Tel Aviv,83,94
+2026-05-11,2025-26,Israel BSL,Regular Season,Maccabi Tel Aviv,Bnei Herzliya,137,75
+2026-05-13,2025-26,Israel BSL,Regular Season,Maccabi Tel Aviv,Elitzur Netanya,102,92
+2026-05-14,2025-26,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Be'er Sheva/Dimona,81,69
+2026-05-15,2025-26,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Galil Elyon,108,51
+2026-05-17,2025-26,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel HaEmek,89,64
+2026-05-18,2025-26,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Holon,102,75
+2026-05-19,2025-26,Israel BSL,Regular Season,Maccabi Tel Aviv,Hapoel Jerusalem,95,84
+2026-05-21,2025-26,Israel BSL,Regular Season,Maccabi Tel Aviv,Ironi Kiryat Ata,102,77
+2026-05-22,2025-26,Israel BSL,Regular Season,Maccabi Tel Aviv,Ironi Ness Ziona,111,80
+2026-05-23,2025-26,Israel BSL,Regular Season,Maccabi Tel Aviv,Maccabi Ironi Ra'anana,95,75
+2026-05-25,2025-26,Israel BSL,Regular Season,Maccabi Tel Aviv,Maccabi Ironi Ramat Gan,84,81
+2026-05-26,2025-26,Israel BSL,Regular Season,Maccabi Tel Aviv,Maccabi Rishon LeZion,104,73

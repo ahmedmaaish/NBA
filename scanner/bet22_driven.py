@@ -52,7 +52,21 @@ LEAGUE_MAP = {
     "Mexico. CIBACOPA":         None,
 }
 
-HISTORIC_ROOT = Path(r"C:\Users\Ahmed Maaish\Desktop\Python\nba_data\Historic Data")
+# Path lookup with fallback so it works both locally AND in GitHub Actions.
+# Priority:
+#   1. Local Windows path (developer machine, has full historical data)
+#   2. Repo-bundled path (committed under scanner/league_data/)
+# If neither exists, 22bet-driven discovery silently returns no extra games
+# instead of crashing the whole pipeline.
+_LOCAL_PATH = Path(r"C:\Users\Ahmed Maaish\Desktop\Python\nba_data\Historic Data")
+_REPO_PATH  = Path(__file__).resolve().parent / "league_data"
+
+if _LOCAL_PATH.exists():
+    HISTORIC_ROOT = _LOCAL_PATH
+elif _REPO_PATH.exists():
+    HISTORIC_ROOT = _REPO_PATH
+else:
+    HISTORIC_ROOT = _REPO_PATH   # empty path — load functions will return empty
 
 
 def _norm(s: str) -> str:

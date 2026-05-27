@@ -1,0 +1,786 @@
+date,season,league,gameType,home_team,away_team,home_score,away_score
+2023-10-01,2023-24,France LNB,Regular Season,LDLC ASVEL,Blois,85,77
+2023-10-01,2023-24,France LNB,Regular Season,LDLC ASVEL,Élan Chalon,79,72
+2023-10-02,2023-24,France LNB,Regular Season,LDLC ASVEL,Cholet,100,95
+2023-10-03,2023-24,France LNB,Regular Season,LDLC ASVEL,JDA Dijon,79,74
+2023-10-04,2023-24,France LNB,Regular Season,LDLC ASVEL,BCM Gravelines-Dunkerque,86,83
+2023-10-05,2023-24,France LNB,Regular Season,LDLC ASVEL,JL Bourg,84,61
+2023-10-06,2023-24,France LNB,Regular Season,LDLC ASVEL,Limoges CSP,77,66
+2023-10-07,2023-24,France LNB,Regular Season,LDLC ASVEL,AS Monaco,79,87
+2023-10-08,2023-24,France LNB,Regular Season,LDLC ASVEL,Le Mans Sarthe,89,75
+2023-10-08,2023-24,France LNB,Regular Season,LDLC ASVEL,Metropolitans 92,102,76
+2023-10-09,2023-24,France LNB,Regular Season,LDLC ASVEL,SLUC Nancy,89,64
+2023-10-10,2023-24,France LNB,Regular Season,LDLC ASVEL,Nanterre 92,100,76
+2023-10-11,2023-24,France LNB,Regular Season,LDLC ASVEL,Paris Basketball,66,86
+2023-10-12,2023-24,France LNB,Regular Season,LDLC ASVEL,ESSM Le Portel,85,70
+2023-10-13,2023-24,France LNB,Regular Season,LDLC ASVEL,Roanne,93,88
+2023-10-14,2023-24,France LNB,Regular Season,LDLC ASVEL,Saint-Quentin,79,77
+2023-10-15,2023-24,France LNB,Regular Season,LDLC ASVEL,SIG Strasbourg,91,72
+2023-10-16,2023-24,France LNB,Regular Season,Blois,Élan Chalon,92,95
+2023-10-16,2023-24,France LNB,Regular Season,Blois,LDLC ASVEL,72,98
+2023-10-17,2023-24,France LNB,Regular Season,Blois,Cholet,78,80
+2023-10-18,2023-24,France LNB,Regular Season,Blois,JDA Dijon,85,84
+2023-10-19,2023-24,France LNB,Regular Season,Blois,BCM Gravelines-Dunkerque,81,73
+2023-10-20,2023-24,France LNB,Regular Season,Blois,JL Bourg,102,93
+2023-10-21,2023-24,France LNB,Regular Season,Blois,Limoges CSP,75,73
+2023-10-22,2023-24,France LNB,Regular Season,Blois,AS Monaco,73,89
+2023-10-23,2023-24,France LNB,Regular Season,Blois,Metropolitans 92,95,84
+2023-10-24,2023-24,France LNB,Regular Season,Blois,SLUC Nancy,99,98
+2023-10-24,2023-24,France LNB,Regular Season,Blois,Le Mans Sarthe,78,80
+2023-10-25,2023-24,France LNB,Regular Season,Blois,Nanterre 92,78,89
+2023-10-26,2023-24,France LNB,Regular Season,Blois,Paris Basketball,88,92
+2023-10-27,2023-24,France LNB,Regular Season,Blois,ESSM Le Portel,71,80
+2023-10-28,2023-24,France LNB,Regular Season,Blois,Roanne,77,80
+2023-10-29,2023-24,France LNB,Regular Season,Blois,Saint-Quentin,60,75
+2023-10-30,2023-24,France LNB,Regular Season,Blois,SIG Strasbourg,68,73
+2023-10-31,2023-24,France LNB,Regular Season,Élan Chalon,LDLC ASVEL,88,87
+2023-10-31,2023-24,France LNB,Regular Season,Élan Chalon,Blois,93,75
+2023-11-01,2023-24,France LNB,Regular Season,Élan Chalon,Cholet,79,81
+2023-11-02,2023-24,France LNB,Regular Season,Élan Chalon,JDA Dijon,76,84
+2023-11-03,2023-24,France LNB,Regular Season,Élan Chalon,BCM Gravelines-Dunkerque,79,63
+2023-11-04,2023-24,France LNB,Regular Season,Élan Chalon,JL Bourg,62,89
+2023-11-05,2023-24,France LNB,Regular Season,Élan Chalon,Limoges CSP,80,78
+2023-11-06,2023-24,France LNB,Regular Season,Élan Chalon,AS Monaco,68,104
+2023-11-07,2023-24,France LNB,Regular Season,Élan Chalon,Metropolitans 92,86,92
+2023-11-08,2023-24,France LNB,Regular Season,Élan Chalon,Le Mans Sarthe,73,68
+2023-11-08,2023-24,France LNB,Regular Season,Élan Chalon,SLUC Nancy,70,74
+2023-11-09,2023-24,France LNB,Regular Season,Élan Chalon,Nanterre 92,89,97
+2023-11-10,2023-24,France LNB,Regular Season,Élan Chalon,Paris Basketball,73,84
+2023-11-11,2023-24,France LNB,Regular Season,Élan Chalon,ESSM Le Portel,94,65
+2023-11-12,2023-24,France LNB,Regular Season,Élan Chalon,Roanne,105,86
+2023-11-13,2023-24,France LNB,Regular Season,Élan Chalon,Saint-Quentin,97,90
+2023-11-14,2023-24,France LNB,Regular Season,Élan Chalon,SIG Strasbourg,101,91
+2023-11-15,2023-24,France LNB,Regular Season,Cholet,LDLC ASVEL,69,73
+2023-11-16,2023-24,France LNB,Regular Season,Cholet,Blois,71,80
+2023-11-16,2023-24,France LNB,Regular Season,Cholet,Élan Chalon,84,77
+2023-11-17,2023-24,France LNB,Regular Season,Cholet,JDA Dijon,79,88
+2023-11-18,2023-24,France LNB,Regular Season,Cholet,BCM Gravelines-Dunkerque,72,84
+2023-11-19,2023-24,France LNB,Regular Season,Cholet,JL Bourg,78,88
+2023-11-20,2023-24,France LNB,Regular Season,Cholet,Limoges CSP,71,67
+2023-11-21,2023-24,France LNB,Regular Season,Cholet,AS Monaco,69,75
+2023-11-22,2023-24,France LNB,Regular Season,Cholet,Metropolitans 92,112,83
+2023-11-23,2023-24,France LNB,Regular Season,Cholet,Le Mans Sarthe,111,96
+2023-11-24,2023-24,France LNB,Regular Season,Cholet,SLUC Nancy,67,76
+2023-11-24,2023-24,France LNB,Regular Season,Cholet,Nanterre 92,70,67
+2023-11-25,2023-24,France LNB,Regular Season,Cholet,Paris Basketball,70,77
+2023-11-26,2023-24,France LNB,Regular Season,Cholet,ESSM Le Portel,89,82
+2023-11-27,2023-24,France LNB,Regular Season,Cholet,Roanne,90,86
+2023-11-28,2023-24,France LNB,Regular Season,Cholet,Saint-Quentin,73,69
+2023-11-29,2023-24,France LNB,Regular Season,Cholet,SIG Strasbourg,78,90
+2023-11-30,2023-24,France LNB,Regular Season,JDA Dijon,LDLC ASVEL,71,73
+2023-12-01,2023-24,France LNB,Regular Season,JDA Dijon,Blois,81,63
+2023-12-01,2023-24,France LNB,Regular Season,JDA Dijon,Élan Chalon,73,66
+2023-12-02,2023-24,France LNB,Regular Season,JDA Dijon,Cholet,60,62
+2023-12-03,2023-24,France LNB,Regular Season,JDA Dijon,BCM Gravelines-Dunkerque,90,69
+2023-12-04,2023-24,France LNB,Regular Season,JDA Dijon,JL Bourg,66,84
+2023-12-05,2023-24,France LNB,Regular Season,JDA Dijon,Limoges CSP,90,60
+2023-12-06,2023-24,France LNB,Regular Season,JDA Dijon,AS Monaco,72,80
+2023-12-07,2023-24,France LNB,Regular Season,JDA Dijon,Metropolitans 92,94,54
+2023-12-08,2023-24,France LNB,Regular Season,JDA Dijon,Le Mans Sarthe,87,77
+2023-12-09,2023-24,France LNB,Regular Season,JDA Dijon,SLUC Nancy,88,73
+2023-12-09,2023-24,France LNB,Regular Season,JDA Dijon,Nanterre 92,82,84
+2023-12-10,2023-24,France LNB,Regular Season,JDA Dijon,Paris Basketball,72,80
+2023-12-11,2023-24,France LNB,Regular Season,JDA Dijon,ESSM Le Portel,92,80
+2023-12-12,2023-24,France LNB,Regular Season,JDA Dijon,Roanne,99,82
+2023-12-13,2023-24,France LNB,Regular Season,JDA Dijon,Saint-Quentin,77,69
+2023-12-14,2023-24,France LNB,Regular Season,JDA Dijon,SIG Strasbourg,80,68
+2023-12-15,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,LDLC ASVEL,74,79
+2023-12-16,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,Blois,82,73
+2023-12-17,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,Élan Chalon,81,83
+2023-12-17,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,Cholet,66,59
+2023-12-18,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,JDA Dijon,71,55
+2023-12-19,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,JL Bourg,64,75
+2023-12-20,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,Limoges CSP,79,83
+2023-12-21,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,AS Monaco,68,72
+2023-12-22,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,Metropolitans 92,106,76
+2023-12-23,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,Le Mans Sarthe,71,84
+2023-12-24,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,SLUC Nancy,83,76
+2023-12-25,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,Paris Basketball,66,77
+2023-12-25,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,Nanterre 92,80,79
+2023-12-26,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,ESSM Le Portel,77,83
+2023-12-27,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,Roanne,82,67
+2023-12-28,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,Saint-Quentin,69,78
+2023-12-29,2023-24,France LNB,Regular Season,BCM Gravelines-Dunkerque,SIG Strasbourg,67,56
+2023-12-30,2023-24,France LNB,Regular Season,JL Bourg,LDLC ASVEL,74,80
+2023-12-31,2023-24,France LNB,Regular Season,JL Bourg,Blois,81,66
+2024-01-01,2023-24,France LNB,Regular Season,JL Bourg,Cholet,78,80
+2024-01-01,2023-24,France LNB,Regular Season,JL Bourg,Élan Chalon,90,67
+2024-01-02,2023-24,France LNB,Regular Season,JL Bourg,JDA Dijon,66,60
+2024-01-03,2023-24,France LNB,Regular Season,JL Bourg,BCM Gravelines-Dunkerque,90,82
+2024-01-04,2023-24,France LNB,Regular Season,JL Bourg,Limoges CSP,77,67
+2024-01-05,2023-24,France LNB,Regular Season,JL Bourg,AS Monaco,74,70
+2024-01-06,2023-24,France LNB,Regular Season,JL Bourg,Metropolitans 92,94,73
+2024-01-07,2023-24,France LNB,Regular Season,JL Bourg,Le Mans Sarthe,86,67
+2024-01-08,2023-24,France LNB,Regular Season,JL Bourg,SLUC Nancy,103,78
+2024-01-09,2023-24,France LNB,Regular Season,JL Bourg,Paris Basketball,83,81
+2024-01-09,2023-24,France LNB,Regular Season,JL Bourg,Nanterre 92,85,67
+2024-01-10,2023-24,France LNB,Regular Season,JL Bourg,ESSM Le Portel,106,74
+2024-01-11,2023-24,France LNB,Regular Season,JL Bourg,Roanne,81,84
+2024-01-12,2023-24,France LNB,Regular Season,JL Bourg,Saint-Quentin,86,71
+2024-01-13,2023-24,France LNB,Regular Season,JL Bourg,SIG Strasbourg,77,74
+2024-01-14,2023-24,France LNB,Regular Season,Limoges CSP,LDLC ASVEL,79,68
+2024-01-15,2023-24,France LNB,Regular Season,Limoges CSP,Blois,86,78
+2024-01-16,2023-24,France LNB,Regular Season,Limoges CSP,Élan Chalon,107,88
+2024-01-17,2023-24,France LNB,Regular Season,Limoges CSP,JDA Dijon,93,77
+2024-01-17,2023-24,France LNB,Regular Season,Limoges CSP,Cholet,81,90
+2024-01-18,2023-24,France LNB,Regular Season,Limoges CSP,BCM Gravelines-Dunkerque,88,63
+2024-01-19,2023-24,France LNB,Regular Season,Limoges CSP,JL Bourg,86,90
+2024-01-20,2023-24,France LNB,Regular Season,Limoges CSP,AS Monaco,59,72
+2024-01-21,2023-24,France LNB,Regular Season,Limoges CSP,Metropolitans 92,98,88
+2024-01-22,2023-24,France LNB,Regular Season,Limoges CSP,Le Mans Sarthe,79,78
+2024-01-23,2023-24,France LNB,Regular Season,Limoges CSP,SLUC Nancy,102,99
+2024-01-24,2023-24,France LNB,Regular Season,Limoges CSP,Nanterre 92,79,68
+2024-01-25,2023-24,France LNB,Regular Season,Limoges CSP,ESSM Le Portel,73,76
+2024-01-25,2023-24,France LNB,Regular Season,Limoges CSP,Paris Basketball,65,83
+2024-01-26,2023-24,France LNB,Regular Season,Limoges CSP,Roanne,80,77
+2024-01-27,2023-24,France LNB,Regular Season,Limoges CSP,Saint-Quentin,83,80
+2024-01-28,2023-24,France LNB,Regular Season,Limoges CSP,SIG Strasbourg,73,80
+2024-01-29,2023-24,France LNB,Regular Season,AS Monaco,LDLC ASVEL,89,71
+2024-01-30,2023-24,France LNB,Regular Season,AS Monaco,Blois,99,81
+2024-01-31,2023-24,France LNB,Regular Season,AS Monaco,Élan Chalon,82,69
+2024-02-01,2023-24,France LNB,Regular Season,AS Monaco,Cholet,66,79
+2024-02-01,2023-24,France LNB,Regular Season,AS Monaco,JDA Dijon,88,74
+2024-02-02,2023-24,France LNB,Regular Season,AS Monaco,BCM Gravelines-Dunkerque,91,76
+2024-02-03,2023-24,France LNB,Regular Season,AS Monaco,JL Bourg,78,67
+2024-02-04,2023-24,France LNB,Regular Season,AS Monaco,Limoges CSP,94,56
+2024-02-05,2023-24,France LNB,Regular Season,AS Monaco,Metropolitans 92,84,72
+2024-02-06,2023-24,France LNB,Regular Season,AS Monaco,Le Mans Sarthe,78,74
+2024-02-07,2023-24,France LNB,Regular Season,AS Monaco,SLUC Nancy,86,100
+2024-02-08,2023-24,France LNB,Regular Season,AS Monaco,Nanterre 92,91,82
+2024-02-09,2023-24,France LNB,Regular Season,AS Monaco,Paris Basketball,84,62
+2024-02-09,2023-24,France LNB,Regular Season,AS Monaco,ESSM Le Portel,101,67
+2024-02-10,2023-24,France LNB,Regular Season,AS Monaco,Roanne,116,73
+2024-02-11,2023-24,France LNB,Regular Season,AS Monaco,Saint-Quentin,77,75
+2024-02-12,2023-24,France LNB,Regular Season,AS Monaco,SIG Strasbourg,92,78
+2024-02-13,2023-24,France LNB,Regular Season,Metropolitans 92,LDLC ASVEL,79,103
+2024-02-14,2023-24,France LNB,Regular Season,Metropolitans 92,Blois,81,87
+2024-02-15,2023-24,France LNB,Regular Season,Metropolitans 92,Élan Chalon,75,83
+2024-02-16,2023-24,France LNB,Regular Season,Metropolitans 92,Cholet,78,92
+2024-02-17,2023-24,France LNB,Regular Season,Metropolitans 92,JDA Dijon,82,77
+2024-02-17,2023-24,France LNB,Regular Season,Metropolitans 92,BCM Gravelines-Dunkerque,72,74
+2024-02-18,2023-24,France LNB,Regular Season,Metropolitans 92,JL Bourg,82,101
+2024-02-19,2023-24,France LNB,Regular Season,Metropolitans 92,Limoges CSP,67,90
+2024-02-20,2023-24,France LNB,Regular Season,Metropolitans 92,AS Monaco,77,85
+2024-02-21,2023-24,France LNB,Regular Season,Metropolitans 92,Le Mans Sarthe,88,100
+2024-02-22,2023-24,France LNB,Regular Season,Metropolitans 92,SLUC Nancy,80,89
+2024-02-23,2023-24,France LNB,Regular Season,Metropolitans 92,Nanterre 92,80,90
+2024-02-24,2023-24,France LNB,Regular Season,Metropolitans 92,Paris Basketball,77,93
+2024-02-25,2023-24,France LNB,Regular Season,Metropolitans 92,ESSM Le Portel,62,78
+2024-02-25,2023-24,France LNB,Regular Season,Metropolitans 92,Roanne,90,83
+2024-02-26,2023-24,France LNB,Regular Season,Metropolitans 92,Saint-Quentin,69,73
+2024-02-27,2023-24,France LNB,Regular Season,Metropolitans 92,SIG Strasbourg,85,107
+2024-02-28,2023-24,France LNB,Regular Season,Le Mans Sarthe,LDLC ASVEL,87,100
+2024-02-29,2023-24,France LNB,Regular Season,Le Mans Sarthe,Blois,110,96
+2024-03-01,2023-24,France LNB,Regular Season,Le Mans Sarthe,Élan Chalon,98,72
+2024-03-02,2023-24,France LNB,Regular Season,Le Mans Sarthe,Cholet,85,88
+2024-03-03,2023-24,France LNB,Regular Season,Le Mans Sarthe,JDA Dijon,76,67
+2024-03-03,2023-24,France LNB,Regular Season,Le Mans Sarthe,BCM Gravelines-Dunkerque,78,68
+2024-03-04,2023-24,France LNB,Regular Season,Le Mans Sarthe,JL Bourg,64,80
+2024-03-05,2023-24,France LNB,Regular Season,Le Mans Sarthe,Limoges CSP,101,75
+2024-03-06,2023-24,France LNB,Regular Season,Le Mans Sarthe,AS Monaco,84,95
+2024-03-07,2023-24,France LNB,Regular Season,Le Mans Sarthe,Metropolitans 92,110,96
+2024-03-08,2023-24,France LNB,Regular Season,Le Mans Sarthe,SLUC Nancy,98,66
+2024-03-09,2023-24,France LNB,Regular Season,Le Mans Sarthe,Nanterre 92,76,89
+2024-03-10,2023-24,France LNB,Regular Season,Le Mans Sarthe,Paris Basketball,55,88
+2024-03-11,2023-24,France LNB,Regular Season,Le Mans Sarthe,ESSM Le Portel,73,67
+2024-03-11,2023-24,France LNB,Regular Season,Le Mans Sarthe,Roanne,90,80
+2024-03-12,2023-24,France LNB,Regular Season,Le Mans Sarthe,Saint-Quentin,76,77
+2024-03-13,2023-24,France LNB,Regular Season,Le Mans Sarthe,SIG Strasbourg,86,78
+2024-03-14,2023-24,France LNB,Regular Season,SLUC Nancy,LDLC ASVEL,58,83
+2024-03-15,2023-24,France LNB,Regular Season,SLUC Nancy,Blois,93,96
+2024-03-16,2023-24,France LNB,Regular Season,SLUC Nancy,Élan Chalon,92,83
+2024-03-17,2023-24,France LNB,Regular Season,SLUC Nancy,Cholet,77,85
+2024-03-18,2023-24,France LNB,Regular Season,SLUC Nancy,JDA Dijon,66,56
+2024-03-19,2023-24,France LNB,Regular Season,SLUC Nancy,JL Bourg,59,85
+2024-03-19,2023-24,France LNB,Regular Season,SLUC Nancy,BCM Gravelines-Dunkerque,69,59
+2024-03-20,2023-24,France LNB,Regular Season,SLUC Nancy,Limoges CSP,67,75
+2024-03-21,2023-24,France LNB,Regular Season,SLUC Nancy,AS Monaco,94,86
+2024-03-22,2023-24,France LNB,Regular Season,SLUC Nancy,Metropolitans 92,85,69
+2024-03-23,2023-24,France LNB,Regular Season,SLUC Nancy,Le Mans Sarthe,68,60
+2024-03-24,2023-24,France LNB,Regular Season,SLUC Nancy,Nanterre 92,91,71
+2024-03-25,2023-24,France LNB,Regular Season,SLUC Nancy,Paris Basketball,81,78
+2024-03-26,2023-24,France LNB,Regular Season,SLUC Nancy,ESSM Le Portel,76,91
+2024-03-27,2023-24,France LNB,Regular Season,SLUC Nancy,Roanne,84,79
+2024-03-27,2023-24,France LNB,Regular Season,SLUC Nancy,Saint-Quentin,69,77
+2024-03-28,2023-24,France LNB,Regular Season,SLUC Nancy,SIG Strasbourg,79,75
+2024-03-29,2023-24,France LNB,Regular Season,Nanterre 92,LDLC ASVEL,85,81
+2024-03-30,2023-24,France LNB,Regular Season,Nanterre 92,Blois,103,106
+2024-03-31,2023-24,France LNB,Regular Season,Nanterre 92,Élan Chalon,83,72
+2024-04-01,2023-24,France LNB,Regular Season,Nanterre 92,Cholet,91,87
+2024-04-02,2023-24,France LNB,Regular Season,Nanterre 92,JDA Dijon,67,87
+2024-04-03,2023-24,France LNB,Regular Season,Nanterre 92,JL Bourg,105,98
+2024-04-03,2023-24,France LNB,Regular Season,Nanterre 92,BCM Gravelines-Dunkerque,78,75
+2024-04-04,2023-24,France LNB,Regular Season,Nanterre 92,Limoges CSP,113,77
+2024-04-05,2023-24,France LNB,Regular Season,Nanterre 92,AS Monaco,80,86
+2024-04-06,2023-24,France LNB,Regular Season,Nanterre 92,Metropolitans 92,94,86
+2024-04-07,2023-24,France LNB,Regular Season,Nanterre 92,Le Mans Sarthe,93,81
+2024-04-08,2023-24,France LNB,Regular Season,Nanterre 92,SLUC Nancy,89,88
+2024-04-09,2023-24,France LNB,Regular Season,Nanterre 92,Paris Basketball,67,98
+2024-04-10,2023-24,France LNB,Regular Season,Nanterre 92,ESSM Le Portel,109,88
+2024-04-11,2023-24,France LNB,Regular Season,Nanterre 92,Saint-Quentin,80,75
+2024-04-11,2023-24,France LNB,Regular Season,Nanterre 92,Roanne,83,77
+2024-04-12,2023-24,France LNB,Regular Season,Nanterre 92,SIG Strasbourg,76,68
+2024-04-13,2023-24,France LNB,Regular Season,Paris Basketball,LDLC ASVEL,92,86
+2024-04-14,2023-24,France LNB,Regular Season,Paris Basketball,Blois,72,65
+2024-04-15,2023-24,France LNB,Regular Season,Paris Basketball,Élan Chalon,85,70
+2024-04-16,2023-24,France LNB,Regular Season,Paris Basketball,Cholet,92,90
+2024-04-17,2023-24,France LNB,Regular Season,Paris Basketball,JDA Dijon,81,64
+2024-04-18,2023-24,France LNB,Regular Season,Paris Basketball,BCM Gravelines-Dunkerque,97,78
+2024-04-19,2023-24,France LNB,Regular Season,Paris Basketball,JL Bourg,84,80
+2024-04-19,2023-24,France LNB,Regular Season,Paris Basketball,Limoges CSP,101,77
+2024-04-20,2023-24,France LNB,Regular Season,Paris Basketball,AS Monaco,85,92
+2024-04-21,2023-24,France LNB,Regular Season,Paris Basketball,Metropolitans 92,93,86
+2024-04-22,2023-24,France LNB,Regular Season,Paris Basketball,Le Mans Sarthe,112,71
+2024-04-23,2023-24,France LNB,Regular Season,Paris Basketball,SLUC Nancy,113,71
+2024-04-24,2023-24,France LNB,Regular Season,Paris Basketball,Nanterre 92,102,68
+2024-04-25,2023-24,France LNB,Regular Season,Paris Basketball,ESSM Le Portel,86,90
+2024-04-26,2023-24,France LNB,Regular Season,Paris Basketball,Roanne,90,61
+2024-04-27,2023-24,France LNB,Regular Season,Paris Basketball,Saint-Quentin,87,65
+2024-04-27,2023-24,France LNB,Regular Season,Paris Basketball,SIG Strasbourg,78,67
+2024-04-28,2023-24,France LNB,Regular Season,ESSM Le Portel,LDLC ASVEL,66,101
+2024-04-29,2023-24,France LNB,Regular Season,ESSM Le Portel,Blois,94,89
+2024-04-30,2023-24,France LNB,Regular Season,ESSM Le Portel,Élan Chalon,99,96
+2024-05-01,2023-24,France LNB,Regular Season,ESSM Le Portel,Cholet,87,84
+2024-05-02,2023-24,France LNB,Regular Season,ESSM Le Portel,JDA Dijon,81,75
+2024-05-03,2023-24,France LNB,Regular Season,ESSM Le Portel,BCM Gravelines-Dunkerque,91,82
+2024-05-04,2023-24,France LNB,Regular Season,ESSM Le Portel,Limoges CSP,76,66
+2024-05-04,2023-24,France LNB,Regular Season,ESSM Le Portel,JL Bourg,66,99
+2024-05-05,2023-24,France LNB,Regular Season,ESSM Le Portel,AS Monaco,67,74
+2024-05-06,2023-24,France LNB,Regular Season,ESSM Le Portel,Metropolitans 92,104,79
+2024-05-07,2023-24,France LNB,Regular Season,ESSM Le Portel,Le Mans Sarthe,85,76
+2024-05-08,2023-24,France LNB,Regular Season,ESSM Le Portel,SLUC Nancy,88,93
+2024-05-09,2023-24,France LNB,Regular Season,ESSM Le Portel,Nanterre 92,72,84
+2024-05-10,2023-24,France LNB,Regular Season,ESSM Le Portel,Paris Basketball,66,80
+2024-05-11,2023-24,France LNB,Regular Season,ESSM Le Portel,Roanne,91,76
+2024-05-12,2023-24,France LNB,Regular Season,ESSM Le Portel,Saint-Quentin,85,76
+2024-05-12,2023-24,France LNB,Regular Season,ESSM Le Portel,SIG Strasbourg,96,77
+2024-05-13,2023-24,France LNB,Regular Season,Roanne,LDLC ASVEL,66,69
+2024-05-14,2023-24,France LNB,Regular Season,Roanne,Blois,83,81
+2024-05-15,2023-24,France LNB,Regular Season,Roanne,Élan Chalon,82,93
+2024-05-16,2023-24,France LNB,Regular Season,Roanne,Cholet,82,69
+2024-05-17,2023-24,France LNB,Regular Season,Roanne,JDA Dijon,92,105
+2024-05-18,2023-24,France LNB,Regular Season,Roanne,BCM Gravelines-Dunkerque,69,78
+2024-05-19,2023-24,France LNB,Regular Season,Roanne,JL Bourg,87,111
+2024-05-20,2023-24,France LNB,Regular Season,Roanne,Limoges CSP,79,76
+2024-05-20,2023-24,France LNB,Regular Season,Roanne,AS Monaco,92,99
+2024-05-21,2023-24,France LNB,Regular Season,Roanne,Metropolitans 92,105,93
+2024-05-22,2023-24,France LNB,Regular Season,Roanne,Le Mans Sarthe,70,71
+2024-05-23,2023-24,France LNB,Regular Season,Roanne,SLUC Nancy,107,80
+2024-05-24,2023-24,France LNB,Regular Season,Roanne,Nanterre 92,72,86
+2024-05-25,2023-24,France LNB,Regular Season,Roanne,Paris Basketball,83,76
+2024-05-26,2023-24,France LNB,Regular Season,Roanne,ESSM Le Portel,84,83
+2024-05-27,2023-24,France LNB,Regular Season,Roanne,Saint-Quentin,90,96
+2024-05-28,2023-24,France LNB,Regular Season,Roanne,SIG Strasbourg,82,98
+2024-05-28,2023-24,France LNB,Regular Season,Saint-Quentin,LDLC ASVEL,91,71
+2024-05-29,2023-24,France LNB,Regular Season,Saint-Quentin,Blois,75,64
+2024-05-30,2023-24,France LNB,Regular Season,Saint-Quentin,Élan Chalon,75,70
+2024-05-31,2023-24,France LNB,Regular Season,Saint-Quentin,Cholet,75,60
+2024-06-01,2023-24,France LNB,Regular Season,Saint-Quentin,JDA Dijon,77,73
+2024-06-02,2023-24,France LNB,Regular Season,Saint-Quentin,BCM Gravelines-Dunkerque,68,76
+2024-06-03,2023-24,France LNB,Regular Season,Saint-Quentin,JL Bourg,92,61
+2024-06-04,2023-24,France LNB,Regular Season,Saint-Quentin,Limoges CSP,75,83
+2024-06-04,2023-24,France LNB,Regular Season,Saint-Quentin,AS Monaco,71,69
+2024-06-05,2023-24,France LNB,Regular Season,Saint-Quentin,Metropolitans 92,68,82
+2024-06-06,2023-24,France LNB,Regular Season,Saint-Quentin,Le Mans Sarthe,81,64
+2024-06-07,2023-24,France LNB,Regular Season,Saint-Quentin,SLUC Nancy,71,78
+2024-06-08,2023-24,France LNB,Regular Season,Saint-Quentin,Nanterre 92,87,82
+2024-06-09,2023-24,France LNB,Regular Season,Saint-Quentin,Paris Basketball,65,81
+2024-06-10,2023-24,France LNB,Regular Season,Saint-Quentin,ESSM Le Portel,88,67
+2024-06-11,2023-24,France LNB,Regular Season,Saint-Quentin,Roanne,57,64
+2024-06-12,2023-24,France LNB,Regular Season,Saint-Quentin,SIG Strasbourg,86,66
+2024-06-12,2023-24,France LNB,Regular Season,SIG Strasbourg,LDLC ASVEL,82,80
+2024-06-13,2023-24,France LNB,Regular Season,SIG Strasbourg,Blois,80,88
+2024-06-14,2023-24,France LNB,Regular Season,SIG Strasbourg,Élan Chalon,82,86
+2024-06-15,2023-24,France LNB,Regular Season,SIG Strasbourg,Cholet,79,76
+2024-06-16,2023-24,France LNB,Regular Season,SIG Strasbourg,JDA Dijon,64,81
+2024-06-17,2023-24,France LNB,Regular Season,SIG Strasbourg,BCM Gravelines-Dunkerque,68,65
+2024-06-18,2023-24,France LNB,Regular Season,SIG Strasbourg,JL Bourg,65,83
+2024-06-19,2023-24,France LNB,Regular Season,SIG Strasbourg,Limoges CSP,80,87
+2024-06-20,2023-24,France LNB,Regular Season,SIG Strasbourg,AS Monaco,67,83
+2024-06-20,2023-24,France LNB,Regular Season,SIG Strasbourg,Metropolitans 92,74,61
+2024-06-21,2023-24,France LNB,Regular Season,SIG Strasbourg,Le Mans Sarthe,71,80
+2024-06-22,2023-24,France LNB,Regular Season,SIG Strasbourg,SLUC Nancy,88,78
+2024-06-23,2023-24,France LNB,Regular Season,SIG Strasbourg,Nanterre 92,71,57
+2024-06-24,2023-24,France LNB,Regular Season,SIG Strasbourg,Paris Basketball,89,86
+2024-06-25,2023-24,France LNB,Regular Season,SIG Strasbourg,ESSM Le Portel,90,75
+2024-06-26,2023-24,France LNB,Regular Season,SIG Strasbourg,Roanne,97,82
+2024-06-27,2023-24,France LNB,Regular Season,SIG Strasbourg,Saint-Quentin,78,66
+2024-10-01,2024-25,France LNB,Regular Season,LDLC ASVEL,Élan Chalon,116,95
+2024-10-02,2024-25,France LNB,Regular Season,LDLC ASVEL,Cholet,87,101
+2024-10-03,2024-25,France LNB,Regular Season,LDLC ASVEL,JDA Dijon,84,83
+2024-10-04,2024-25,France LNB,Regular Season,LDLC ASVEL,BCM Gravelines-Dunkerque,90,83
+2024-10-05,2024-25,France LNB,Regular Season,LDLC ASVEL,JL Bourg,89,80
+2024-10-06,2024-25,France LNB,Regular Season,LDLC ASVEL,Limoges CSP,84,69
+2024-10-07,2024-25,France LNB,Regular Season,LDLC ASVEL,AS Monaco,88,71
+2024-10-08,2024-25,France LNB,Regular Season,LDLC ASVEL,Le Mans Sarthe,85,71
+2024-10-10,2024-25,France LNB,Regular Season,LDLC ASVEL,SLUC Nancy,92,82
+2024-10-11,2024-25,France LNB,Regular Season,LDLC ASVEL,Nanterre 92,109,103
+2024-10-12,2024-25,France LNB,Regular Season,LDLC ASVEL,Paris Basketball,98,92
+2024-10-13,2024-25,France LNB,Regular Season,LDLC ASVEL,ESSM Le Portel,88,67
+2024-10-14,2024-25,France LNB,Regular Season,LDLC ASVEL,Stade Rochelais,105,75
+2024-10-15,2024-25,France LNB,Regular Season,LDLC ASVEL,Saint-Quentin,81,75
+2024-10-16,2024-25,France LNB,Regular Season,LDLC ASVEL,SIG Strasbourg,95,70
+2024-10-17,2024-25,France LNB,Regular Season,Élan Chalon,LDLC ASVEL,109,107
+2024-10-19,2024-25,France LNB,Regular Season,Élan Chalon,Cholet,105,72
+2024-10-20,2024-25,France LNB,Regular Season,Élan Chalon,JDA Dijon,86,93
+2024-10-21,2024-25,France LNB,Regular Season,Élan Chalon,BCM Gravelines-Dunkerque,77,67
+2024-10-22,2024-25,France LNB,Regular Season,Élan Chalon,JL Bourg,86,93
+2024-10-23,2024-25,France LNB,Regular Season,Élan Chalon,Limoges CSP,92,76
+2024-10-24,2024-25,France LNB,Regular Season,Élan Chalon,AS Monaco,90,65
+2024-10-25,2024-25,France LNB,Regular Season,Élan Chalon,Le Mans Sarthe,88,84
+2024-10-26,2024-25,France LNB,Regular Season,Élan Chalon,SLUC Nancy,103,73
+2024-10-28,2024-25,France LNB,Regular Season,Élan Chalon,Nanterre 92,107,84
+2024-10-29,2024-25,France LNB,Regular Season,Élan Chalon,Paris Basketball,87,102
+2024-10-30,2024-25,France LNB,Regular Season,Élan Chalon,ESSM Le Portel,106,76
+2024-10-31,2024-25,France LNB,Regular Season,Élan Chalon,Stade Rochelais,65,62
+2024-11-01,2024-25,France LNB,Regular Season,Élan Chalon,Saint-Quentin,91,63
+2024-11-02,2024-25,France LNB,Regular Season,Élan Chalon,SIG Strasbourg,86,78
+2024-11-03,2024-25,France LNB,Regular Season,Cholet,LDLC ASVEL,75,94
+2024-11-04,2024-25,France LNB,Regular Season,Cholet,Élan Chalon,88,74
+2024-11-06,2024-25,France LNB,Regular Season,Cholet,JDA Dijon,95,89
+2024-11-07,2024-25,France LNB,Regular Season,Cholet,BCM Gravelines-Dunkerque,106,74
+2024-11-08,2024-25,France LNB,Regular Season,Cholet,JL Bourg,67,102
+2024-11-09,2024-25,France LNB,Regular Season,Cholet,Limoges CSP,96,86
+2024-11-10,2024-25,France LNB,Regular Season,Cholet,AS Monaco,84,95
+2024-11-11,2024-25,France LNB,Regular Season,Cholet,Le Mans Sarthe,86,92
+2024-11-12,2024-25,France LNB,Regular Season,Cholet,SLUC Nancy,95,74
+2024-11-13,2024-25,France LNB,Regular Season,Cholet,Nanterre 92,88,78
+2024-11-15,2024-25,France LNB,Regular Season,Cholet,Paris Basketball,90,80
+2024-11-16,2024-25,France LNB,Regular Season,Cholet,ESSM Le Portel,80,65
+2024-11-17,2024-25,France LNB,Regular Season,Cholet,Stade Rochelais,83,77
+2024-11-18,2024-25,France LNB,Regular Season,Cholet,Saint-Quentin,82,59
+2024-11-19,2024-25,France LNB,Regular Season,Cholet,SIG Strasbourg,105,75
+2024-11-20,2024-25,France LNB,Regular Season,JDA Dijon,LDLC ASVEL,92,71
+2024-11-21,2024-25,France LNB,Regular Season,JDA Dijon,Élan Chalon,87,94
+2024-11-22,2024-25,France LNB,Regular Season,JDA Dijon,Cholet,67,93
+2024-11-24,2024-25,France LNB,Regular Season,JDA Dijon,BCM Gravelines-Dunkerque,93,77
+2024-11-25,2024-25,France LNB,Regular Season,JDA Dijon,JL Bourg,97,95
+2024-11-26,2024-25,France LNB,Regular Season,JDA Dijon,Limoges CSP,89,83
+2024-11-27,2024-25,France LNB,Regular Season,JDA Dijon,AS Monaco,77,78
+2024-11-28,2024-25,France LNB,Regular Season,JDA Dijon,Le Mans Sarthe,76,74
+2024-11-29,2024-25,France LNB,Regular Season,JDA Dijon,SLUC Nancy,93,84
+2024-11-30,2024-25,France LNB,Regular Season,JDA Dijon,Nanterre 92,65,66
+2024-12-01,2024-25,France LNB,Regular Season,JDA Dijon,Paris Basketball,83,97
+2024-12-03,2024-25,France LNB,Regular Season,JDA Dijon,ESSM Le Portel,90,82
+2024-12-04,2024-25,France LNB,Regular Season,JDA Dijon,Stade Rochelais,88,95
+2024-12-05,2024-25,France LNB,Regular Season,JDA Dijon,Saint-Quentin,85,91
+2024-12-06,2024-25,France LNB,Regular Season,JDA Dijon,SIG Strasbourg,91,94
+2024-12-07,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,LDLC ASVEL,60,81
+2024-12-08,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,Élan Chalon,78,71
+2024-12-09,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,Cholet,70,73
+2024-12-10,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,JDA Dijon,83,84
+2024-12-12,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,JL Bourg,75,83
+2024-12-13,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,Limoges CSP,70,56
+2024-12-14,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,AS Monaco,74,83
+2024-12-15,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,Le Mans Sarthe,91,85
+2024-12-16,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,SLUC Nancy,84,87
+2024-12-17,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,Nanterre 92,83,89
+2024-12-18,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,Paris Basketball,89,85
+2024-12-19,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,ESSM Le Portel,104,80
+2024-12-21,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,Stade Rochelais,94,68
+2024-12-22,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,Saint-Quentin,91,75
+2024-12-23,2024-25,France LNB,Regular Season,BCM Gravelines-Dunkerque,SIG Strasbourg,78,72
+2024-12-24,2024-25,France LNB,Regular Season,JL Bourg,LDLC ASVEL,85,94
+2024-12-25,2024-25,France LNB,Regular Season,JL Bourg,Élan Chalon,103,77
+2024-12-26,2024-25,France LNB,Regular Season,JL Bourg,Cholet,86,89
+2024-12-27,2024-25,France LNB,Regular Season,JL Bourg,JDA Dijon,88,91
+2024-12-28,2024-25,France LNB,Regular Season,JL Bourg,BCM Gravelines-Dunkerque,94,84
+2024-12-30,2024-25,France LNB,Regular Season,JL Bourg,Limoges CSP,74,70
+2024-12-31,2024-25,France LNB,Regular Season,JL Bourg,AS Monaco,94,109
+2025-01-01,2024-25,France LNB,Regular Season,JL Bourg,Le Mans Sarthe,94,87
+2025-01-02,2024-25,France LNB,Regular Season,JL Bourg,SLUC Nancy,81,93
+2025-01-03,2024-25,France LNB,Regular Season,JL Bourg,Nanterre 92,100,97
+2025-01-04,2024-25,France LNB,Regular Season,JL Bourg,Paris Basketball,91,98
+2025-01-05,2024-25,France LNB,Regular Season,JL Bourg,ESSM Le Portel,98,69
+2025-01-06,2024-25,France LNB,Regular Season,JL Bourg,Stade Rochelais,87,67
+2025-01-08,2024-25,France LNB,Regular Season,JL Bourg,Saint-Quentin,96,85
+2025-01-09,2024-25,France LNB,Regular Season,JL Bourg,SIG Strasbourg,89,96
+2025-01-10,2024-25,France LNB,Regular Season,Limoges CSP,LDLC ASVEL,84,81
+2025-01-11,2024-25,France LNB,Regular Season,Limoges CSP,Élan Chalon,74,68
+2025-01-12,2024-25,France LNB,Regular Season,Limoges CSP,Cholet,69,75
+2025-01-13,2024-25,France LNB,Regular Season,Limoges CSP,JDA Dijon,87,73
+2025-01-14,2024-25,France LNB,Regular Season,Limoges CSP,BCM Gravelines-Dunkerque,110,122
+2025-01-15,2024-25,France LNB,Regular Season,Limoges CSP,JL Bourg,63,87
+2025-01-17,2024-25,France LNB,Regular Season,Limoges CSP,AS Monaco,84,96
+2025-01-18,2024-25,France LNB,Regular Season,Limoges CSP,Le Mans Sarthe,92,90
+2025-01-19,2024-25,France LNB,Regular Season,Limoges CSP,SLUC Nancy,97,89
+2025-01-20,2024-25,France LNB,Regular Season,Limoges CSP,Nanterre 92,90,87
+2025-01-21,2024-25,France LNB,Regular Season,Limoges CSP,Paris Basketball,71,78
+2025-01-22,2024-25,France LNB,Regular Season,Limoges CSP,ESSM Le Portel,77,98
+2025-01-23,2024-25,France LNB,Regular Season,Limoges CSP,Stade Rochelais,83,62
+2025-01-24,2024-25,France LNB,Regular Season,Limoges CSP,Saint-Quentin,74,70
+2025-01-26,2024-25,France LNB,Regular Season,Limoges CSP,SIG Strasbourg,80,87
+2025-01-27,2024-25,France LNB,Regular Season,AS Monaco,LDLC ASVEL,86,94
+2025-01-28,2024-25,France LNB,Regular Season,AS Monaco,Élan Chalon,109,82
+2025-01-29,2024-25,France LNB,Regular Season,AS Monaco,Cholet,89,72
+2025-01-30,2024-25,France LNB,Regular Season,AS Monaco,JDA Dijon,76,74
+2025-01-31,2024-25,France LNB,Regular Season,AS Monaco,BCM Gravelines-Dunkerque,90,59
+2025-02-01,2024-25,France LNB,Regular Season,AS Monaco,JL Bourg,73,100
+2025-02-02,2024-25,France LNB,Regular Season,AS Monaco,Limoges CSP,91,52
+2025-02-04,2024-25,France LNB,Regular Season,AS Monaco,Le Mans Sarthe,74,86
+2025-02-05,2024-25,France LNB,Regular Season,AS Monaco,SLUC Nancy,117,96
+2025-02-06,2024-25,France LNB,Regular Season,AS Monaco,Nanterre 92,89,74
+2025-02-07,2024-25,France LNB,Regular Season,AS Monaco,Paris Basketball,94,63
+2025-02-08,2024-25,France LNB,Regular Season,AS Monaco,ESSM Le Portel,78,56
+2025-02-09,2024-25,France LNB,Regular Season,AS Monaco,Stade Rochelais,82,62
+2025-02-10,2024-25,France LNB,Regular Season,AS Monaco,Saint-Quentin,86,72
+2025-02-11,2024-25,France LNB,Regular Season,AS Monaco,SIG Strasbourg,77,65
+2025-02-13,2024-25,France LNB,Regular Season,Le Mans Sarthe,LDLC ASVEL,97,80
+2025-02-14,2024-25,France LNB,Regular Season,Le Mans Sarthe,Élan Chalon,112,86
+2025-02-15,2024-25,France LNB,Regular Season,Le Mans Sarthe,Cholet,91,68
+2025-02-16,2024-25,France LNB,Regular Season,Le Mans Sarthe,JDA Dijon,98,71
+2025-02-17,2024-25,France LNB,Regular Season,Le Mans Sarthe,BCM Gravelines-Dunkerque,83,78
+2025-02-18,2024-25,France LNB,Regular Season,Le Mans Sarthe,JL Bourg,96,92
+2025-02-19,2024-25,France LNB,Regular Season,Le Mans Sarthe,Limoges CSP,101,77
+2025-02-20,2024-25,France LNB,Regular Season,Le Mans Sarthe,AS Monaco,74,81
+2025-02-22,2024-25,France LNB,Regular Season,Le Mans Sarthe,SLUC Nancy,85,96
+2025-02-23,2024-25,France LNB,Regular Season,Le Mans Sarthe,Nanterre 92,94,87
+2025-02-24,2024-25,France LNB,Regular Season,Le Mans Sarthe,Paris Basketball,84,76
+2025-02-25,2024-25,France LNB,Regular Season,Le Mans Sarthe,ESSM Le Portel,77,74
+2025-02-26,2024-25,France LNB,Regular Season,Le Mans Sarthe,Stade Rochelais,81,71
+2025-02-27,2024-25,France LNB,Regular Season,Le Mans Sarthe,Saint-Quentin,69,83
+2025-02-28,2024-25,France LNB,Regular Season,Le Mans Sarthe,SIG Strasbourg,90,70
+2025-03-01,2024-25,France LNB,Regular Season,SLUC Nancy,LDLC ASVEL,85,91
+2025-03-03,2024-25,France LNB,Regular Season,SLUC Nancy,Élan Chalon,96,84
+2025-03-04,2024-25,France LNB,Regular Season,SLUC Nancy,Cholet,71,78
+2025-03-05,2024-25,France LNB,Regular Season,SLUC Nancy,JDA Dijon,85,104
+2025-03-06,2024-25,France LNB,Regular Season,SLUC Nancy,BCM Gravelines-Dunkerque,80,63
+2025-03-07,2024-25,France LNB,Regular Season,SLUC Nancy,JL Bourg,84,79
+2025-03-08,2024-25,France LNB,Regular Season,SLUC Nancy,Limoges CSP,90,86
+2025-03-09,2024-25,France LNB,Regular Season,SLUC Nancy,AS Monaco,77,98
+2025-03-10,2024-25,France LNB,Regular Season,SLUC Nancy,Le Mans Sarthe,97,89
+2025-03-12,2024-25,France LNB,Regular Season,SLUC Nancy,Nanterre 92,96,81
+2025-03-13,2024-25,France LNB,Regular Season,SLUC Nancy,Paris Basketball,86,105
+2025-03-14,2024-25,France LNB,Regular Season,SLUC Nancy,ESSM Le Portel,85,78
+2025-03-15,2024-25,France LNB,Regular Season,SLUC Nancy,Stade Rochelais,64,56
+2025-03-16,2024-25,France LNB,Regular Season,SLUC Nancy,Saint-Quentin,83,74
+2025-03-17,2024-25,France LNB,Regular Season,SLUC Nancy,SIG Strasbourg,74,80
+2025-03-18,2024-25,France LNB,Regular Season,Nanterre 92,LDLC ASVEL,74,88
+2025-03-19,2024-25,France LNB,Regular Season,Nanterre 92,Élan Chalon,91,70
+2025-03-21,2024-25,France LNB,Regular Season,Nanterre 92,Cholet,97,104
+2025-03-22,2024-25,France LNB,Regular Season,Nanterre 92,JDA Dijon,72,77
+2025-03-23,2024-25,France LNB,Regular Season,Nanterre 92,BCM Gravelines-Dunkerque,93,80
+2025-03-24,2024-25,France LNB,Regular Season,Nanterre 92,JL Bourg,61,86
+2025-03-25,2024-25,France LNB,Regular Season,Nanterre 92,Limoges CSP,96,87
+2025-03-26,2024-25,France LNB,Regular Season,Nanterre 92,AS Monaco,73,81
+2025-03-27,2024-25,France LNB,Regular Season,Nanterre 92,Le Mans Sarthe,67,85
+2025-03-28,2024-25,France LNB,Regular Season,Nanterre 92,SLUC Nancy,97,75
+2025-03-30,2024-25,France LNB,Regular Season,Nanterre 92,Paris Basketball,78,92
+2025-03-31,2024-25,France LNB,Regular Season,Nanterre 92,ESSM Le Portel,74,65
+2025-04-01,2024-25,France LNB,Regular Season,Nanterre 92,Stade Rochelais,63,76
+2025-04-02,2024-25,France LNB,Regular Season,Nanterre 92,Saint-Quentin,95,102
+2025-04-03,2024-25,France LNB,Regular Season,Nanterre 92,SIG Strasbourg,76,75
+2025-04-04,2024-25,France LNB,Regular Season,Paris Basketball,LDLC ASVEL,111,96
+2025-04-05,2024-25,France LNB,Regular Season,Paris Basketball,Élan Chalon,100,97
+2025-04-06,2024-25,France LNB,Regular Season,Paris Basketball,Cholet,90,77
+2025-04-08,2024-25,France LNB,Regular Season,Paris Basketball,JDA Dijon,95,96
+2025-04-09,2024-25,France LNB,Regular Season,Paris Basketball,BCM Gravelines-Dunkerque,109,66
+2025-04-10,2024-25,France LNB,Regular Season,Paris Basketball,JL Bourg,98,89
+2025-04-11,2024-25,France LNB,Regular Season,Paris Basketball,Limoges CSP,96,88
+2025-04-12,2024-25,France LNB,Regular Season,Paris Basketball,AS Monaco,111,104
+2025-04-13,2024-25,France LNB,Regular Season,Paris Basketball,Le Mans Sarthe,106,103
+2025-04-14,2024-25,France LNB,Regular Season,Paris Basketball,SLUC Nancy,115,97
+2025-04-15,2024-25,France LNB,Regular Season,Paris Basketball,Nanterre 92,102,86
+2025-04-17,2024-25,France LNB,Regular Season,Paris Basketball,ESSM Le Portel,109,65
+2025-04-18,2024-25,France LNB,Regular Season,Paris Basketball,Stade Rochelais,84,75
+2025-04-19,2024-25,France LNB,Regular Season,Paris Basketball,Saint-Quentin,86,88
+2025-04-20,2024-25,France LNB,Regular Season,Paris Basketball,SIG Strasbourg,106,74
+2025-04-21,2024-25,France LNB,Regular Season,ESSM Le Portel,LDLC ASVEL,74,77
+2025-04-22,2024-25,France LNB,Regular Season,ESSM Le Portel,Élan Chalon,87,81
+2025-04-23,2024-25,France LNB,Regular Season,ESSM Le Portel,Cholet,87,80
+2025-04-24,2024-25,France LNB,Regular Season,ESSM Le Portel,JDA Dijon,74,86
+2025-04-26,2024-25,France LNB,Regular Season,ESSM Le Portel,BCM Gravelines-Dunkerque,69,82
+2025-04-27,2024-25,France LNB,Regular Season,ESSM Le Portel,JL Bourg,65,94
+2025-04-28,2024-25,France LNB,Regular Season,ESSM Le Portel,Limoges CSP,79,89
+2025-04-29,2024-25,France LNB,Regular Season,ESSM Le Portel,AS Monaco,67,91
+2025-04-30,2024-25,France LNB,Regular Season,ESSM Le Portel,Le Mans Sarthe,92,75
+2025-05-01,2024-25,France LNB,Regular Season,ESSM Le Portel,SLUC Nancy,76,85
+2025-05-02,2024-25,France LNB,Regular Season,ESSM Le Portel,Nanterre 92,90,70
+2025-05-03,2024-25,France LNB,Regular Season,ESSM Le Portel,Paris Basketball,78,87
+2025-05-05,2024-25,France LNB,Regular Season,ESSM Le Portel,Stade Rochelais,83,62
+2025-05-06,2024-25,France LNB,Regular Season,ESSM Le Portel,Saint-Quentin,56,58
+2025-05-07,2024-25,France LNB,Regular Season,ESSM Le Portel,SIG Strasbourg,67,65
+2025-05-08,2024-25,France LNB,Regular Season,Stade Rochelais,LDLC ASVEL,75,79
+2025-05-09,2024-25,France LNB,Regular Season,Stade Rochelais,Élan Chalon,77,86
+2025-05-10,2024-25,France LNB,Regular Season,Stade Rochelais,Cholet,64,78
+2025-05-11,2024-25,France LNB,Regular Season,Stade Rochelais,JDA Dijon,92,90
+2025-05-12,2024-25,France LNB,Regular Season,Stade Rochelais,BCM Gravelines-Dunkerque,76,88
+2025-05-14,2024-25,France LNB,Regular Season,Stade Rochelais,JL Bourg,78,86
+2025-05-15,2024-25,France LNB,Regular Season,Stade Rochelais,Limoges CSP,80,86
+2025-05-16,2024-25,France LNB,Regular Season,Stade Rochelais,AS Monaco,48,86
+2025-05-17,2024-25,France LNB,Regular Season,Stade Rochelais,Le Mans Sarthe,98,100
+2025-05-18,2024-25,France LNB,Regular Season,Stade Rochelais,SLUC Nancy,79,88
+2025-05-19,2024-25,France LNB,Regular Season,Stade Rochelais,Nanterre 92,77,98
+2025-05-20,2024-25,France LNB,Regular Season,Stade Rochelais,Paris Basketball,73,90
+2025-05-21,2024-25,France LNB,Regular Season,Stade Rochelais,ESSM Le Portel,96,73
+2025-05-23,2024-25,France LNB,Regular Season,Stade Rochelais,Saint-Quentin,57,94
+2025-05-24,2024-25,France LNB,Regular Season,Stade Rochelais,SIG Strasbourg,71,78
+2025-05-25,2024-25,France LNB,Regular Season,Saint-Quentin,LDLC ASVEL,63,77
+2025-05-26,2024-25,France LNB,Regular Season,Saint-Quentin,Élan Chalon,83,87
+2025-05-27,2024-25,France LNB,Regular Season,Saint-Quentin,Cholet,71,77
+2025-05-28,2024-25,France LNB,Regular Season,Saint-Quentin,JDA Dijon,85,72
+2025-05-29,2024-25,France LNB,Regular Season,Saint-Quentin,BCM Gravelines-Dunkerque,83,86
+2025-05-30,2024-25,France LNB,Regular Season,Saint-Quentin,JL Bourg,81,83
+2025-06-01,2024-25,France LNB,Regular Season,Saint-Quentin,Limoges CSP,72,67
+2025-06-02,2024-25,France LNB,Regular Season,Saint-Quentin,AS Monaco,68,66
+2025-06-03,2024-25,France LNB,Regular Season,Saint-Quentin,Le Mans Sarthe,89,91
+2025-06-04,2024-25,France LNB,Regular Season,Saint-Quentin,SLUC Nancy,104,96
+2025-06-05,2024-25,France LNB,Regular Season,Saint-Quentin,Nanterre 92,67,76
+2025-06-06,2024-25,France LNB,Regular Season,Saint-Quentin,Paris Basketball,65,97
+2025-06-07,2024-25,France LNB,Regular Season,Saint-Quentin,ESSM Le Portel,71,54
+2025-06-08,2024-25,France LNB,Regular Season,Saint-Quentin,Stade Rochelais,75,59
+2025-06-10,2024-25,France LNB,Regular Season,Saint-Quentin,SIG Strasbourg,81,70
+2025-06-11,2024-25,France LNB,Regular Season,SIG Strasbourg,LDLC ASVEL,77,75
+2025-06-12,2024-25,France LNB,Regular Season,SIG Strasbourg,Élan Chalon,83,80
+2025-06-13,2024-25,France LNB,Regular Season,SIG Strasbourg,Cholet,83,94
+2025-06-14,2024-25,France LNB,Regular Season,SIG Strasbourg,JDA Dijon,58,77
+2025-06-15,2024-25,France LNB,Regular Season,SIG Strasbourg,BCM Gravelines-Dunkerque,91,88
+2025-06-16,2024-25,France LNB,Regular Season,SIG Strasbourg,JL Bourg,70,76
+2025-06-17,2024-25,France LNB,Regular Season,SIG Strasbourg,Limoges CSP,110,90
+2025-06-19,2024-25,France LNB,Regular Season,SIG Strasbourg,AS Monaco,81,95
+2025-06-20,2024-25,France LNB,Regular Season,SIG Strasbourg,Le Mans Sarthe,88,95
+2025-06-21,2024-25,France LNB,Regular Season,SIG Strasbourg,SLUC Nancy,96,76
+2025-06-22,2024-25,France LNB,Regular Season,SIG Strasbourg,Nanterre 92,88,95
+2025-06-23,2024-25,France LNB,Regular Season,SIG Strasbourg,Paris Basketball,79,87
+2025-06-24,2024-25,France LNB,Regular Season,SIG Strasbourg,ESSM Le Portel,75,76
+2025-06-25,2024-25,France LNB,Regular Season,SIG Strasbourg,Stade Rochelais,71,63
+2025-06-26,2024-25,France LNB,Regular Season,SIG Strasbourg,Saint-Quentin,83,69
+2025-10-01,2025-26,France LNB,Regular Season,ASVEL,Boulazac,94,77
+2025-10-02,2025-26,France LNB,Regular Season,ASVEL,Élan Chalon,85,86
+2025-10-03,2025-26,France LNB,Regular Season,ASVEL,Cholet,85,87
+2025-10-04,2025-26,France LNB,Regular Season,ASVEL,JDA Dijon,85,80
+2025-10-05,2025-26,France LNB,Regular Season,ASVEL,Gravelines,88,79
+2025-10-06,2025-26,France LNB,Regular Season,ASVEL,JL Bourg,91,77
+2025-10-07,2025-26,France LNB,Regular Season,ASVEL,Limoges,90,73
+2025-10-08,2025-26,France LNB,Regular Season,ASVEL,AS Monaco,98,102
+2025-10-10,2025-26,France LNB,Regular Season,ASVEL,Le Mans,91,66
+2025-10-11,2025-26,France LNB,Regular Season,ASVEL,Nancy,115,71
+2025-10-12,2025-26,France LNB,Regular Season,ASVEL,Nanterre 92,64,77
+2025-10-13,2025-26,France LNB,Regular Season,ASVEL,Paris,93,98
+2025-10-14,2025-26,France LNB,Regular Season,ASVEL,Le Portel,104,58
+2025-10-15,2025-26,France LNB,Regular Season,ASVEL,Saint-Quentin,86,70
+2025-10-16,2025-26,France LNB,Regular Season,ASVEL,Strasbourg,89,81
+2025-10-17,2025-26,France LNB,Regular Season,Boulazac,ASVEL,72,67
+2025-10-19,2025-26,France LNB,Regular Season,Boulazac,Élan Chalon,94,90
+2025-10-20,2025-26,France LNB,Regular Season,Boulazac,Cholet,68,77
+2025-10-21,2025-26,France LNB,Regular Season,Boulazac,JDA Dijon,79,78
+2025-10-22,2025-26,France LNB,Regular Season,Boulazac,Gravelines,97,67
+2025-10-23,2025-26,France LNB,Regular Season,Boulazac,JL Bourg,68,82
+2025-10-24,2025-26,France LNB,Regular Season,Boulazac,Limoges,92,80
+2025-10-25,2025-26,France LNB,Regular Season,Boulazac,AS Monaco,92,74
+2025-10-26,2025-26,France LNB,Regular Season,Boulazac,Le Mans,86,97
+2025-10-28,2025-26,France LNB,Regular Season,Boulazac,Nancy,65,87
+2025-10-29,2025-26,France LNB,Regular Season,Boulazac,Nanterre 92,84,95
+2025-10-30,2025-26,France LNB,Regular Season,Boulazac,Paris,73,94
+2025-10-31,2025-26,France LNB,Regular Season,Boulazac,Le Portel,94,64
+2025-11-01,2025-26,France LNB,Regular Season,Boulazac,Saint-Quentin,94,76
+2025-11-02,2025-26,France LNB,Regular Season,Boulazac,Strasbourg,95,76
+2025-11-03,2025-26,France LNB,Regular Season,Élan Chalon,ASVEL,87,89
+2025-11-05,2025-26,France LNB,Regular Season,Élan Chalon,Boulazac,90,74
+2025-11-06,2025-26,France LNB,Regular Season,Élan Chalon,Cholet,87,77
+2025-11-07,2025-26,France LNB,Regular Season,Élan Chalon,JDA Dijon,90,74
+2025-11-08,2025-26,France LNB,Regular Season,Élan Chalon,Gravelines,86,81
+2025-11-09,2025-26,France LNB,Regular Season,Élan Chalon,JL Bourg,100,84
+2025-11-10,2025-26,France LNB,Regular Season,Élan Chalon,Limoges,109,56
+2025-11-11,2025-26,France LNB,Regular Season,Élan Chalon,AS Monaco,78,92
+2025-11-12,2025-26,France LNB,Regular Season,Élan Chalon,Le Mans,71,89
+2025-11-14,2025-26,France LNB,Regular Season,Élan Chalon,Nancy,93,84
+2025-11-15,2025-26,France LNB,Regular Season,Élan Chalon,Nanterre 92,78,86
+2025-11-16,2025-26,France LNB,Regular Season,Élan Chalon,Paris,67,107
+2025-11-17,2025-26,France LNB,Regular Season,Élan Chalon,Le Portel,93,58
+2025-11-18,2025-26,France LNB,Regular Season,Élan Chalon,Saint-Quentin,84,82
+2025-11-19,2025-26,France LNB,Regular Season,Élan Chalon,Strasbourg,69,75
+2025-11-20,2025-26,France LNB,Regular Season,Cholet,ASVEL,93,85
+2025-11-21,2025-26,France LNB,Regular Season,Cholet,Boulazac,92,81
+2025-11-23,2025-26,France LNB,Regular Season,Cholet,Élan Chalon,98,77
+2025-11-24,2025-26,France LNB,Regular Season,Cholet,JDA Dijon,111,74
+2025-11-25,2025-26,France LNB,Regular Season,Cholet,Gravelines,91,85
+2025-11-26,2025-26,France LNB,Regular Season,Cholet,JL Bourg,102,96
+2025-11-27,2025-26,France LNB,Regular Season,Cholet,Limoges,91,88
+2025-11-28,2025-26,France LNB,Regular Season,Cholet,AS Monaco,72,95
+2025-11-29,2025-26,France LNB,Regular Season,Cholet,Le Mans,80,84
+2025-12-01,2025-26,France LNB,Regular Season,Cholet,Nancy,94,91
+2025-12-02,2025-26,France LNB,Regular Season,Cholet,Nanterre 92,76,78
+2025-12-03,2025-26,France LNB,Regular Season,Cholet,Paris,93,99
+2025-12-04,2025-26,France LNB,Regular Season,Cholet,Le Portel,105,58
+2025-12-05,2025-26,France LNB,Regular Season,Cholet,Saint-Quentin,93,80
+2025-12-06,2025-26,France LNB,Regular Season,Cholet,Strasbourg,92,74
+2025-12-07,2025-26,France LNB,Regular Season,JDA Dijon,ASVEL,99,90
+2025-12-08,2025-26,France LNB,Regular Season,JDA Dijon,Boulazac,103,85
+2025-12-10,2025-26,France LNB,Regular Season,JDA Dijon,Élan Chalon,94,91
+2025-12-11,2025-26,France LNB,Regular Season,JDA Dijon,Cholet,76,64
+2025-12-12,2025-26,France LNB,Regular Season,JDA Dijon,Gravelines,109,83
+2025-12-13,2025-26,France LNB,Regular Season,JDA Dijon,JL Bourg,101,83
+2025-12-14,2025-26,France LNB,Regular Season,JDA Dijon,Limoges,86,101
+2025-12-15,2025-26,France LNB,Regular Season,JDA Dijon,AS Monaco,86,99
+2025-12-16,2025-26,France LNB,Regular Season,JDA Dijon,Le Mans,89,91
+2025-12-17,2025-26,France LNB,Regular Season,JDA Dijon,Nancy,90,75
+2025-12-19,2025-26,France LNB,Regular Season,JDA Dijon,Nanterre 92,88,97
+2025-12-20,2025-26,France LNB,Regular Season,JDA Dijon,Paris,76,92
+2025-12-21,2025-26,France LNB,Regular Season,JDA Dijon,Le Portel,102,82
+2025-12-22,2025-26,France LNB,Regular Season,JDA Dijon,Saint-Quentin,119,127
+2025-12-23,2025-26,France LNB,Regular Season,JDA Dijon,Strasbourg,95,89
+2025-12-24,2025-26,France LNB,Regular Season,Gravelines,ASVEL,62,83
+2025-12-25,2025-26,France LNB,Regular Season,Gravelines,Boulazac,91,92
+2025-12-26,2025-26,France LNB,Regular Season,Gravelines,Élan Chalon,86,78
+2025-12-28,2025-26,France LNB,Regular Season,Gravelines,Cholet,97,98
+2025-12-29,2025-26,France LNB,Regular Season,Gravelines,JDA Dijon,93,85
+2025-12-30,2025-26,France LNB,Regular Season,Gravelines,JL Bourg,75,84
+2025-12-31,2025-26,France LNB,Regular Season,Gravelines,Limoges,79,84
+2026-01-01,2025-26,France LNB,Regular Season,Gravelines,AS Monaco,77,89
+2026-01-02,2025-26,France LNB,Regular Season,Gravelines,Le Mans,83,96
+2026-01-03,2025-26,France LNB,Regular Season,Gravelines,Nancy,107,79
+2026-01-05,2025-26,France LNB,Regular Season,Gravelines,Nanterre 92,80,85
+2026-01-06,2025-26,France LNB,Regular Season,Gravelines,Paris,66,109
+2026-01-07,2025-26,France LNB,Regular Season,Gravelines,Le Portel,100,78
+2026-01-08,2025-26,France LNB,Regular Season,Gravelines,Saint-Quentin,91,75
+2026-01-09,2025-26,France LNB,Regular Season,Gravelines,Strasbourg,81,87
+2026-01-10,2025-26,France LNB,Regular Season,JL Bourg,ASVEL,81,79
+2026-01-11,2025-26,France LNB,Regular Season,JL Bourg,Boulazac,73,70
+2026-01-12,2025-26,France LNB,Regular Season,JL Bourg,Élan Chalon,82,80
+2026-01-14,2025-26,France LNB,Regular Season,JL Bourg,Cholet,87,93
+2026-01-15,2025-26,France LNB,Regular Season,JL Bourg,JDA Dijon,101,81
+2026-01-16,2025-26,France LNB,Regular Season,JL Bourg,Limoges,92,71
+2026-01-17,2025-26,France LNB,Regular Season,JL Bourg,AS Monaco,104,81
+2026-01-18,2025-26,France LNB,Regular Season,JL Bourg,Le Mans,98,86
+2026-01-19,2025-26,France LNB,Regular Season,JL Bourg,Nancy,89,77
+2026-01-20,2025-26,France LNB,Regular Season,JL Bourg,Nanterre 92,86,83
+2026-01-21,2025-26,France LNB,Regular Season,JL Bourg,Paris,75,91
+2026-01-23,2025-26,France LNB,Regular Season,JL Bourg,Le Portel,109,79
+2026-01-24,2025-26,France LNB,Regular Season,JL Bourg,Saint-Quentin,71,89
+2026-01-25,2025-26,France LNB,Regular Season,JL Bourg,Strasbourg,77,80
+2026-01-26,2025-26,France LNB,Regular Season,Limoges,ASVEL,65,81
+2026-01-27,2025-26,France LNB,Regular Season,Limoges,Boulazac,80,72
+2026-01-28,2025-26,France LNB,Regular Season,Limoges,Élan Chalon,95,83
+2026-01-29,2025-26,France LNB,Regular Season,Limoges,Cholet,70,78
+2026-01-31,2025-26,France LNB,Regular Season,Limoges,JDA Dijon,80,76
+2026-02-01,2025-26,France LNB,Regular Season,Limoges,Gravelines,93,64
+2026-02-02,2025-26,France LNB,Regular Season,Limoges,JL Bourg,96,84
+2026-02-03,2025-26,France LNB,Regular Season,Limoges,AS Monaco,77,94
+2026-02-04,2025-26,France LNB,Regular Season,Limoges,Le Mans,83,110
+2026-02-05,2025-26,France LNB,Regular Season,Limoges,Nancy,97,79
+2026-02-06,2025-26,France LNB,Regular Season,Limoges,Nanterre 92,90,87
+2026-02-07,2025-26,France LNB,Regular Season,Limoges,Paris,80,86
+2026-02-09,2025-26,France LNB,Regular Season,Limoges,Le Portel,74,79
+2026-02-10,2025-26,France LNB,Regular Season,Limoges,Saint-Quentin,80,62
+2026-02-11,2025-26,France LNB,Regular Season,Limoges,Strasbourg,82,86
+2026-02-12,2025-26,France LNB,Regular Season,AS Monaco,ASVEL,83,87
+2026-02-13,2025-26,France LNB,Regular Season,AS Monaco,Boulazac,92,85
+2026-02-14,2025-26,France LNB,Regular Season,AS Monaco,Élan Chalon,99,104
+2026-02-15,2025-26,France LNB,Regular Season,AS Monaco,Cholet,89,79
+2026-02-16,2025-26,France LNB,Regular Season,AS Monaco,JDA Dijon,108,95
+2026-02-18,2025-26,France LNB,Regular Season,AS Monaco,Gravelines,101,82
+2026-02-19,2025-26,France LNB,Regular Season,AS Monaco,JL Bourg,89,91
+2026-02-20,2025-26,France LNB,Regular Season,AS Monaco,Limoges,99,88
+2026-02-21,2025-26,France LNB,Regular Season,AS Monaco,Le Mans,99,85
+2026-02-22,2025-26,France LNB,Regular Season,AS Monaco,Nancy,86,94
+2026-02-23,2025-26,France LNB,Regular Season,AS Monaco,Nanterre 92,105,98
+2026-02-24,2025-26,France LNB,Regular Season,AS Monaco,Paris,95,123
+2026-02-25,2025-26,France LNB,Regular Season,AS Monaco,Le Portel,113,86
+2026-02-27,2025-26,France LNB,Regular Season,AS Monaco,Saint-Quentin,92,84
+2026-02-28,2025-26,France LNB,Regular Season,AS Monaco,Strasbourg,88,74
+2026-03-01,2025-26,France LNB,Regular Season,Le Mans,ASVEL,88,91
+2026-03-02,2025-26,France LNB,Regular Season,Le Mans,Boulazac,108,94
+2026-03-03,2025-26,France LNB,Regular Season,Le Mans,Élan Chalon,87,93
+2026-03-04,2025-26,France LNB,Regular Season,Le Mans,Cholet,89,94
+2026-03-05,2025-26,France LNB,Regular Season,Le Mans,JDA Dijon,92,86
+2026-03-07,2025-26,France LNB,Regular Season,Le Mans,Gravelines,87,66
+2026-03-08,2025-26,France LNB,Regular Season,Le Mans,JL Bourg,84,82
+2026-03-09,2025-26,France LNB,Regular Season,Le Mans,Limoges,101,84
+2026-03-10,2025-26,France LNB,Regular Season,Le Mans,AS Monaco,84,93
+2026-03-11,2025-26,France LNB,Regular Season,Le Mans,Nancy,102,74
+2026-03-12,2025-26,France LNB,Regular Season,Le Mans,Nanterre 92,79,71
+2026-03-13,2025-26,France LNB,Regular Season,Le Mans,Paris,95,89
+2026-03-14,2025-26,France LNB,Regular Season,Le Mans,Le Portel,107,68
+2026-03-16,2025-26,France LNB,Regular Season,Le Mans,Saint-Quentin,90,74
+2026-03-17,2025-26,France LNB,Regular Season,Le Mans,Strasbourg,72,84
+2026-03-18,2025-26,France LNB,Regular Season,Nancy,ASVEL,82,88
+2026-03-19,2025-26,France LNB,Regular Season,Nancy,Boulazac,83,72
+2026-03-20,2025-26,France LNB,Regular Season,Nancy,Élan Chalon,102,80
+2026-03-21,2025-26,France LNB,Regular Season,Nancy,Cholet,91,87
+2026-03-22,2025-26,France LNB,Regular Season,Nancy,JDA Dijon,96,94
+2026-03-23,2025-26,France LNB,Regular Season,Nancy,Gravelines,88,93
+2026-03-25,2025-26,France LNB,Regular Season,Nancy,JL Bourg,80,88
+2026-03-26,2025-26,France LNB,Regular Season,Nancy,Limoges,117,85
+2026-03-27,2025-26,France LNB,Regular Season,Nancy,AS Monaco,79,93
+2026-03-28,2025-26,France LNB,Regular Season,Nancy,Le Mans,76,78
+2026-03-29,2025-26,France LNB,Regular Season,Nancy,Nanterre 92,84,91
+2026-03-30,2025-26,France LNB,Regular Season,Nancy,Paris,97,90
+2026-03-31,2025-26,France LNB,Regular Season,Nancy,Le Portel,95,50
+2026-04-02,2025-26,France LNB,Regular Season,Nancy,Saint-Quentin,84,71
+2026-04-03,2025-26,France LNB,Regular Season,Nancy,Strasbourg,82,86
+2026-04-04,2025-26,France LNB,Regular Season,Nanterre 92,ASVEL,73,76
+2026-04-05,2025-26,France LNB,Regular Season,Nanterre 92,Boulazac,85,78
+2026-04-06,2025-26,France LNB,Regular Season,Nanterre 92,Élan Chalon,88,82
+2026-04-07,2025-26,France LNB,Regular Season,Nanterre 92,Cholet,66,79
+2026-04-08,2025-26,France LNB,Regular Season,Nanterre 92,JDA Dijon,87,69
+2026-04-09,2025-26,France LNB,Regular Season,Nanterre 92,Gravelines,101,79
+2026-04-11,2025-26,France LNB,Regular Season,Nanterre 92,JL Bourg,101,93
+2026-04-12,2025-26,France LNB,Regular Season,Nanterre 92,Limoges,91,89
+2026-04-13,2025-26,France LNB,Regular Season,Nanterre 92,AS Monaco,76,81
+2026-04-14,2025-26,France LNB,Regular Season,Nanterre 92,Le Mans,98,88
+2026-04-15,2025-26,France LNB,Regular Season,Nanterre 92,Nancy,86,72
+2026-04-16,2025-26,France LNB,Regular Season,Nanterre 92,Paris,99,83
+2026-04-17,2025-26,France LNB,Regular Season,Nanterre 92,Le Portel,81,74
+2026-04-18,2025-26,France LNB,Regular Season,Nanterre 92,Saint-Quentin,80,75
+2026-04-20,2025-26,France LNB,Regular Season,Nanterre 92,Strasbourg,102,88
+2026-04-21,2025-26,France LNB,Regular Season,Paris,ASVEL,87,76
+2026-04-22,2025-26,France LNB,Regular Season,Paris,Boulazac,87,103
+2026-04-23,2025-26,France LNB,Regular Season,Paris,Élan Chalon,103,105
+2026-04-24,2025-26,France LNB,Regular Season,Paris,Cholet,107,84
+2026-04-25,2025-26,France LNB,Regular Season,Paris,JDA Dijon,97,92
+2026-04-26,2025-26,France LNB,Regular Season,Paris,Gravelines,109,115
+2026-04-27,2025-26,France LNB,Regular Season,Paris,JL Bourg,85,95
+2026-04-29,2025-26,France LNB,Regular Season,Paris,Limoges,115,93
+2026-04-30,2025-26,France LNB,Regular Season,Paris,AS Monaco,94,99
+2026-05-01,2025-26,France LNB,Regular Season,Paris,Le Mans,110,92
+2026-05-02,2025-26,France LNB,Regular Season,Paris,Nancy,102,73
+2026-05-03,2025-26,France LNB,Regular Season,Paris,Nanterre 92,96,92
+2026-05-04,2025-26,France LNB,Regular Season,Paris,Le Portel,110,80
+2026-05-05,2025-26,France LNB,Regular Season,Paris,Saint-Quentin,99,69
+2026-05-07,2025-26,France LNB,Regular Season,Paris,Strasbourg,96,67
+2026-05-08,2025-26,France LNB,Regular Season,Le Portel,ASVEL,88,98
+2026-05-09,2025-26,France LNB,Regular Season,Le Portel,Boulazac,68,75
+2026-05-10,2025-26,France LNB,Regular Season,Le Portel,Élan Chalon,78,87
+2026-05-11,2025-26,France LNB,Regular Season,Le Portel,Cholet,84,94
+2026-05-12,2025-26,France LNB,Regular Season,Le Portel,JDA Dijon,80,126
+2026-05-13,2025-26,France LNB,Regular Season,Le Portel,Gravelines,87,92
+2026-05-14,2025-26,France LNB,Regular Season,Le Portel,JL Bourg,63,92
+2026-05-16,2025-26,France LNB,Regular Season,Le Portel,Limoges,83,105
+2026-05-17,2025-26,France LNB,Regular Season,Le Portel,AS Monaco,63,84
+2026-05-18,2025-26,France LNB,Regular Season,Le Portel,Le Mans,72,94
+2026-05-19,2025-26,France LNB,Regular Season,Le Portel,Nancy,85,97
+2026-05-20,2025-26,France LNB,Regular Season,Le Portel,Nanterre 92,59,90
+2026-05-21,2025-26,France LNB,Regular Season,Le Portel,Paris,57,120
+2026-05-22,2025-26,France LNB,Regular Season,Le Portel,Saint-Quentin,72,108
+2026-05-23,2025-26,France LNB,Regular Season,Le Portel,Strasbourg,65,102
+2026-05-25,2025-26,France LNB,Regular Season,Saint-Quentin,ASVEL,76,81
+2026-05-26,2025-26,France LNB,Regular Season,Saint-Quentin,Boulazac,88,81
+2026-05-27,2025-26,France LNB,Regular Season,Saint-Quentin,Élan Chalon,65,86
+2026-05-28,2025-26,France LNB,Regular Season,Saint-Quentin,Cholet,77,68
+2026-05-29,2025-26,France LNB,Regular Season,Saint-Quentin,JDA Dijon,77,83
+2026-05-30,2025-26,France LNB,Regular Season,Saint-Quentin,Gravelines,86,74
+2026-05-31,2025-26,France LNB,Regular Season,Saint-Quentin,JL Bourg,75,88
+2026-06-02,2025-26,France LNB,Regular Season,Saint-Quentin,Limoges,77,86
+2026-06-03,2025-26,France LNB,Regular Season,Saint-Quentin,AS Monaco,73,98
+2026-06-04,2025-26,France LNB,Regular Season,Saint-Quentin,Le Mans,85,88
+2026-06-05,2025-26,France LNB,Regular Season,Saint-Quentin,Nancy,72,84
+2026-06-06,2025-26,France LNB,Regular Season,Saint-Quentin,Nanterre 92,65,89
+2026-06-07,2025-26,France LNB,Regular Season,Saint-Quentin,Paris,90,103
+2026-06-08,2025-26,France LNB,Regular Season,Saint-Quentin,Le Portel,97,81
+2026-06-09,2025-26,France LNB,Regular Season,Saint-Quentin,Strasbourg,109,87
+2026-06-11,2025-26,France LNB,Regular Season,Strasbourg,ASVEL,81,96
+2026-06-12,2025-26,France LNB,Regular Season,Strasbourg,Boulazac,86,82
+2026-06-13,2025-26,France LNB,Regular Season,Strasbourg,Élan Chalon,90,91
+2026-06-14,2025-26,France LNB,Regular Season,Strasbourg,Cholet,94,89
+2026-06-15,2025-26,France LNB,Regular Season,Strasbourg,JDA Dijon,96,98
+2026-06-16,2025-26,France LNB,Regular Season,Strasbourg,Gravelines,89,72
+2026-06-17,2025-26,France LNB,Regular Season,Strasbourg,JL Bourg,87,83
+2026-06-18,2025-26,France LNB,Regular Season,Strasbourg,Limoges,100,82
+2026-06-20,2025-26,France LNB,Regular Season,Strasbourg,AS Monaco,114,118
+2026-06-21,2025-26,France LNB,Regular Season,Strasbourg,Le Mans,103,96
+2026-06-22,2025-26,France LNB,Regular Season,Strasbourg,Nancy,86,82
+2026-06-23,2025-26,France LNB,Regular Season,Strasbourg,Nanterre 92,84,74
+2026-06-24,2025-26,France LNB,Regular Season,Strasbourg,Paris,86,92
+2026-06-25,2025-26,France LNB,Regular Season,Strasbourg,Le Portel,80,75
+2026-06-26,2025-26,France LNB,Regular Season,Strasbourg,Saint-Quentin,84,72
