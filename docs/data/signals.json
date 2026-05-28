@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-28T08:46:34+00:00",
+  "updated_utc": "2026-05-28T12:34:17+00:00",
   "games": [
     {
       "id": "724481879",
@@ -208,11 +208,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 724478033,
+        "o1": "San Antonio Spurs",
+        "o2": "Oklahoma City Thunder",
+        "swapped": false,
+        "league": "NBA",
+        "moneyline": {
+          "home": 1.658,
+          "away": 2.397,
+          "found": true
+        },
+        "spread": {
+          "line": -2.5,
+          "home_odd": 1.822,
+          "away_odd": 2.093,
+          "found": true
+        },
+        "total": {
+          "line": 219.5,
+          "over": 1.96,
+          "under": 1.96,
+          "found": true
+        },
+        "ht_total": {
+          "line": 111.5,
+          "over": 1.9,
+          "under": 1.9,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -280,7 +304,10 @@
           "note": "Home WR in last 20 games >65% AND 10g WR edge >10%. Established hot team.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 8.34,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$8.34/$10"
         }
       ],
       "top_signal": {
@@ -293,14 +320,41 @@
         "note": "Home WR in last 20 games >65% AND 10g WR edge >10%. Established hot team.",
         "realistic_edge": true,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "moneyline"
+        "bet_recommendation": "moneyline",
+        "ml_ev_per_10": 8.34,
+        "best_bet_type": "team_wins",
+        "best_bet_reason": "Team Wins EV +$8.34/$10"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 724478033,
+        "o1": "San Antonio Spurs",
+        "o2": "Oklahoma City Thunder",
+        "swapped": true,
+        "league": "NBA",
+        "moneyline": {
+          "home": 2.397,
+          "away": 1.658,
+          "found": true
+        },
+        "spread": {
+          "line": 2.5,
+          "home_odd": 2.093,
+          "away_odd": 1.822,
+          "found": true
+        },
+        "total": {
+          "line": 219.5,
+          "over": 1.96,
+          "under": 1.96,
+          "found": true
+        },
+        "ht_total": {
+          "line": 111.5,
+          "over": 1.9,
+          "under": 1.9,
+          "found": true
+        }
       },
       "card_color": "green"
     }
@@ -308,7 +362,7 @@
   "meta": {
     "total_games": 3,
     "total_signals": 3,
-    "bet22_events": 19,
+    "bet22_events": 30,
     "season": "2025-26 Playoffs"
   }
 }
