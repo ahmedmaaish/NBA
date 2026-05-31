@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-31T04:19:40+00:00",
+  "updated_utc": "2026-05-31T08:18:13+00:00",
   "games": [
     {
       "id": "401859963",
@@ -117,11 +117,35 @@
         "bet_recommendation": "moneyline"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 725583928,
+        "o1": "Detroit Pistons (cyber)",
+        "o2": "New York Knicks (cyber)",
+        "swapped": false,
+        "league": "NBA 2K26. Cyber League",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": 11.5,
+          "home_odd": 3.056,
+          "away_odd": 1.315,
+          "found": true
+        },
+        "total": {
+          "line": 215.5,
+          "over": 1.875,
+          "under": 1.93,
+          "found": true
+        },
+        "ht_total": {
+          "line": 99.5,
+          "over": 1.968,
+          "under": 1.84,
+          "found": true
+        }
       },
       "card_color": "green"
     }
@@ -129,7 +153,7 @@
   "meta": {
     "total_games": 1,
     "total_signals": 4,
-    "bet22_events": 29,
+    "bet22_events": 17,
     "season": "2025-26 Playoffs"
   }
 }
