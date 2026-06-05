@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-05T08:46:14+00:00",
+  "updated_utc": "2026-06-05T12:12:50+00:00",
   "games": [
     {
       "id": "726468574",
@@ -69,7 +69,7 @@
           "league_bets": 238,
           "league_data_status": "verified",
           "bet_recommendation": "moneyline",
-          "ml_ev_per_10": -1.03,
+          "ml_ev_per_10": -1.28,
           "best_bet_type": "skip",
           "best_bet_reason": "Team Wins -EV; skip"
         },
@@ -87,9 +87,9 @@
           "league_bets": 113,
           "league_data_status": "verified",
           "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 5.18,
+          "ml_ev_per_10": 6.11,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$5.18/$10"
+          "best_bet_reason": "Team Wins EV +$6.11/$10"
         }
       ],
       "top_signal": {
@@ -106,7 +106,7 @@
         "league_bets": 238,
         "league_data_status": "verified",
         "bet_recommendation": "moneyline",
-        "ml_ev_per_10": -1.03,
+        "ml_ev_per_10": -1.28,
         "best_bet_type": "skip",
         "best_bet_reason": "Team Wins -EV; skip"
       },
@@ -118,26 +118,26 @@
         "swapped": false,
         "league": "Spain. Liga ACB",
         "moneyline": {
-          "home": 2.907,
-          "away": 1.433,
+          "home": 3.085,
+          "away": 1.393,
           "found": true
         },
         "spread": {
-          "line": 4.5,
-          "home_odd": 2.02,
-          "away_odd": 1.76,
+          "line": 5.5,
+          "home_odd": 1.98,
+          "away_odd": 1.79,
           "found": true
         },
         "total": {
           "line": 176.0,
-          "over": 1.88,
-          "under": 1.9,
+          "over": 1.9,
+          "under": 1.88,
           "found": true
         },
         "ht_total": {
-          "line": 85.5,
-          "over": 1.89,
-          "under": 1.85,
+          "line": 84.5,
+          "over": 1.83,
+          "under": 1.89,
           "found": true
         }
       },
@@ -213,10 +213,10 @@
           "league_ats_wr": 54.6,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 1.38,
-          "hcap_ev_per_10": -2.44,
+          "ml_ev_per_10": 1.95,
+          "hcap_ev_per_10": -0.01,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$1.38/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$1.95/$10 is higher AND simpler"
         },
         {
           "name": "Mild Form Diff Gap 5-8 -> Better",
@@ -232,9 +232,9 @@
           "league_bets": 168,
           "league_data_status": "verified",
           "bet_recommendation": "moneyline",
-          "ml_ev_per_10": -0.06,
-          "best_bet_type": "skip",
-          "best_bet_reason": "Team Wins -EV; skip"
+          "ml_ev_per_10": 0.44,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$0.44/$10"
         }
       ],
       "top_signal": {
@@ -253,10 +253,10 @@
         "league_ats_wr": 54.6,
         "league_ats_safe": true,
         "bet_recommendation": "handicap_or_moneyline",
-        "ml_ev_per_10": 1.38,
-        "hcap_ev_per_10": -2.44,
+        "ml_ev_per_10": 1.95,
+        "hcap_ev_per_10": -0.01,
         "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$1.38/$10 is higher AND simpler"
+        "best_bet_reason": "Team Wins EV +$1.95/$10 is higher AND simpler"
       },
       "odds_22bet": {
         "found": true,
@@ -266,26 +266,26 @@
         "swapped": false,
         "league": "Turkey. Super League",
         "moneyline": {
-          "home": 2.292,
-          "away": 1.59,
+          "home": 2.138,
+          "away": 1.67,
           "found": true
         },
         "spread": {
-          "line": -1.5,
-          "home_odd": 2.467,
-          "away_odd": 1.384,
+          "line": 2.0,
+          "home_odd": 1.88,
+          "away_odd": 1.83,
           "found": true
         },
         "total": {
-          "line": 165.5,
-          "over": 1.88,
-          "under": 1.85,
+          "line": 160.0,
+          "over": 1.85,
+          "under": 1.86,
           "found": true
         },
         "ht_total": {
-          "line": 81.5,
-          "over": 1.774,
-          "under": 1.674,
+          "line": 79.5,
+          "over": 1.769,
+          "under": 1.677,
           "found": true
         }
       },
@@ -361,10 +361,10 @@
           "league_ats_wr": 62.7,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 5.0,
-          "hcap_ev_per_10": 3.1,
+          "ml_ev_per_10": 5.3,
+          "hcap_ev_per_10": 3.36,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$5.00/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$5.30/$10 is higher AND simpler"
         }
       ],
       "top_signal": {
@@ -383,10 +383,10 @@
         "league_ats_wr": 62.7,
         "league_ats_safe": true,
         "bet_recommendation": "handicap_or_moneyline",
-        "ml_ev_per_10": 5.0,
-        "hcap_ev_per_10": 3.1,
+        "ml_ev_per_10": 5.3,
+        "hcap_ev_per_10": 3.36,
         "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$5.00/$10 is higher AND simpler"
+        "best_bet_reason": "Team Wins EV +$5.30/$10 is higher AND simpler"
       },
       "odds_22bet": {
         "found": true,
@@ -396,26 +396,26 @@
         "swapped": false,
         "league": "Spain. Liga ACB",
         "moneyline": {
-          "home": 2.053,
-          "away": 1.803,
+          "home": 2.093,
+          "away": 1.773,
           "found": true
         },
         "spread": {
           "line": -1.0,
-          "home_odd": 2.09,
-          "away_odd": 1.71,
+          "home_odd": 2.13,
+          "away_odd": 1.68,
           "found": true
         },
         "total": {
-          "line": 173.5,
+          "line": 172.5,
           "over": 1.91,
           "under": 1.93,
           "found": true
         },
         "ht_total": {
-          "line": 86.5,
-          "over": 1.88,
-          "under": 1.86,
+          "line": 85.5,
+          "over": 1.84,
+          "under": 1.9,
           "found": true
         }
       },
@@ -697,7 +697,7 @@
   "meta": {
     "total_games": 5,
     "total_signals": 15,
-    "bet22_events": 28,
+    "bet22_events": 33,
     "season": "2025-26 Playoffs"
   }
 }
