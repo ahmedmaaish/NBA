@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-04T23:13:08+00:00",
+  "updated_utc": "2026-06-05T04:14:56+00:00",
   "games": [
     {
       "id": "401859964",
@@ -124,12 +124,160 @@
         "ht_total": {}
       },
       "card_color": "green"
+    },
+    {
+      "id": "401859965",
+      "name": "San Antonio Spurs at New York Knicks",
+      "date_utc": "2026-06-09T00:30Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "NBA",
+      "home": {
+        "id": "18",
+        "name": "New York Knicks",
+        "abbr": "NY",
+        "score": 0,
+        "wins": 53,
+        "losses": 29,
+        "season_pct": 0.6463414634146342,
+        "rest": 5,
+        "last_game": "2026-06-04",
+        "r10_win_rate": 1.0,
+        "r10_diff": 22.7,
+        "r5_win_rate": 1.0,
+        "r5_diff": 17.4,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 0.867,
+        "r20_diff": 18.73,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 10,
+        "date_utc": "2026-06-09T00:30Z"
+      },
+      "away": {
+        "id": "24",
+        "name": "San Antonio Spurs",
+        "abbr": "SA",
+        "score": 0,
+        "wins": 62,
+        "losses": 20,
+        "season_pct": 0.7560975609756098,
+        "rest": 5,
+        "last_game": "2026-06-04",
+        "r10_win_rate": 0.6,
+        "r10_diff": 7.5,
+        "r5_win_rate": 0.6,
+        "r5_diff": 6.6,
+        "r3_win_rate": 0.667,
+        "r20_win_rate": 0.632,
+        "r20_diff": 9.21,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 10,
+        "date_utc": "2026-06-09T00:30Z"
+      },
+      "signals": [
+        {
+          "name": "Home Form Edge +5pts -> Bet Home",
+          "win_rate": 76.9,
+          "roi_pct": 46.8,
+          "bets_yr": 221,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
+          "realistic_edge": false,
+          "league_data_status": "no_mapping",
+          "bet_recommendation": "handicap"
+        },
+        {
+          "name": "20g Hot Home + WR Edge -> Home",
+          "win_rate": 76.5,
+          "roi_pct": 46.0,
+          "bets_yr": 137,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Home WR in last 20 games >65% AND 10g WR edge >10%. Established hot team.",
+          "realistic_edge": true,
+          "league_data_status": "no_mapping",
+          "bet_recommendation": "moneyline"
+        },
+        {
+          "name": "Mild Form Edge -> Home",
+          "win_rate": 74.1,
+          "roi_pct": 41.5,
+          "bets_yr": 329,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
+          "realistic_edge": true,
+          "league_data_status": "no_mapping",
+          "bet_recommendation": "moneyline"
+        },
+        {
+          "name": "Home Consistency Edge -> Home",
+          "win_rate": 72.7,
+          "roi_pct": 38.8,
+          "bets_yr": 179,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
+          "realistic_edge": true,
+          "league_data_status": "no_mapping",
+          "bet_recommendation": "moneyline"
+        },
+        {
+          "name": "Form Gap >8pts -> Bet In-Form Team",
+          "win_rate": 71.2,
+          "roi_pct": 36.0,
+          "bets_yr": 437,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
+          "realistic_edge": false,
+          "league_data_status": "no_mapping",
+          "bet_recommendation": "handicap"
+        },
+        {
+          "name": "Win-Rate Gap >25% -> Bet Favourite",
+          "win_rate": 68.7,
+          "roi_pct": 31.2,
+          "bets_yr": 479,
+          "confidence": "medium",
+          "bet": "home",
+          "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
+          "realistic_edge": false,
+          "league_data_status": "no_mapping",
+          "bet_recommendation": "handicap"
+        }
+      ],
+      "top_signal": {
+        "name": "Home Form Edge +5pts -> Bet Home",
+        "win_rate": 76.9,
+        "roi_pct": 46.8,
+        "bets_yr": 221,
+        "confidence": "high",
+        "bet": "home",
+        "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
+        "realistic_edge": false,
+        "league_data_status": "no_mapping",
+        "bet_recommendation": "handicap"
+      },
+      "odds_22bet": {
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
+      },
+      "card_color": "green"
     }
   ],
   "meta": {
-    "total_games": 1,
-    "total_signals": 4,
-    "bet22_events": 15,
+    "total_games": 2,
+    "total_signals": 10,
+    "bet22_events": 11,
     "season": "2025-26 Playoffs"
   }
 }
