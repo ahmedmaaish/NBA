@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-06T10:10:05+00:00",
+  "updated_utc": "2026-06-06T12:08:51+00:00",
   "games": [
     {
       "id": "726738967",
@@ -71,10 +71,10 @@
           "league_ats_wr": 62.7,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 33.92,
-          "hcap_ev_per_10": 2.6,
+          "ml_ev_per_10": 31.73,
+          "hcap_ev_per_10": 2.16,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$33.92/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$31.73/$10 is higher AND simpler"
         },
         {
           "name": "Form Gap >8pts -> Bet In-Form Team",
@@ -92,10 +92,10 @@
           "league_ats_wr": 56.1,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 35.26,
-          "hcap_ev_per_10": 1.28,
+          "ml_ev_per_10": 33.0,
+          "hcap_ev_per_10": 0.88,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$35.26/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$33.00/$10 is higher AND simpler"
         },
         {
           "name": "Dominant Away vs Losing Home",
@@ -113,10 +113,10 @@
           "league_ats_wr": 45.3,
           "league_ats_safe": false,
           "bet_recommendation": "moneyline_only",
-          "ml_ev_per_10": 31.96,
-          "hcap_ev_per_10": -0.89,
+          "ml_ev_per_10": 29.86,
+          "hcap_ev_per_10": -1.21,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$31.96/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$29.86/$10 is higher AND simpler"
         },
         {
           "name": "Win-Rate Gap >25% -> Bet Favourite",
@@ -134,10 +134,10 @@
           "league_ats_wr": 57.6,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 34.16,
-          "hcap_ev_per_10": 1.58,
+          "ml_ev_per_10": 31.95,
+          "hcap_ev_per_10": 1.17,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$34.16/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$31.95/$10 is higher AND simpler"
         },
         {
           "name": "Away +30% WR Edge + Rested",
@@ -153,9 +153,9 @@
           "league_bets": 152,
           "league_data_status": "verified",
           "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 28.36,
+          "ml_ev_per_10": 26.44,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$28.36/$10"
+          "best_bet_reason": "Team Wins EV +$26.44/$10"
         },
         {
           "name": "Elite Away Rested vs Weak Home",
@@ -171,9 +171,9 @@
           "league_bets": 96,
           "league_data_status": "verified",
           "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 29.44,
+          "ml_ev_per_10": 27.47,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$29.44/$10"
+          "best_bet_reason": "Team Wins EV +$27.47/$10"
         },
         {
           "name": "Cold 3-Game Home Streak -> Fade Home",
@@ -189,9 +189,9 @@
           "league_bets": 44,
           "league_data_status": "verified",
           "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 26.88,
+          "ml_ev_per_10": 25.04,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$26.88/$10"
+          "best_bet_reason": "Team Wins EV +$25.04/$10"
         }
       ],
       "top_signal": {
@@ -210,10 +210,10 @@
         "league_ats_wr": 62.7,
         "league_ats_safe": true,
         "bet_recommendation": "handicap_or_moneyline",
-        "ml_ev_per_10": 33.92,
-        "hcap_ev_per_10": 2.6,
+        "ml_ev_per_10": 31.73,
+        "hcap_ev_per_10": 2.16,
         "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$33.92/$10 is higher AND simpler"
+        "best_bet_reason": "Team Wins EV +$31.73/$10 is higher AND simpler"
       },
       "odds_22bet": {
         "found": true,
@@ -223,26 +223,26 @@
         "swapped": false,
         "league": "Spain. Liga ACB",
         "moneyline": {
-          "home": 1.142,
-          "away": 6.01,
+          "home": 1.154,
+          "away": 5.71,
           "found": true
         },
         "spread": {
           "line": -11.5,
-          "home_odd": 1.77,
-          "away_odd": 2.01,
+          "home_odd": 1.82,
+          "away_odd": 1.94,
           "found": true
         },
         "total": {
-          "line": 177.0,
-          "over": 1.9,
-          "under": 1.88,
+          "line": 176.0,
+          "over": 1.89,
+          "under": 1.89,
           "found": true
         },
         "ht_total": {
           "line": 94.5,
-          "over": 1.84,
-          "under": 1.9,
+          "over": 1.909,
+          "under": 1.81,
           "found": true
         }
       },
@@ -318,10 +318,10 @@
           "league_ats_wr": 58.7,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 5.27,
-          "hcap_ev_per_10": 1.39,
+          "ml_ev_per_10": 4.91,
+          "hcap_ev_per_10": 1.62,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$5.27/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$4.91/$10 is higher AND simpler"
         },
         {
           "name": "Form Gap >8pts -> Bet In-Form Team",
@@ -339,10 +339,10 @@
           "league_ats_wr": 53.7,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 5.86,
-          "hcap_ev_per_10": 0.42,
+          "ml_ev_per_10": 5.49,
+          "hcap_ev_per_10": 0.63,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$5.86/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$5.49/$10 is higher AND simpler"
         },
         {
           "name": "Dominant Away vs Losing Home",
@@ -360,10 +360,10 @@
           "league_ats_wr": 61.3,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 7.51,
-          "hcap_ev_per_10": 1.89,
+          "ml_ev_per_10": 7.1,
+          "hcap_ev_per_10": 2.14,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$7.51/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$7.10/$10 is higher AND simpler"
         },
         {
           "name": "Win-Rate Gap >25% -> Bet Favourite",
@@ -381,10 +381,10 @@
           "league_ats_wr": 53.2,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 5.34,
-          "hcap_ev_per_10": 0.32,
+          "ml_ev_per_10": 4.99,
+          "hcap_ev_per_10": 0.53,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$5.34/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$4.99/$10 is higher AND simpler"
         },
         {
           "name": "Elite Away Rested vs Weak Home",
@@ -400,9 +400,9 @@
           "league_bets": 115,
           "league_data_status": "verified",
           "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 6.12,
+          "ml_ev_per_10": 5.74,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$6.12/$10"
+          "best_bet_reason": "Team Wins EV +$5.74/$10"
         },
         {
           "name": "Cold 3-Game Home Streak -> Fade Home",
@@ -418,9 +418,9 @@
           "league_bets": 47,
           "league_data_status": "verified",
           "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 2.38,
+          "ml_ev_per_10": 2.09,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$2.38/$10"
+          "best_bet_reason": "Team Wins EV +$2.09/$10"
         },
         {
           "name": "Hot Away 5g + Rest -> Away",
@@ -436,9 +436,9 @@
           "league_bets": 84,
           "league_data_status": "verified",
           "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 4.88,
+          "ml_ev_per_10": 4.54,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$4.88/$10"
+          "best_bet_reason": "Team Wins EV +$4.54/$10"
         }
       ],
       "top_signal": {
@@ -457,10 +457,10 @@
         "league_ats_wr": 58.7,
         "league_ats_safe": true,
         "bet_recommendation": "handicap_or_moneyline",
-        "ml_ev_per_10": 5.27,
-        "hcap_ev_per_10": 1.39,
+        "ml_ev_per_10": 4.91,
+        "hcap_ev_per_10": 1.62,
         "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$5.27/$10 is higher AND simpler"
+        "best_bet_reason": "Team Wins EV +$4.91/$10 is higher AND simpler"
       },
       "odds_22bet": {
         "found": true,
@@ -470,26 +470,26 @@
         "swapped": false,
         "league": "Germany. BBL",
         "moneyline": {
-          "home": 1.731,
-          "away": 2.155,
+          "home": 1.764,
+          "away": 2.105,
           "found": true
         },
         "spread": {
-          "line": -1.5,
-          "home_odd": 1.82,
-          "away_odd": 1.94,
+          "line": -1.0,
+          "home_odd": 1.77,
+          "away_odd": 1.98,
           "found": true
         },
         "total": {
-          "line": 167.5,
-          "over": 1.92,
-          "under": 1.92,
+          "line": 169.0,
+          "over": 1.89,
+          "under": 1.89,
           "found": true
         },
         "ht_total": {
-          "line": 84.5,
-          "over": 1.86,
-          "under": 1.88,
+          "line": 85.5,
+          "over": 1.89,
+          "under": 1.85,
           "found": true
         }
       },
@@ -647,7 +647,7 @@
   "meta": {
     "total_games": 3,
     "total_signals": 20,
-    "bet22_events": 18,
+    "bet22_events": 22,
     "season": "2025-26 Playoffs"
   }
 }
