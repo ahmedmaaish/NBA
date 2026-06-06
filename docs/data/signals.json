@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-06T20:13:39+00:00",
+  "updated_utc": "2026-06-06T22:07:55+00:00",
   "games": [
     {
       "id": "401859965",
@@ -65,10 +65,7 @@
           "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap",
-          "ml_ev_per_10": 3.04,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$3.04/$10"
+          "bet_recommendation": "handicap"
         },
         {
           "name": "20g Hot Home + WR Edge -> Home",
@@ -80,10 +77,7 @@
           "note": "Home WR in last 20 games >65% AND 10g WR edge >10%. Established hot team.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 2.97,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$2.97/$10"
+          "bet_recommendation": "moneyline"
         },
         {
           "name": "Mild Form Edge -> Home",
@@ -95,10 +89,7 @@
           "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 2.57,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$2.57/$10"
+          "bet_recommendation": "moneyline"
         },
         {
           "name": "Home Consistency Edge -> Home",
@@ -110,10 +101,7 @@
           "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 2.33,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$2.33/$10"
+          "bet_recommendation": "moneyline"
         },
         {
           "name": "Form Gap >8pts -> Bet In-Form Team",
@@ -125,10 +113,7 @@
           "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap",
-          "ml_ev_per_10": 2.08,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$2.08/$10"
+          "bet_recommendation": "handicap"
         },
         {
           "name": "Win-Rate Gap >25% -> Bet Favourite",
@@ -140,10 +125,7 @@
           "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap",
-          "ml_ev_per_10": 1.65,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$1.65/$10"
+          "bet_recommendation": "handicap"
         }
       ],
       "top_signal": {
@@ -156,41 +138,14 @@
         "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
         "realistic_edge": false,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "handicap",
-        "ml_ev_per_10": 3.04,
-        "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$3.04/$10"
+        "bet_recommendation": "handicap"
       },
       "odds_22bet": {
-        "found": true,
-        "event_id": 727237468,
-        "o1": "Detroit Pistons (cyber)",
-        "o2": "New York Knicks (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber League",
-        "moneyline": {
-          "home": 1.696,
-          "away": 2.06,
-          "found": true
-        },
-        "spread": {
-          "line": 2.5,
-          "home_odd": 1.504,
-          "away_odd": 2.368,
-          "found": true
-        },
-        "total": {
-          "line": 207.5,
-          "over": 1.93,
-          "under": 1.87,
-          "found": true
-        },
-        "ht_total": {
-          "line": 102.5,
-          "over": 1.925,
-          "under": 1.875,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "green"
     }
@@ -198,7 +153,7 @@
   "meta": {
     "total_games": 1,
     "total_signals": 6,
-    "bet22_events": 22,
+    "bet22_events": 16,
     "season": "2025-26 Playoffs"
   }
 }
