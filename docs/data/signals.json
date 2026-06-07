@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-07T05:26:24+00:00",
+  "updated_utc": "2026-06-07T09:23:20+00:00",
   "games": [
     {
       "id": "727100614",
@@ -71,10 +71,10 @@
           "league_ats_wr": 62.7,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 14.15,
-          "hcap_ev_per_10": 2.41,
+          "ml_ev_per_10": 14.88,
+          "hcap_ev_per_10": 2.6,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$14.15/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$14.88/$10 is higher AND simpler"
         }
       ],
       "top_signal": {
@@ -93,10 +93,10 @@
         "league_ats_wr": 62.7,
         "league_ats_safe": true,
         "bet_recommendation": "handicap_or_moneyline",
-        "ml_ev_per_10": 14.15,
-        "hcap_ev_per_10": 2.41,
+        "ml_ev_per_10": 14.88,
+        "hcap_ev_per_10": 2.6,
         "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$14.15/$10 is higher AND simpler"
+        "best_bet_reason": "Team Wins EV +$14.88/$10 is higher AND simpler"
       },
       "odds_22bet": {
         "found": true,
@@ -106,26 +106,26 @@
         "swapped": false,
         "league": "Spain. Liga ACB",
         "moneyline": {
-          "home": 1.353,
-          "away": 3.305,
+          "home": 1.336,
+          "away": 3.405,
           "found": true
         },
         "spread": {
           "line": -6.5,
-          "home_odd": 1.79,
-          "away_odd": 1.98,
+          "home_odd": 1.77,
+          "away_odd": 2.01,
           "found": true
         },
         "total": {
-          "line": 172.5,
-          "over": 1.93,
-          "under": 1.91,
+          "line": 171.0,
+          "over": 1.89,
+          "under": 1.89,
           "found": true
         },
         "ht_total": {
           "line": 89.5,
-          "over": 1.82,
-          "under": 1.9,
+          "over": 1.88,
+          "under": 1.86,
           "found": true
         }
       },
@@ -280,154 +280,6 @@
       "card_color": "green"
     },
     {
-      "id": "727075942",
-      "name": "Fenerbahce at Anadolu Efes",
-      "date_utc": "2026-06-07T17:00:00Z",
-      "state": "pre",
-      "status_name": "STATUS_SCHEDULED",
-      "clock": "0.0",
-      "period": 0,
-      "league": "Turkey \u2014 Super League",
-      "home": {
-        "id": "Anadolu Efes",
-        "name": "Anadolu Efes",
-        "abbr": "AE",
-        "score": 0,
-        "wins": 20,
-        "losses": 10,
-        "season_pct": 0.6666666666666666,
-        "rest": 25,
-        "last_game": "2026-05-13",
-        "r10_win_rate": 0.6,
-        "r10_diff": 1.9,
-        "r5_win_rate": 0.2,
-        "r5_diff": -6.6,
-        "r3_win_rate": 0.333,
-        "r20_win_rate": 0.65,
-        "r20_diff": 4.45,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 10,
-        "date_utc": "2026-06-07T17:00:00Z"
-      },
-      "away": {
-        "id": "Fenerbah\u00e7e Beko",
-        "name": "Fenerbahce",
-        "abbr": "FEN",
-        "score": 0,
-        "wins": 25,
-        "losses": 5,
-        "season_pct": 0.8333333333333334,
-        "rest": 21,
-        "last_game": "2026-05-17",
-        "r10_win_rate": 0.8,
-        "r10_diff": 8.4,
-        "r5_win_rate": 0.6,
-        "r5_diff": 4.2,
-        "r3_win_rate": 0.667,
-        "r20_win_rate": 0.85,
-        "r20_diff": 8.6,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 10,
-        "date_utc": "2026-06-07T17:00:00Z"
-      },
-      "signals": [
-        {
-          "name": "Late-Season Season Edge >15% -> Better",
-          "win_rate": 74.0,
-          "roi_pct": 41.2,
-          "bets_yr": 60,
-          "confidence": "high",
-          "bet": "away",
-          "note": "Late season (Mar-Jun): |season win% gap| >15%. Bet the team with the better record.",
-          "realistic_edge": false,
-          "league_win_rate": 71.58,
-          "league_roi_pct": 36.66,
-          "league_bets": 183,
-          "league_data_status": "verified",
-          "league_ats_wr": 54.6,
-          "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 1.52,
-          "hcap_ev_per_10": -0.67,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$1.52/$10 is higher AND simpler"
-        },
-        {
-          "name": "Mild Form Diff Gap 5-8 -> Better",
-          "win_rate": 61.1,
-          "roi_pct": 16.6,
-          "bets_yr": 232,
-          "confidence": "medium",
-          "bet": "away",
-          "note": "Diff edge between 5 and 8 pts. Bridge between S5 and S11 for medium-strength signals.",
-          "realistic_edge": true,
-          "league_win_rate": 62.5,
-          "league_roi_pct": 19.32,
-          "league_bets": 168,
-          "league_data_status": "verified",
-          "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 0.06,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$0.06/$10"
-        }
-      ],
-      "top_signal": {
-        "name": "Late-Season Season Edge >15% -> Better",
-        "win_rate": 74.0,
-        "roi_pct": 41.2,
-        "bets_yr": 60,
-        "confidence": "high",
-        "bet": "away",
-        "note": "Late season (Mar-Jun): |season win% gap| >15%. Bet the team with the better record.",
-        "realistic_edge": false,
-        "league_win_rate": 71.58,
-        "league_roi_pct": 36.66,
-        "league_bets": 183,
-        "league_data_status": "verified",
-        "league_ats_wr": 54.6,
-        "league_ats_safe": true,
-        "bet_recommendation": "handicap_or_moneyline",
-        "ml_ev_per_10": 1.52,
-        "hcap_ev_per_10": -0.67,
-        "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$1.52/$10 is higher AND simpler"
-      },
-      "odds_22bet": {
-        "found": true,
-        "event_id": 727075942,
-        "o1": "Anadolu Efes",
-        "o2": "Fenerbahce",
-        "swapped": false,
-        "league": "Turkey. Super League",
-        "moneyline": {
-          "home": 2.253,
-          "away": 1.61,
-          "found": true
-        },
-        "spread": {
-          "line": 2.5,
-          "home_odd": 1.825,
-          "away_odd": 1.708,
-          "found": true
-        },
-        "total": {
-          "line": 163.5,
-          "over": 1.86,
-          "under": 1.87,
-          "found": true
-        },
-        "ht_total": {
-          "line": 80.5,
-          "over": 1.729,
-          "under": 1.712,
-          "found": true
-        }
-      },
-      "card_color": "green"
-    },
-    {
       "id": "401859965",
       "name": "San Antonio Spurs at New York Knicks",
       "date_utc": "2026-06-09T00:30Z",
@@ -567,11 +419,35 @@
         "bet_recommendation": "handicap"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 727348548,
+        "o1": "Detroit Pistons (cyber)",
+        "o2": "New York Knicks (cyber)",
+        "swapped": true,
+        "league": "NBA 2K26. Cyber League",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": 16.5,
+          "home_odd": null,
+          "away_odd": 1.23,
+          "found": true
+        },
+        "total": {
+          "line": 211.5,
+          "over": 1.93,
+          "under": 1.87,
+          "found": true
+        },
+        "ht_total": {
+          "line": 115.5,
+          "over": 1.91,
+          "under": 1.89,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -715,18 +591,42 @@
         "bet_recommendation": "handicap"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 727348548,
+        "o1": "Detroit Pistons (cyber)",
+        "o2": "New York Knicks (cyber)",
+        "swapped": true,
+        "league": "NBA 2K26. Cyber League",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": 16.5,
+          "home_odd": null,
+          "away_odd": 1.23,
+          "found": true
+        },
+        "total": {
+          "line": 211.5,
+          "over": 1.93,
+          "under": 1.87,
+          "found": true
+        },
+        "ht_total": {
+          "line": 115.5,
+          "over": 1.91,
+          "under": 1.89,
+          "found": true
+        }
       },
       "card_color": "green"
     }
   ],
   "meta": {
-    "total_games": 5,
-    "total_signals": 17,
+    "total_games": 4,
+    "total_signals": 15,
     "bet22_events": 19,
     "season": "2025-26 Playoffs"
   }
