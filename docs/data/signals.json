@@ -1,610 +1,6 @@
 {
-  "updated_utc": "2026-06-19T18:59:59+00:00",
+  "updated_utc": "2026-06-19T20:42:48+00:00",
   "games": [
-    {
-      "id": "730402668",
-      "name": "Fenerbahce at Besiktas",
-      "date_utc": "2026-06-19T17:00:00Z",
-      "state": "pre",
-      "status_name": "STATUS_SCHEDULED",
-      "clock": "0.0",
-      "period": 0,
-      "league": "Turkey \u2014 Super League",
-      "home": {
-        "id": "Be\u015fikta\u015f Gain",
-        "name": "Besiktas",
-        "abbr": "BES",
-        "score": 0,
-        "wins": 25,
-        "losses": 5,
-        "season_pct": 0.8333333333333334,
-        "rest": 35,
-        "last_game": "2026-05-15",
-        "r10_win_rate": 0.9,
-        "r10_diff": 12.5,
-        "r5_win_rate": 0.8,
-        "r5_diff": 9.4,
-        "r3_win_rate": 0.667,
-        "r20_win_rate": 0.9,
-        "r20_diff": 12.1,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 10,
-        "date_utc": "2026-06-19T17:00:00Z"
-      },
-      "away": {
-        "id": "Fenerbah\u00e7e Beko",
-        "name": "Fenerbahce",
-        "abbr": "FEN",
-        "score": 0,
-        "wins": 25,
-        "losses": 5,
-        "season_pct": 0.8333333333333334,
-        "rest": 33,
-        "last_game": "2026-05-17",
-        "r10_win_rate": 0.8,
-        "r10_diff": 8.4,
-        "r5_win_rate": 0.6,
-        "r5_diff": 4.2,
-        "r3_win_rate": 0.667,
-        "r20_win_rate": 0.85,
-        "r20_diff": 8.6,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 10,
-        "date_utc": "2026-06-19T17:00:00Z"
-      },
-      "signals": [
-        {
-          "name": "Mild Form Edge -> Home",
-          "win_rate": 74.1,
-          "roi_pct": 41.5,
-          "bets_yr": 329,
-          "confidence": "high",
-          "bet": "home",
-          "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
-          "realistic_edge": true,
-          "league_win_rate": 75.46,
-          "league_roi_pct": 44.07,
-          "league_bets": 269,
-          "league_data_status": "verified",
-          "league_ats_wr": 56.9,
-          "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
-        },
-        {
-          "name": "Home Consistency Edge -> Home",
-          "win_rate": 72.7,
-          "roi_pct": 38.8,
-          "bets_yr": 179,
-          "confidence": "high",
-          "bet": "home",
-          "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
-          "realistic_edge": true,
-          "league_win_rate": 77.91,
-          "league_roi_pct": 48.75,
-          "league_bets": 163,
-          "league_data_status": "verified",
-          "league_ats_wr": 60.1,
-          "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
-        },
-        {
-          "name": "Elite vs Elite -> Home (HCA)",
-          "win_rate": 60.2,
-          "roi_pct": 15.0,
-          "bets_yr": 70,
-          "confidence": "medium",
-          "bet": "home",
-          "note": "Both teams >60% 10g WR. Home court advantage dominates. Reliable when two top-tier teams meet.",
-          "realistic_edge": true,
-          "league_win_rate": 60.34,
-          "league_roi_pct": 15.2,
-          "league_bets": 58,
-          "league_data_status": "verified",
-          "bet_recommendation": "moneyline"
-        }
-      ],
-      "top_signal": {
-        "name": "Mild Form Edge -> Home",
-        "win_rate": 74.1,
-        "roi_pct": 41.5,
-        "bets_yr": 329,
-        "confidence": "high",
-        "bet": "home",
-        "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
-        "realistic_edge": true,
-        "league_win_rate": 75.46,
-        "league_roi_pct": 44.07,
-        "league_bets": 269,
-        "league_data_status": "verified",
-        "league_ats_wr": 56.9,
-        "league_ats_safe": true,
-        "bet_recommendation": "handicap_or_moneyline"
-      },
-      "odds_22bet": {
-        "found": true,
-        "event_id": 730402668,
-        "o1": "Besiktas",
-        "o2": "Fenerbahce",
-        "swapped": false,
-        "league": "Turkey. Super League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": null,
-          "home_odd": null,
-          "away_odd": null,
-          "found": false
-        },
-        "total": {
-          "line": null,
-          "over": null,
-          "under": null,
-          "found": false
-        },
-        "ht_total": {
-          "line": null,
-          "over": null,
-          "under": null,
-          "found": false
-        }
-      },
-      "card_color": "green"
-    },
-    {
-      "id": "730402737",
-      "name": "Fenerbahce at Besiktas",
-      "date_utc": "2026-06-19T17:00:00Z",
-      "state": "pre",
-      "status_name": "STATUS_SCHEDULED",
-      "clock": "0.0",
-      "period": 0,
-      "league": "Turkey \u2014 Super League",
-      "home": {
-        "id": "Be\u015fikta\u015f Gain",
-        "name": "Besiktas",
-        "abbr": "BES",
-        "score": 0,
-        "wins": 25,
-        "losses": 5,
-        "season_pct": 0.8333333333333334,
-        "rest": 35,
-        "last_game": "2026-05-15",
-        "r10_win_rate": 0.9,
-        "r10_diff": 12.5,
-        "r5_win_rate": 0.8,
-        "r5_diff": 9.4,
-        "r3_win_rate": 0.667,
-        "r20_win_rate": 0.9,
-        "r20_diff": 12.1,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 10,
-        "date_utc": "2026-06-19T17:00:00Z"
-      },
-      "away": {
-        "id": "Fenerbah\u00e7e Beko",
-        "name": "Fenerbahce",
-        "abbr": "FEN",
-        "score": 0,
-        "wins": 25,
-        "losses": 5,
-        "season_pct": 0.8333333333333334,
-        "rest": 33,
-        "last_game": "2026-05-17",
-        "r10_win_rate": 0.8,
-        "r10_diff": 8.4,
-        "r5_win_rate": 0.6,
-        "r5_diff": 4.2,
-        "r3_win_rate": 0.667,
-        "r20_win_rate": 0.85,
-        "r20_diff": 8.6,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 10,
-        "date_utc": "2026-06-19T17:00:00Z"
-      },
-      "signals": [
-        {
-          "name": "Mild Form Edge -> Home",
-          "win_rate": 74.1,
-          "roi_pct": 41.5,
-          "bets_yr": 329,
-          "confidence": "high",
-          "bet": "home",
-          "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
-          "realistic_edge": true,
-          "league_win_rate": 75.46,
-          "league_roi_pct": 44.07,
-          "league_bets": 269,
-          "league_data_status": "verified",
-          "league_ats_wr": 56.9,
-          "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
-        },
-        {
-          "name": "Home Consistency Edge -> Home",
-          "win_rate": 72.7,
-          "roi_pct": 38.8,
-          "bets_yr": 179,
-          "confidence": "high",
-          "bet": "home",
-          "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
-          "realistic_edge": true,
-          "league_win_rate": 77.91,
-          "league_roi_pct": 48.75,
-          "league_bets": 163,
-          "league_data_status": "verified",
-          "league_ats_wr": 60.1,
-          "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
-        },
-        {
-          "name": "Elite vs Elite -> Home (HCA)",
-          "win_rate": 60.2,
-          "roi_pct": 15.0,
-          "bets_yr": 70,
-          "confidence": "medium",
-          "bet": "home",
-          "note": "Both teams >60% 10g WR. Home court advantage dominates. Reliable when two top-tier teams meet.",
-          "realistic_edge": true,
-          "league_win_rate": 60.34,
-          "league_roi_pct": 15.2,
-          "league_bets": 58,
-          "league_data_status": "verified",
-          "bet_recommendation": "moneyline"
-        }
-      ],
-      "top_signal": {
-        "name": "Mild Form Edge -> Home",
-        "win_rate": 74.1,
-        "roi_pct": 41.5,
-        "bets_yr": 329,
-        "confidence": "high",
-        "bet": "home",
-        "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
-        "realistic_edge": true,
-        "league_win_rate": 75.46,
-        "league_roi_pct": 44.07,
-        "league_bets": 269,
-        "league_data_status": "verified",
-        "league_ats_wr": 56.9,
-        "league_ats_safe": true,
-        "bet_recommendation": "handicap_or_moneyline"
-      },
-      "odds_22bet": {
-        "found": true,
-        "event_id": 730402668,
-        "o1": "Besiktas",
-        "o2": "Fenerbahce",
-        "swapped": false,
-        "league": "Turkey. Super League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": null,
-          "home_odd": null,
-          "away_odd": null,
-          "found": false
-        },
-        "total": {
-          "line": null,
-          "over": null,
-          "under": null,
-          "found": false
-        },
-        "ht_total": {
-          "line": null,
-          "over": null,
-          "under": null,
-          "found": false
-        }
-      },
-      "card_color": "green"
-    },
-    {
-      "id": "730416603",
-      "name": "Bayern Munich at Alba Berlin",
-      "date_utc": "2026-06-19T18:30:00Z",
-      "state": "pre",
-      "status_name": "STATUS_SCHEDULED",
-      "clock": "0.0",
-      "period": 0,
-      "league": "Germany \u2014 BBL",
-      "home": {
-        "id": "Alba Berlin",
-        "name": "Alba Berlin",
-        "abbr": "AB",
-        "score": 0,
-        "wins": 24,
-        "losses": 10,
-        "season_pct": 0.7058823529411765,
-        "rest": 6,
-        "last_game": "2026-06-13",
-        "r10_win_rate": 0.6,
-        "r10_diff": 4.4,
-        "r5_win_rate": 0.8,
-        "r5_diff": 8.2,
-        "r3_win_rate": 0.667,
-        "r20_win_rate": 0.65,
-        "r20_diff": 6.1,
-        "games_last_5d": 0,
-        "games_last_7d": 1,
-        "games_used": 10,
-        "date_utc": "2026-06-19T18:30:00Z"
-      },
-      "away": {
-        "id": "Bayern Munich",
-        "name": "Bayern Munich",
-        "abbr": "BM",
-        "score": 0,
-        "wins": 28,
-        "losses": 5,
-        "season_pct": 0.8484848484848485,
-        "rest": 12,
-        "last_game": "2026-06-07",
-        "r10_win_rate": 0.9,
-        "r10_diff": 9.4,
-        "r5_win_rate": 1.0,
-        "r5_diff": 11.4,
-        "r3_win_rate": 1.0,
-        "r20_win_rate": 0.95,
-        "r20_diff": 12.4,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 10,
-        "date_utc": "2026-06-19T18:30:00Z"
-      },
-      "signals": [
-        {
-          "name": "Win-Rate Gap >25% -> Bet Favourite",
-          "win_rate": 68.7,
-          "roi_pct": 31.2,
-          "bets_yr": 479,
-          "confidence": "medium",
-          "bet": "away",
-          "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
-          "realistic_edge": false,
-          "league_win_rate": 71.2,
-          "league_roi_pct": 35.94,
-          "league_bets": 573,
-          "league_data_status": "verified",
-          "league_ats_wr": 53.2,
-          "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 3.17,
-          "hcap_ev_per_10": 0.68,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$3.17/$10 is higher AND simpler"
-        },
-        {
-          "name": "Away +30% WR Edge + Rested",
-          "win_rate": 64.1,
-          "roi_pct": 22.4,
-          "bets_yr": 81,
-          "confidence": "medium",
-          "bet": "away",
-          "note": "Away WR beats home by 30%+ and away team is rested (2+ days).",
-          "realistic_edge": true,
-          "league_win_rate": 69.89,
-          "league_roi_pct": 33.42,
-          "league_bets": 176,
-          "league_data_status": "verified",
-          "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 2.93,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$2.93/$10"
-        }
-      ],
-      "top_signal": {
-        "name": "Win-Rate Gap >25% -> Bet Favourite",
-        "win_rate": 68.7,
-        "roi_pct": 31.2,
-        "bets_yr": 479,
-        "confidence": "medium",
-        "bet": "away",
-        "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
-        "realistic_edge": false,
-        "league_win_rate": 71.2,
-        "league_roi_pct": 35.94,
-        "league_bets": 573,
-        "league_data_status": "verified",
-        "league_ats_wr": 53.2,
-        "league_ats_safe": true,
-        "bet_recommendation": "handicap_or_moneyline",
-        "ml_ev_per_10": 3.17,
-        "hcap_ev_per_10": 0.68,
-        "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$3.17/$10 is higher AND simpler"
-      },
-      "odds_22bet": {
-        "found": true,
-        "event_id": 730416603,
-        "o1": "Alba Berlin",
-        "o2": "Bayern Munich",
-        "swapped": false,
-        "league": "Germany. BBL",
-        "moneyline": {
-          "home": 1.95,
-          "away": 1.85,
-          "found": true
-        },
-        "spread": {
-          "line": 1.5,
-          "home_odd": 1.805,
-          "away_odd": 2.008,
-          "found": true
-        },
-        "total": {
-          "line": 174.5,
-          "over": 1.92,
-          "under": 1.88,
-          "found": true
-        },
-        "ht_total": {
-          "line": 87.5,
-          "over": 1.952,
-          "under": 1.81,
-          "found": true
-        }
-      },
-      "card_color": "amber"
-    },
-    {
-      "id": "730419543",
-      "name": "Bayern Munich at Alba Berlin",
-      "date_utc": "2026-06-19T18:30:00Z",
-      "state": "pre",
-      "status_name": "STATUS_SCHEDULED",
-      "clock": "0.0",
-      "period": 0,
-      "league": "Germany \u2014 BBL",
-      "home": {
-        "id": "Alba Berlin",
-        "name": "Alba Berlin",
-        "abbr": "AB",
-        "score": 0,
-        "wins": 24,
-        "losses": 10,
-        "season_pct": 0.7058823529411765,
-        "rest": 6,
-        "last_game": "2026-06-13",
-        "r10_win_rate": 0.6,
-        "r10_diff": 4.4,
-        "r5_win_rate": 0.8,
-        "r5_diff": 8.2,
-        "r3_win_rate": 0.667,
-        "r20_win_rate": 0.65,
-        "r20_diff": 6.1,
-        "games_last_5d": 0,
-        "games_last_7d": 1,
-        "games_used": 10,
-        "date_utc": "2026-06-19T18:30:00Z"
-      },
-      "away": {
-        "id": "Bayern Munich",
-        "name": "Bayern Munich",
-        "abbr": "BM",
-        "score": 0,
-        "wins": 28,
-        "losses": 5,
-        "season_pct": 0.8484848484848485,
-        "rest": 12,
-        "last_game": "2026-06-07",
-        "r10_win_rate": 0.9,
-        "r10_diff": 9.4,
-        "r5_win_rate": 1.0,
-        "r5_diff": 11.4,
-        "r3_win_rate": 1.0,
-        "r20_win_rate": 0.95,
-        "r20_diff": 12.4,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 10,
-        "date_utc": "2026-06-19T18:30:00Z"
-      },
-      "signals": [
-        {
-          "name": "Win-Rate Gap >25% -> Bet Favourite",
-          "win_rate": 68.7,
-          "roi_pct": 31.2,
-          "bets_yr": 479,
-          "confidence": "medium",
-          "bet": "away",
-          "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
-          "realistic_edge": false,
-          "league_win_rate": 71.2,
-          "league_roi_pct": 35.94,
-          "league_bets": 573,
-          "league_data_status": "verified",
-          "league_ats_wr": 53.2,
-          "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 3.17,
-          "hcap_ev_per_10": 0.68,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$3.17/$10 is higher AND simpler"
-        },
-        {
-          "name": "Away +30% WR Edge + Rested",
-          "win_rate": 64.1,
-          "roi_pct": 22.4,
-          "bets_yr": 81,
-          "confidence": "medium",
-          "bet": "away",
-          "note": "Away WR beats home by 30%+ and away team is rested (2+ days).",
-          "realistic_edge": true,
-          "league_win_rate": 69.89,
-          "league_roi_pct": 33.42,
-          "league_bets": 176,
-          "league_data_status": "verified",
-          "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 2.93,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$2.93/$10"
-        }
-      ],
-      "top_signal": {
-        "name": "Win-Rate Gap >25% -> Bet Favourite",
-        "win_rate": 68.7,
-        "roi_pct": 31.2,
-        "bets_yr": 479,
-        "confidence": "medium",
-        "bet": "away",
-        "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
-        "realistic_edge": false,
-        "league_win_rate": 71.2,
-        "league_roi_pct": 35.94,
-        "league_bets": 573,
-        "league_data_status": "verified",
-        "league_ats_wr": 53.2,
-        "league_ats_safe": true,
-        "bet_recommendation": "handicap_or_moneyline",
-        "ml_ev_per_10": 3.17,
-        "hcap_ev_per_10": 0.68,
-        "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$3.17/$10 is higher AND simpler"
-      },
-      "odds_22bet": {
-        "found": true,
-        "event_id": 730416603,
-        "o1": "Alba Berlin",
-        "o2": "Bayern Munich",
-        "swapped": false,
-        "league": "Germany. BBL",
-        "moneyline": {
-          "home": 1.95,
-          "away": 1.85,
-          "found": true
-        },
-        "spread": {
-          "line": 1.5,
-          "home_odd": 1.805,
-          "away_odd": 2.008,
-          "found": true
-        },
-        "total": {
-          "line": 174.5,
-          "over": 1.92,
-          "under": 1.88,
-          "found": true
-        },
-        "ht_total": {
-          "line": 87.5,
-          "over": 1.952,
-          "under": 1.81,
-          "found": true
-        }
-      },
-      "card_color": "amber"
-    },
     {
       "id": "730425362",
       "name": "Paris at Monaco",
@@ -675,10 +71,10 @@
           "league_ats_wr": 61.9,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 1.51,
-          "hcap_ev_per_10": 0.18,
+          "ml_ev_per_10": 14.32,
+          "hcap_ev_per_10": 6.9,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$1.51/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$14.32/$10 is higher AND simpler"
         },
         {
           "name": "Form Gap >8pts -> Bet In-Form Team",
@@ -696,10 +92,10 @@
           "league_ats_wr": 50.6,
           "league_ats_safe": false,
           "bet_recommendation": "moneyline_only",
-          "ml_ev_per_10": 7.37,
-          "hcap_ev_per_10": 0.98,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$7.37/$10 is higher AND simpler"
+          "ml_ev_per_10": -0.25,
+          "hcap_ev_per_10": -2.92,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Both bet types -EV at current 22bet odds. Skip this game."
         },
         {
           "name": "Elite vs Elite -> Home (HCA)",
@@ -715,9 +111,9 @@
           "league_bets": 47,
           "league_data_status": "verified",
           "bet_recommendation": "moneyline",
-          "ml_ev_per_10": -1.54,
-          "best_bet_type": "skip",
-          "best_bet_reason": "Team Wins -EV; skip"
+          "ml_ev_per_10": 7.87,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$7.87/$10"
         }
       ],
       "top_signal": {
@@ -736,10 +132,10 @@
         "league_ats_wr": 61.9,
         "league_ats_safe": true,
         "bet_recommendation": "handicap_or_moneyline",
-        "ml_ev_per_10": 1.51,
-        "hcap_ev_per_10": 0.18,
+        "ml_ev_per_10": 14.32,
+        "hcap_ev_per_10": 6.9,
         "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$1.51/$10 is higher AND simpler"
+        "best_bet_reason": "Team Wins EV +$14.32/$10 is higher AND simpler"
       },
       "odds_22bet": {
         "found": true,
@@ -749,26 +145,26 @@
         "swapped": false,
         "league": "France. LNB",
         "moneyline": {
-          "home": 1.59,
-          "away": 2.36,
+          "home": 3.36,
+          "away": 1.325,
           "found": true
         },
         "spread": {
-          "line": -1.5,
-          "home_odd": 1.645,
-          "away_odd": 2.17,
+          "line": 1.5,
+          "home_odd": 2.73,
+          "away_odd": 1.4,
           "found": true
         },
         "total": {
-          "line": 186.5,
-          "over": 1.936,
-          "under": 1.864,
+          "line": 164.5,
+          "over": 1.944,
+          "under": 1.8,
           "found": true
         },
         "ht_total": {
-          "line": 94.5,
-          "over": 1.86,
-          "under": 1.9,
+          "line": 80.5,
+          "over": 1.95,
+          "under": 1.816,
           "found": true
         }
       },
@@ -844,10 +240,10 @@
           "league_ats_wr": 61.9,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 1.51,
-          "hcap_ev_per_10": 0.18,
+          "ml_ev_per_10": 14.32,
+          "hcap_ev_per_10": 6.9,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$1.51/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$14.32/$10 is higher AND simpler"
         },
         {
           "name": "Form Gap >8pts -> Bet In-Form Team",
@@ -865,10 +261,10 @@
           "league_ats_wr": 50.6,
           "league_ats_safe": false,
           "bet_recommendation": "moneyline_only",
-          "ml_ev_per_10": 7.37,
-          "hcap_ev_per_10": 0.98,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$7.37/$10 is higher AND simpler"
+          "ml_ev_per_10": -0.25,
+          "hcap_ev_per_10": -2.92,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Both bet types -EV at current 22bet odds. Skip this game."
         },
         {
           "name": "Elite vs Elite -> Home (HCA)",
@@ -884,9 +280,9 @@
           "league_bets": 47,
           "league_data_status": "verified",
           "bet_recommendation": "moneyline",
-          "ml_ev_per_10": -1.54,
-          "best_bet_type": "skip",
-          "best_bet_reason": "Team Wins -EV; skip"
+          "ml_ev_per_10": 7.87,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$7.87/$10"
         }
       ],
       "top_signal": {
@@ -905,10 +301,10 @@
         "league_ats_wr": 61.9,
         "league_ats_safe": true,
         "bet_recommendation": "handicap_or_moneyline",
-        "ml_ev_per_10": 1.51,
-        "hcap_ev_per_10": 0.18,
+        "ml_ev_per_10": 14.32,
+        "hcap_ev_per_10": 6.9,
         "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$1.51/$10 is higher AND simpler"
+        "best_bet_reason": "Team Wins EV +$14.32/$10 is higher AND simpler"
       },
       "odds_22bet": {
         "found": true,
@@ -918,26 +314,26 @@
         "swapped": false,
         "league": "France. LNB",
         "moneyline": {
-          "home": 1.59,
-          "away": 2.36,
+          "home": 3.36,
+          "away": 1.325,
           "found": true
         },
         "spread": {
-          "line": -1.5,
-          "home_odd": 1.645,
-          "away_odd": 2.17,
+          "line": 1.5,
+          "home_odd": 2.73,
+          "away_odd": 1.4,
           "found": true
         },
         "total": {
-          "line": 186.5,
-          "over": 1.936,
-          "under": 1.864,
+          "line": 164.5,
+          "over": 1.944,
+          "under": 1.8,
           "found": true
         },
         "ht_total": {
-          "line": 94.5,
-          "over": 1.86,
-          "under": 1.9,
+          "line": 80.5,
+          "over": 1.95,
+          "under": 1.816,
           "found": true
         }
       },
@@ -945,9 +341,9 @@
     }
   ],
   "meta": {
-    "total_games": 6,
-    "total_signals": 16,
-    "bet22_events": 28,
+    "total_games": 2,
+    "total_signals": 6,
+    "bet22_events": 19,
     "season": "2025-26 Playoffs"
   }
 }
