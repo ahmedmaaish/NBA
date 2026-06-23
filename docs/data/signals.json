@@ -1,6 +1,172 @@
 {
-  "updated_utc": "2026-06-23T15:54:29+00:00",
+  "updated_utc": "2026-06-23T18:03:12+00:00",
   "games": [
+    {
+      "id": "731334699",
+      "name": "Maccabi Tel Aviv at Hapoel Tel Aviv",
+      "date_utc": "2026-06-23T17:50:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "Israel \u2014 Superleague",
+      "home": {
+        "id": "Hapoel Tel Aviv",
+        "name": "Hapoel Tel Aviv",
+        "abbr": "HTA",
+        "score": 0,
+        "wins": 21,
+        "losses": 4,
+        "season_pct": 0.84,
+        "rest": 51,
+        "last_game": "2026-05-03",
+        "r10_win_rate": 1.0,
+        "r10_diff": 15.6,
+        "r5_win_rate": 1.0,
+        "r5_diff": 11.6,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 0.85,
+        "r20_diff": 12.2,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-06-23T17:50:00Z"
+      },
+      "away": {
+        "id": "Maccabi Tel Aviv",
+        "name": "Maccabi Tel Aviv",
+        "abbr": "MTA",
+        "score": 0,
+        "wins": 24,
+        "losses": 1,
+        "season_pct": 0.96,
+        "rest": 28,
+        "last_game": "2026-05-26",
+        "r10_win_rate": 1.0,
+        "r10_diff": 24.2,
+        "r5_win_rate": 1.0,
+        "r5_diff": 22.0,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 0.95,
+        "r20_diff": 20.3,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-06-23T17:50:00Z"
+      },
+      "signals": [
+        {
+          "name": "Home Consistency Edge -> Home",
+          "win_rate": 72.7,
+          "roi_pct": 38.8,
+          "bets_yr": 179,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
+          "realistic_edge": true,
+          "league_win_rate": 74.63,
+          "league_roi_pct": 42.47,
+          "league_bets": 67,
+          "league_data_status": "verified",
+          "league_ats_wr": 58.2,
+          "league_ats_safe": true,
+          "bet_recommendation": "handicap_or_moneyline",
+          "ml_ev_per_10": 2.84,
+          "hcap_ev_per_10": 0.59,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$2.84/$10 is higher AND simpler"
+        },
+        {
+          "name": "Form Gap >8pts -> Bet In-Form Team",
+          "win_rate": 71.2,
+          "roi_pct": 36.0,
+          "bets_yr": 437,
+          "confidence": "high",
+          "bet": "away",
+          "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
+          "realistic_edge": false,
+          "league_win_rate": 71.39,
+          "league_roi_pct": 36.3,
+          "league_bets": 409,
+          "league_data_status": "verified",
+          "league_ats_wr": 47.7,
+          "league_ats_safe": false,
+          "bet_recommendation": "moneyline_only",
+          "ml_ev_per_10": 4.62,
+          "hcap_ev_per_10": -0.84,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$4.62/$10 is higher AND simpler"
+        },
+        {
+          "name": "Elite vs Elite -> Home (HCA)",
+          "win_rate": 60.2,
+          "roi_pct": 15.0,
+          "bets_yr": 70,
+          "confidence": "medium",
+          "bet": "home",
+          "note": "Both teams >60% 10g WR. Home court advantage dominates. Reliable when two top-tier teams meet.",
+          "realistic_edge": true,
+          "league_data_status": "not_backtested_for_league",
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 0.35,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$0.35/$10"
+        }
+      ],
+      "top_signal": {
+        "name": "Home Consistency Edge -> Home",
+        "win_rate": 72.7,
+        "roi_pct": 38.8,
+        "bets_yr": 179,
+        "confidence": "high",
+        "bet": "home",
+        "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
+        "realistic_edge": true,
+        "league_win_rate": 74.63,
+        "league_roi_pct": 42.47,
+        "league_bets": 67,
+        "league_data_status": "verified",
+        "league_ats_wr": 58.2,
+        "league_ats_safe": true,
+        "bet_recommendation": "handicap_or_moneyline",
+        "ml_ev_per_10": 2.84,
+        "hcap_ev_per_10": 0.59,
+        "best_bet_type": "team_wins",
+        "best_bet_reason": "Team Wins EV +$2.84/$10 is higher AND simpler"
+      },
+      "odds_22bet": {
+        "found": true,
+        "event_id": 731334699,
+        "o1": "Hapoel Tel Aviv",
+        "o2": "Maccabi Tel Aviv",
+        "swapped": false,
+        "league": "Israel. Superleague",
+        "moneyline": {
+          "home": 1.72,
+          "away": 2.048,
+          "found": true
+        },
+        "spread": {
+          "line": -1.5,
+          "home_odd": 1.82,
+          "away_odd": 1.92,
+          "found": true
+        },
+        "total": {
+          "line": 168.5,
+          "over": 1.87,
+          "under": 1.87,
+          "found": true
+        },
+        "ht_total": {
+          "line": 84.5,
+          "over": 1.81,
+          "under": 1.91,
+          "found": true
+        }
+      },
+      "card_color": "green"
+    },
     {
       "id": "730922702",
       "name": "Monaco at Paris",
@@ -71,10 +237,10 @@
           "league_ats_wr": 58.8,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 1.7,
-          "hcap_ev_per_10": 0.29,
+          "ml_ev_per_10": 1.55,
+          "hcap_ev_per_10": 0.23,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$1.70/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$1.55/$10 is higher AND simpler"
         },
         {
           "name": "Mild Form Edge -> Home",
@@ -92,10 +258,10 @@
           "league_ats_wr": 56.0,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 1.31,
-          "hcap_ev_per_10": -0.2,
+          "ml_ev_per_10": 1.16,
+          "hcap_ev_per_10": -0.26,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$1.31/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$1.16/$10 is higher AND simpler"
         },
         {
           "name": "Home Consistency Edge -> Home",
@@ -113,10 +279,10 @@
           "league_ats_wr": 61.9,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 1.08,
-          "hcap_ev_per_10": 0.83,
+          "ml_ev_per_10": 0.93,
+          "hcap_ev_per_10": 0.77,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$1.08/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$0.93/$10 is higher AND simpler"
         },
         {
           "name": "Form Gap >8pts -> Bet In-Form Team",
@@ -134,10 +300,10 @@
           "league_ats_wr": 50.6,
           "league_ats_safe": false,
           "bet_recommendation": "moneyline_only",
-          "ml_ev_per_10": 1.26,
-          "hcap_ev_per_10": -1.15,
+          "ml_ev_per_10": 1.12,
+          "hcap_ev_per_10": -1.2,
           "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$1.26/$10 is higher AND simpler"
+          "best_bet_reason": "Team Wins EV +$1.12/$10 is higher AND simpler"
         },
         {
           "name": "Elite vs Elite -> Home (HCA)",
@@ -153,7 +319,7 @@
           "league_bets": 47,
           "league_data_status": "verified",
           "bet_recommendation": "moneyline",
-          "ml_ev_per_10": -1.86,
+          "ml_ev_per_10": -1.97,
           "best_bet_type": "skip",
           "best_bet_reason": "Team Wins -EV; skip"
         }
@@ -174,10 +340,10 @@
         "league_ats_wr": 58.8,
         "league_ats_safe": true,
         "bet_recommendation": "handicap_or_moneyline",
-        "ml_ev_per_10": 1.7,
-        "hcap_ev_per_10": 0.29,
+        "ml_ev_per_10": 1.55,
+        "hcap_ev_per_10": 0.23,
         "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$1.70/$10 is higher AND simpler"
+        "best_bet_reason": "Team Wins EV +$1.55/$10 is higher AND simpler"
       },
       "odds_22bet": {
         "found": true,
@@ -187,14 +353,14 @@
         "swapped": false,
         "league": "France. LNB",
         "moneyline": {
-          "home": 1.53,
-          "away": 2.584,
+          "home": 1.51,
+          "away": 2.642,
           "found": true
         },
         "spread": {
           "line": -3.5,
-          "home_odd": 1.75,
-          "away_odd": 2.03,
+          "home_odd": 1.74,
+          "away_odd": 2.04,
           "found": true
         },
         "total": {
@@ -214,9 +380,9 @@
     }
   ],
   "meta": {
-    "total_games": 1,
-    "total_signals": 5,
-    "bet22_events": 19,
+    "total_games": 2,
+    "total_signals": 8,
+    "bet22_events": 24,
     "season": "2025-26 Playoffs"
   }
 }
