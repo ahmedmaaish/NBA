@@ -1,7 +1,174 @@
 {
-  "updated_utc": "2026-06-24T04:01:58+00:00",
-  "games": [],
+  "updated_utc": "2026-06-24T08:25:29+00:00",
+  "games": [
+    {
+      "id": "731197410",
+      "name": "Valencia at Barcelona",
+      "date_utc": "2026-06-24T18:00:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "Spain \u2014 Liga ACB",
+      "home": {
+        "id": "Bar\u00e7a",
+        "name": "Barcelona",
+        "abbr": "BAR",
+        "score": 0,
+        "wins": 16,
+        "losses": 6,
+        "season_pct": 0.7272727272727273,
+        "rest": 12,
+        "last_game": "2026-06-12",
+        "r10_win_rate": 0.7,
+        "r10_diff": 3.3,
+        "r5_win_rate": 0.6,
+        "r5_diff": 5.8,
+        "r3_win_rate": 0.333,
+        "r20_win_rate": 0.75,
+        "r20_diff": 6.2,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-06-24T18:00:00Z"
+      },
+      "away": {
+        "id": "Valencia Basket",
+        "name": "Valencia",
+        "abbr": "VAL",
+        "score": 0,
+        "wins": 21,
+        "losses": 7,
+        "season_pct": 0.75,
+        "rest": 1,
+        "last_game": "2026-06-23",
+        "r10_win_rate": 0.8,
+        "r10_diff": 16.2,
+        "r5_win_rate": 0.8,
+        "r5_diff": 8.6,
+        "r3_win_rate": 0.667,
+        "r20_win_rate": 0.8,
+        "r20_diff": 14.8,
+        "games_last_5d": 5,
+        "games_last_7d": 7,
+        "games_used": 10,
+        "date_utc": "2026-06-24T18:00:00Z"
+      },
+      "signals": [
+        {
+          "name": "Form Gap >8pts -> Bet In-Form Team",
+          "win_rate": 71.2,
+          "roi_pct": 36.0,
+          "bets_yr": 437,
+          "confidence": "high",
+          "bet": "away",
+          "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
+          "realistic_edge": false,
+          "league_win_rate": 75.31,
+          "league_roi_pct": 43.78,
+          "league_bets": 563,
+          "league_data_status": "verified",
+          "league_ats_wr": 56.1,
+          "league_ats_safe": true,
+          "bet_recommendation": "handicap_or_moneyline",
+          "ml_ev_per_10": 5.63,
+          "hcap_ev_per_10": 1.11,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$5.63/$10 is higher AND simpler"
+        },
+        {
+          "name": "Elite vs Elite -> Home (HCA)",
+          "win_rate": 60.2,
+          "roi_pct": 15.0,
+          "bets_yr": 70,
+          "confidence": "medium",
+          "bet": "home",
+          "note": "Both teams >60% 10g WR. Home court advantage dominates. Reliable when two top-tier teams meet.",
+          "realistic_edge": true,
+          "league_win_rate": 52.21,
+          "league_roi_pct": -0.32,
+          "league_bets": 113,
+          "league_data_status": "verified",
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -0.68,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
+        },
+        {
+          "name": "Away B2B -> Bet Home",
+          "win_rate": 60.0,
+          "roi_pct": 14.5,
+          "bets_yr": 274,
+          "confidence": "medium",
+          "bet": "home",
+          "note": "Away team on back-to-back (1 day rest). Home team rested 2+ days.",
+          "realistic_edge": true,
+          "league_data_status": "not_backtested_for_league",
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 0.71,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$0.71/$10"
+        }
+      ],
+      "top_signal": {
+        "name": "Form Gap >8pts -> Bet In-Form Team",
+        "win_rate": 71.2,
+        "roi_pct": 36.0,
+        "bets_yr": 437,
+        "confidence": "high",
+        "bet": "away",
+        "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
+        "realistic_edge": false,
+        "league_win_rate": 75.31,
+        "league_roi_pct": 43.78,
+        "league_bets": 563,
+        "league_data_status": "verified",
+        "league_ats_wr": 56.1,
+        "league_ats_safe": true,
+        "bet_recommendation": "handicap_or_moneyline",
+        "ml_ev_per_10": 5.63,
+        "hcap_ev_per_10": 1.11,
+        "best_bet_type": "team_wins",
+        "best_bet_reason": "Team Wins EV +$5.63/$10 is higher AND simpler"
+      },
+      "odds_22bet": {
+        "found": true,
+        "event_id": 731197410,
+        "o1": "Barcelona",
+        "o2": "Valencia",
+        "swapped": false,
+        "league": "Spain. Liga ACB",
+        "moneyline": {
+          "home": 1.785,
+          "away": 2.076,
+          "found": true
+        },
+        "spread": {
+          "line": -1.0,
+          "home_odd": 1.81,
+          "away_odd": 1.98,
+          "found": true
+        },
+        "total": {
+          "line": 175.5,
+          "over": 1.91,
+          "under": 1.93,
+          "found": true
+        },
+        "ht_total": {
+          "line": 88.5,
+          "over": 1.86,
+          "under": 1.88,
+          "found": true
+        }
+      },
+      "card_color": "green"
+    }
+  ],
   "meta": {
-    "msg": "No NBA games scheduled in next 3 days."
+    "total_games": 1,
+    "total_signals": 3,
+    "bet22_events": 25,
+    "season": "2025-26 Playoffs"
   }
 }
