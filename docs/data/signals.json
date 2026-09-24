@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-23T23:29:46+00:00",
+  "updated_utc": "2026-09-24T04:04:51+00:00",
   "games": [
     {
       "id": "E2026_2",
@@ -57,11 +57,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 741356642,
+        "o1": "Dubai",
+        "o2": "Real Madrid Baloncesto",
+        "swapped": false,
+        "league": "Euroleague",
+        "moneyline": {
+          "home": 1.674,
+          "away": 2.279,
+          "found": true
+        },
+        "spread": {
+          "line": -1.5,
+          "home_odd": 1.763,
+          "away_odd": 2.103,
+          "found": true
+        },
+        "total": {
+          "line": 173.5,
+          "over": 1.93,
+          "under": 1.93,
+          "found": true
+        },
+        "ht_total": {
+          "line": 88.5,
+          "over": 1.952,
+          "under": 1.851,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -121,11 +145,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 747197794,
+        "o1": "Hapoel Tel Aviv",
+        "o2": "Bayern Munich",
+        "swapped": false,
+        "league": "Euroleague",
+        "moneyline": {
+          "home": 1.319,
+          "away": 3.595,
+          "found": true
+        },
+        "spread": {
+          "line": -7.5,
+          "home_odd": 2.081,
+          "away_odd": 1.8,
+          "found": true
+        },
+        "total": {
+          "line": 171.5,
+          "over": 1.93,
+          "under": 1.93,
+          "found": true
+        },
+        "ht_total": {
+          "line": 89.5,
+          "over": 2.037,
+          "under": 1.762,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -313,11 +361,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 755575251,
+        "o1": "Olympiacos SFP Pireus (cyber)",
+        "o2": "ASVEL Lyon-Villeurbanne (cyber)",
+        "swapped": true,
+        "league": "NBA 2K26. Cyber Euro League",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": 32.5,
+          "home_odd": 2.95,
+          "away_odd": 1.336,
+          "found": true
+        },
+        "total": {
+          "line": 125.5,
+          "over": 1.93,
+          "under": 1.87,
+          "found": true
+        },
+        "ht_total": {
+          "line": 82.5,
+          "over": 1.955,
+          "under": 1.848,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -377,11 +449,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 755567740,
+        "o1": "Barcelona (cyber)",
+        "o2": "Real Madrid Baloncesto (cyber)",
+        "swapped": false,
+        "league": "NBA 2K26. Cyber Euro League",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": null,
+          "home_odd": null,
+          "away_odd": null,
+          "found": false
+        },
+        "total": {
+          "line": null,
+          "over": null,
+          "under": null,
+          "found": false
+        },
+        "ht_total": {
+          "line": null,
+          "over": null,
+          "under": null,
+          "found": false
+        }
       },
       "card_color": "grey"
     },
@@ -441,11 +537,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 755575251,
+        "o1": "Olympiacos SFP Pireus (cyber)",
+        "o2": "ASVEL Lyon-Villeurbanne (cyber)",
+        "swapped": true,
+        "league": "NBA 2K26. Cyber Euro League",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": 32.5,
+          "home_odd": 2.95,
+          "away_odd": 1.336,
+          "found": true
+        },
+        "total": {
+          "line": 125.5,
+          "over": 1.93,
+          "under": 1.87,
+          "found": true
+        },
+        "ht_total": {
+          "line": 82.5,
+          "over": 1.955,
+          "under": 1.848,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -569,35 +689,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 755532253,
-        "o1": "Virtus Bologna (cyber)",
-        "o2": "Crvena Zvezda (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber Euro League",
-        "moneyline": {
-          "home": 2.352,
-          "away": 1.51,
-          "found": true
-        },
-        "spread": {
-          "line": 1.5,
-          "home_odd": 2.13,
-          "away_odd": 1.65,
-          "found": true
-        },
-        "total": {
-          "line": 135.5,
-          "over": 1.835,
-          "under": 1.97,
-          "found": true
-        },
-        "ht_total": {
-          "line": 69.5,
-          "over": 1.825,
-          "under": 1.98,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -721,11 +817,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 741356642,
+        "o1": "Dubai",
+        "o2": "Real Madrid Baloncesto",
+        "swapped": false,
+        "league": "Euroleague",
+        "moneyline": {
+          "home": 1.674,
+          "away": 2.279,
+          "found": true
+        },
+        "spread": {
+          "line": -1.5,
+          "home_odd": 1.763,
+          "away_odd": 2.103,
+          "found": true
+        },
+        "total": {
+          "line": 173.5,
+          "over": 1.93,
+          "under": 1.93,
+          "found": true
+        },
+        "ht_total": {
+          "line": 88.5,
+          "over": 1.952,
+          "under": 1.851,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -1105,11 +1225,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 747197794,
+        "o1": "Hapoel Tel Aviv",
+        "o2": "Bayern Munich",
+        "swapped": false,
+        "league": "Euroleague",
+        "moneyline": {
+          "home": 1.319,
+          "away": 3.595,
+          "found": true
+        },
+        "spread": {
+          "line": -7.5,
+          "home_odd": 2.081,
+          "away_odd": 1.8,
+          "found": true
+        },
+        "total": {
+          "line": 171.5,
+          "over": 1.93,
+          "under": 1.93,
+          "found": true
+        },
+        "ht_total": {
+          "line": 89.5,
+          "over": 2.037,
+          "under": 1.762,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -1169,11 +1313,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 747197794,
+        "o1": "Hapoel Tel Aviv",
+        "o2": "Bayern Munich",
+        "swapped": true,
+        "league": "Euroleague",
+        "moneyline": {
+          "home": 3.595,
+          "away": 1.319,
+          "found": true
+        },
+        "spread": {
+          "line": 7.5,
+          "home_odd": 1.8,
+          "away_odd": 2.081,
+          "found": true
+        },
+        "total": {
+          "line": 171.5,
+          "over": 1.93,
+          "under": 1.93,
+          "found": true
+        },
+        "ht_total": {
+          "line": 89.5,
+          "over": 2.037,
+          "under": 1.762,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -2130,8 +2298,8 @@
       "top_signal": null,
       "odds_22bet": {
         "found": true,
-        "event_id": 755527943,
-        "o1": "Paris (cyber)",
+        "event_id": 755575251,
+        "o1": "Olympiacos SFP Pireus (cyber)",
         "o2": "ASVEL Lyon-Villeurbanne (cyber)",
         "swapped": false,
         "league": "NBA 2K26. Cyber Euro League",
@@ -2141,21 +2309,21 @@
           "found": false
         },
         "spread": {
-          "line": -29.5,
-          "home_odd": 1.31,
-          "away_odd": 3.09,
+          "line": -32.5,
+          "home_odd": 1.336,
+          "away_odd": 2.95,
           "found": true
         },
         "total": {
-          "line": 137.5,
-          "over": 1.71,
-          "under": 2.04,
+          "line": 125.5,
+          "over": 1.93,
+          "under": 1.87,
           "found": true
         },
         "ht_total": {
-          "line": 85.5,
-          "over": 2.096,
-          "under": 1.675,
+          "line": 82.5,
+          "over": 1.955,
+          "under": 1.848,
           "found": true
         }
       },
@@ -2357,7 +2525,7 @@
   "meta": {
     "total_games": 36,
     "total_signals": 0,
-    "bet22_events": 16,
+    "bet22_events": 14,
     "season": "2025-26 Off-Season"
   }
 }
