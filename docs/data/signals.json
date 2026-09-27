@@ -1,6 +1,511 @@
 {
-  "updated_utc": "2026-09-27T07:52:18+00:00",
+  "updated_utc": "2026-09-27T13:43:29+00:00",
   "games": [
+    {
+      "id": "756563419",
+      "name": "Bursaspor at Trabzonspor",
+      "date_utc": "2026-09-27T12:30:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "Turkey \u2014 Super League",
+      "home": {
+        "id": "Trabzonspor",
+        "name": "Trabzonspor",
+        "abbr": "TRA",
+        "score": 0,
+        "wins": 17,
+        "losses": 7,
+        "season_pct": 0.7083333333333334,
+        "rest": 124,
+        "last_game": "2026-05-26",
+        "r10_win_rate": 0.7,
+        "r10_diff": 5.9,
+        "r5_win_rate": 0.6,
+        "r5_diff": 2.0,
+        "r3_win_rate": 0.333,
+        "r20_win_rate": 0.65,
+        "r20_diff": 5.05,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-09-27T12:30:00Z"
+      },
+      "away": {
+        "id": "Bursaspor Y\u00f6rsan",
+        "name": "Bursaspor",
+        "abbr": "BUR",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 499,
+        "last_game": "2025-05-16",
+        "r10_win_rate": 0.6,
+        "r10_diff": 3.1,
+        "r5_win_rate": 0.8,
+        "r5_diff": 7.4,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 0.5,
+        "r20_diff": -1.85,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-09-27T12:30:00Z"
+      },
+      "signals": [
+        {
+          "name": "Mild Form Edge -> Home",
+          "win_rate": 74.1,
+          "roi_pct": 41.5,
+          "bets_yr": 329,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
+          "realistic_edge": true,
+          "league_win_rate": 75.46,
+          "league_roi_pct": 44.07,
+          "league_bets": 269,
+          "league_data_status": "verified",
+          "league_ats_wr": 56.9,
+          "league_ats_safe": true,
+          "bet_recommendation": "handicap_or_moneyline",
+          "ml_ev_per_10": -0.68,
+          "hcap_ev_per_10": -0.9,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Both bet types -EV at current 22bet odds. Skip this game."
+        }
+      ],
+      "top_signal": {
+        "name": "Mild Form Edge -> Home",
+        "win_rate": 74.1,
+        "roi_pct": 41.5,
+        "bets_yr": 329,
+        "confidence": "high",
+        "bet": "home",
+        "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
+        "realistic_edge": true,
+        "league_win_rate": 75.46,
+        "league_roi_pct": 44.07,
+        "league_bets": 269,
+        "league_data_status": "verified",
+        "league_ats_wr": 56.9,
+        "league_ats_safe": true,
+        "bet_recommendation": "handicap_or_moneyline",
+        "ml_ev_per_10": -0.68,
+        "hcap_ev_per_10": -0.9,
+        "best_bet_type": "skip",
+        "best_bet_reason": "Both bet types -EV at current 22bet odds. Skip this game."
+      },
+      "odds_22bet": {
+        "found": true,
+        "event_id": 756563419,
+        "o1": "Trabzonspor",
+        "o2": "Bursaspor",
+        "swapped": false,
+        "league": "Turkey. Super League",
+        "moneyline": {
+          "home": 1.235,
+          "away": 3.85,
+          "found": true
+        },
+        "spread": {
+          "line": -5.5,
+          "home_odd": 1.6,
+          "away_odd": 2.195,
+          "found": true
+        },
+        "total": {
+          "line": 159.5,
+          "over": 1.85,
+          "under": 1.89,
+          "found": true
+        },
+        "ht_total": {
+          "line": 83.5,
+          "over": 1.84,
+          "under": 1.88,
+          "found": true
+        }
+      },
+      "card_color": "green"
+    },
+    {
+      "id": "756570625",
+      "name": "Science City Jena at Gladiators Trier",
+      "date_utc": "2026-09-27T13:00:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "Germany \u2014 BBL",
+      "home": {
+        "id": "Vet-Concept Gladiators Trier",
+        "name": "Gladiators Trier",
+        "abbr": "GT",
+        "score": 0,
+        "wins": 14,
+        "losses": 14,
+        "season_pct": 0.5,
+        "rest": 94,
+        "last_game": "2026-06-25",
+        "r10_win_rate": 0.5,
+        "r10_diff": -5.3,
+        "r5_win_rate": 0.4,
+        "r5_diff": -10.8,
+        "r3_win_rate": 0.0,
+        "r20_win_rate": 0.55,
+        "r20_diff": -1.2,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-09-27T13:00:00Z"
+      },
+      "away": {
+        "id": "Science City Jena",
+        "name": "Science City Jena",
+        "abbr": "SCJ",
+        "score": 0,
+        "wins": 11,
+        "losses": 17,
+        "season_pct": 0.39285714285714285,
+        "rest": 99,
+        "last_game": "2026-06-20",
+        "r10_win_rate": 0.3,
+        "r10_diff": -8.5,
+        "r5_win_rate": 0.2,
+        "r5_diff": -10.8,
+        "r3_win_rate": 0.0,
+        "r20_win_rate": 0.4,
+        "r20_diff": -6.6,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-09-27T13:00:00Z"
+      },
+      "signals": [],
+      "top_signal": null,
+      "odds_22bet": {
+        "found": true,
+        "event_id": 756570625,
+        "o1": "Gladiators Trier",
+        "o2": "Science City Jena",
+        "swapped": false,
+        "league": "Germany. BBL",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": -16.5,
+          "home_odd": 1.616,
+          "away_odd": 2.22,
+          "found": true
+        },
+        "total": {
+          "line": 199.5,
+          "over": 1.91,
+          "under": 1.83,
+          "found": true
+        },
+        "ht_total": {
+          "line": null,
+          "over": null,
+          "under": null,
+          "found": false
+        }
+      },
+      "card_color": "grey"
+    },
+    {
+      "id": "756570587",
+      "name": "Rostock Seawolves at Loewen Braunschweig",
+      "date_utc": "2026-09-27T13:00:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "Germany \u2014 BBL",
+      "home": {
+        "id": "Basketball L\u00f6wen Braunschweig",
+        "name": "Loewen Braunschweig",
+        "abbr": "LB",
+        "score": 0,
+        "wins": 1,
+        "losses": 11,
+        "season_pct": 0.08333333333333333,
+        "rest": 104,
+        "last_game": "2026-06-15",
+        "r10_win_rate": 0.1,
+        "r10_diff": -11.8,
+        "r5_win_rate": 0.0,
+        "r5_diff": -14.4,
+        "r3_win_rate": 0.0,
+        "r20_win_rate": 0.25,
+        "r20_diff": -7.5,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-09-27T13:00:00Z"
+      },
+      "away": {
+        "id": "Rostock Seawolves",
+        "name": "Rostock Seawolves",
+        "abbr": "RS",
+        "score": 0,
+        "wins": 15,
+        "losses": 13,
+        "season_pct": 0.5357142857142857,
+        "rest": 95,
+        "last_game": "2026-06-24",
+        "r10_win_rate": 0.5,
+        "r10_diff": 1.3,
+        "r5_win_rate": 0.6,
+        "r5_diff": 2.0,
+        "r3_win_rate": 0.667,
+        "r20_win_rate": 0.6,
+        "r20_diff": 4.2,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-09-27T13:00:00Z"
+      },
+      "signals": [
+        {
+          "name": "Form Gap >8pts -> Bet In-Form Team",
+          "win_rate": 71.2,
+          "roi_pct": 36.0,
+          "bets_yr": 437,
+          "confidence": "high",
+          "bet": "away",
+          "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
+          "realistic_edge": false,
+          "league_win_rate": 73.58,
+          "league_roi_pct": 40.48,
+          "league_bets": 583,
+          "league_data_status": "verified",
+          "league_ats_wr": 53.7,
+          "league_ats_safe": true,
+          "bet_recommendation": "handicap_or_moneyline",
+          "ml_ev_per_10": 5.82,
+          "hcap_ev_per_10": 0.44,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$5.82/$10 is higher AND simpler"
+        },
+        {
+          "name": "Win-Rate Gap >25% -> Bet Favourite",
+          "win_rate": 68.7,
+          "roi_pct": 31.2,
+          "bets_yr": 479,
+          "confidence": "medium",
+          "bet": "away",
+          "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
+          "realistic_edge": false,
+          "league_win_rate": 71.2,
+          "league_roi_pct": 35.94,
+          "league_bets": 573,
+          "league_data_status": "verified",
+          "league_ats_wr": 53.2,
+          "league_ats_safe": true,
+          "bet_recommendation": "handicap_or_moneyline",
+          "ml_ev_per_10": 5.31,
+          "hcap_ev_per_10": 0.35,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$5.31/$10 is higher AND simpler"
+        },
+        {
+          "name": "Away +30% WR Edge + Rested",
+          "win_rate": 64.1,
+          "roi_pct": 22.4,
+          "bets_yr": 81,
+          "confidence": "medium",
+          "bet": "away",
+          "note": "Away WR beats home by 30%+ and away team is rested (2+ days).",
+          "realistic_edge": true,
+          "league_win_rate": 69.89,
+          "league_roi_pct": 33.42,
+          "league_bets": 176,
+          "league_data_status": "verified",
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 5.03,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$5.03/$10"
+        }
+      ],
+      "top_signal": {
+        "name": "Form Gap >8pts -> Bet In-Form Team",
+        "win_rate": 71.2,
+        "roi_pct": 36.0,
+        "bets_yr": 437,
+        "confidence": "high",
+        "bet": "away",
+        "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
+        "realistic_edge": false,
+        "league_win_rate": 73.58,
+        "league_roi_pct": 40.48,
+        "league_bets": 583,
+        "league_data_status": "verified",
+        "league_ats_wr": 53.7,
+        "league_ats_safe": true,
+        "bet_recommendation": "handicap_or_moneyline",
+        "ml_ev_per_10": 5.82,
+        "hcap_ev_per_10": 0.44,
+        "best_bet_type": "team_wins",
+        "best_bet_reason": "Team Wins EV +$5.82/$10 is higher AND simpler"
+      },
+      "odds_22bet": {
+        "found": true,
+        "event_id": 756570587,
+        "o1": "Loewen Braunschweig",
+        "o2": "Rostock Seawolves",
+        "swapped": false,
+        "league": "Germany. BBL",
+        "moneyline": {
+          "home": 1.7,
+          "away": 2.15,
+          "found": true
+        },
+        "spread": {
+          "line": -1.5,
+          "home_odd": 1.8,
+          "away_odd": 1.945,
+          "found": true
+        },
+        "total": {
+          "line": 166.5,
+          "over": 1.88,
+          "under": 1.86,
+          "found": true
+        },
+        "ht_total": {
+          "line": 83.5,
+          "over": 1.808,
+          "under": 1.96,
+          "found": true
+        }
+      },
+      "card_color": "green"
+    },
+    {
+      "id": "756570628",
+      "name": "Syntainics MBC at Telekom Bonn",
+      "date_utc": "2026-09-27T13:00:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "Germany \u2014 BBL",
+      "home": {
+        "id": "Telekom Baskets Bonn",
+        "name": "Telekom Bonn",
+        "abbr": "TB",
+        "score": 0,
+        "wins": 7,
+        "losses": 5,
+        "season_pct": 0.5833333333333334,
+        "rest": 105,
+        "last_game": "2026-06-14",
+        "r10_win_rate": 0.5,
+        "r10_diff": 0.2,
+        "r5_win_rate": 0.6,
+        "r5_diff": 0.6,
+        "r3_win_rate": 0.667,
+        "r20_win_rate": 0.6,
+        "r20_diff": 5.35,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-09-27T13:00:00Z"
+      },
+      "away": {
+        "id": "Syntainics MBC",
+        "name": "Syntainics MBC",
+        "abbr": "SM",
+        "score": 0,
+        "wins": 12,
+        "losses": 16,
+        "season_pct": 0.42857142857142855,
+        "rest": 98,
+        "last_game": "2026-06-21",
+        "r10_win_rate": 0.4,
+        "r10_diff": -2.7,
+        "r5_win_rate": 0.2,
+        "r5_diff": -8.4,
+        "r3_win_rate": 0.333,
+        "r20_win_rate": 0.35,
+        "r20_diff": -3.75,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-09-27T13:00:00Z"
+      },
+      "signals": [
+        {
+          "name": "Rest Edge + Season Lead -> Bet Home",
+          "win_rate": 77.4,
+          "roi_pct": 47.8,
+          "bets_yr": 37,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Home has 2+ day rest advantage AND >10% season win% lead. Heavy favourite (-200 to -400). Use as spread/ATS or parlay leg.",
+          "realistic_edge": false,
+          "league_data_status": "not_backtested_for_league",
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": -0.94,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
+        }
+      ],
+      "top_signal": {
+        "name": "Rest Edge + Season Lead -> Bet Home",
+        "win_rate": 77.4,
+        "roi_pct": 47.8,
+        "bets_yr": 37,
+        "confidence": "high",
+        "bet": "home",
+        "note": "Home has 2+ day rest advantage AND >10% season win% lead. Heavy favourite (-200 to -400). Use as spread/ATS or parlay leg.",
+        "realistic_edge": false,
+        "league_data_status": "not_backtested_for_league",
+        "bet_recommendation": "handicap",
+        "ml_ev_per_10": -0.94,
+        "best_bet_type": "skip",
+        "best_bet_reason": "Team Wins -EV; skip"
+      },
+      "odds_22bet": {
+        "found": true,
+        "event_id": 756570628,
+        "o1": "Telekom Bonn",
+        "o2": "Syntainics MBC",
+        "swapped": false,
+        "league": "Germany. BBL",
+        "moneyline": {
+          "home": 1.17,
+          "away": 5.01,
+          "found": true
+        },
+        "spread": {
+          "line": -6.5,
+          "home_odd": 1.59,
+          "away_odd": 2.264,
+          "found": true
+        },
+        "total": {
+          "line": 157.5,
+          "over": 1.85,
+          "under": 1.95,
+          "found": true
+        },
+        "ht_total": {
+          "line": 83.5,
+          "over": 1.9,
+          "under": 1.86,
+          "found": true
+        }
+      },
+      "card_color": "green"
+    },
     {
       "id": "E2026_13",
       "name": "FC Barcelona at Dubai Basketball",
@@ -377,11 +882,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 756570587,
+        "o1": "Loewen Braunschweig",
+        "o2": "Rostock Seawolves",
+        "swapped": false,
+        "league": "Germany. BBL",
+        "moneyline": {
+          "home": 1.7,
+          "away": 2.15,
+          "found": true
+        },
+        "spread": {
+          "line": -1.5,
+          "home_odd": 1.8,
+          "away_odd": 1.945,
+          "found": true
+        },
+        "total": {
+          "line": 166.5,
+          "over": 1.88,
+          "under": 1.86,
+          "found": true
+        },
+        "ht_total": {
+          "line": 83.5,
+          "over": 1.808,
+          "under": 1.96,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -441,11 +970,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 756576191,
+        "o1": "Bayern Munich II",
+        "o2": "Dresden Titans",
+        "swapped": true,
+        "league": "Germany. Pro B",
+        "moneyline": {
+          "home": 13.0,
+          "away": 1.01,
+          "found": true
+        },
+        "spread": {
+          "line": 17.5,
+          "home_odd": 2.22,
+          "away_odd": 1.584,
+          "found": true
+        },
+        "total": {
+          "line": 165.5,
+          "over": 1.85,
+          "under": 1.89,
+          "found": true
+        },
+        "ht_total": {
+          "line": 92.5,
+          "over": 1.84,
+          "under": 1.88,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -505,35 +1058,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 756497153,
-        "o1": "Virtus Bologna (cyber)",
-        "o2": "Hapoel Tel Aviv (cyber)",
-        "swapped": false,
-        "league": "NBA 2K26. Cyber Euro League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": 11.5,
-          "home_odd": 3.016,
-          "away_odd": 1.325,
-          "found": true
-        },
-        "total": {
-          "line": 149.5,
-          "over": 1.84,
-          "under": 1.965,
-          "found": true
-        },
-        "ht_total": {
-          "line": 65.5,
-          "over": 1.81,
-          "under": 1.995,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -657,35 +1186,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 756497153,
-        "o1": "Virtus Bologna (cyber)",
-        "o2": "Hapoel Tel Aviv (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber Euro League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": -11.5,
-          "home_odd": 1.325,
-          "away_odd": 3.016,
-          "found": true
-        },
-        "total": {
-          "line": 149.5,
-          "over": 1.84,
-          "under": 1.965,
-          "found": true
-        },
-        "ht_total": {
-          "line": 65.5,
-          "over": 1.81,
-          "under": 1.995,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -1769,35 +2274,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 756497153,
-        "o1": "Virtus Bologna (cyber)",
-        "o2": "Hapoel Tel Aviv (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber Euro League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": -11.5,
-          "home_odd": 1.325,
-          "away_odd": 3.016,
-          "found": true
-        },
-        "total": {
-          "line": 149.5,
-          "over": 1.84,
-          "under": 1.965,
-          "found": true
-        },
-        "ht_total": {
-          "line": 65.5,
-          "over": 1.81,
-          "under": 1.995,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -1921,35 +2402,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 756497153,
-        "o1": "Virtus Bologna (cyber)",
-        "o2": "Hapoel Tel Aviv (cyber)",
-        "swapped": false,
-        "league": "NBA 2K26. Cyber Euro League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": 11.5,
-          "home_odd": 3.016,
-          "away_odd": 1.325,
-          "found": true
-        },
-        "total": {
-          "line": 149.5,
-          "over": 1.84,
-          "under": 1.965,
-          "found": true
-        },
-        "ht_total": {
-          "line": 65.5,
-          "over": 1.81,
-          "under": 1.995,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -2201,11 +2658,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 756576191,
+        "o1": "Bayern Munich II",
+        "o2": "Dresden Titans",
+        "swapped": false,
+        "league": "Germany. Pro B",
+        "moneyline": {
+          "home": 1.01,
+          "away": 13.0,
+          "found": true
+        },
+        "spread": {
+          "line": -17.5,
+          "home_odd": 1.584,
+          "away_odd": 2.22,
+          "found": true
+        },
+        "total": {
+          "line": 165.5,
+          "over": 1.85,
+          "under": 1.89,
+          "found": true
+        },
+        "ht_total": {
+          "line": 92.5,
+          "over": 1.84,
+          "under": 1.88,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -2329,35 +2810,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 756491364,
-        "o1": "Valencia (cyber)",
-        "o2": "Maccabi Tel Aviv (cyber)",
-        "swapped": false,
-        "league": "NBA 2K26. Cyber Euro League",
-        "moneyline": {
-          "home": 2.416,
-          "away": 1.488,
-          "found": true
-        },
-        "spread": {
-          "line": 1.5,
-          "home_odd": 2.175,
-          "away_odd": 1.625,
-          "found": true
-        },
-        "total": {
-          "line": 133.5,
-          "over": 1.92,
-          "under": 1.88,
-          "found": true
-        },
-        "ht_total": {
-          "line": 66.5,
-          "over": 2.016,
-          "under": 1.725,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -2427,9 +2884,9 @@
     }
   ],
   "meta": {
-    "total_games": 36,
-    "total_signals": 0,
-    "bet22_events": 21,
+    "total_games": 40,
+    "total_signals": 5,
+    "bet22_events": 27,
     "season": "2025-26 Off-Season"
   }
 }
