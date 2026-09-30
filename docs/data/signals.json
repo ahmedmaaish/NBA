@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-29T20:34:43+00:00",
+  "updated_utc": "2026-09-30T00:11:54+00:00",
   "games": [
     {
       "id": "U2026_8",
@@ -569,35 +569,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 757205412,
-        "o1": "Maccabi Tel Aviv (cyber)",
-        "o2": "Olimpia Milano (cyber)",
-        "swapped": false,
-        "league": "NBA 2K26. Cyber Euro League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": -8.5,
-          "home_odd": 1.352,
-          "away_odd": 2.875,
-          "found": true
-        },
-        "total": {
-          "line": 128.5,
-          "over": 1.864,
-          "under": 1.94,
-          "found": true
-        },
-        "ht_total": {
-          "line": 70.5,
-          "over": 2.02,
-          "under": 1.79,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -1002,18 +978,18 @@
         "wins": 0,
         "losses": 0,
         "season_pct": 0.5,
-        "rest": 6,
-        "last_game": "2026-09-25",
+        "rest": 2,
+        "last_game": "2026-09-29",
         "r10_win_rate": 0.0,
-        "r10_diff": -10.0,
+        "r10_diff": -6.0,
         "r5_win_rate": 0.0,
-        "r5_diff": -10.0,
+        "r5_diff": -6.0,
         "r3_win_rate": 0.0,
         "r20_win_rate": 0.0,
-        "r20_diff": -10.0,
-        "games_last_5d": 0,
-        "games_last_7d": 1,
-        "games_used": 1,
+        "r20_diff": -6.0,
+        "games_last_5d": 1,
+        "games_last_7d": 2,
+        "games_used": 2,
         "date_utc": "2026-10-01T18:30:00.000Z"
       },
       "away": {
@@ -1066,18 +1042,18 @@
         "wins": 0,
         "losses": 0,
         "season_pct": 0.5,
-        "rest": 7,
-        "last_game": "2026-09-24",
+        "rest": 2,
+        "last_game": "2026-09-29",
         "r10_win_rate": 0.0,
-        "r10_diff": -19.0,
+        "r10_diff": -16.0,
         "r5_win_rate": 0.0,
-        "r5_diff": -19.0,
+        "r5_diff": -16.0,
         "r3_win_rate": 0.0,
         "r20_win_rate": 0.0,
-        "r20_diff": -19.0,
-        "games_last_5d": 0,
-        "games_last_7d": 1,
-        "games_used": 1,
+        "r20_diff": -16.0,
+        "games_last_5d": 1,
+        "games_last_7d": 2,
+        "games_used": 2,
         "date_utc": "2026-10-01T18:45:00.000Z"
       },
       "away": {
@@ -1105,35 +1081,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 757184072,
-        "o1": "Paris",
-        "o2": "KK Partizan",
-        "swapped": false,
-        "league": "Euroleague",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": 11.5,
-          "home_odd": 2.21,
-          "away_odd": 1.59,
-          "found": true
-        },
-        "total": {
-          "line": 171.5,
-          "over": 2.085,
-          "under": 1.744,
-          "found": true
-        },
-        "ht_total": {
-          "line": 79.5,
-          "over": 1.95,
-          "under": 1.795,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -1193,11 +1145,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 757239222,
+        "o1": "Barcelona (cyber)",
+        "o2": "Real Madrid Baloncesto (cyber)",
+        "swapped": true,
+        "league": "NBA 2K26. Cyber Euro League",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": -10.5,
+          "home_odd": 1.336,
+          "away_odd": 2.95,
+          "found": true
+        },
+        "total": {
+          "line": 163.5,
+          "over": 1.88,
+          "under": 1.92,
+          "found": true
+        },
+        "ht_total": {
+          "line": 73.5,
+          "over": 1.825,
+          "under": 1.98,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -1304,18 +1280,18 @@
         "wins": 0,
         "losses": 0,
         "season_pct": 0.5,
-        "rest": 7,
-        "last_game": "2026-09-25",
+        "rest": 3,
+        "last_game": "2026-09-29",
         "r10_win_rate": 1.0,
-        "r10_diff": 16.0,
+        "r10_diff": 14.5,
         "r5_win_rate": 1.0,
-        "r5_diff": 16.0,
+        "r5_diff": 14.5,
         "r3_win_rate": 1.0,
         "r20_win_rate": 1.0,
-        "r20_diff": 16.0,
-        "games_last_5d": 0,
-        "games_last_7d": 1,
-        "games_used": 1,
+        "r20_diff": 14.5,
+        "games_last_5d": 1,
+        "games_last_7d": 2,
+        "games_used": 2,
         "date_utc": "2026-10-02T18:00:00.000Z"
       },
       "signals": [],
@@ -1368,18 +1344,18 @@
         "wins": 0,
         "losses": 0,
         "season_pct": 0.5,
-        "rest": 7,
-        "last_game": "2026-09-25",
+        "rest": 3,
+        "last_game": "2026-09-29",
         "r10_win_rate": 1.0,
-        "r10_diff": 2.0,
+        "r10_diff": 12.5,
         "r5_win_rate": 1.0,
-        "r5_diff": 2.0,
+        "r5_diff": 12.5,
         "r3_win_rate": 1.0,
         "r20_win_rate": 1.0,
-        "r20_diff": 2.0,
-        "games_last_5d": 0,
-        "games_last_7d": 1,
-        "games_used": 1,
+        "r20_diff": 12.5,
+        "games_last_5d": 1,
+        "games_last_7d": 2,
+        "games_used": 2,
         "date_utc": "2026-10-02T18:00:00.000Z"
       },
       "signals": [],
@@ -1449,35 +1425,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 757200219,
-        "o1": "Hapoel Tel Aviv (cyber)",
-        "o2": "Panathinaikos (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber Euro League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": null,
-          "home_odd": null,
-          "away_odd": null,
-          "found": false
-        },
-        "total": {
-          "line": null,
-          "over": null,
-          "under": null,
-          "found": false
-        },
-        "ht_total": {
-          "line": null,
-          "over": null,
-          "under": null,
-          "found": false
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -1498,18 +1450,18 @@
         "wins": 0,
         "losses": 0,
         "season_pct": 0.5,
-        "rest": 8,
-        "last_game": "2026-09-24",
+        "rest": 3,
+        "last_game": "2026-09-29",
         "r10_win_rate": 0.0,
-        "r10_diff": -17.0,
+        "r10_diff": -20.0,
         "r5_win_rate": 0.0,
-        "r5_diff": -17.0,
+        "r5_diff": -20.0,
         "r3_win_rate": 0.0,
         "r20_win_rate": 0.0,
-        "r20_diff": -17.0,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 1,
+        "r20_diff": -20.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 2,
         "date_utc": "2026-10-02T18:30:00.000Z"
       },
       "away": {
@@ -1520,28 +1472,52 @@
         "wins": 0,
         "losses": 0,
         "season_pct": 0.5,
-        "rest": 7,
-        "last_game": "2026-09-25",
-        "r10_win_rate": 0.0,
-        "r10_diff": -16.0,
-        "r5_win_rate": 0.0,
-        "r5_diff": -16.0,
-        "r3_win_rate": 0.0,
-        "r20_win_rate": 0.0,
-        "r20_diff": -16.0,
-        "games_last_5d": 0,
-        "games_last_7d": 1,
-        "games_used": 1,
+        "rest": 3,
+        "last_game": "2026-09-29",
+        "r10_win_rate": 0.5,
+        "r10_diff": -7.0,
+        "r5_win_rate": 0.5,
+        "r5_diff": -7.0,
+        "r3_win_rate": 0.5,
+        "r20_win_rate": 0.5,
+        "r20_diff": -7.0,
+        "games_last_5d": 1,
+        "games_last_7d": 2,
+        "games_used": 2,
         "date_utc": "2026-10-02T18:30:00.000Z"
       },
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 757243452,
+        "o1": "Olimpia Milano (cyber)",
+        "o2": "Paris (cyber)",
+        "swapped": true,
+        "league": "NBA 2K26. Cyber Euro League",
+        "moneyline": {
+          "home": 1.56,
+          "away": 2.3,
+          "found": true
+        },
+        "spread": {
+          "line": 1.5,
+          "home_odd": 1.51,
+          "away_odd": 2.355,
+          "found": true
+        },
+        "total": {
+          "line": 146.5,
+          "over": 1.9,
+          "under": 1.9,
+          "found": true
+        },
+        "ht_total": {
+          "line": 71.5,
+          "over": 1.965,
+          "under": 1.84,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -2122,246 +2098,6 @@
       "card_color": "grey"
     },
     {
-      "id": "E2026_16",
-      "name": "Virtus Bologna at Armani Olimpia Milan",
-      "date_utc": "2026-09-29T18:30:00.000Z",
-      "state": "in",
-      "status_name": "STATUS_LIVE",
-      "clock": "00:00",
-      "period": 0,
-      "league": "Euroleague",
-      "home": {
-        "id": "MIL",
-        "name": "Armani Olimpia Milan",
-        "abbr": "MIL",
-        "score": 87,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 4,
-        "last_game": "2026-09-25",
-        "r10_win_rate": 0.0,
-        "r10_diff": -16.0,
-        "r5_win_rate": 0.0,
-        "r5_diff": -16.0,
-        "r3_win_rate": 0.0,
-        "r20_win_rate": 0.0,
-        "r20_diff": -16.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 1,
-        "date_utc": "2026-09-29T18:30:00.000Z"
-      },
-      "away": {
-        "id": "VIR",
-        "name": "Virtus Bologna",
-        "abbr": "VIR",
-        "score": 85,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 4,
-        "last_game": "2026-09-25",
-        "r10_win_rate": 0.0,
-        "r10_diff": -10.0,
-        "r5_win_rate": 0.0,
-        "r5_diff": -10.0,
-        "r3_win_rate": 0.0,
-        "r20_win_rate": 0.0,
-        "r20_diff": -10.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 1,
-        "date_utc": "2026-09-29T18:30:00.000Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": true,
-        "event_id": 757205412,
-        "o1": "Maccabi Tel Aviv (cyber)",
-        "o2": "Olimpia Milano (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber Euro League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": 8.5,
-          "home_odd": 2.875,
-          "away_odd": 1.352,
-          "found": true
-        },
-        "total": {
-          "line": 128.5,
-          "over": 1.864,
-          "under": 1.94,
-          "found": true
-        },
-        "ht_total": {
-          "line": 70.5,
-          "over": 2.02,
-          "under": 1.79,
-          "found": true
-        }
-      },
-      "card_color": "grey"
-    },
-    {
-      "id": "E2026_15",
-      "name": "Kosner Baskonia Vitoria-Gasteiz at Valencia Basket",
-      "date_utc": "2026-09-29T18:30:00.000Z",
-      "state": "in",
-      "status_name": "STATUS_LIVE",
-      "clock": "00:00",
-      "period": 0,
-      "league": "Euroleague",
-      "home": {
-        "id": "PAM",
-        "name": "Valencia Basket",
-        "abbr": "VBC",
-        "score": 111,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 4,
-        "last_game": "2026-09-25",
-        "r10_win_rate": 1.0,
-        "r10_diff": 2.0,
-        "r5_win_rate": 1.0,
-        "r5_diff": 2.0,
-        "r3_win_rate": 1.0,
-        "r20_win_rate": 1.0,
-        "r20_diff": 2.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 1,
-        "date_utc": "2026-09-29T18:30:00.000Z"
-      },
-      "away": {
-        "id": "BAS",
-        "name": "Kosner Baskonia Vitoria-Gasteiz",
-        "abbr": "KBA",
-        "score": 88,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 5,
-        "last_game": "2026-09-24",
-        "r10_win_rate": 0.0,
-        "r10_diff": -17.0,
-        "r5_win_rate": 0.0,
-        "r5_diff": -17.0,
-        "r3_win_rate": 0.0,
-        "r20_win_rate": 0.0,
-        "r20_diff": -17.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 1,
-        "date_utc": "2026-09-29T18:30:00.000Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
-      },
-      "card_color": "grey"
-    },
-    {
-      "id": "E2026_18",
-      "name": "Partizan Mozzart Bet Belgrade at Paris Basketball",
-      "date_utc": "2026-09-29T18:45:00.000Z",
-      "state": "in",
-      "status_name": "STATUS_LIVE",
-      "clock": "03:25",
-      "period": "4",
-      "league": "Euroleague",
-      "home": {
-        "id": "PRS",
-        "name": "Paris Basketball",
-        "abbr": "PBB",
-        "score": 69,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 5,
-        "last_game": "2026-09-24",
-        "r10_win_rate": 0.0,
-        "r10_diff": -19.0,
-        "r5_win_rate": 0.0,
-        "r5_diff": -19.0,
-        "r3_win_rate": 0.0,
-        "r20_win_rate": 0.0,
-        "r20_diff": -19.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 1,
-        "date_utc": "2026-09-29T18:45:00.000Z"
-      },
-      "away": {
-        "id": "PAR",
-        "name": "Partizan Mozzart Bet Belgrade",
-        "abbr": "PAR",
-        "score": 85,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 4,
-        "last_game": "2026-09-25",
-        "r10_win_rate": 1.0,
-        "r10_diff": 16.0,
-        "r5_win_rate": 1.0,
-        "r5_diff": 16.0,
-        "r3_win_rate": 1.0,
-        "r20_win_rate": 1.0,
-        "r20_diff": 16.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 1,
-        "date_utc": "2026-09-29T18:45:00.000Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": true,
-        "event_id": 757184072,
-        "o1": "Paris",
-        "o2": "KK Partizan",
-        "swapped": false,
-        "league": "Euroleague",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": 11.5,
-          "home_odd": 2.21,
-          "away_odd": 1.59,
-          "found": true
-        },
-        "total": {
-          "line": 171.5,
-          "over": 2.085,
-          "under": 1.744,
-          "found": true
-        },
-        "ht_total": {
-          "line": 79.5,
-          "over": 1.95,
-          "under": 1.795,
-          "found": true
-        }
-      },
-      "card_color": "grey"
-    },
-    {
       "id": "E2026_13",
       "name": "FC Barcelona at Dubai Basketball",
       "date_utc": "2026-09-29T16:00:00.000Z",
@@ -2865,35 +2601,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 757200219,
-        "o1": "Hapoel Tel Aviv (cyber)",
-        "o2": "Panathinaikos (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber Euro League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": null,
-          "home_odd": null,
-          "away_odd": null,
-          "found": false
-        },
-        "total": {
-          "line": null,
-          "over": null,
-          "under": null,
-          "found": false
-        },
-        "ht_total": {
-          "line": null,
-          "over": null,
-          "under": null,
-          "found": false
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -2949,6 +2661,158 @@
         "games_last_7d": 0,
         "games_used": 0,
         "date_utc": "2026-09-29T18:00:00.000Z"
+      },
+      "signals": [],
+      "top_signal": null,
+      "odds_22bet": {
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
+      },
+      "card_color": "grey"
+    },
+    {
+      "id": "E2026_16",
+      "name": "Virtus Bologna at Armani Olimpia Milan",
+      "date_utc": "2026-09-29T18:30:00.000Z",
+      "state": "post",
+      "status_name": "STATUS_RESULT",
+      "clock": "00:00",
+      "period": 0,
+      "league": "Euroleague",
+      "home": {
+        "id": "MIL",
+        "name": "Armani Olimpia Milan",
+        "abbr": "MIL",
+        "score": 87,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.5,
+        "rest": 4,
+        "last_game": "2026-09-25",
+        "r10_win_rate": 0.0,
+        "r10_diff": -16.0,
+        "r5_win_rate": 0.0,
+        "r5_diff": -16.0,
+        "r3_win_rate": 0.0,
+        "r20_win_rate": 0.0,
+        "r20_diff": -16.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
+        "date_utc": "2026-09-29T18:30:00.000Z"
+      },
+      "away": {
+        "id": "VIR",
+        "name": "Virtus Bologna",
+        "abbr": "VIR",
+        "score": 85,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.5,
+        "rest": 4,
+        "last_game": "2026-09-25",
+        "r10_win_rate": 0.0,
+        "r10_diff": -10.0,
+        "r5_win_rate": 0.0,
+        "r5_diff": -10.0,
+        "r3_win_rate": 0.0,
+        "r20_win_rate": 0.0,
+        "r20_diff": -10.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
+        "date_utc": "2026-09-29T18:30:00.000Z"
+      },
+      "signals": [],
+      "top_signal": null,
+      "odds_22bet": {
+        "found": true,
+        "event_id": 757243452,
+        "o1": "Olimpia Milano (cyber)",
+        "o2": "Paris (cyber)",
+        "swapped": false,
+        "league": "NBA 2K26. Cyber Euro League",
+        "moneyline": {
+          "home": 2.3,
+          "away": 1.56,
+          "found": true
+        },
+        "spread": {
+          "line": -1.5,
+          "home_odd": 2.355,
+          "away_odd": 1.51,
+          "found": true
+        },
+        "total": {
+          "line": 146.5,
+          "over": 1.9,
+          "under": 1.9,
+          "found": true
+        },
+        "ht_total": {
+          "line": 71.5,
+          "over": 1.965,
+          "under": 1.84,
+          "found": true
+        }
+      },
+      "card_color": "grey"
+    },
+    {
+      "id": "E2026_15",
+      "name": "Kosner Baskonia Vitoria-Gasteiz at Valencia Basket",
+      "date_utc": "2026-09-29T18:30:00.000Z",
+      "state": "post",
+      "status_name": "STATUS_RESULT",
+      "clock": "00:00",
+      "period": 0,
+      "league": "Euroleague",
+      "home": {
+        "id": "PAM",
+        "name": "Valencia Basket",
+        "abbr": "VBC",
+        "score": 111,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.5,
+        "rest": 4,
+        "last_game": "2026-09-25",
+        "r10_win_rate": 1.0,
+        "r10_diff": 2.0,
+        "r5_win_rate": 1.0,
+        "r5_diff": 2.0,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 1.0,
+        "r20_diff": 2.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
+        "date_utc": "2026-09-29T18:30:00.000Z"
+      },
+      "away": {
+        "id": "BAS",
+        "name": "Kosner Baskonia Vitoria-Gasteiz",
+        "abbr": "KBA",
+        "score": 88,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.5,
+        "rest": 5,
+        "last_game": "2026-09-24",
+        "r10_win_rate": 0.0,
+        "r10_diff": -17.0,
+        "r5_win_rate": 0.0,
+        "r5_diff": -17.0,
+        "r3_win_rate": 0.0,
+        "r20_win_rate": 0.0,
+        "r20_diff": -17.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
+        "date_utc": "2026-09-29T18:30:00.000Z"
       },
       "signals": [],
       "top_signal": null,
@@ -3024,12 +2888,76 @@
         "ht_total": {}
       },
       "card_color": "grey"
+    },
+    {
+      "id": "E2026_18",
+      "name": "Partizan Mozzart Bet Belgrade at Paris Basketball",
+      "date_utc": "2026-09-29T18:45:00.000Z",
+      "state": "post",
+      "status_name": "STATUS_RESULT",
+      "clock": "00:00",
+      "period": 0,
+      "league": "Euroleague",
+      "home": {
+        "id": "PRS",
+        "name": "Paris Basketball",
+        "abbr": "PBB",
+        "score": 79,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.5,
+        "rest": 5,
+        "last_game": "2026-09-24",
+        "r10_win_rate": 0.0,
+        "r10_diff": -19.0,
+        "r5_win_rate": 0.0,
+        "r5_diff": -19.0,
+        "r3_win_rate": 0.0,
+        "r20_win_rate": 0.0,
+        "r20_diff": -19.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
+        "date_utc": "2026-09-29T18:45:00.000Z"
+      },
+      "away": {
+        "id": "PAR",
+        "name": "Partizan Mozzart Bet Belgrade",
+        "abbr": "PAR",
+        "score": 92,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.5,
+        "rest": 4,
+        "last_game": "2026-09-25",
+        "r10_win_rate": 1.0,
+        "r10_diff": 16.0,
+        "r5_win_rate": 1.0,
+        "r5_diff": 16.0,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 1.0,
+        "r20_diff": 16.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
+        "date_utc": "2026-09-29T18:45:00.000Z"
+      },
+      "signals": [],
+      "top_signal": null,
+      "odds_22bet": {
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
+      },
+      "card_color": "grey"
     }
   ],
   "meta": {
     "total_games": 45,
     "total_signals": 0,
-    "bet22_events": 21,
+    "bet22_events": 18,
     "season": "2025-26 Off-Season"
   }
 }
