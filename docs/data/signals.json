@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-30T06:28:26+00:00",
+  "updated_utc": "2026-09-30T13:28:54+00:00",
   "games": [
     {
       "id": "U2026_8",
@@ -57,35 +57,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 757142379,
-        "o1": "Siauliai",
-        "o2": "London Lions",
-        "swapped": false,
-        "league": "EuroCup",
-        "moneyline": {
-          "home": 2.655,
-          "away": 1.42,
-          "found": true
-        },
-        "spread": {
-          "line": 4.5,
-          "home_odd": 1.841,
-          "away_odd": 1.695,
-          "found": true
-        },
-        "total": {
-          "line": 169.5,
-          "over": 1.82,
-          "under": 1.81,
-          "found": true
-        },
-        "ht_total": {
-          "line": 82.5,
-          "over": 1.751,
-          "under": 1.693,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -145,35 +121,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 757150102,
-        "o1": "Bahcesehir Koleji",
-        "o2": "Roma SPQR",
-        "swapped": false,
-        "league": "EuroCup",
-        "moneyline": {
-          "home": 1.22,
-          "away": 3.84,
-          "found": true
-        },
-        "spread": {
-          "line": -7.5,
-          "home_odd": 1.568,
-          "away_odd": 2.022,
-          "found": true
-        },
-        "total": {
-          "line": 173.0,
-          "over": 1.83,
-          "under": 1.82,
-          "found": true
-        },
-        "ht_total": {
-          "line": 91.5,
-          "over": 1.778,
-          "under": 1.67,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -233,35 +185,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 757150762,
-        "o1": "Rigas Zelli",
-        "o2": "Derthona",
-        "swapped": false,
-        "league": "EuroCup",
-        "moneyline": {
-          "home": 2.993,
-          "away": 1.34,
-          "found": true
-        },
-        "spread": {
-          "line": 4.5,
-          "home_odd": 2.059,
-          "away_odd": 1.548,
-          "found": true
-        },
-        "total": {
-          "line": 170.5,
-          "over": 1.83,
-          "under": 1.84,
-          "found": true
-        },
-        "ht_total": {
-          "line": 82.5,
-          "over": 1.778,
-          "under": 1.67,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -321,35 +249,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 757155749,
-        "o1": "Panevezys Lietkabelis",
-        "o2": "KK Bosna",
-        "swapped": false,
-        "league": "EuroCup",
-        "moneyline": {
-          "home": 1.39,
-          "away": 2.773,
-          "found": true
-        },
-        "spread": {
-          "line": -3.5,
-          "home_odd": 1.531,
-          "away_odd": 2.09,
-          "found": true
-        },
-        "total": {
-          "line": 164.5,
-          "over": 1.84,
-          "under": 1.84,
-          "found": true
-        },
-        "ht_total": {
-          "line": 84.5,
-          "over": 1.672,
-          "under": 1.776,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -537,35 +441,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 757155742,
-        "o1": "Ratiopharm Ulm",
-        "o2": "Balkan Botevgrad",
-        "swapped": false,
-        "league": "EuroCup",
-        "moneyline": {
-          "home": 1.068,
-          "away": 6.6,
-          "found": true
-        },
-        "spread": {
-          "line": -12.5,
-          "home_odd": 1.566,
-          "away_odd": 2.027,
-          "found": true
-        },
-        "total": {
-          "line": 166.5,
-          "over": 1.83,
-          "under": 1.84,
-          "found": true
-        },
-        "ht_total": {
-          "line": 90.5,
-          "over": 1.733,
-          "under": 1.708,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -696,26 +576,26 @@
         "swapped": false,
         "league": "Euroleague",
         "moneyline": {
-          "home": 1.531,
-          "away": 2.609,
+          "home": 1.501,
+          "away": 2.701,
           "found": true
         },
         "spread": {
           "line": -3.5,
-          "home_odd": 1.803,
-          "away_odd": 2.048,
+          "home_odd": 1.786,
+          "away_odd": 2.071,
           "found": true
         },
         "total": {
-          "line": 174.0,
-          "over": 1.926,
-          "under": 1.926,
+          "line": 175.5,
+          "over": 1.94,
+          "under": 1.92,
           "found": true
         },
         "ht_total": {
-          "line": 89.5,
-          "over": 1.92,
-          "under": 1.88,
+          "line": 90.5,
+          "over": 1.952,
+          "under": 1.851,
           "found": true
         }
       },
@@ -784,26 +664,26 @@
         "swapped": false,
         "league": "Euroleague",
         "moneyline": {
-          "home": 1.098,
-          "away": 7.95,
+          "home": 1.113,
+          "away": 7.25,
           "found": true
         },
         "spread": {
-          "line": -13.5,
-          "home_odd": 1.817,
-          "away_odd": 2.031,
+          "line": -12.5,
+          "home_odd": 1.786,
+          "away_odd": 2.071,
           "found": true
         },
         "total": {
-          "line": 165.5,
-          "over": 1.94,
-          "under": 1.92,
+          "line": 166.0,
+          "over": 1.916,
+          "under": 1.936,
           "found": true
         },
         "ht_total": {
           "line": 89.5,
-          "over": 1.86,
-          "under": 1.942,
+          "over": 1.851,
+          "under": 1.952,
           "found": true
         }
       },
@@ -1058,10 +938,10 @@
       "top_signal": null,
       "odds_22bet": {
         "found": true,
-        "event_id": 757294905,
-        "o1": "Real Madrid Baloncesto (cyber)",
-        "o2": "Maccabi Tel Aviv (cyber)",
-        "swapped": true,
+        "event_id": 757371475,
+        "o1": "Hapoel Tel Aviv (cyber)",
+        "o2": "Olimpia Milano (cyber)",
+        "swapped": false,
         "league": "NBA 2K26. Cyber Euro League",
         "moneyline": {
           "home": null,
@@ -1069,21 +949,21 @@
           "found": false
         },
         "spread": {
-          "line": 13.5,
-          "home_odd": 3.22,
-          "away_odd": 1.29,
+          "line": 6.5,
+          "home_odd": 2.625,
+          "away_odd": 1.416,
           "found": true
         },
         "total": {
-          "line": 146.5,
-          "over": 1.915,
-          "under": 1.888,
+          "line": 137.5,
+          "over": 1.975,
+          "under": 1.83,
           "found": true
         },
         "ht_total": {
-          "line": 82.5,
-          "over": 1.875,
-          "under": 1.925,
+          "line": 64.5,
+          "over": 1.825,
+          "under": 1.98,
           "found": true
         }
       },
@@ -1145,11 +1025,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 757377424,
+        "o1": "Fenerbahce (cyber)",
+        "o2": "Anadolu Efes (cyber)",
+        "swapped": false,
+        "league": "NBA 2K26. Cyber Euro League",
+        "moneyline": {
+          "home": 1.425,
+          "away": 2.605,
+          "found": true
+        },
+        "spread": {
+          "line": -1.5,
+          "home_odd": 1.46,
+          "away_odd": 2.485,
+          "found": true
+        },
+        "total": {
+          "line": 150.5,
+          "over": 1.96,
+          "under": 1.848,
+          "found": true
+        },
+        "ht_total": {
+          "line": 77.5,
+          "over": 1.92,
+          "under": 1.88,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -1530,9 +1434,9 @@
       "top_signal": null,
       "odds_22bet": {
         "found": true,
-        "event_id": 757289941,
-        "o1": "Valencia (cyber)",
-        "o2": "Hapoel Tel Aviv (cyber)",
+        "event_id": 757383866,
+        "o1": "Real Madrid Baloncesto (cyber)",
+        "o2": "ASVEL Lyon-Villeurbanne (cyber)",
         "swapped": true,
         "league": "NBA 2K26. Cyber Euro League",
         "moneyline": {
@@ -1541,21 +1445,21 @@
           "found": false
         },
         "spread": {
-          "line": -4.5,
-          "home_odd": 1.295,
-          "away_odd": 3.19,
+          "line": 24.5,
+          "home_odd": 3.08,
+          "away_odd": 1.31,
           "found": true
         },
         "total": {
           "line": 137.5,
-          "over": 1.97,
-          "under": 1.835,
+          "over": 1.936,
+          "under": 1.865,
           "found": true
         },
         "ht_total": {
-          "line": 65.5,
-          "over": 1.91,
-          "under": 1.89,
+          "line": 83.5,
+          "over": 1.88,
+          "under": 1.92,
           "found": true
         }
       },
@@ -1624,26 +1528,26 @@
         "swapped": true,
         "league": "Euroleague",
         "moneyline": {
-          "home": 2.609,
-          "away": 1.531,
+          "home": 2.701,
+          "away": 1.501,
           "found": true
         },
         "spread": {
           "line": 3.5,
-          "home_odd": 2.048,
-          "away_odd": 1.803,
+          "home_odd": 2.071,
+          "away_odd": 1.786,
           "found": true
         },
         "total": {
-          "line": 174.0,
-          "over": 1.926,
-          "under": 1.926,
+          "line": 175.5,
+          "over": 1.94,
+          "under": 1.92,
           "found": true
         },
         "ht_total": {
-          "line": 89.5,
-          "over": 1.92,
-          "under": 1.88,
+          "line": 90.5,
+          "over": 1.952,
+          "under": 1.851,
           "found": true
         }
       },
@@ -1961,11 +1865,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 757367405,
+        "o1": "AEO Proteas Voulas (Women)",
+        "o2": "Aris Thessaloniki (Women)",
+        "swapped": false,
+        "league": "Greek Cup. Women",
+        "moneyline": {
+          "home": 1.016,
+          "away": 11.8,
+          "found": true
+        },
+        "spread": {
+          "line": -10.5,
+          "home_odd": 1.9,
+          "away_odd": 1.84,
+          "found": true
+        },
+        "total": {
+          "line": 156.5,
+          "over": 1.82,
+          "under": 1.92,
+          "found": true
+        },
+        "ht_total": {
+          "line": 83.5,
+          "over": 1.86,
+          "under": 1.86,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -2089,35 +2017,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 757142379,
-        "o1": "Siauliai",
-        "o2": "London Lions",
-        "swapped": true,
-        "league": "EuroCup",
-        "moneyline": {
-          "home": 1.42,
-          "away": 2.655,
-          "found": true
-        },
-        "spread": {
-          "line": -4.5,
-          "home_odd": 1.695,
-          "away_odd": 1.841,
-          "found": true
-        },
-        "total": {
-          "line": 169.5,
-          "over": 1.82,
-          "under": 1.81,
-          "found": true
-        },
-        "ht_total": {
-          "line": 82.5,
-          "over": 1.751,
-          "under": 1.693,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -2241,35 +2145,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 757150762,
-        "o1": "Rigas Zelli",
-        "o2": "Derthona",
-        "swapped": true,
-        "league": "EuroCup",
-        "moneyline": {
-          "home": 1.34,
-          "away": 2.993,
-          "found": true
-        },
-        "spread": {
-          "line": -4.5,
-          "home_odd": 1.548,
-          "away_odd": 2.059,
-          "found": true
-        },
-        "total": {
-          "line": 170.5,
-          "over": 1.83,
-          "under": 1.84,
-          "found": true
-        },
-        "ht_total": {
-          "line": 82.5,
-          "over": 1.778,
-          "under": 1.67,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -2329,286 +2209,6 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 757142379,
-        "o1": "Siauliai",
-        "o2": "London Lions",
-        "swapped": true,
-        "league": "EuroCup",
-        "moneyline": {
-          "home": 1.42,
-          "away": 2.655,
-          "found": true
-        },
-        "spread": {
-          "line": -4.5,
-          "home_odd": 1.695,
-          "away_odd": 1.841,
-          "found": true
-        },
-        "total": {
-          "line": 169.5,
-          "over": 1.82,
-          "under": 1.81,
-          "found": true
-        },
-        "ht_total": {
-          "line": 82.5,
-          "over": 1.751,
-          "under": 1.693,
-          "found": true
-        }
-      },
-      "card_color": "grey"
-    },
-    {
-      "id": "E2026_16",
-      "name": "Virtus Bologna at Armani Olimpia Milan",
-      "date_utc": "2026-09-29T18:30:00.000Z",
-      "state": "post",
-      "status_name": "STATUS_RESULT",
-      "clock": "00:00",
-      "period": 0,
-      "league": "Euroleague",
-      "home": {
-        "id": "MIL",
-        "name": "Armani Olimpia Milan",
-        "abbr": "MIL",
-        "score": 87,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 4,
-        "last_game": "2026-09-25",
-        "r10_win_rate": 0.0,
-        "r10_diff": -16.0,
-        "r5_win_rate": 0.0,
-        "r5_diff": -16.0,
-        "r3_win_rate": 0.0,
-        "r20_win_rate": 0.0,
-        "r20_diff": -16.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 1,
-        "date_utc": "2026-09-29T18:30:00.000Z"
-      },
-      "away": {
-        "id": "VIR",
-        "name": "Virtus Bologna",
-        "abbr": "VIR",
-        "score": 85,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 4,
-        "last_game": "2026-09-25",
-        "r10_win_rate": 0.0,
-        "r10_diff": -10.0,
-        "r5_win_rate": 0.0,
-        "r5_diff": -10.0,
-        "r3_win_rate": 0.0,
-        "r20_win_rate": 0.0,
-        "r20_diff": -10.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 1,
-        "date_utc": "2026-09-29T18:30:00.000Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
-      },
-      "card_color": "grey"
-    },
-    {
-      "id": "E2026_15",
-      "name": "Kosner Baskonia Vitoria-Gasteiz at Valencia Basket",
-      "date_utc": "2026-09-29T18:30:00.000Z",
-      "state": "post",
-      "status_name": "STATUS_RESULT",
-      "clock": "00:00",
-      "period": 0,
-      "league": "Euroleague",
-      "home": {
-        "id": "PAM",
-        "name": "Valencia Basket",
-        "abbr": "VBC",
-        "score": 111,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 4,
-        "last_game": "2026-09-25",
-        "r10_win_rate": 1.0,
-        "r10_diff": 2.0,
-        "r5_win_rate": 1.0,
-        "r5_diff": 2.0,
-        "r3_win_rate": 1.0,
-        "r20_win_rate": 1.0,
-        "r20_diff": 2.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 1,
-        "date_utc": "2026-09-29T18:30:00.000Z"
-      },
-      "away": {
-        "id": "BAS",
-        "name": "Kosner Baskonia Vitoria-Gasteiz",
-        "abbr": "KBA",
-        "score": 88,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 5,
-        "last_game": "2026-09-24",
-        "r10_win_rate": 0.0,
-        "r10_diff": -17.0,
-        "r5_win_rate": 0.0,
-        "r5_diff": -17.0,
-        "r3_win_rate": 0.0,
-        "r20_win_rate": 0.0,
-        "r20_diff": -17.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 1,
-        "date_utc": "2026-09-29T18:30:00.000Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
-      },
-      "card_color": "grey"
-    },
-    {
-      "id": "U2026_7",
-      "name": "Skyliners Frankfurt at Umana Reyer Venice",
-      "date_utc": "2026-09-29T18:30:00.000Z",
-      "state": "post",
-      "status_name": "STATUS_RESULT",
-      "clock": "00:00",
-      "period": 0,
-      "league": "EuroCup",
-      "home": {
-        "id": "VNC",
-        "name": "Umana Reyer Venice",
-        "abbr": "URV",
-        "score": 104,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-09-29T18:30:00.000Z"
-      },
-      "away": {
-        "id": "FRA",
-        "name": "Skyliners Frankfurt",
-        "abbr": "SKY",
-        "score": 72,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-09-29T18:30:00.000Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
-      },
-      "card_color": "grey"
-    },
-    {
-      "id": "E2026_18",
-      "name": "Partizan Mozzart Bet Belgrade at Paris Basketball",
-      "date_utc": "2026-09-29T18:45:00.000Z",
-      "state": "post",
-      "status_name": "STATUS_RESULT",
-      "clock": "00:00",
-      "period": 0,
-      "league": "Euroleague",
-      "home": {
-        "id": "PRS",
-        "name": "Paris Basketball",
-        "abbr": "PBB",
-        "score": 79,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 5,
-        "last_game": "2026-09-24",
-        "r10_win_rate": 0.0,
-        "r10_diff": -19.0,
-        "r5_win_rate": 0.0,
-        "r5_diff": -19.0,
-        "r3_win_rate": 0.0,
-        "r20_win_rate": 0.0,
-        "r20_diff": -19.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 1,
-        "date_utc": "2026-09-29T18:45:00.000Z"
-      },
-      "away": {
-        "id": "PAR",
-        "name": "Partizan Mozzart Bet Belgrade",
-        "abbr": "PAR",
-        "score": 92,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 4,
-        "last_game": "2026-09-25",
-        "r10_win_rate": 1.0,
-        "r10_diff": 16.0,
-        "r5_win_rate": 1.0,
-        "r5_diff": 16.0,
-        "r3_win_rate": 1.0,
-        "r20_win_rate": 1.0,
-        "r20_diff": 16.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 1,
-        "date_utc": "2026-09-29T18:45:00.000Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
         "found": false,
         "moneyline": {},
         "spread": {},
@@ -2619,9 +2219,9 @@
     }
   ],
   "meta": {
-    "total_games": 36,
+    "total_games": 32,
     "total_signals": 0,
-    "bet22_events": 33,
+    "bet22_events": 27,
     "season": "2025-26 Off-Season"
   }
 }
