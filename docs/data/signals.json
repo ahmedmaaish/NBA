@@ -1,6 +1,193 @@
 {
-  "updated_utc": "2026-10-03T06:14:56+00:00",
+  "updated_utc": "2026-10-03T12:21:49+00:00",
   "games": [
+    {
+      "id": "758232393",
+      "name": "Turk Telekom at Bursaspor",
+      "date_utc": "2026-10-03T12:30:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "Turkey \u2014 Super League",
+      "home": {
+        "id": "Bursaspor Y\u00f6rsan",
+        "name": "Bursaspor",
+        "abbr": "BUR",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 505,
+        "last_game": "2025-05-16",
+        "r10_win_rate": 0.6,
+        "r10_diff": 3.1,
+        "r5_win_rate": 0.8,
+        "r5_diff": 7.4,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 0.5,
+        "r20_diff": -1.85,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-10-03T12:30:00Z"
+      },
+      "away": {
+        "id": "T\u00fcrk Telekom",
+        "name": "Turk Telekom",
+        "abbr": "TT",
+        "score": 0,
+        "wins": 18,
+        "losses": 6,
+        "season_pct": 0.75,
+        "rest": 129,
+        "last_game": "2026-05-27",
+        "r10_win_rate": 1.0,
+        "r10_diff": 18.3,
+        "r5_win_rate": 1.0,
+        "r5_diff": 9.6,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 0.75,
+        "r20_diff": 9.05,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-10-03T12:30:00Z"
+      },
+      "signals": [
+        {
+          "name": "Form Gap >8pts -> Bet In-Form Team",
+          "win_rate": 71.2,
+          "roi_pct": 36.0,
+          "bets_yr": 437,
+          "confidence": "high",
+          "bet": "away",
+          "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
+          "realistic_edge": false,
+          "league_win_rate": 70.82,
+          "league_roi_pct": 35.19,
+          "league_bets": 490,
+          "league_data_status": "verified",
+          "league_ats_wr": 50.0,
+          "league_ats_safe": false,
+          "bet_recommendation": "moneyline_only",
+          "ml_ev_per_10": 0.03,
+          "hcap_ev_per_10": -1.65,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$0.03/$10 is higher AND simpler"
+        },
+        {
+          "name": "Win-Rate Gap >25% -> Bet Favourite",
+          "win_rate": 68.7,
+          "roi_pct": 31.2,
+          "bets_yr": 479,
+          "confidence": "medium",
+          "bet": "away",
+          "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
+          "realistic_edge": false,
+          "league_win_rate": 69.2,
+          "league_roi_pct": 32.11,
+          "league_bets": 526,
+          "league_data_status": "verified",
+          "league_ats_wr": 50.4,
+          "league_ats_safe": false,
+          "bet_recommendation": "moneyline_only",
+          "ml_ev_per_10": -0.2,
+          "hcap_ev_per_10": -1.58,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Both bet types -EV at current 22bet odds. Skip this game."
+        },
+        {
+          "name": "Early-Season WR Edge >25% -> Better",
+          "win_rate": 67.9,
+          "roi_pct": 29.6,
+          "bets_yr": 95,
+          "confidence": "medium",
+          "bet": "away",
+          "note": "Early season (Oct-Nov): |10g WR gap| >25%. Form trumps season-record noise when sample is small.",
+          "realistic_edge": true,
+          "league_win_rate": 52.73,
+          "league_roi_pct": 0.66,
+          "league_bets": 55,
+          "league_data_status": "verified",
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -2.53,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
+        },
+        {
+          "name": "Away +30% WR Edge + Rested",
+          "win_rate": 64.1,
+          "roi_pct": 22.4,
+          "bets_yr": 81,
+          "confidence": "medium",
+          "bet": "away",
+          "note": "Away WR beats home by 30%+ and away team is rested (2+ days).",
+          "realistic_edge": true,
+          "league_win_rate": 68.52,
+          "league_roi_pct": 30.81,
+          "league_bets": 216,
+          "league_data_status": "verified",
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -0.3,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
+        }
+      ],
+      "top_signal": {
+        "name": "Form Gap >8pts -> Bet In-Form Team",
+        "win_rate": 71.2,
+        "roi_pct": 36.0,
+        "bets_yr": 437,
+        "confidence": "high",
+        "bet": "away",
+        "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
+        "realistic_edge": false,
+        "league_win_rate": 70.82,
+        "league_roi_pct": 35.19,
+        "league_bets": 490,
+        "league_data_status": "verified",
+        "league_ats_wr": 50.0,
+        "league_ats_safe": false,
+        "bet_recommendation": "moneyline_only",
+        "ml_ev_per_10": 0.03,
+        "hcap_ev_per_10": -1.65,
+        "best_bet_type": "team_wins",
+        "best_bet_reason": "Team Wins EV +$0.03/$10 is higher AND simpler"
+      },
+      "odds_22bet": {
+        "found": true,
+        "event_id": 758232393,
+        "o1": "Bursaspor",
+        "o2": "Turk Telekom",
+        "swapped": false,
+        "league": "Turkey. Super League",
+        "moneyline": {
+          "home": 2.752,
+          "away": 1.416,
+          "found": true
+        },
+        "spread": {
+          "line": 3.5,
+          "home_odd": 2.07,
+          "away_odd": 1.67,
+          "found": true
+        },
+        "total": {
+          "line": 164.5,
+          "over": 1.87,
+          "under": 1.87,
+          "found": true
+        },
+        "ht_total": {
+          "line": 79.5,
+          "over": 1.86,
+          "under": 1.86,
+          "found": true
+        }
+      },
+      "card_color": "green"
+    },
     {
       "id": "401902644",
       "name": "Miami Heat at Toronto Raptors",
@@ -57,35 +244,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 758143595,
-        "o1": "Boston Celtics (cyber)",
-        "o2": "Miami Heat (cyber)",
-        "swapped": false,
-        "league": "NBA 2K26. Cyber League",
-        "moneyline": {
-          "home": 1.475,
-          "away": 2.45,
-          "found": true
-        },
-        "spread": {
-          "line": 2.5,
-          "home_odd": 1.33,
-          "away_odd": 2.975,
-          "found": true
-        },
-        "total": {
-          "line": 209.5,
-          "over": 1.89,
-          "under": 1.91,
-          "found": true
-        },
-        "ht_total": {
-          "line": 108.5,
-          "over": 1.93,
-          "under": 1.87,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -145,35 +308,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 758136030,
-        "o1": "Denver Nuggets (cyber)",
-        "o2": "Atlanta Hawks (cyber)",
-        "swapped": false,
-        "league": "NBA 2K26. Cyber League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": -16.5,
-          "home_odd": 1.325,
-          "away_odd": 3.01,
-          "found": true
-        },
-        "total": {
-          "line": 220.5,
-          "over": 1.835,
-          "under": 1.97,
-          "found": true
-        },
-        "ht_total": {
-          "line": 122.5,
-          "over": 1.97,
-          "under": 1.835,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -1321,35 +1460,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 758136030,
-        "o1": "Denver Nuggets (cyber)",
-        "o2": "Atlanta Hawks (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": 16.5,
-          "home_odd": 3.01,
-          "away_odd": 1.325,
-          "found": true
-        },
-        "total": {
-          "line": 220.5,
-          "over": 1.835,
-          "under": 1.97,
-          "found": true
-        },
-        "ht_total": {
-          "line": 122.5,
-          "over": 1.97,
-          "under": 1.835,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -2335,35 +2450,11 @@
         "bet_recommendation": "moneyline"
       },
       "odds_22bet": {
-        "found": true,
-        "event_id": 758135338,
-        "o1": "Virtus Bologna (cyber)",
-        "o2": "Real Madrid Baloncesto (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber Euro League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": -9.5,
-          "home_odd": 1.27,
-          "away_odd": 3.33,
-          "found": true
-        },
-        "total": {
-          "line": 171.5,
-          "over": 1.94,
-          "under": 1.86,
-          "found": true
-        },
-        "ht_total": {
-          "line": 78.5,
-          "over": 1.904,
-          "under": 1.896,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -3018,7 +3109,8 @@
           "league_data_status": "verified",
           "league_ats_wr": 63.1,
           "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
+          "bet_recommendation": "handicap_or_moneyline",
+          "hcap_ev_per_10": 0.22
         },
         {
           "name": "20g Hot Home + WR Edge -> Home",
@@ -3035,7 +3127,8 @@
           "league_data_status": "verified",
           "league_ats_wr": 66.4,
           "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
+          "bet_recommendation": "handicap_or_moneyline",
+          "hcap_ev_per_10": 0.76
         },
         {
           "name": "Mild Form Edge -> Home",
@@ -3052,7 +3145,8 @@
           "league_data_status": "verified",
           "league_ats_wr": 65.5,
           "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
+          "bet_recommendation": "handicap_or_moneyline",
+          "hcap_ev_per_10": 0.61
         },
         {
           "name": "Home Consistency Edge -> Home",
@@ -3069,7 +3163,8 @@
           "league_data_status": "verified",
           "league_ats_wr": 64.2,
           "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
+          "bet_recommendation": "handicap_or_moneyline",
+          "hcap_ev_per_10": 0.4
         },
         {
           "name": "Win-Rate Gap >25% -> Bet Favourite",
@@ -3086,7 +3181,8 @@
           "league_data_status": "verified",
           "league_ats_wr": 50.5,
           "league_ats_safe": false,
-          "bet_recommendation": "moneyline_only"
+          "bet_recommendation": "moneyline_only",
+          "hcap_ev_per_10": -1.82
         },
         {
           "name": "Early-Season WR Edge >25% -> Better",
@@ -3134,14 +3230,39 @@
         "league_data_status": "verified",
         "league_ats_wr": 63.1,
         "league_ats_safe": true,
-        "bet_recommendation": "handicap_or_moneyline"
+        "bet_recommendation": "handicap_or_moneyline",
+        "hcap_ev_per_10": 0.22
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 758220662,
+        "o1": "Olympiacos (Women)",
+        "o2": "Panserraikos (Women)",
+        "swapped": false,
+        "league": "Greece Championship. Women",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": -27.5,
+          "home_odd": 1.62,
+          "away_odd": 2.152,
+          "found": true
+        },
+        "total": {
+          "line": 151.5,
+          "over": 1.82,
+          "under": 1.92,
+          "found": true
+        },
+        "ht_total": {
+          "line": 90.5,
+          "over": 1.83,
+          "under": 1.89,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -3404,164 +3525,12 @@
         "ht_total": {}
       },
       "card_color": "green"
-    },
-    {
-      "id": "E2026_30",
-      "name": "Maccabi Rapyd Tel Aviv at Panathinaikos AKTOR Athens",
-      "date_utc": "2026-10-02T18:15:00.000Z",
-      "state": "post",
-      "status_name": "STATUS_RESULT",
-      "clock": "00:00",
-      "period": 0,
-      "league": "Euroleague",
-      "home": {
-        "id": "PAN",
-        "name": "Panathinaikos AKTOR Athens",
-        "abbr": "PAO",
-        "score": 90,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 2,
-        "last_game": "2026-09-30",
-        "r10_win_rate": 1.0,
-        "r10_diff": 21.0,
-        "r5_win_rate": 1.0,
-        "r5_diff": 21.0,
-        "r3_win_rate": 1.0,
-        "r20_win_rate": 1.0,
-        "r20_diff": 21.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 2,
-        "date_utc": "2026-10-02T18:15:00.000Z"
-      },
-      "away": {
-        "id": "TEL",
-        "name": "Maccabi Rapyd Tel Aviv",
-        "abbr": "MTA",
-        "score": 67,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 2,
-        "last_game": "2026-09-30",
-        "r10_win_rate": 0.0,
-        "r10_diff": -13.0,
-        "r5_win_rate": 0.0,
-        "r5_diff": -13.0,
-        "r3_win_rate": 0.0,
-        "r20_win_rate": 0.0,
-        "r20_diff": -13.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 2,
-        "date_utc": "2026-10-02T18:15:00.000Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": true,
-        "event_id": 758140448,
-        "o1": "Panathinaikos (cyber)",
-        "o2": "Baskonia (cyber)",
-        "swapped": false,
-        "league": "NBA 2K26. Cyber Euro League",
-        "moneyline": {
-          "home": 1.136,
-          "away": 4.36,
-          "found": true
-        },
-        "spread": {
-          "line": -4.5,
-          "home_odd": 1.32,
-          "away_odd": 3.048,
-          "found": true
-        },
-        "total": {
-          "line": 158.5,
-          "over": 1.945,
-          "under": 1.856,
-          "found": true
-        },
-        "ht_total": {
-          "line": 84.5,
-          "over": 1.94,
-          "under": 1.864,
-          "found": true
-        }
-      },
-      "card_color": "grey"
-    },
-    {
-      "id": "E2026_27",
-      "name": "Armani Olimpia Milan at Kosner Baskonia Vitoria-Gasteiz",
-      "date_utc": "2026-10-02T18:30:00.000Z",
-      "state": "post",
-      "status_name": "STATUS_RESULT",
-      "clock": "00:00",
-      "period": 0,
-      "league": "Euroleague",
-      "home": {
-        "id": "BAS",
-        "name": "Kosner Baskonia Vitoria-Gasteiz",
-        "abbr": "KBA",
-        "score": 86,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 3,
-        "last_game": "2026-09-29",
-        "r10_win_rate": 0.0,
-        "r10_diff": -20.0,
-        "r5_win_rate": 0.0,
-        "r5_diff": -20.0,
-        "r3_win_rate": 0.0,
-        "r20_win_rate": 0.0,
-        "r20_diff": -20.0,
-        "games_last_5d": 1,
-        "games_last_7d": 1,
-        "games_used": 2,
-        "date_utc": "2026-10-02T18:30:00.000Z"
-      },
-      "away": {
-        "id": "MIL",
-        "name": "Armani Olimpia Milan",
-        "abbr": "MIL",
-        "score": 76,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.5,
-        "rest": 3,
-        "last_game": "2026-09-29",
-        "r10_win_rate": 0.5,
-        "r10_diff": -7.0,
-        "r5_win_rate": 0.5,
-        "r5_diff": -7.0,
-        "r3_win_rate": 0.5,
-        "r20_win_rate": 0.5,
-        "r20_diff": -7.0,
-        "games_last_5d": 1,
-        "games_last_7d": 2,
-        "games_used": 2,
-        "date_utc": "2026-10-02T18:30:00.000Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
-      },
-      "card_color": "grey"
     }
   ],
   "meta": {
-    "total_games": 40,
-    "total_signals": 44,
-    "bet22_events": 36,
+    "total_games": 39,
+    "total_signals": 48,
+    "bet22_events": 14,
     "season": "2026-27 Regular Season"
   }
 }
