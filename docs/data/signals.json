@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-03T23:38:35+00:00",
+  "updated_utc": "2026-10-04T05:13:40+00:00",
   "games": [
     {
       "id": "401914127",
@@ -313,35 +313,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 758400351,
-        "o1": "New York Knicks (cyber)",
-        "o2": "Cleveland Cavaliers (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber League",
-        "moneyline": {
-          "home": null,
-          "away": null,
-          "found": false
-        },
-        "spread": {
-          "line": null,
-          "home_odd": null,
-          "away_odd": null,
-          "found": false
-        },
-        "total": {
-          "line": null,
-          "over": null,
-          "under": null,
-          "found": false
-        },
-        "ht_total": {
-          "line": null,
-          "over": null,
-          "under": null,
-          "found": false
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -401,35 +377,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 758414988,
-        "o1": "Denver Nuggets (cyber)",
-        "o2": "Minnesota Timberwolves (cyber)",
-        "swapped": false,
-        "league": "NBA 2K26. Cyber League",
-        "moneyline": {
-          "home": 2.98,
-          "away": 1.33,
-          "found": true
-        },
-        "spread": {
-          "line": -1.5,
-          "home_odd": 3.095,
-          "away_odd": 1.31,
-          "found": true
-        },
-        "total": {
-          "line": 207.5,
-          "over": 1.936,
-          "under": 1.864,
-          "found": true
-        },
-        "ht_total": {
-          "line": 100.5,
-          "over": 1.87,
-          "under": 1.93,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -489,11 +441,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 758466869,
+        "o1": "Los Angeles Clippers (cyber)",
+        "o2": "Cleveland Cavaliers (cyber)",
+        "swapped": true,
+        "league": "NBA 2K26. Cyber League",
+        "moneyline": {
+          "home": 1.52,
+          "away": 2.33,
+          "found": true
+        },
+        "spread": {
+          "line": -1.5,
+          "home_odd": 1.616,
+          "away_odd": 2.19,
+          "found": true
+        },
+        "total": {
+          "line": 204.5,
+          "over": 1.93,
+          "under": 1.87,
+          "found": true
+        },
+        "ht_total": {
+          "line": 101.5,
+          "over": 1.9,
+          "under": 1.9,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -1194,32 +1170,32 @@
       "top_signal": null,
       "odds_22bet": {
         "found": true,
-        "event_id": 758406817,
+        "event_id": 758461201,
         "o1": "Oklahoma City Thunder (cyber)",
-        "o2": "Dallas Mavericks (cyber)",
+        "o2": "Miami Heat (cyber)",
         "swapped": false,
         "league": "NBA 2K26. Cyber League",
         "moneyline": {
-          "home": 1.435,
-          "away": 2.565,
-          "found": true
+          "home": null,
+          "away": null,
+          "found": false
         },
         "spread": {
-          "line": 3.5,
-          "home_odd": 1.38,
-          "away_odd": 2.77,
+          "line": -26.5,
+          "home_odd": 1.3,
+          "away_odd": 3.152,
           "found": true
         },
         "total": {
-          "line": 216.5,
-          "over": 1.875,
-          "under": 1.925,
+          "line": 185.5,
+          "over": 1.888,
+          "under": 1.915,
           "found": true
         },
         "ht_total": {
-          "line": 110.5,
-          "over": 1.856,
-          "under": 1.95,
+          "line": 107.5,
+          "over": 1.81,
+          "under": 2.0,
           "found": true
         }
       },
@@ -1887,35 +1863,379 @@
         "bet_recommendation": "moneyline"
       },
       "odds_22bet": {
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
+      },
+      "card_color": "grey"
+    },
+    {
+      "id": "401914123",
+      "name": "Minnesota Timberwolves at Indiana Pacers",
+      "date_utc": "2026-10-07T23:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "NBA",
+      "home": {
+        "id": "11",
+        "name": "Indiana Pacers",
+        "abbr": "IND",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 7,
+        "last_game": null,
+        "r10_win_rate": null,
+        "r10_diff": null,
+        "r5_win_rate": null,
+        "r5_diff": null,
+        "r3_win_rate": null,
+        "r20_win_rate": null,
+        "r20_diff": null,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 0,
+        "date_utc": "2026-10-07T23:00Z"
+      },
+      "away": {
+        "id": "16",
+        "name": "Minnesota Timberwolves",
+        "abbr": "MIN",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 7,
+        "last_game": null,
+        "r10_win_rate": null,
+        "r10_diff": null,
+        "r5_win_rate": null,
+        "r5_diff": null,
+        "r3_win_rate": null,
+        "r20_win_rate": null,
+        "r20_diff": null,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 0,
+        "date_utc": "2026-10-07T23:00Z"
+      },
+      "signals": [],
+      "top_signal": null,
+      "odds_22bet": {
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
+      },
+      "card_color": "grey"
+    },
+    {
+      "id": "401898391",
+      "name": "Orlando Magic at Memphis Grizzlies",
+      "date_utc": "2026-10-08T00:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "NBA",
+      "home": {
+        "id": "29",
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 7,
+        "last_game": null,
+        "r10_win_rate": null,
+        "r10_diff": null,
+        "r5_win_rate": null,
+        "r5_diff": null,
+        "r3_win_rate": null,
+        "r20_win_rate": null,
+        "r20_diff": null,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 0,
+        "date_utc": "2026-10-08T00:00Z"
+      },
+      "away": {
+        "id": "19",
+        "name": "Orlando Magic",
+        "abbr": "ORL",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 7,
+        "last_game": null,
+        "r10_win_rate": null,
+        "r10_diff": null,
+        "r5_win_rate": null,
+        "r5_diff": null,
+        "r3_win_rate": null,
+        "r20_win_rate": null,
+        "r20_diff": null,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 0,
+        "date_utc": "2026-10-08T00:00Z"
+      },
+      "signals": [],
+      "top_signal": null,
+      "odds_22bet": {
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
+      },
+      "card_color": "grey"
+    },
+    {
+      "id": "401908620",
+      "name": "Milwaukee Bucks at Oklahoma City Thunder",
+      "date_utc": "2026-10-08T00:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "NBA",
+      "home": {
+        "id": "25",
+        "name": "Oklahoma City Thunder",
+        "abbr": "OKC",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 7,
+        "last_game": null,
+        "r10_win_rate": null,
+        "r10_diff": null,
+        "r5_win_rate": null,
+        "r5_diff": null,
+        "r3_win_rate": null,
+        "r20_win_rate": null,
+        "r20_diff": null,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 0,
+        "date_utc": "2026-10-08T00:00Z"
+      },
+      "away": {
+        "id": "15",
+        "name": "Milwaukee Bucks",
+        "abbr": "MIL",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 7,
+        "last_game": null,
+        "r10_win_rate": null,
+        "r10_diff": null,
+        "r5_win_rate": null,
+        "r5_diff": null,
+        "r3_win_rate": null,
+        "r20_win_rate": null,
+        "r20_diff": null,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 0,
+        "date_utc": "2026-10-08T00:00Z"
+      },
+      "signals": [],
+      "top_signal": null,
+      "odds_22bet": {
         "found": true,
-        "event_id": 758414159,
-        "o1": "ASVEL Lyon-Villeurbanne (cyber)",
-        "o2": "KK Partizan (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber Euro League",
+        "event_id": 758461201,
+        "o1": "Oklahoma City Thunder (cyber)",
+        "o2": "Miami Heat (cyber)",
+        "swapped": false,
+        "league": "NBA 2K26. Cyber League",
         "moneyline": {
           "home": null,
           "away": null,
           "found": false
         },
         "spread": {
-          "line": -19.5,
-          "home_odd": 1.336,
-          "away_odd": 2.96,
+          "line": -26.5,
+          "home_odd": 1.3,
+          "away_odd": 3.152,
           "found": true
         },
         "total": {
-          "line": 136.5,
-          "over": 1.91,
-          "under": 1.89,
+          "line": 185.5,
+          "over": 1.888,
+          "under": 1.915,
           "found": true
         },
         "ht_total": {
-          "line": 55.5,
-          "over": 1.984,
-          "under": 1.82,
+          "line": 107.5,
+          "over": 1.81,
+          "under": 2.0,
           "found": true
         }
+      },
+      "card_color": "grey"
+    },
+    {
+      "id": "401908939",
+      "name": "Phoenix Suns at Chicago Bulls",
+      "date_utc": "2026-10-08T00:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "NBA",
+      "home": {
+        "id": "4",
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 7,
+        "last_game": null,
+        "r10_win_rate": null,
+        "r10_diff": null,
+        "r5_win_rate": null,
+        "r5_diff": null,
+        "r3_win_rate": null,
+        "r20_win_rate": null,
+        "r20_diff": null,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 0,
+        "date_utc": "2026-10-08T00:00Z"
+      },
+      "away": {
+        "id": "21",
+        "name": "Phoenix Suns",
+        "abbr": "PHX",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 7,
+        "last_game": null,
+        "r10_win_rate": null,
+        "r10_diff": null,
+        "r5_win_rate": null,
+        "r5_diff": null,
+        "r3_win_rate": null,
+        "r20_win_rate": null,
+        "r20_diff": null,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 0,
+        "date_utc": "2026-10-08T00:00Z"
+      },
+      "signals": [],
+      "top_signal": null,
+      "odds_22bet": {
+        "found": true,
+        "event_id": 758469338,
+        "o1": "Saga Ballooners",
+        "o2": "SAN-EN NeoPhoenix",
+        "swapped": false,
+        "league": "Japan. B League Premier",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": 4.5,
+          "home_odd": 2.144,
+          "away_odd": 1.625,
+          "found": true
+        },
+        "total": {
+          "line": 171.5,
+          "over": 1.87,
+          "under": 1.87,
+          "found": true
+        },
+        "ht_total": {
+          "line": null,
+          "over": null,
+          "under": null,
+          "found": false
+        }
+      },
+      "card_color": "grey"
+    },
+    {
+      "id": "401914129",
+      "name": "Golden State Warriors at Portland Trail Blazers",
+      "date_utc": "2026-10-08T02:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "NBA",
+      "home": {
+        "id": "22",
+        "name": "Portland Trail Blazers",
+        "abbr": "POR",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 7,
+        "last_game": null,
+        "r10_win_rate": null,
+        "r10_diff": null,
+        "r5_win_rate": null,
+        "r5_diff": null,
+        "r3_win_rate": null,
+        "r20_win_rate": null,
+        "r20_diff": null,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 0,
+        "date_utc": "2026-10-08T02:00Z"
+      },
+      "away": {
+        "id": "9",
+        "name": "Golden State Warriors",
+        "abbr": "GS",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 7,
+        "last_game": null,
+        "r10_win_rate": null,
+        "r10_diff": null,
+        "r5_win_rate": null,
+        "r5_diff": null,
+        "r3_win_rate": null,
+        "r20_win_rate": null,
+        "r20_diff": null,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 0,
+        "date_utc": "2026-10-08T02:00Z"
+      },
+      "signals": [],
+      "top_signal": null,
+      "odds_22bet": {
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -2276,7 +2596,10 @@
           "league_roi_pct": 13.88,
           "league_bets": 171,
           "league_data_status": "verified",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -3.7,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         }
       ],
       "top_signal": {
@@ -2292,14 +2615,41 @@
         "league_roi_pct": 13.88,
         "league_bets": 171,
         "league_data_status": "verified",
-        "bet_recommendation": "moneyline"
+        "bet_recommendation": "moneyline",
+        "ml_ev_per_10": -3.7,
+        "best_bet_type": "skip",
+        "best_bet_reason": "Team Wins -EV; skip"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 758463289,
+        "o1": "Hapoel Tel Aviv (cyber)",
+        "o2": "Virtus Bologna (cyber)",
+        "swapped": false,
+        "league": "NBA 2K26. Cyber Euro League",
+        "moneyline": {
+          "home": 1.056,
+          "away": 6.11,
+          "found": true
+        },
+        "spread": {
+          "line": -5.5,
+          "home_odd": 1.325,
+          "away_odd": 3.01,
+          "found": true
+        },
+        "total": {
+          "line": 128.5,
+          "over": 1.93,
+          "under": 1.87,
+          "found": true
+        },
+        "ht_total": {
+          "line": 68.5,
+          "over": 1.925,
+          "under": 1.875,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -2534,7 +2884,11 @@
           "league_data_status": "verified",
           "league_ats_wr": 63.1,
           "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
+          "bet_recommendation": "handicap_or_moneyline",
+          "ml_ev_per_10": 38.44,
+          "hcap_ev_per_10": 8.99,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$38.44/$10 is higher AND simpler"
         },
         {
           "name": "20g Hot Home + WR Edge -> Home",
@@ -2551,7 +2905,11 @@
           "league_data_status": "verified",
           "league_ats_wr": 66.4,
           "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
+          "bet_recommendation": "handicap_or_moneyline",
+          "ml_ev_per_10": 37.99,
+          "hcap_ev_per_10": 9.99,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$37.99/$10 is higher AND simpler"
         },
         {
           "name": "Mild Form Edge -> Home",
@@ -2568,7 +2926,11 @@
           "league_data_status": "verified",
           "league_ats_wr": 65.5,
           "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
+          "bet_recommendation": "handicap_or_moneyline",
+          "ml_ev_per_10": 37.38,
+          "hcap_ev_per_10": 9.72,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$37.38/$10 is higher AND simpler"
         },
         {
           "name": "Home Consistency Edge -> Home",
@@ -2585,7 +2947,11 @@
           "league_data_status": "verified",
           "league_ats_wr": 64.2,
           "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
+          "bet_recommendation": "handicap_or_moneyline",
+          "ml_ev_per_10": 36.0,
+          "hcap_ev_per_10": 9.32,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$36.00/$10 is higher AND simpler"
         },
         {
           "name": "Form Gap >8pts -> Bet In-Form Team",
@@ -2602,7 +2968,11 @@
           "league_data_status": "verified",
           "league_ats_wr": 49.2,
           "league_ats_safe": false,
-          "bet_recommendation": "moneyline_only"
+          "bet_recommendation": "moneyline_only",
+          "ml_ev_per_10": 31.36,
+          "hcap_ev_per_10": 4.81,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$31.36/$10 is higher AND simpler"
         },
         {
           "name": "Win-Rate Gap >25% -> Bet Favourite",
@@ -2619,7 +2989,11 @@
           "league_data_status": "verified",
           "league_ats_wr": 50.5,
           "league_ats_safe": false,
-          "bet_recommendation": "moneyline_only"
+          "bet_recommendation": "moneyline_only",
+          "ml_ev_per_10": 29.37,
+          "hcap_ev_per_10": 5.2,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$29.37/$10 is higher AND simpler"
         },
         {
           "name": "Early-Season WR Edge >25% -> Better",
@@ -2634,7 +3008,10 @@
           "league_roi_pct": 11.15,
           "league_bets": 292,
           "league_data_status": "verified",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 25.57,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$25.57/$10"
         },
         {
           "name": "Elite vs Elite -> Home (HCA)",
@@ -2649,7 +3026,10 @@
           "league_roi_pct": 10.1,
           "league_bets": 189,
           "league_data_status": "verified",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 25.24,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$25.24/$10"
         }
       ],
       "top_signal": {
@@ -2667,14 +3047,42 @@
         "league_data_status": "verified",
         "league_ats_wr": 63.1,
         "league_ats_safe": true,
-        "bet_recommendation": "handicap_or_moneyline"
+        "bet_recommendation": "handicap_or_moneyline",
+        "ml_ev_per_10": 38.44,
+        "hcap_ev_per_10": 8.99,
+        "best_bet_type": "team_wins",
+        "best_bet_reason": "Team Wins EV +$38.44/$10 is higher AND simpler"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 758463289,
+        "o1": "Hapoel Tel Aviv (cyber)",
+        "o2": "Virtus Bologna (cyber)",
+        "swapped": true,
+        "league": "NBA 2K26. Cyber Euro League",
+        "moneyline": {
+          "home": 6.11,
+          "away": 1.056,
+          "found": true
+        },
+        "spread": {
+          "line": 5.5,
+          "home_odd": 3.01,
+          "away_odd": 1.325,
+          "found": true
+        },
+        "total": {
+          "line": 128.5,
+          "over": 1.93,
+          "under": 1.87,
+          "found": true
+        },
+        "ht_total": {
+          "line": 68.5,
+          "over": 1.925,
+          "under": 1.875,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -3340,100 +3748,12 @@
         "ht_total": {}
       },
       "card_color": "green"
-    },
-    {
-      "id": "401902644",
-      "name": "Miami Heat at Toronto Raptors",
-      "date_utc": "2026-10-03T23:00Z",
-      "state": "in",
-      "status_name": "STATUS_IN_PROGRESS",
-      "clock": "2:14",
-      "period": 1,
-      "league": "NBA",
-      "home": {
-        "id": "28",
-        "name": "Toronto Raptors",
-        "abbr": "TOR",
-        "score": 18,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-10-03T23:00Z"
-      },
-      "away": {
-        "id": "14",
-        "name": "Miami Heat",
-        "abbr": "MIA",
-        "score": 31,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-10-03T23:00Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": true,
-        "event_id": 758406825,
-        "o1": "Miami Heat",
-        "o2": "Toronto Raptors",
-        "swapped": true,
-        "league": "NBA. Preseason Matches",
-        "moneyline": {
-          "home": 4.26,
-          "away": 1.2,
-          "found": true
-        },
-        "spread": {
-          "line": 7.5,
-          "home_odd": 2.1,
-          "away_odd": 1.655,
-          "found": true
-        },
-        "total": {
-          "line": 232.5,
-          "over": 1.87,
-          "under": 1.87,
-          "found": true
-        },
-        "ht_total": {
-          "line": 121.5,
-          "over": 1.896,
-          "under": 1.825,
-          "found": true
-        }
-      },
-      "card_color": "grey"
     }
   ],
   "meta": {
-    "total_games": 38,
+    "total_games": 42,
     "total_signals": 44,
-    "bet22_events": 16,
+    "bet22_events": 28,
     "season": "2026-27 Regular Season"
   }
 }
