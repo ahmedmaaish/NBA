@@ -1,446 +1,6 @@
 {
-  "updated_utc": "2026-10-05T22:25:00+00:00",
+  "updated_utc": "2026-10-06T02:47:46+00:00",
   "games": [
-    {
-      "id": "401898388",
-      "name": "Memphis Grizzlies at Atlanta Hawks",
-      "date_utc": "2026-10-05T23:00Z",
-      "state": "pre",
-      "status_name": "STATUS_SCHEDULED",
-      "clock": "0.0",
-      "period": 0,
-      "league": "NBA",
-      "home": {
-        "id": "1",
-        "name": "Atlanta Hawks",
-        "abbr": "ATL",
-        "score": 0,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-10-05T23:00Z"
-      },
-      "away": {
-        "id": "29",
-        "name": "Memphis Grizzlies",
-        "abbr": "MEM",
-        "score": 0,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-10-05T23:00Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": true,
-        "event_id": 758835649,
-        "o1": "Atlanta Hawks",
-        "o2": "Memphis Grizzlies",
-        "swapped": false,
-        "league": "NBA. Preseason Matches",
-        "moneyline": {
-          "home": 1.654,
-          "away": 2.232,
-          "found": true
-        },
-        "spread": {
-          "line": -2.5,
-          "home_odd": 1.766,
-          "away_odd": 2.028,
-          "found": true
-        },
-        "total": {
-          "line": 231.5,
-          "over": 1.9,
-          "under": 1.9,
-          "found": true
-        },
-        "ht_total": {
-          "line": 117.5,
-          "over": 1.87,
-          "under": 1.87,
-          "found": true
-        }
-      },
-      "card_color": "grey"
-    },
-    {
-      "id": "401908947",
-      "name": "Phoenix Suns at Detroit Pistons",
-      "date_utc": "2026-10-05T23:00Z",
-      "state": "pre",
-      "status_name": "STATUS_SCHEDULED",
-      "clock": "0.0",
-      "period": 0,
-      "league": "NBA",
-      "home": {
-        "id": "8",
-        "name": "Detroit Pistons",
-        "abbr": "DET",
-        "score": 0,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-10-05T23:00Z"
-      },
-      "away": {
-        "id": "21",
-        "name": "Phoenix Suns",
-        "abbr": "PHX",
-        "score": 0,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-10-05T23:00Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": true,
-        "event_id": 758835656,
-        "o1": "Detroit Pistons",
-        "o2": "Phoenix Suns",
-        "swapped": false,
-        "league": "NBA. Preseason Matches",
-        "moneyline": {
-          "home": 1.722,
-          "away": 2.119,
-          "found": true
-        },
-        "spread": {
-          "line": -1.5,
-          "home_odd": 1.821,
-          "away_odd": 1.986,
-          "found": true
-        },
-        "total": {
-          "line": null,
-          "over": null,
-          "under": null,
-          "found": false
-        },
-        "ht_total": {
-          "line": 109.5,
-          "over": 1.9,
-          "under": 1.9,
-          "found": true
-        }
-      },
-      "card_color": "grey"
-    },
-    {
-      "id": "401914101",
-      "name": "New York Knicks at Philadelphia 76ers",
-      "date_utc": "2026-10-05T23:00Z",
-      "state": "pre",
-      "status_name": "STATUS_SCHEDULED",
-      "clock": "0.0",
-      "period": 0,
-      "league": "NBA",
-      "home": {
-        "id": "20",
-        "name": "Philadelphia 76ers",
-        "abbr": "PHI",
-        "score": 0,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-10-05T23:00Z"
-      },
-      "away": {
-        "id": "18",
-        "name": "New York Knicks",
-        "abbr": "NY",
-        "score": 0,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-10-05T23:00Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": true,
-        "event_id": 758835663,
-        "o1": "Philadelphia 76ers",
-        "o2": "New York Knicks",
-        "swapped": false,
-        "league": "NBA. Preseason Matches",
-        "moneyline": {
-          "home": 2.485,
-          "away": 1.538,
-          "found": true
-        },
-        "spread": {
-          "line": -1.0,
-          "home_odd": 1.88,
-          "away_odd": 1.83,
-          "found": true
-        },
-        "total": {
-          "line": 228.5,
-          "over": 1.9,
-          "under": 1.9,
-          "found": true
-        },
-        "ht_total": {
-          "line": 111.5,
-          "over": 1.85,
-          "under": 1.93,
-          "found": true
-        }
-      },
-      "card_color": "grey"
-    },
-    {
-      "id": "401914102",
-      "name": "Minnesota Timberwolves at Milwaukee Bucks",
-      "date_utc": "2026-10-06T00:00Z",
-      "state": "pre",
-      "status_name": "STATUS_SCHEDULED",
-      "clock": "0.0",
-      "period": 0,
-      "league": "NBA",
-      "home": {
-        "id": "15",
-        "name": "Milwaukee Bucks",
-        "abbr": "MIL",
-        "score": 0,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-10-06T00:00Z"
-      },
-      "away": {
-        "id": "16",
-        "name": "Minnesota Timberwolves",
-        "abbr": "MIN",
-        "score": 0,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-10-06T00:00Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": true,
-        "event_id": 758851410,
-        "o1": "Milwaukee Bucks",
-        "o2": "Minnesota Timberwolves",
-        "swapped": false,
-        "league": "NBA. Preseason Matches",
-        "moneyline": {
-          "home": 2.598,
-          "away": 1.498,
-          "found": true
-        },
-        "spread": {
-          "line": 4.5,
-          "home_odd": 2.004,
-          "away_odd": 1.799,
-          "found": true
-        },
-        "total": {
-          "line": 229.5,
-          "over": 1.862,
-          "under": 1.939,
-          "found": true
-        },
-        "ht_total": {
-          "line": 112.5,
-          "over": 1.91,
-          "under": 1.89,
-          "found": true
-        }
-      },
-      "card_color": "grey"
-    },
-    {
-      "id": "401898716",
-      "name": "Los Angeles Lakers at Sacramento Kings",
-      "date_utc": "2026-10-06T02:00Z",
-      "state": "pre",
-      "status_name": "STATUS_SCHEDULED",
-      "clock": "0.0",
-      "period": 0,
-      "league": "NBA",
-      "home": {
-        "id": "23",
-        "name": "Sacramento Kings",
-        "abbr": "SAC",
-        "score": 0,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-10-06T02:00Z"
-      },
-      "away": {
-        "id": "13",
-        "name": "Los Angeles Lakers",
-        "abbr": "LAL",
-        "score": 0,
-        "wins": 0,
-        "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
-        "date_utc": "2026-10-06T02:00Z"
-      },
-      "signals": [],
-      "top_signal": null,
-      "odds_22bet": {
-        "found": true,
-        "event_id": 758872192,
-        "o1": "Sacramento Kings",
-        "o2": "Los Angeles Lakers",
-        "swapped": false,
-        "league": "NBA. Preseason Matches",
-        "moneyline": {
-          "home": 2.778,
-          "away": 1.444,
-          "found": true
-        },
-        "spread": {
-          "line": 4.5,
-          "home_odd": 2.089,
-          "away_odd": 1.722,
-          "found": true
-        },
-        "total": {
-          "line": 229.5,
-          "over": 1.9,
-          "under": 1.9,
-          "found": true
-        },
-        "ht_total": {
-          "line": 111.5,
-          "over": 1.87,
-          "under": 1.87,
-          "found": true
-        }
-      },
-      "card_color": "grey"
-    },
     {
       "id": "U2026_20",
       "name": "Hapoel Midtown Jerusalem at Cedevita Olimpija Ljubljana",
@@ -1137,11 +697,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 758996961,
+        "o1": "Los Angeles Lakers (cyber)",
+        "o2": "Oklahoma City Thunder (cyber)",
+        "swapped": true,
+        "league": "NBA 2K26. Cyber League",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": null,
+          "home_odd": null,
+          "away_odd": null,
+          "found": false
+        },
+        "total": {
+          "line": null,
+          "over": null,
+          "under": null,
+          "found": false
+        },
+        "ht_total": {
+          "line": null,
+          "over": null,
+          "under": null,
+          "found": false
+        }
       },
       "card_color": "grey"
     },
@@ -1266,32 +850,32 @@
       "top_signal": null,
       "odds_22bet": {
         "found": true,
-        "event_id": 758872192,
-        "o1": "Sacramento Kings",
-        "o2": "Los Angeles Lakers",
-        "swapped": false,
+        "event_id": 758999745,
+        "o1": "Los Angeles Lakers",
+        "o2": "Sacramento Kings",
+        "swapped": true,
         "league": "NBA. Preseason Matches",
         "moneyline": {
-          "home": 2.778,
-          "away": 1.444,
+          "home": 4.47,
+          "away": 1.184,
           "found": true
         },
         "spread": {
-          "line": 4.5,
-          "home_odd": 2.089,
-          "away_odd": 1.722,
+          "line": 8.5,
+          "home_odd": 2.104,
+          "away_odd": 1.65,
           "found": true
         },
         "total": {
           "line": 229.5,
-          "over": 1.9,
-          "under": 1.9,
+          "over": 1.87,
+          "under": 1.87,
           "found": true
         },
         "ht_total": {
-          "line": 111.5,
-          "over": 1.87,
-          "under": 1.87,
+          "line": 120.5,
+          "over": 1.896,
+          "under": 1.825,
           "found": true
         }
       },
@@ -1832,7 +1416,7 @@
       },
       "odds_22bet": {
         "found": true,
-        "event_id": 758960974,
+        "event_id": 759004622,
         "o1": "ASVEL Lyon-Villeurbanne (cyber)",
         "o2": "Zalgiris (cyber)",
         "swapped": true,
@@ -1843,21 +1427,21 @@
           "found": false
         },
         "spread": {
-          "line": -16.5,
-          "home_odd": 1.3,
-          "away_odd": 3.145,
+          "line": -24.5,
+          "home_odd": 1.315,
+          "away_odd": 3.055,
           "found": true
         },
         "total": {
-          "line": 127.5,
-          "over": 1.944,
-          "under": 1.86,
+          "line": 132.5,
+          "over": 1.89,
+          "under": 1.91,
           "found": true
         },
         "ht_total": {
-          "line": 53.5,
-          "over": 1.925,
-          "under": 1.875,
+          "line": 52.5,
+          "over": 1.904,
+          "under": 1.896,
           "found": true
         }
       },
@@ -1899,53 +1483,53 @@
         "name": "Minnesota Timberwolves",
         "abbr": "MIN",
         "score": 0,
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
+        "season_pct": 1.0,
+        "rest": 1,
+        "last_game": "2026-10-06",
+        "r10_win_rate": 1.0,
+        "r10_diff": 19.0,
+        "r5_win_rate": 1.0,
+        "r5_diff": 19.0,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 1.0,
+        "r20_diff": 19.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
         "date_utc": "2026-10-07T23:00Z"
       },
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
         "found": true,
-        "event_id": 758851410,
-        "o1": "Milwaukee Bucks",
-        "o2": "Minnesota Timberwolves",
-        "swapped": false,
-        "league": "NBA. Preseason Matches",
+        "event_id": 759002657,
+        "o1": "Minnesota Timberwolves (cyber)",
+        "o2": "Denver Nuggets (cyber)",
+        "swapped": true,
+        "league": "NBA 2K26. Cyber League",
         "moneyline": {
-          "home": 2.598,
-          "away": 1.498,
+          "home": 2.37,
+          "away": 1.504,
           "found": true
         },
         "spread": {
-          "line": 4.5,
-          "home_odd": 2.004,
-          "away_odd": 1.799,
+          "line": 3.5,
+          "home_odd": 2.304,
+          "away_odd": 1.53,
           "found": true
         },
         "total": {
-          "line": 229.5,
-          "over": 1.862,
-          "under": 1.939,
+          "line": 192.5,
+          "over": 1.92,
+          "under": 1.88,
           "found": true
         },
         "ht_total": {
-          "line": 112.5,
-          "over": 1.91,
-          "under": 1.89,
+          "line": 98.5,
+          "over": 1.825,
+          "under": 1.98,
           "found": true
         }
       },
@@ -1965,21 +1549,21 @@
         "name": "Memphis Grizzlies",
         "abbr": "MEM",
         "score": 0,
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
+        "season_pct": 1.0,
+        "rest": 3,
+        "last_game": "2026-10-05",
+        "r10_win_rate": 1.0,
+        "r10_diff": 9.0,
+        "r5_win_rate": 1.0,
+        "r5_diff": 9.0,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 1.0,
+        "r20_diff": 9.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
         "date_utc": "2026-10-08T00:00Z"
       },
       "away": {
@@ -2007,35 +1591,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 758835649,
-        "o1": "Atlanta Hawks",
-        "o2": "Memphis Grizzlies",
-        "swapped": true,
-        "league": "NBA. Preseason Matches",
-        "moneyline": {
-          "home": 2.232,
-          "away": 1.654,
-          "found": true
-        },
-        "spread": {
-          "line": 2.5,
-          "home_odd": 2.028,
-          "away_odd": 1.766,
-          "found": true
-        },
-        "total": {
-          "line": 231.5,
-          "over": 1.9,
-          "under": 1.9,
-          "found": true
-        },
-        "ht_total": {
-          "line": 117.5,
-          "over": 1.87,
-          "under": 1.87,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -2076,53 +1636,53 @@
         "abbr": "MIL",
         "score": 0,
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
+        "rest": 2,
+        "last_game": "2026-10-06",
+        "r10_win_rate": 0.0,
+        "r10_diff": -19.0,
+        "r5_win_rate": 0.0,
+        "r5_diff": -19.0,
+        "r3_win_rate": 0.0,
+        "r20_win_rate": 0.0,
+        "r20_diff": -19.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
         "date_utc": "2026-10-08T00:00Z"
       },
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
         "found": true,
-        "event_id": 758851410,
-        "o1": "Milwaukee Bucks",
-        "o2": "Minnesota Timberwolves",
+        "event_id": 758996961,
+        "o1": "Los Angeles Lakers (cyber)",
+        "o2": "Oklahoma City Thunder (cyber)",
         "swapped": true,
-        "league": "NBA. Preseason Matches",
+        "league": "NBA 2K26. Cyber League",
         "moneyline": {
-          "home": 1.498,
-          "away": 2.598,
-          "found": true
+          "home": null,
+          "away": null,
+          "found": false
         },
         "spread": {
-          "line": -4.5,
-          "home_odd": 1.799,
-          "away_odd": 2.004,
-          "found": true
+          "line": null,
+          "home_odd": null,
+          "away_odd": null,
+          "found": false
         },
         "total": {
-          "line": 229.5,
-          "over": 1.862,
-          "under": 1.939,
-          "found": true
+          "line": null,
+          "over": null,
+          "under": null,
+          "found": false
         },
         "ht_total": {
-          "line": 112.5,
-          "over": 1.91,
-          "under": 1.89,
-          "found": true
+          "line": null,
+          "over": null,
+          "under": null,
+          "found": false
         }
       },
       "card_color": "grey"
@@ -2164,54 +1724,30 @@
         "abbr": "PHX",
         "score": 0,
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
+        "rest": 3,
+        "last_game": "2026-10-05",
+        "r10_win_rate": 0.0,
+        "r10_diff": -2.0,
+        "r5_win_rate": 0.0,
+        "r5_diff": -2.0,
+        "r3_win_rate": 0.0,
+        "r20_win_rate": 0.0,
+        "r20_diff": -2.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
         "date_utc": "2026-10-08T00:00Z"
       },
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 758835656,
-        "o1": "Detroit Pistons",
-        "o2": "Phoenix Suns",
-        "swapped": false,
-        "league": "NBA. Preseason Matches",
-        "moneyline": {
-          "home": 1.722,
-          "away": 2.119,
-          "found": true
-        },
-        "spread": {
-          "line": -1.5,
-          "home_odd": 1.821,
-          "away_odd": 1.986,
-          "found": true
-        },
-        "total": {
-          "line": null,
-          "over": null,
-          "under": null,
-          "found": false
-        },
-        "ht_total": {
-          "line": 109.5,
-          "over": 1.9,
-          "under": 1.9,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -2636,10 +2172,7 @@
           "league_roi_pct": 13.88,
           "league_bets": 171,
           "league_data_status": "verified",
-          "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 3.66,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$3.66/$10"
+          "bet_recommendation": "moneyline"
         }
       ],
       "top_signal": {
@@ -2655,41 +2188,14 @@
         "league_roi_pct": 13.88,
         "league_bets": 171,
         "league_data_status": "verified",
-        "bet_recommendation": "moneyline",
-        "ml_ev_per_10": 3.66,
-        "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$3.66/$10"
+        "bet_recommendation": "moneyline"
       },
       "odds_22bet": {
-        "found": true,
-        "event_id": 758965166,
-        "o1": "Virtus Bologna (cyber)",
-        "o2": "Maccabi Tel Aviv (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber Euro League",
-        "moneyline": {
-          "home": 2.29,
-          "away": 1.565,
-          "found": true
-        },
-        "spread": {
-          "line": -1.5,
-          "home_odd": 2.345,
-          "away_odd": 1.512,
-          "found": true
-        },
-        "total": {
-          "line": 141.5,
-          "over": 1.95,
-          "under": 1.855,
-          "found": true
-        },
-        "ht_total": {
-          "line": 72.5,
-          "over": 1.96,
-          "under": 1.848,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -3331,35 +2837,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 758961672,
-        "o1": "Los Angeles Clippers (cyber)",
-        "o2": "Cleveland Cavaliers (cyber)",
-        "swapped": true,
-        "league": "NBA 2K26. Cyber League",
-        "moneyline": {
-          "home": 1.125,
-          "away": 4.49,
-          "found": true
-        },
-        "spread": {
-          "line": -4.5,
-          "home_odd": 1.305,
-          "away_odd": 3.11,
-          "found": true
-        },
-        "total": {
-          "line": 226.5,
-          "over": 1.944,
-          "under": 1.856,
-          "found": true
-        },
-        "ht_total": {
-          "line": 108.5,
-          "over": 1.936,
-          "under": 1.864,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -3463,55 +2945,31 @@
         "name": "Philadelphia 76ers",
         "abbr": "PHI",
         "score": 0,
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
-        "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
+        "season_pct": 1.0,
+        "rest": 3,
+        "last_game": "2026-10-05",
+        "r10_win_rate": 1.0,
+        "r10_diff": 23.0,
+        "r5_win_rate": 1.0,
+        "r5_diff": 23.0,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 1.0,
+        "r20_diff": 23.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
         "date_utc": "2026-10-08T23:30Z"
       },
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 758835663,
-        "o1": "Philadelphia 76ers",
-        "o2": "New York Knicks",
-        "swapped": true,
-        "league": "NBA. Preseason Matches",
-        "moneyline": {
-          "home": 1.538,
-          "away": 2.485,
-          "found": true
-        },
-        "spread": {
-          "line": 1.0,
-          "home_odd": 1.83,
-          "away_odd": 1.88,
-          "found": true
-        },
-        "total": {
-          "line": 228.5,
-          "over": 1.9,
-          "under": 1.9,
-          "found": true
-        },
-        "ht_total": {
-          "line": 111.5,
-          "over": 1.85,
-          "under": 1.93,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -3530,20 +2988,20 @@
         "abbr": "NY",
         "score": 0,
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
+        "rest": 3,
+        "last_game": "2026-10-05",
+        "r10_win_rate": 0.0,
+        "r10_diff": -23.0,
+        "r5_win_rate": 0.0,
+        "r5_diff": -23.0,
+        "r3_win_rate": 0.0,
+        "r20_win_rate": 0.0,
+        "r20_diff": -23.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
         "date_utc": "2026-10-08T23:30Z"
       },
       "away": {
@@ -3571,35 +3029,11 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 758835663,
-        "o1": "Philadelphia 76ers",
-        "o2": "New York Knicks",
-        "swapped": true,
-        "league": "NBA. Preseason Matches",
-        "moneyline": {
-          "home": 1.538,
-          "away": 2.485,
-          "found": true
-        },
-        "spread": {
-          "line": 1.0,
-          "home_odd": 1.83,
-          "away_odd": 1.88,
-          "found": true
-        },
-        "total": {
-          "line": 228.5,
-          "over": 1.9,
-          "under": 1.9,
-          "found": true
-        },
-        "ht_total": {
-          "line": 111.5,
-          "over": 1.85,
-          "under": 1.93,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -3640,54 +3074,30 @@
         "abbr": "ATL",
         "score": 0,
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "season_pct": 0.0,
-        "rest": 7,
-        "last_game": null,
-        "r10_win_rate": null,
-        "r10_diff": null,
-        "r5_win_rate": null,
-        "r5_diff": null,
-        "r3_win_rate": null,
-        "r20_win_rate": null,
-        "r20_diff": null,
-        "games_last_5d": 0,
-        "games_last_7d": 0,
-        "games_used": 0,
+        "rest": 4,
+        "last_game": "2026-10-05",
+        "r10_win_rate": 0.0,
+        "r10_diff": -9.0,
+        "r5_win_rate": 0.0,
+        "r5_diff": -9.0,
+        "r3_win_rate": 0.0,
+        "r20_win_rate": 0.0,
+        "r20_diff": -9.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
         "date_utc": "2026-10-09T00:00Z"
       },
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": true,
-        "event_id": 758835649,
-        "o1": "Atlanta Hawks",
-        "o2": "Memphis Grizzlies",
-        "swapped": true,
-        "league": "NBA. Preseason Matches",
-        "moneyline": {
-          "home": 2.232,
-          "away": 1.654,
-          "found": true
-        },
-        "spread": {
-          "line": 2.5,
-          "home_odd": 2.028,
-          "away_odd": 1.766,
-          "found": true
-        },
-        "total": {
-          "line": 231.5,
-          "over": 1.9,
-          "under": 1.9,
-          "found": true
-        },
-        "ht_total": {
-          "line": 117.5,
-          "over": 1.87,
-          "under": 1.87,
-          "found": true
-        }
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -3748,34 +3158,98 @@
       "top_signal": null,
       "odds_22bet": {
         "found": true,
-        "event_id": 758872192,
-        "o1": "Sacramento Kings",
-        "o2": "Los Angeles Lakers",
-        "swapped": true,
+        "event_id": 758999745,
+        "o1": "Los Angeles Lakers",
+        "o2": "Sacramento Kings",
+        "swapped": false,
         "league": "NBA. Preseason Matches",
         "moneyline": {
-          "home": 1.444,
-          "away": 2.778,
+          "home": 1.184,
+          "away": 4.47,
           "found": true
         },
         "spread": {
-          "line": -4.5,
-          "home_odd": 1.722,
-          "away_odd": 2.089,
+          "line": -8.5,
+          "home_odd": 1.65,
+          "away_odd": 2.104,
           "found": true
         },
         "total": {
           "line": 229.5,
-          "over": 1.9,
-          "under": 1.9,
-          "found": true
-        },
-        "ht_total": {
-          "line": 111.5,
           "over": 1.87,
           "under": 1.87,
           "found": true
+        },
+        "ht_total": {
+          "line": 120.5,
+          "over": 1.896,
+          "under": 1.825,
+          "found": true
         }
+      },
+      "card_color": "grey"
+    },
+    {
+      "id": "401898395",
+      "name": "Houston Rockets at Dallas Mavericks",
+      "date_utc": "2026-10-09T12:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "NBA",
+      "home": {
+        "id": "6",
+        "name": "Dallas Mavericks",
+        "abbr": "DAL",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 7,
+        "last_game": null,
+        "r10_win_rate": null,
+        "r10_diff": null,
+        "r5_win_rate": null,
+        "r5_diff": null,
+        "r3_win_rate": null,
+        "r20_win_rate": null,
+        "r20_diff": null,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 0,
+        "date_utc": "2026-10-09T12:00Z"
+      },
+      "away": {
+        "id": "10",
+        "name": "Houston Rockets",
+        "abbr": "HOU",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 7,
+        "last_game": null,
+        "r10_win_rate": null,
+        "r10_diff": null,
+        "r5_win_rate": null,
+        "r5_diff": null,
+        "r3_win_rate": null,
+        "r20_win_rate": null,
+        "r20_diff": null,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 0,
+        "date_utc": "2026-10-09T12:00Z"
+      },
+      "signals": [],
+      "top_signal": null,
+      "odds_22bet": {
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
       },
       "card_color": "grey"
     },
@@ -4234,12 +3708,76 @@
         "ht_total": {}
       },
       "card_color": "green"
+    },
+    {
+      "id": "401908940",
+      "name": "Memphis Grizzlies at Chicago Bulls",
+      "date_utc": "2026-10-10T00:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "NBA",
+      "home": {
+        "id": "4",
+        "name": "Chicago Bulls",
+        "abbr": "CHI",
+        "score": 0,
+        "wins": 0,
+        "losses": 0,
+        "season_pct": 0.0,
+        "rest": 7,
+        "last_game": null,
+        "r10_win_rate": null,
+        "r10_diff": null,
+        "r5_win_rate": null,
+        "r5_diff": null,
+        "r3_win_rate": null,
+        "r20_win_rate": null,
+        "r20_diff": null,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 0,
+        "date_utc": "2026-10-10T00:00Z"
+      },
+      "away": {
+        "id": "29",
+        "name": "Memphis Grizzlies",
+        "abbr": "MEM",
+        "score": 0,
+        "wins": 1,
+        "losses": 0,
+        "season_pct": 1.0,
+        "rest": 5,
+        "last_game": "2026-10-05",
+        "r10_win_rate": 1.0,
+        "r10_diff": 9.0,
+        "r5_win_rate": 1.0,
+        "r5_diff": 9.0,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 1.0,
+        "r20_diff": 9.0,
+        "games_last_5d": 1,
+        "games_last_7d": 1,
+        "games_used": 1,
+        "date_utc": "2026-10-10T00:00Z"
+      },
+      "signals": [],
+      "top_signal": null,
+      "odds_22bet": {
+        "found": false,
+        "moneyline": {},
+        "spread": {},
+        "total": {},
+        "ht_total": {}
+      },
+      "card_color": "grey"
     }
   ],
   "meta": {
-    "total_games": 46,
+    "total_games": 43,
     "total_signals": 44,
-    "bet22_events": 18,
+    "bet22_events": 13,
     "season": "2026-27 Regular Season"
   }
 }
