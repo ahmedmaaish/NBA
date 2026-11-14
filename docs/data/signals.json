@@ -1,58 +1,58 @@
 {
-  "updated_utc": "2026-11-14T09:58:07+00:00",
+  "updated_utc": "2026-11-14T16:30:46+00:00",
   "games": [
     {
-      "id": "770792117",
-      "name": "Turk Telekom at Petkimspor",
-      "date_utc": "2026-11-14T10:00:00Z",
+      "id": "770869956",
+      "name": "Gargzdai at Siauliai",
+      "date_utc": "2026-11-14T14:50:00Z",
       "state": "pre",
       "status_name": "STATUS_SCHEDULED",
       "clock": "0.0",
       "period": 0,
-      "league": "Turkey \u2014 Super League",
+      "league": "Lithuania \u2014 LKL",
       "home": {
-        "id": "Petkim Spor",
-        "name": "Petkimspor",
-        "abbr": "PET",
+        "id": "\u0160iauliai",
+        "name": "Siauliai",
+        "abbr": "SIA",
         "score": 0,
-        "wins": 7,
-        "losses": 14,
-        "season_pct": 0.3333333333333333,
-        "rest": 175,
-        "last_game": "2026-05-23",
-        "r10_win_rate": 0.2,
-        "r10_diff": -7.7,
-        "r5_win_rate": 0.2,
-        "r5_diff": -9.8,
-        "r3_win_rate": 0.333,
-        "r20_win_rate": 0.3,
-        "r20_diff": -5.4,
+        "wins": 4,
+        "losses": 7,
+        "season_pct": 0.36363636363636365,
+        "rest": 174,
+        "last_game": "2026-05-24",
+        "r10_win_rate": 0.4,
+        "r10_diff": -3.3,
+        "r5_win_rate": 0.4,
+        "r5_diff": -4.6,
+        "r3_win_rate": 0.0,
+        "r20_win_rate": 0.4,
+        "r20_diff": -4.8,
         "games_last_5d": 0,
         "games_last_7d": 0,
         "games_used": 10,
-        "date_utc": "2026-11-14T10:00:00Z"
+        "date_utc": "2026-11-14T14:50:00Z"
       },
       "away": {
-        "id": "T\u00fcrk Telekom",
-        "name": "Turk Telekom",
-        "abbr": "TT",
+        "id": "Garg\u017edai",
+        "name": "Gargzdai",
+        "abbr": "GAR",
         "score": 0,
-        "wins": 16,
-        "losses": 5,
-        "season_pct": 0.7619047619047619,
-        "rest": 171,
-        "last_game": "2026-05-27",
-        "r10_win_rate": 1.0,
-        "r10_diff": 18.3,
-        "r5_win_rate": 1.0,
-        "r5_diff": 9.6,
-        "r3_win_rate": 1.0,
-        "r20_win_rate": 0.75,
-        "r20_diff": 9.05,
+        "wins": 1,
+        "losses": 2,
+        "season_pct": 0.3333333333333333,
+        "rest": 197,
+        "last_game": "2026-05-01",
+        "r10_win_rate": 0.3,
+        "r10_diff": -12.1,
+        "r5_win_rate": 0.2,
+        "r5_diff": -17.4,
+        "r3_win_rate": 0.333,
+        "r20_win_rate": 0.4,
+        "r20_diff": -8.25,
         "games_last_5d": 0,
         "games_last_7d": 0,
         "games_used": 10,
-        "date_utc": "2026-11-14T10:00:00Z"
+        "date_utc": "2026-11-14T14:50:00Z"
       },
       "signals": [
         {
@@ -61,134 +61,17 @@
           "roi_pct": 36.0,
           "bets_yr": 437,
           "confidence": "high",
-          "bet": "away",
+          "bet": "home",
           "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
           "realistic_edge": false,
-          "league_win_rate": 70.82,
-          "league_roi_pct": 35.19,
-          "league_bets": 490,
+          "league_win_rate": 81.3,
+          "league_roi_pct": 55.21,
+          "league_bets": 246,
           "league_data_status": "verified",
-          "league_ats_wr": 50.0,
-          "league_ats_safe": false,
-          "bet_recommendation": "moneyline_only",
-          "ml_ev_per_10": 1.01,
-          "hcap_ev_per_10": -1.75,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$1.01/$10 is higher AND simpler"
-        },
-        {
-          "name": "Dominant Away vs Losing Home",
-          "win_rate": 70.7,
-          "roi_pct": 35.0,
-          "bets_yr": 60,
-          "confidence": "high",
-          "bet": "away",
-          "note": "Away team +7pt avg diff; home team negative form (<-2).",
-          "realistic_edge": false,
-          "league_win_rate": 80.21,
-          "league_roi_pct": 53.12,
-          "league_bets": 96,
-          "league_data_status": "verified",
-          "league_ats_wr": 57.3,
+          "league_ats_wr": 60.6,
           "league_ats_safe": true,
           "bet_recommendation": "handicap_or_moneyline",
-          "ml_ev_per_10": 2.47,
-          "hcap_ev_per_10": -0.55,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$2.47/$10 is higher AND simpler"
-        },
-        {
-          "name": "Win-Rate Gap >25% -> Bet Favourite",
-          "win_rate": 68.7,
-          "roi_pct": 31.2,
-          "bets_yr": 479,
-          "confidence": "medium",
-          "bet": "away",
-          "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
-          "realistic_edge": false,
-          "league_win_rate": 69.2,
-          "league_roi_pct": 32.11,
-          "league_bets": 526,
-          "league_data_status": "verified",
-          "league_ats_wr": 50.4,
-          "league_ats_safe": false,
-          "bet_recommendation": "moneyline_only",
-          "ml_ev_per_10": 0.76,
-          "hcap_ev_per_10": -1.68,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$0.76/$10 is higher AND simpler"
-        },
-        {
-          "name": "Early-Season WR Edge >25% -> Better",
-          "win_rate": 67.9,
-          "roi_pct": 29.6,
-          "bets_yr": 95,
-          "confidence": "medium",
-          "bet": "away",
-          "note": "Early season (Oct-Nov): |10g WR gap| >25%. Form trumps season-record noise when sample is small.",
-          "realistic_edge": true,
-          "league_win_rate": 52.73,
-          "league_roi_pct": 0.66,
-          "league_bets": 55,
-          "league_data_status": "verified",
-          "bet_recommendation": "moneyline",
-          "ml_ev_per_10": -1.8,
-          "best_bet_type": "skip",
-          "best_bet_reason": "Team Wins -EV; skip"
-        },
-        {
-          "name": "Away +30% WR Edge + Rested",
-          "win_rate": 64.1,
-          "roi_pct": 22.4,
-          "bets_yr": 81,
-          "confidence": "medium",
-          "bet": "away",
-          "note": "Away WR beats home by 30%+ and away team is rested (2+ days).",
-          "realistic_edge": true,
-          "league_win_rate": 68.52,
-          "league_roi_pct": 30.81,
-          "league_bets": 216,
-          "league_data_status": "verified",
-          "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 0.65,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$0.65/$10"
-        },
-        {
-          "name": "Elite Away Rested vs Weak Home",
-          "win_rate": 63.3,
-          "roi_pct": 20.9,
-          "bets_yr": 56,
-          "confidence": "medium",
-          "bet": "away",
-          "note": "Away WR >62%, home WR <45%, away rested 2+ days. Away team may still be underdog \u2014 check the line.",
-          "realistic_edge": true,
-          "league_win_rate": 68.35,
-          "league_roi_pct": 30.49,
-          "league_bets": 158,
-          "league_data_status": "verified",
-          "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 0.63,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$0.63/$10"
-        },
-        {
-          "name": "Hot Away 5g + Rest -> Away",
-          "win_rate": 61.8,
-          "roi_pct": 17.9,
-          "bets_yr": 66,
-          "confidence": "medium",
-          "bet": "away",
-          "note": "Away 5g WR >75%, away rested 2+ days, home 5g WR <50%. Away is hotter, fresher.",
-          "realistic_edge": true,
-          "league_win_rate": 65.45,
-          "league_roi_pct": 24.96,
-          "league_bets": 110,
-          "league_data_status": "verified",
-          "bet_recommendation": "moneyline",
-          "ml_ev_per_10": 0.18,
-          "best_bet_type": "team_wins",
-          "best_bet_reason": "Team Wins EV +$0.18/$10"
+          "hcap_ev_per_10": -1.15
         }
       ],
       "top_signal": {
@@ -197,50 +80,291 @@
         "roi_pct": 36.0,
         "bets_yr": 437,
         "confidence": "high",
-        "bet": "away",
+        "bet": "home",
         "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
         "realistic_edge": false,
-        "league_win_rate": 70.82,
-        "league_roi_pct": 35.19,
-        "league_bets": 490,
+        "league_win_rate": 81.3,
+        "league_roi_pct": 55.21,
+        "league_bets": 246,
         "league_data_status": "verified",
-        "league_ats_wr": 50.0,
-        "league_ats_safe": false,
-        "bet_recommendation": "moneyline_only",
-        "ml_ev_per_10": 1.01,
-        "hcap_ev_per_10": -1.75,
-        "best_bet_type": "team_wins",
-        "best_bet_reason": "Team Wins EV +$1.01/$10 is higher AND simpler"
+        "league_ats_wr": 60.6,
+        "league_ats_safe": true,
+        "bet_recommendation": "handicap_or_moneyline",
+        "hcap_ev_per_10": -1.15
       },
       "odds_22bet": {
         "found": true,
-        "event_id": 770792117,
-        "o1": "Petkimspor",
-        "o2": "Turk Telekom",
+        "event_id": 770869956,
+        "o1": "Siauliai",
+        "o2": "Gargzdai",
         "swapped": false,
-        "league": "Turkey. Super League",
+        "league": "Lithuania. LKL",
         "moneyline": {
-          "home": 2.344,
-          "away": 1.555,
-          "found": true
+          "home": null,
+          "away": null,
+          "found": false
         },
         "spread": {
-          "line": 1.5,
-          "home_odd": 2.1,
-          "away_odd": 1.65,
+          "line": -10.5,
+          "home_odd": 1.46,
+          "away_odd": 2.52,
           "found": true
         },
         "total": {
-          "line": 164.5,
+          "line": 172.5,
+          "over": 1.975,
+          "under": 1.775,
+          "found": true
+        },
+        "ht_total": {
+          "line": 92.5,
+          "over": 1.885,
+          "under": 1.856,
+          "found": true
+        }
+      },
+      "card_color": "green"
+    },
+    {
+      "id": "770903155",
+      "name": "Bnei Herzliya at Hapoel Tel Aviv",
+      "date_utc": "2026-11-14T16:30:00Z",
+      "state": "pre",
+      "status_name": "STATUS_SCHEDULED",
+      "clock": "0.0",
+      "period": 0,
+      "league": "Israel \u2014 Superleague",
+      "home": {
+        "id": "Hapoel Tel Aviv",
+        "name": "Hapoel Tel Aviv",
+        "abbr": "HTA",
+        "score": 0,
+        "wins": 5,
+        "losses": 0,
+        "season_pct": 1.0,
+        "rest": 195,
+        "last_game": "2026-05-03",
+        "r10_win_rate": 1.0,
+        "r10_diff": 15.6,
+        "r5_win_rate": 1.0,
+        "r5_diff": 11.6,
+        "r3_win_rate": 1.0,
+        "r20_win_rate": 0.85,
+        "r20_diff": 12.2,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-11-14T16:30:00Z"
+      },
+      "away": {
+        "id": "Bnei Herzliya",
+        "name": "Bnei Herzliya",
+        "abbr": "BH",
+        "score": 0,
+        "wins": 4,
+        "losses": 1,
+        "season_pct": 0.8,
+        "rest": 187,
+        "last_game": "2026-05-11",
+        "r10_win_rate": 0.6,
+        "r10_diff": -3.5,
+        "r5_win_rate": 0.8,
+        "r5_diff": -4.6,
+        "r3_win_rate": 0.667,
+        "r20_win_rate": 0.65,
+        "r20_diff": 1.25,
+        "games_last_5d": 0,
+        "games_last_7d": 0,
+        "games_used": 10,
+        "date_utc": "2026-11-14T16:30:00Z"
+      },
+      "signals": [
+        {
+          "name": "Rest Edge + Season Lead -> Bet Home",
+          "win_rate": 77.4,
+          "roi_pct": 47.8,
+          "bets_yr": 37,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Home has 2+ day rest advantage AND >10% season win% lead. Heavy favourite (-200 to -400). Use as spread/ATS or parlay leg.",
+          "realistic_edge": false,
+          "league_data_status": "not_backtested_for_league",
+          "bet_recommendation": "handicap"
+        },
+        {
+          "name": "Home Form Edge +5pts -> Bet Home",
+          "win_rate": 76.9,
+          "roi_pct": 46.8,
+          "bets_yr": 221,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
+          "realistic_edge": false,
+          "league_win_rate": 87.32,
+          "league_roi_pct": 66.71,
+          "league_bets": 71,
+          "league_data_status": "verified",
+          "league_ats_wr": 59.2,
+          "league_ats_safe": true,
+          "bet_recommendation": "handicap_or_moneyline",
+          "hcap_ev_per_10": -0.23
+        },
+        {
+          "name": "20g Hot Home + WR Edge -> Home",
+          "win_rate": 76.5,
+          "roi_pct": 46.0,
+          "bets_yr": 137,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Home WR in last 20 games >65% AND 10g WR edge >10%. Established hot team.",
+          "realistic_edge": true,
+          "league_win_rate": 86.49,
+          "league_roi_pct": 65.11,
+          "league_bets": 37,
+          "league_data_status": "verified",
+          "league_ats_wr": 67.6,
+          "league_ats_safe": true,
+          "bet_recommendation": "handicap_or_moneyline",
+          "hcap_ev_per_10": 1.15
+        },
+        {
+          "name": "Triple-Edge Home (Rest+WR+Diff)",
+          "win_rate": 75.8,
+          "roi_pct": 44.7,
+          "bets_yr": 108,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Home leads on rest, 10-game win rate AND point diff. Strong ATS signal even when priced as -200 favourite.",
+          "realistic_edge": true,
+          "league_data_status": "not_backtested_for_league",
+          "bet_recommendation": "moneyline"
+        },
+        {
+          "name": "Mild Form Edge -> Home",
+          "win_rate": 74.1,
+          "roi_pct": 41.5,
+          "bets_yr": 329,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
+          "realistic_edge": true,
+          "league_win_rate": 84.85,
+          "league_roi_pct": 61.98,
+          "league_bets": 99,
+          "league_data_status": "verified",
+          "league_ats_wr": 62.6,
+          "league_ats_safe": true,
+          "bet_recommendation": "handicap_or_moneyline",
+          "hcap_ev_per_10": 0.33
+        },
+        {
+          "name": "Home Consistency Edge -> Home",
+          "win_rate": 72.7,
+          "roi_pct": 38.8,
+          "bets_yr": 179,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
+          "realistic_edge": true,
+          "league_win_rate": 74.63,
+          "league_roi_pct": 42.47,
+          "league_bets": 67,
+          "league_data_status": "verified",
+          "league_ats_wr": 58.2,
+          "league_ats_safe": true,
+          "bet_recommendation": "handicap_or_moneyline",
+          "hcap_ev_per_10": -0.4
+        },
+        {
+          "name": "Form Gap >8pts -> Bet In-Form Team",
+          "win_rate": 71.2,
+          "roi_pct": 36.0,
+          "bets_yr": 437,
+          "confidence": "high",
+          "bet": "home",
+          "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
+          "realistic_edge": false,
+          "league_win_rate": 71.39,
+          "league_roi_pct": 36.3,
+          "league_bets": 409,
+          "league_data_status": "verified",
+          "league_ats_wr": 47.7,
+          "league_ats_safe": false,
+          "bet_recommendation": "moneyline_only",
+          "hcap_ev_per_10": -2.13
+        },
+        {
+          "name": "Win-Rate Gap >25% -> Bet Favourite",
+          "win_rate": 68.7,
+          "roi_pct": 31.2,
+          "bets_yr": 479,
+          "confidence": "medium",
+          "bet": "home",
+          "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
+          "realistic_edge": false,
+          "league_win_rate": 68.75,
+          "league_roi_pct": 31.25,
+          "league_bets": 432,
+          "league_data_status": "verified",
+          "league_ats_wr": 47.5,
+          "league_ats_safe": false,
+          "bet_recommendation": "moneyline_only",
+          "hcap_ev_per_10": -2.16
+        },
+        {
+          "name": "Early-Season WR Edge >25% -> Better",
+          "win_rate": 67.9,
+          "roi_pct": 29.6,
+          "bets_yr": 95,
+          "confidence": "medium",
+          "bet": "home",
+          "note": "Early season (Oct-Nov): |10g WR gap| >25%. Form trumps season-record noise when sample is small.",
+          "realistic_edge": true,
+          "league_data_status": "not_backtested_for_league",
+          "bet_recommendation": "moneyline"
+        }
+      ],
+      "top_signal": {
+        "name": "Rest Edge + Season Lead -> Bet Home",
+        "win_rate": 77.4,
+        "roi_pct": 47.8,
+        "bets_yr": 37,
+        "confidence": "high",
+        "bet": "home",
+        "note": "Home has 2+ day rest advantage AND >10% season win% lead. Heavy favourite (-200 to -400). Use as spread/ATS or parlay leg.",
+        "realistic_edge": false,
+        "league_data_status": "not_backtested_for_league",
+        "bet_recommendation": "handicap"
+      },
+      "odds_22bet": {
+        "found": true,
+        "event_id": 770903155,
+        "o1": "Hapoel Tel Aviv",
+        "o2": "Bnei Herzliya",
+        "swapped": false,
+        "league": "Israel. Superleague",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": -13.5,
+          "home_odd": 1.65,
+          "away_odd": 2.1,
+          "found": true
+        },
+        "total": {
+          "line": 172.5,
           "over": 1.87,
           "under": 1.87,
           "found": true
         },
         "ht_total": {
-          "line": 80.5,
-          "over": 1.84,
-          "under": 1.88,
-          "found": true
+          "line": null,
+          "over": null,
+          "under": null,
+          "found": false
         }
       },
       "card_color": "green"
@@ -309,7 +433,10 @@
           "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": -1.66,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Cold 3-Game Home Streak -> Fade Home",
@@ -321,7 +448,10 @@
           "note": "Home lost 2+ of last 3 AND away team is winning (10g WR >50%). Bet the team riding momentum.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -2.76,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         }
       ],
       "top_signal": {
@@ -334,14 +464,41 @@
         "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
         "realistic_edge": false,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "handicap"
+        "bet_recommendation": "handicap",
+        "ml_ev_per_10": -1.66,
+        "best_bet_type": "skip",
+        "best_bet_reason": "Team Wins -EV; skip"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770732609,
+        "o1": "New Orleans Pelicans",
+        "o2": "Denver Nuggets",
+        "swapped": false,
+        "league": "NBA",
+        "moneyline": {
+          "home": 5.48,
+          "away": 1.171,
+          "found": true
+        },
+        "spread": {
+          "line": 10.5,
+          "home_odd": 2.16,
+          "away_odd": 1.724,
+          "found": true
+        },
+        "total": {
+          "line": 234.5,
+          "over": 1.956,
+          "under": 1.905,
+          "found": true
+        },
+        "ht_total": {
+          "line": 110.5,
+          "over": 1.89,
+          "under": 1.89,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -401,11 +558,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770744014,
+        "o1": "Cleveland Cavaliers",
+        "o2": "Dallas Mavericks",
+        "swapped": false,
+        "league": "NBA",
+        "moneyline": {
+          "home": 2.116,
+          "away": 1.774,
+          "found": true
+        },
+        "spread": {
+          "line": 1.5,
+          "home_odd": 1.966,
+          "away_odd": 1.895,
+          "found": true
+        },
+        "total": {
+          "line": 231.5,
+          "over": 1.93,
+          "under": 1.93,
+          "found": true
+        },
+        "ht_total": {
+          "line": 114.5,
+          "over": 1.846,
+          "under": 1.936,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -473,7 +654,10 @@
           "note": "Diff edge between 5 and 8 pts. Bridge between S5 and S11 for medium-strength signals.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -0.84,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         }
       ],
       "top_signal": {
@@ -486,14 +670,41 @@
         "note": "Diff edge between 5 and 8 pts. Bridge between S5 and S11 for medium-strength signals.",
         "realistic_edge": true,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "moneyline"
+        "bet_recommendation": "moneyline",
+        "ml_ev_per_10": -0.84,
+        "best_bet_type": "skip",
+        "best_bet_reason": "Team Wins -EV; skip"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770722951,
+        "o1": "Miami Heat",
+        "o2": "Detroit Pistons",
+        "swapped": false,
+        "league": "NBA",
+        "moneyline": {
+          "home": 2.707,
+          "away": 1.499,
+          "found": true
+        },
+        "spread": {
+          "line": 2.5,
+          "home_odd": 2.309,
+          "away_odd": 1.64,
+          "found": true
+        },
+        "total": {
+          "line": 228.5,
+          "over": 1.905,
+          "under": 1.956,
+          "found": true
+        },
+        "ht_total": {
+          "line": 111.5,
+          "over": 1.875,
+          "under": 1.905,
+          "found": true
+        }
       },
       "card_color": "amber"
     },
@@ -561,7 +772,10 @@
           "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 2.33,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$2.33/$10"
         },
         {
           "name": "20g Hot Home + WR Edge -> Home",
@@ -573,7 +787,10 @@
           "note": "Home WR in last 20 games >65% AND 10g WR edge >10%. Established hot team.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 2.27,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$2.27/$10"
         },
         {
           "name": "Mild Form Edge -> Home",
@@ -585,7 +802,10 @@
           "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 1.89,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$1.89/$10"
         },
         {
           "name": "Form Gap >8pts -> Bet In-Form Team",
@@ -597,7 +817,10 @@
           "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 1.42,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$1.42/$10"
         },
         {
           "name": "Win-Rate Gap >25% -> Bet Favourite",
@@ -609,7 +832,10 @@
           "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 1.02,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$1.02/$10"
         },
         {
           "name": "Early-Season WR Edge >25% -> Better",
@@ -621,7 +847,10 @@
           "note": "Early season (Oct-Nov): |10g WR gap| >25%. Form trumps season-record noise when sample is small.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 0.89,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$0.89/$10"
         }
       ],
       "top_signal": {
@@ -634,14 +863,41 @@
         "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
         "realistic_edge": false,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "handicap"
+        "bet_recommendation": "handicap",
+        "ml_ev_per_10": 2.33,
+        "best_bet_type": "team_wins",
+        "best_bet_reason": "Team Wins EV +$2.33/$10"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770743079,
+        "o1": "Memphis Grizzlies",
+        "o2": "Brooklyn Nets",
+        "swapped": false,
+        "league": "NBA",
+        "moneyline": {
+          "home": 1.604,
+          "away": 2.422,
+          "found": true
+        },
+        "spread": {
+          "line": -1.5,
+          "home_odd": 1.698,
+          "away_odd": 2.203,
+          "found": true
+        },
+        "total": {
+          "line": 228.5,
+          "over": 1.956,
+          "under": 1.905,
+          "found": true
+        },
+        "ht_total": {
+          "line": 115.5,
+          "over": 1.846,
+          "under": 1.936,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -709,7 +965,10 @@
           "note": "Home WR in last 5 >70%; away WR in last 5 <35%.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": -1.3,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Home Form Edge +5pts -> Bet Home",
@@ -721,7 +980,10 @@
           "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": -1.48,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "20g Hot Home + WR Edge -> Home",
@@ -733,7 +995,10 @@
           "note": "Home WR in last 20 games >65% AND 10g WR edge >10%. Established hot team.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -1.52,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Triple-Edge Home (Rest+WR+Diff)",
@@ -745,7 +1010,10 @@
           "note": "Home leads on rest, 10-game win rate AND point diff. Strong ATS signal even when priced as -200 favourite.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -1.6,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Mild Form Edge -> Home",
@@ -757,7 +1025,10 @@
           "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -1.79,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Home Consistency Edge -> Home",
@@ -769,7 +1040,10 @@
           "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -1.94,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Form Gap >8pts -> Bet In-Form Team",
@@ -781,7 +1055,10 @@
           "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": -2.11,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Win-Rate Gap >25% -> Bet Favourite",
@@ -793,7 +1070,10 @@
           "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": -2.39,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Early-Season WR Edge >25% -> Better",
@@ -805,7 +1085,10 @@
           "note": "Early season (Oct-Nov): |10g WR gap| >25%. Form trumps season-record noise when sample is small.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -2.48,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Away B2B -> Bet Home",
@@ -817,7 +1100,10 @@
           "note": "Away team on back-to-back (1 day rest). Home team rested 2+ days.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -3.35,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         }
       ],
       "top_signal": {
@@ -830,14 +1116,41 @@
         "note": "Home WR in last 5 >70%; away WR in last 5 <35%.",
         "realistic_edge": false,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "handicap"
+        "bet_recommendation": "handicap",
+        "ml_ev_per_10": -1.3,
+        "best_bet_type": "skip",
+        "best_bet_reason": "Team Wins -EV; skip"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770743524,
+        "o1": "Minnesota Timberwolves",
+        "o2": "Chicago Bulls",
+        "swapped": false,
+        "league": "NBA",
+        "moneyline": {
+          "home": 1.108,
+          "away": 7.45,
+          "found": true
+        },
+        "spread": {
+          "line": -13.5,
+          "home_odd": 1.744,
+          "away_odd": 2.13,
+          "found": true
+        },
+        "total": {
+          "line": 234.5,
+          "over": 1.881,
+          "under": 1.973,
+          "found": true
+        },
+        "ht_total": {
+          "line": 125.5,
+          "over": 1.875,
+          "under": 1.905,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -1389,7 +1702,10 @@
           "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 6.27,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$6.27/$10"
         },
         {
           "name": "20g Hot Home + WR Edge -> Home",
@@ -1401,7 +1717,10 @@
           "note": "Home WR in last 20 games >65% AND 10g WR edge >10%. Established hot team.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 6.19,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$6.19/$10"
         },
         {
           "name": "Triple-Edge Home (Rest+WR+Diff)",
@@ -1413,7 +1732,10 @@
           "note": "Home leads on rest, 10-game win rate AND point diff. Strong ATS signal even when priced as -200 favourite.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 6.04,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$6.04/$10"
         },
         {
           "name": "Mild Form Edge -> Home",
@@ -1425,7 +1747,10 @@
           "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 5.68,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$5.68/$10"
         },
         {
           "name": "Home Consistency Edge -> Home",
@@ -1437,7 +1762,10 @@
           "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 5.38,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$5.38/$10"
         },
         {
           "name": "Form Gap >8pts -> Bet In-Form Team",
@@ -1449,7 +1777,10 @@
           "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 5.07,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$5.07/$10"
         },
         {
           "name": "Win-Rate Gap >25% -> Bet Favourite",
@@ -1461,7 +1792,10 @@
           "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 4.54,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$4.54/$10"
         },
         {
           "name": "Early-Season WR Edge >25% -> Better",
@@ -1473,7 +1807,10 @@
           "note": "Early season (Oct-Nov): |10g WR gap| >25%. Form trumps season-record noise when sample is small.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 4.37,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$4.37/$10"
         }
       ],
       "top_signal": {
@@ -1486,14 +1823,41 @@
         "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
         "realistic_edge": false,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "handicap"
+        "bet_recommendation": "handicap",
+        "ml_ev_per_10": 6.27,
+        "best_bet_type": "team_wins",
+        "best_bet_reason": "Team Wins EV +$6.27/$10"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770744014,
+        "o1": "Cleveland Cavaliers",
+        "o2": "Dallas Mavericks",
+        "swapped": false,
+        "league": "NBA",
+        "moneyline": {
+          "home": 2.116,
+          "away": 1.774,
+          "found": true
+        },
+        "spread": {
+          "line": 1.5,
+          "home_odd": 1.966,
+          "away_odd": 1.895,
+          "found": true
+        },
+        "total": {
+          "line": 231.5,
+          "over": 1.93,
+          "under": 1.93,
+          "found": true
+        },
+        "ht_total": {
+          "line": 114.5,
+          "over": 1.846,
+          "under": 1.936,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -2301,7 +2665,10 @@
           "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 5.68,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$5.68/$10"
         },
         {
           "name": "Form Gap >8pts -> Bet In-Form Team",
@@ -2313,7 +2680,10 @@
           "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 5.07,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$5.07/$10"
         }
       ],
       "top_signal": {
@@ -2326,14 +2696,41 @@
         "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
         "realistic_edge": true,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "moneyline"
+        "bet_recommendation": "moneyline",
+        "ml_ev_per_10": 5.68,
+        "best_bet_type": "team_wins",
+        "best_bet_reason": "Team Wins EV +$5.68/$10"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770744014,
+        "o1": "Cleveland Cavaliers",
+        "o2": "Dallas Mavericks",
+        "swapped": false,
+        "league": "NBA",
+        "moneyline": {
+          "home": 2.116,
+          "away": 1.774,
+          "found": true
+        },
+        "spread": {
+          "line": 1.5,
+          "home_odd": 1.966,
+          "away_odd": 1.895,
+          "found": true
+        },
+        "total": {
+          "line": 231.5,
+          "over": 1.93,
+          "under": 1.93,
+          "found": true
+        },
+        "ht_total": {
+          "line": 114.5,
+          "over": 1.846,
+          "under": 1.936,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -2401,7 +2798,10 @@
           "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 1.42,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$1.42/$10"
         },
         {
           "name": "Dominant Away vs Losing Home",
@@ -2413,7 +2813,10 @@
           "note": "Away team +7pt avg diff; home team negative form (<-2).",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 1.34,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$1.34/$10"
         },
         {
           "name": "Win-Rate Gap >25% -> Bet Favourite",
@@ -2425,7 +2828,10 @@
           "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 1.02,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$1.02/$10"
         },
         {
           "name": "Early-Season WR Edge >25% -> Better",
@@ -2437,7 +2843,10 @@
           "note": "Early season (Oct-Nov): |10g WR gap| >25%. Form trumps season-record noise when sample is small.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 0.89,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$0.89/$10"
         },
         {
           "name": "Away +30% WR Edge + Rested",
@@ -2449,7 +2858,10 @@
           "note": "Away WR beats home by 30%+ and away team is rested (2+ days).",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 0.28,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$0.28/$10"
         },
         {
           "name": "Cold 3-Game Home Streak -> Fade Home",
@@ -2461,7 +2873,10 @@
           "note": "Home lost 2+ of last 3 AND away team is winning (10g WR >50%). Bet the team riding momentum.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -0.09,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         }
       ],
       "top_signal": {
@@ -2474,14 +2889,41 @@
         "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
         "realistic_edge": false,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "handicap"
+        "bet_recommendation": "handicap",
+        "ml_ev_per_10": 1.42,
+        "best_bet_type": "team_wins",
+        "best_bet_reason": "Team Wins EV +$1.42/$10"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770743079,
+        "o1": "Memphis Grizzlies",
+        "o2": "Brooklyn Nets",
+        "swapped": true,
+        "league": "NBA",
+        "moneyline": {
+          "home": 2.422,
+          "away": 1.604,
+          "found": true
+        },
+        "spread": {
+          "line": 1.5,
+          "home_odd": 2.203,
+          "away_odd": 1.698,
+          "found": true
+        },
+        "total": {
+          "line": 228.5,
+          "over": 1.956,
+          "under": 1.905,
+          "found": true
+        },
+        "ht_total": {
+          "line": 115.5,
+          "over": 1.846,
+          "under": 1.936,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -2549,7 +2991,10 @@
           "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 1.02,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$1.02/$10"
         },
         {
           "name": "Early-Season WR Edge >25% -> Better",
@@ -2561,7 +3006,10 @@
           "note": "Early season (Oct-Nov): |10g WR gap| >25%. Form trumps season-record noise when sample is small.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 0.89,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$0.89/$10"
         },
         {
           "name": "Away +30% WR Edge + Rested",
@@ -2573,7 +3021,10 @@
           "note": "Away WR beats home by 30%+ and away team is rested (2+ days).",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 0.28,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$0.28/$10"
         },
         {
           "name": "Elite Away Rested vs Weak Home",
@@ -2585,7 +3036,10 @@
           "note": "Away WR >62%, home WR <45%, away rested 2+ days. Away team may still be underdog \u2014 check the line.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 0.15,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$0.15/$10"
         }
       ],
       "top_signal": {
@@ -2598,14 +3052,41 @@
         "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
         "realistic_edge": false,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "handicap"
+        "bet_recommendation": "handicap",
+        "ml_ev_per_10": 1.02,
+        "best_bet_type": "team_wins",
+        "best_bet_reason": "Team Wins EV +$1.02/$10"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770743079,
+        "o1": "Memphis Grizzlies",
+        "o2": "Brooklyn Nets",
+        "swapped": true,
+        "league": "NBA",
+        "moneyline": {
+          "home": 2.422,
+          "away": 1.604,
+          "found": true
+        },
+        "spread": {
+          "line": 1.5,
+          "home_odd": 2.203,
+          "away_odd": 1.698,
+          "found": true
+        },
+        "total": {
+          "line": 228.5,
+          "over": 1.956,
+          "under": 1.905,
+          "found": true
+        },
+        "ht_total": {
+          "line": 115.5,
+          "over": 1.846,
+          "under": 1.936,
+          "found": true
+        }
       },
       "card_color": "amber"
     },
@@ -2673,7 +3154,10 @@
           "note": "Diff edge between 5 and 8 pts. Bridge between S5 and S11 for medium-strength signals.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -0.84,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         }
       ],
       "top_signal": {
@@ -2686,14 +3170,41 @@
         "note": "Diff edge between 5 and 8 pts. Bridge between S5 and S11 for medium-strength signals.",
         "realistic_edge": true,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "moneyline"
+        "bet_recommendation": "moneyline",
+        "ml_ev_per_10": -0.84,
+        "best_bet_type": "skip",
+        "best_bet_reason": "Team Wins -EV; skip"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770722951,
+        "o1": "Miami Heat",
+        "o2": "Detroit Pistons",
+        "swapped": false,
+        "league": "NBA",
+        "moneyline": {
+          "home": 2.707,
+          "away": 1.499,
+          "found": true
+        },
+        "spread": {
+          "line": 2.5,
+          "home_odd": 2.309,
+          "away_odd": 1.64,
+          "found": true
+        },
+        "total": {
+          "line": 228.5,
+          "over": 1.905,
+          "under": 1.956,
+          "found": true
+        },
+        "ht_total": {
+          "line": 111.5,
+          "over": 1.875,
+          "under": 1.905,
+          "found": true
+        }
       },
       "card_color": "amber"
     },
@@ -2761,7 +3272,10 @@
           "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": -1.48,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Mild Form Edge -> Home",
@@ -2773,7 +3287,10 @@
           "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -1.79,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Home Consistency Edge -> Home",
@@ -2785,7 +3302,10 @@
           "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -1.94,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Mild Form Diff Gap 5-8 -> Better",
@@ -2797,7 +3317,10 @@
           "note": "Diff edge between 5 and 8 pts. Bridge between S5 and S11 for medium-strength signals.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -3.23,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Elite vs Elite -> Home (HCA)",
@@ -2809,7 +3332,10 @@
           "note": "Both teams >60% 10g WR. Home court advantage dominates. Reliable when two top-tier teams meet.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -3.33,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         }
       ],
       "top_signal": {
@@ -2822,14 +3348,41 @@
         "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
         "realistic_edge": false,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "handicap"
+        "bet_recommendation": "handicap",
+        "ml_ev_per_10": -1.48,
+        "best_bet_type": "skip",
+        "best_bet_reason": "Team Wins -EV; skip"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770743524,
+        "o1": "Minnesota Timberwolves",
+        "o2": "Chicago Bulls",
+        "swapped": false,
+        "league": "NBA",
+        "moneyline": {
+          "home": 1.108,
+          "away": 7.45,
+          "found": true
+        },
+        "spread": {
+          "line": -13.5,
+          "home_odd": 1.744,
+          "away_odd": 2.13,
+          "found": true
+        },
+        "total": {
+          "line": 234.5,
+          "over": 1.881,
+          "under": 1.973,
+          "found": true
+        },
+        "ht_total": {
+          "line": 125.5,
+          "over": 1.875,
+          "under": 1.905,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -2897,7 +3450,10 @@
           "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": -1.66,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Dominant Away vs Losing Home",
@@ -2909,7 +3465,10 @@
           "note": "Away team +7pt avg diff; home team negative form (<-2).",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": -1.72,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Win-Rate Gap >25% -> Bet Favourite",
@@ -2921,7 +3480,10 @@
           "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": -1.96,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Early-Season WR Edge >25% -> Better",
@@ -2933,7 +3495,10 @@
           "note": "Early season (Oct-Nov): |10g WR gap| >25%. Form trumps season-record noise when sample is small.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -2.05,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Away +30% WR Edge + Rested",
@@ -2945,7 +3510,10 @@
           "note": "Away WR beats home by 30%+ and away team is rested (2+ days).",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -2.49,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Elite Away Rested vs Weak Home",
@@ -2957,7 +3525,10 @@
           "note": "Away WR >62%, home WR <45%, away rested 2+ days. Away team may still be underdog \u2014 check the line.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -2.59,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Cold 3-Game Home Streak -> Fade Home",
@@ -2969,7 +3540,10 @@
           "note": "Home lost 2+ of last 3 AND away team is winning (10g WR >50%). Bet the team riding momentum.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -2.76,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         }
       ],
       "top_signal": {
@@ -2982,14 +3556,41 @@
         "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
         "realistic_edge": false,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "handicap"
+        "bet_recommendation": "handicap",
+        "ml_ev_per_10": -1.66,
+        "best_bet_type": "skip",
+        "best_bet_reason": "Team Wins -EV; skip"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770732609,
+        "o1": "New Orleans Pelicans",
+        "o2": "Denver Nuggets",
+        "swapped": false,
+        "league": "NBA",
+        "moneyline": {
+          "home": 5.48,
+          "away": 1.171,
+          "found": true
+        },
+        "spread": {
+          "line": 10.5,
+          "home_odd": 2.16,
+          "away_odd": 1.724,
+          "found": true
+        },
+        "total": {
+          "line": 234.5,
+          "over": 1.956,
+          "under": 1.905,
+          "found": true
+        },
+        "ht_total": {
+          "line": 110.5,
+          "over": 1.89,
+          "under": 1.89,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -3049,11 +3650,35 @@
       "signals": [],
       "top_signal": null,
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770732609,
+        "o1": "New Orleans Pelicans",
+        "o2": "Denver Nuggets",
+        "swapped": true,
+        "league": "NBA",
+        "moneyline": {
+          "home": 1.171,
+          "away": 5.48,
+          "found": true
+        },
+        "spread": {
+          "line": -10.5,
+          "home_odd": 1.724,
+          "away_odd": 2.16,
+          "found": true
+        },
+        "total": {
+          "line": 234.5,
+          "over": 1.956,
+          "under": 1.905,
+          "found": true
+        },
+        "ht_total": {
+          "line": 110.5,
+          "over": 1.89,
+          "under": 1.89,
+          "found": true
+        }
       },
       "card_color": "grey"
     },
@@ -4674,7 +5299,8 @@
           "league_data_status": "verified",
           "league_ats_wr": 49.2,
           "league_ats_safe": false,
-          "bet_recommendation": "moneyline_only"
+          "bet_recommendation": "moneyline_only",
+          "hcap_ev_per_10": -1.88
         },
         {
           "name": "Win-Rate Gap >25% -> Bet Favourite",
@@ -4691,7 +5317,8 @@
           "league_data_status": "verified",
           "league_ats_wr": 50.5,
           "league_ats_safe": false,
-          "bet_recommendation": "moneyline_only"
+          "bet_recommendation": "moneyline_only",
+          "hcap_ev_per_10": -1.67
         },
         {
           "name": "Early-Season WR Edge >25% -> Better",
@@ -4754,14 +5381,39 @@
         "league_data_status": "verified",
         "league_ats_wr": 49.2,
         "league_ats_safe": false,
-        "bet_recommendation": "moneyline_only"
+        "bet_recommendation": "moneyline_only",
+        "hcap_ev_per_10": -1.88
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770903155,
+        "o1": "Hapoel Tel Aviv",
+        "o2": "Bnei Herzliya",
+        "swapped": true,
+        "league": "Israel. Superleague",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": 13.5,
+          "home_odd": 2.1,
+          "away_odd": 1.65,
+          "found": true
+        },
+        "total": {
+          "line": 172.5,
+          "over": 1.87,
+          "under": 1.87,
+          "found": true
+        },
+        "ht_total": {
+          "line": null,
+          "over": null,
+          "under": null,
+          "found": false
+        }
       },
       "card_color": "green"
     },
@@ -4834,7 +5486,8 @@
           "league_data_status": "verified",
           "league_ats_wr": 60.2,
           "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
+          "bet_recommendation": "handicap_or_moneyline",
+          "hcap_ev_per_10": 5.17
         },
         {
           "name": "Mild Form Edge -> Home",
@@ -4851,7 +5504,8 @@
           "league_data_status": "verified",
           "league_ats_wr": 60.4,
           "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
+          "bet_recommendation": "handicap_or_moneyline",
+          "hcap_ev_per_10": 5.22
         },
         {
           "name": "Home Consistency Edge -> Home",
@@ -4868,7 +5522,8 @@
           "league_data_status": "verified",
           "league_ats_wr": 63.0,
           "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
+          "bet_recommendation": "handicap_or_moneyline",
+          "hcap_ev_per_10": 5.88
         },
         {
           "name": "Form Gap >8pts -> Bet In-Form Team",
@@ -4885,7 +5540,8 @@
           "league_data_status": "verified",
           "league_ats_wr": 53.2,
           "league_ats_safe": true,
-          "bet_recommendation": "handicap_or_moneyline"
+          "bet_recommendation": "handicap_or_moneyline",
+          "hcap_ev_per_10": 3.41
         }
       ],
       "top_signal": {
@@ -4903,14 +5559,39 @@
         "league_data_status": "verified",
         "league_ats_wr": 60.2,
         "league_ats_safe": true,
-        "bet_recommendation": "handicap_or_moneyline"
+        "bet_recommendation": "handicap_or_moneyline",
+        "hcap_ev_per_10": 5.17
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770869956,
+        "o1": "Siauliai",
+        "o2": "Gargzdai",
+        "swapped": true,
+        "league": "Lithuania. LKL",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": 10.5,
+          "home_odd": 2.52,
+          "away_odd": 1.46,
+          "found": true
+        },
+        "total": {
+          "line": 172.5,
+          "over": 1.975,
+          "under": 1.775,
+          "found": true
+        },
+        "ht_total": {
+          "line": 92.5,
+          "over": 1.885,
+          "under": 1.856,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -5368,7 +6049,10 @@
           "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": -1.48,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Mild Form Edge -> Home",
@@ -5380,7 +6064,10 @@
           "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -1.79,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Home Consistency Edge -> Home",
@@ -5392,7 +6079,10 @@
           "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -1.94,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Mild Form Diff Gap 5-8 -> Better",
@@ -5404,7 +6094,10 @@
           "note": "Diff edge between 5 and 8 pts. Bridge between S5 and S11 for medium-strength signals.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -3.23,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         },
         {
           "name": "Elite vs Elite -> Home (HCA)",
@@ -5416,7 +6109,10 @@
           "note": "Both teams >60% 10g WR. Home court advantage dominates. Reliable when two top-tier teams meet.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": -3.33,
+          "best_bet_type": "skip",
+          "best_bet_reason": "Team Wins -EV; skip"
         }
       ],
       "top_signal": {
@@ -5429,14 +6125,41 @@
         "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
         "realistic_edge": false,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "handicap"
+        "bet_recommendation": "handicap",
+        "ml_ev_per_10": -1.48,
+        "best_bet_type": "skip",
+        "best_bet_reason": "Team Wins -EV; skip"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770743524,
+        "o1": "Minnesota Timberwolves",
+        "o2": "Chicago Bulls",
+        "swapped": false,
+        "league": "NBA",
+        "moneyline": {
+          "home": 1.108,
+          "away": 7.45,
+          "found": true
+        },
+        "spread": {
+          "line": -13.5,
+          "home_odd": 1.744,
+          "away_odd": 2.13,
+          "found": true
+        },
+        "total": {
+          "line": 234.5,
+          "over": 1.881,
+          "under": 1.973,
+          "found": true
+        },
+        "ht_total": {
+          "line": 125.5,
+          "over": 1.875,
+          "under": 1.905,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -5504,7 +6227,10 @@
           "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 10.82,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$10.82/$10"
         },
         {
           "name": "20g Hot Home + WR Edge -> Home",
@@ -5516,7 +6242,10 @@
           "note": "Home WR in last 20 games >65% AND 10g WR edge >10%. Established hot team.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 10.71,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$10.71/$10"
         },
         {
           "name": "Mild Form Edge -> Home",
@@ -5528,7 +6257,10 @@
           "note": "Loosened S5: home 10g diff edge >2.5 AND home positive diff. High signal density during regular season.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 10.06,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$10.06/$10"
         },
         {
           "name": "Home Consistency Edge -> Home",
@@ -5540,7 +6272,10 @@
           "note": "Home 10g diff >+5 AND 5g diff >+5. Sustained dominance, not a fluke. Strong ATS signal.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 9.68,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$9.68/$10"
         },
         {
           "name": "Form Gap >8pts -> Bet In-Form Team",
@@ -5552,7 +6287,10 @@
           "note": "Rolling 10-game avg point diff gap >8pts. Bet the better-form team.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 9.27,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$9.27/$10"
         },
         {
           "name": "Win-Rate Gap >25% -> Bet Favourite",
@@ -5564,7 +6302,10 @@
           "note": "10-game win-rate gap >25%. Note: likely priced as favourite.",
           "realistic_edge": false,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "handicap"
+          "bet_recommendation": "handicap",
+          "ml_ev_per_10": 8.6,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$8.60/$10"
         },
         {
           "name": "Early-Season WR Edge >25% -> Better",
@@ -5576,7 +6317,10 @@
           "note": "Early season (Oct-Nov): |10g WR gap| >25%. Form trumps season-record noise when sample is small.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 8.38,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$8.38/$10"
         },
         {
           "name": "Elite vs Elite -> Home (HCA)",
@@ -5588,7 +6332,10 @@
           "note": "Both teams >60% 10g WR. Home court advantage dominates. Reliable when two top-tier teams meet.",
           "realistic_edge": true,
           "league_data_status": "no_mapping",
-          "bet_recommendation": "moneyline"
+          "bet_recommendation": "moneyline",
+          "ml_ev_per_10": 6.3,
+          "best_bet_type": "team_wins",
+          "best_bet_reason": "Team Wins EV +$6.30/$10"
         }
       ],
       "top_signal": {
@@ -5601,14 +6348,41 @@
         "note": "Home team avg +5pt better diff and positive form. Use for ATS/spread.",
         "realistic_edge": false,
         "league_data_status": "no_mapping",
-        "bet_recommendation": "handicap"
+        "bet_recommendation": "handicap",
+        "ml_ev_per_10": 10.82,
+        "best_bet_type": "team_wins",
+        "best_bet_reason": "Team Wins EV +$10.82/$10"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770722951,
+        "o1": "Miami Heat",
+        "o2": "Detroit Pistons",
+        "swapped": false,
+        "league": "NBA",
+        "moneyline": {
+          "home": 2.707,
+          "away": 1.499,
+          "found": true
+        },
+        "spread": {
+          "line": 2.5,
+          "home_odd": 2.309,
+          "away_odd": 1.64,
+          "found": true
+        },
+        "total": {
+          "line": 228.5,
+          "over": 1.905,
+          "under": 1.956,
+          "found": true
+        },
+        "ht_total": {
+          "line": 111.5,
+          "over": 1.875,
+          "under": 1.905,
+          "found": true
+        }
       },
       "card_color": "green"
     },
@@ -6893,11 +7667,35 @@
         "bet_recommendation": "moneyline"
       },
       "odds_22bet": {
-        "found": false,
-        "moneyline": {},
-        "spread": {},
-        "total": {},
-        "ht_total": {}
+        "found": true,
+        "event_id": 770872422,
+        "o1": "Taurage",
+        "o2": "Panevezys Lietkabelis",
+        "swapped": false,
+        "league": "Lithuania. LKL",
+        "moneyline": {
+          "home": null,
+          "away": null,
+          "found": false
+        },
+        "spread": {
+          "line": 2.5,
+          "home_odd": 2.465,
+          "away_odd": 1.48,
+          "found": true
+        },
+        "total": {
+          "line": 162.5,
+          "over": 1.92,
+          "under": 1.82,
+          "found": true
+        },
+        "ht_total": {
+          "line": null,
+          "over": null,
+          "under": null,
+          "found": false
+        }
       },
       "card_color": "amber"
     },
@@ -8520,9 +9318,9 @@
     }
   ],
   "meta": {
-    "total_games": 64,
-    "total_signals": 251,
-    "bet22_events": 12,
+    "total_games": 65,
+    "total_signals": 254,
+    "bet22_events": 24,
     "season": "2026-27 Regular Season"
   }
 }
